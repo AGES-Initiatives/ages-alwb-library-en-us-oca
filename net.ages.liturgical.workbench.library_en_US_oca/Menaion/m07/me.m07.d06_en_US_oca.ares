@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = me.m07.d06_en_US_oca
+
+meDate.text = "July 6"
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = "St. Sisoes"
+meInsert1 = ""
+meInsert2 = "" 
+meNote.text = ""
+
+meVE.Stichera01.mode = misc_en_US_oca.Mode4
+meVE.Stichera01.melody = misc_en_US_oca.NotMetered
+meVE.Stichera01.text = "Your all-festive commemoration, O venerable one, has shone forth brightly like the sun. It enlightens the thoughts of the faithful with the splendor of your wonders and brightens them with the rays of your mighty works, O all-blessed one. Therefore in celebration we joyously honor you and faithfully bless you as the boast of monks."
+
+meVE.Stichera02.mode = misc_en_US_oca.Mode4
+meVE.Stichera02.melody = misc_en_US_oca.NotMetered
+meVE.Stichera02.text = "You lived as an earthly Angel, O most wealthy one, wasting your body as though it belonged to another. You ever instructed yourself divinely, O Father, with vigils and the remembrance of death. You grew with great strides to your ultimate desire. You have indeed drawn near to perfection itself!"
+
+meVE.Stichera03.mode = misc_en_US_oca.Mode4
+meVE.Stichera03.melody = misc_en_US_oca.NotMetered
+meVE.Stichera03.text = "At the time of your dormition, O Father, an incomprehensible wonder took place: a choir of Angels stood at once before you; your countenance, O wise one, shone like the sun, revealing your radiant form and the purity of your soul, showing all the manner of the repose you received."
