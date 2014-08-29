@@ -1,0 +1,717 @@
+A_Resource_Whose_Name = tr.d056_en_US_dedes
+
+trCommemoration.text = "Saturday of the Fifth Week of Lent" //full title of day
+trShortCommemoration1.text = "Akathist Hymn"
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trDismissal = ""
+
+trVE.AposIdiomelon1.mode = misc_en_US_dedes.Mode6
+trVE.AposIdiomelon1.melody = misc_en_US_dedes.Idiomelon
+trVE.AposIdiomelon1.text = "Departing from Your divine commandments as from Jerusalem, and going down to the passions of Jericho, I was led astray by the false glory of the cares of this life. I fell among the thieves of my own thoughts; they stripped me of the robe of sonship that was mine by grace, and now I lie wounded, as though without the breath of life. The priest drew near and saw my body, but he took no heed; the Levite looked at it with loathing and passed by on the other side. But You, O Lord who ineffably took flesh from the Virgin, of Your own will You poured out blood and water from Your side for my salvation, and as with oil You anointed me. O Christ my God, bind up my wounds with linen, and in Your compassion bring me to Your heavenly Kingdom."
+
+trVE.AposMartyric.mode = misc_en_US_dedes.Mode6
+trVE.AposMartyric.melody  = ""
+trVE.AposMartyric.text = "Your Martyrs did not renounce You, O Lord, nor did they deviate from Your commandments. Through their intercessions, have mercy on us."
+
+trVE.Stichera01.mode = misc_en_US_dedes.Mode6
+trVE.Stichera01.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+trVE.Stichera01.text = me.m03.d25_en_US_dedes.meVE.Stichera01.text
+
+trVE.Stichera02.mode = misc_en_US_dedes.Mode6
+trVE.Stichera02.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+trVE.Stichera02.text = me.m03.d25_en_US_dedes.meVE.Stichera02.text
+
+trVE.Stichera03.mode = misc_en_US_dedes.Mode6
+trVE.Stichera03.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+trVE.Stichera03.text = me.m03.d25_en_US_dedes.meVE.Stichera03.text
+
+trVE.SticGlory.poet = poets_en_US_dedes.Theofanous
+trVE.SticGlory.mode = misc_en_US_dedes.Mode2
+trVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+trVE.SticGlory.text = me.m03.d25_en_US_dedes.meMA.LaudsGlory.text
+
+trVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
+trVE.Apolytikion1.melody = misc_en_US_dedes.Automelon
+trVE.Apolytikion1.text = he.a.m8_en_US_dedes.ToProstachthen.text
+
+trAK.Refrain1.text = "Rejoice, O unwedded Bride."
+trAK.Refrain2.text = "Alleluia."
+
+trAK.Oikos010a.text = "An Angel of supreme rank was sent down from heaven to say to the Theotokos, Rejoice."
+trAK.Oikos010b.text = " And perceiving You take bodily form at the sound of his bodiless voice, O Lord, he was astounded and he stood shouting to her such salutations:"
+trAK.Oikos011.text = "Rejoice, through whom is the joy to shine forth. Rejoice, through whom is the curse to vanish."
+trAK.Oikos012.text = "Rejoice, restoration of Adam the fallen one. Rejoice, liberation of Eve from tears."
+trAK.Oikos013.text = "Rejoice, height to which the thoughts of men are hardly able to ascend. Rejoice, depth which for the Angels' eyes is very hard to apprehend."
+trAK.Oikos014.text = "Rejoice, for you are a throne for the King. Rejoice, for you hold the One who holds everything."
+trAK.Oikos015.text = "Rejoice, the star causing the Sun's manifestation. Rejoice, the womb of the divine incarnation."
+trAK.Oikos016.text = "Rejoice, through whom is creation re-created. Rejoice, by whom is the Creator procreated."
+trAK.Oikos017.text = trAK.Refrain1.text
+
+trAK.Oikos020.text = "Beholding herself wholly kept in chastity, boldly says to Gabriel she who is holy: The exceptional tidings of your voice seem difficult for my soul to accept. For what do you mean, pregnancy by unseeded conception, crying, Alleluia."
+trAK.Oikos021.text = trAK.Refrain2.text
+
+trAK.Oikos030.text = "Curious to know knowledge that is knowable to no one, the Virgin cried to the serving Angel: How is it possible for a son to be born of inviolate loins? Tell me please. And he with fear replied to her, albeit shouting thusly:"
+trAK.Oikos031.text = "Rejoice, initiate of secret counsel. Rejoice, assurance of what calls for silence."
+trAK.Oikos032.text = "Rejoice, introduction to the miracles of Christ. Rejoice, consummation of His articles of faith."
+trAK.Oikos033.text = "Rejoice, heavenly ladder by which did God himself descend. Rejoice, bridge that conveys unto heaven earthborn men."
+trAK.Oikos034.text = "Rejoice, the wonder most renowned among Angels. Rejoice, the wound greatly bemourned by the demons."
+trAK.Oikos035.text = "Rejoice, who bear the Light inexplicably. Rejoice, who declare the manner to nobody."
+trAK.Oikos036.text = "Rejoice, transcending the knowledge of scholars. Rejoice, illumining minds of believers."
+trAK.Oikos037.text = trAK.Refrain1.text
+
+trAK.Oikos040.text = "Divine power of the Most High, to effect her conception, overshadowed the unwedded Damsel; and it made her luxuriant womb to appear as a luscious field for everyone who desires to reap salvation while chanting, Alleluia."
+trAK.Oikos041.text = trAK.Refrain2.text
+
+trAK.Oikos050.text = "Eagerly did the Virgin, hosting God in her body, then hasten to visit Elizabeth, whose own infant recognized the voice of her greeting at once and rejoiced in the womb; and with leaps and bounds for songful sounds, he shouted to the Theotokos:"
+trAK.Oikos051.text = "Rejoice, the branch with its shoot unwithered. Rejoice, the ranch with its fruit unblemished."
+trAK.Oikos052.text = "Rejoice, for the man-loving Husbandman you cultivate. Rejoice, for the Gardener of our life you germinate."
+trAK.Oikos053.text = "Rejoice, arable land yielding tender mercies hundredfold. Rejoice, banquet table whereupon has forgiveness overflowed."
+trAK.Oikos054.text = "Rejoice, for the meadow of delight you make flourish. Rejoice, for a haven of our souls do you furnish."
+trAK.Oikos055.text = "Rejoice, accepted incense of intercession. Rejoice, the universe's expiation."
+trAK.Oikos056.text = "Rejoice, the good pleasure of God unto mortals. Rejoice, the confidence of mortals before God."
+trAK.Oikos057.text = trAK.Refrain1.text
+
+trAK.Oikos060.text = "Fraught within with confusion brought about by doubtful thoughts, the temperate Joseph was troubled as he looked upon you the unwed and suspected adultery, O blameless one. But when he learned that your conception was by the Holy Spirit, he uttered, Alleluia."
+trAK.Oikos061.text = trAK.Refrain2.text
+
+trAK.Oikos070.text = "Gloriously extolling the incarnate appearance of Christ did the shepherds hear the Angels. And running as though to a shepherd, they perceived Him to be as it were a blameless lamb that had been pastured in the womb of Mary whom they lauded saying:"
+trAK.Oikos071.text = "Rejoice, O Mother of the Lamb and Shepherd. Rejoice, O sheepfold of sheep with reason."
+trAK.Oikos072.text = "Rejoice, who ward off invisible enemies. Rejoice, who open the portals of Paradise."
+trAK.Oikos073.text = "Rejoice, for the things of heaven are now exulting with the earth. Rejoice, for the things of earth along with heaven dance for joy."
+trAK.Oikos074.text = "Rejoice, indefatigable voice of the Apostles. Rejoice, undefeatable valiance of the Martyrs."
+trAK.Oikos075.text = "Rejoice, the mighty foundation of faith. Rejoice, the bright indication of grace."
+trAK.Oikos076.text = "Rejoice, through whom is Hades divested. Rejoice, through whom we are vested in glory."
+trAK.Oikos077.text = trAK.Refrain1.text
+
+trAK.Oikos080.text = "Having visibly sighted the star proceeding Godward, the Magi followed after its brightness; and thereto clinging as to a light did they search thereby for a mighty King; and reaching the Unreachable they rejoiced and shouted to Him: Alleluia."
+trAK.Oikos081.text = trAK.Refrain2.text
+
+trAK.Oikos090.text = "In the hands of the Virgin saw the Chaldeans' children Him who fashioned mankind with His own hand; and perceiving that He was the Lord, even though He had taken the form of a slave, they hastened to pay tribute with gifts and salute the blessed Maiden:"
+trAK.Oikos091.text = "Rejoice, O Mother of the unsetting Star. Rejoice, O dawn of the mystical Day."
+trAK.Oikos092.text = "Rejoice, who extinguished the furnace of fallacy. Rejoice, who enlighten initiates of the Trinity."
+trAK.Oikos093.text = "Rejoice, for you have deposed the inhuman tyrant from his reign. Rejoice, for you have disclosed Christ the Lord who is humane."
+trAK.Oikos094.text = "Rejoice, O redeemer from Magian religion. Rejoice, who deliver from the clay of the burdens."
+trAK.Oikos095.text = "Rejoice, for the cult of fire you terminate. Rejoice, from the flame of passions you liberate."
+trAK.Oikos096.text = "Rejoice, the guide of believers to temperance. Rejoice, the gladness of all generations."
+trAK.Oikos097.text = trAK.Refrain1.text
+
+trAK.Oikos100.text = "Keeping to the oracles that bore on You, the Magi, having now become God-bearing heralds, proclaimed to all that You are the Christ as they journeyed back to their own country Babylon, abandoning Herod as a babbling king who knew not how to sing, Alleluia."
+trAK.Oikos101.text = trAK.Refrain2.text
+
+trAK.Oikos110.text = "Lightening in Egypt the true illumination, You dispelled the darkness of delusion; O Savior, for the idols thereof, unable to endure Your might, tumbled down, while they who were delivered from them shouted to the Theotokos:"
+trAK.Oikos111.text = "Rejoice, man's rehabilitation. Rejoice, the demons' ruination."
+trAK.Oikos112.text = "Rejoice, who crushed the delusion of fallacy. Rejoice, who uncovered the ruse of idolatry."
+trAK.Oikos113.text = "Rejoice, sea that caused the spiritual Pharaoh to drown. Rejoice, rock that gave those thirsting for life to drink."
+trAK.Oikos114.text = "Rejoice, pillar of fire that guides those in darkness. Rejoice, shelter of the world that is wider than the cloud was."
+trAK.Oikos115.text = "Rejoice, supplanting manna as edibles. Rejoice, supplying holy delectables."
+trAK.Oikos116.text = "Rejoice, for you are the land of promise. Rejoice, from you flow the milk and the honey."
+trAK.Oikos117.text = trAK.Refrain1.text
+
+trAK.Oikos120.text = "Master, You were presented as a babe unto Symeon on the threshold of being transported out of this present beguiling age, but also perceived by him to be perfect God; for which cause did he marvel at Your ineffable wisdom, crying: Alleluia."
+trAK.Oikos121.text = trAK.Refrain2.text
+
+trMA.C1.title = "The Canon of the Akathist"
+trMA.C1Poet = poets_en_US_dedes.IosifTouYmnografou
+trMA.C1Acrostic.text = ""
+
+trMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode1C1H.text = he.h.m4_en_US_dedes.AnoixoToStomaMou.text
+
+trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C11.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+trMA.Ode1C11.text = "O Maiden and Virgin pure, the great Archangel beholding you, the animate book of Christ, which by the Spirit was sealed, did exclaim to you: Rejoice, O joy's container, through whom shall the curse upon the primal mother be loosed."
+
+trMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C12.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+trMA.Ode1C12.text = "Rejoice, Virgin Bride of God, the restoration of fallen man, the mortification of Hades, O blameless one, and the palace of the only King and Sovereign, rejoice. Fiery throne of the Ruler of all, rejoice."
+
+trMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C13.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+trMA.Ode1C13.text = "Rejoice, you the only one who budded forth the unfading rose. Rejoice, who have given birth unto the sweet apple tree. Of the King of all the aromatic balsam, rejoice, O unwedded Maid, the world's deliverance."
+
+trMA.Ode1C14.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C14.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C14.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+trMA.Ode1C14.text = "O treasure of chastity, rejoice; through you we have risen up from out of our fall. Rejoice, sweet smelling lily that sends forth its fragrant scent, O Lady, to the faithful; aromatic incense and costly anointing oil."
+
+trMA.Ode1K.ode = misc_en_US_dedes.Ode1
+trMA.Ode1K.mode = misc_en_US_dedes.Mode4
+trMA.Ode1K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode1K.text = he.h.m4_en_US_dedes.AnoixoToStomaMou.text
+
+trMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode3C1H.text = he.h.m4_en_US_dedes.TousSousYmnologous.text
+
+trMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode3C11.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+trMA.Ode3C11.text = "The land that has tillered the divine stalk while clearly continuing untilled, rejoice, O table animate that held the holy bread of life. Rejoice, O never empty fount of living water, O blessed one."
+
+trMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode3C12.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+trMA.Ode3C12.text = "The heifer that mothered for the faithful the unblemished Bullock, O rejoice. Rejoice, the ewe that yeaned the Lamb of God Who takes away the sins of all the world. O mercy seat, rejoice, who fervently expiate."
+
+trMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode3C13.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+trMA.Ode3C13.text = "The luminous morning that alone brings Christ the Sun of Righteousness, rejoice. O dwelling place of light, rejoice; dispeller of the dark, rejoice. For you diminished utterly the darkened demons of Lucifer."
+
+trMA.Ode3C14.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C14.mode = misc_en_US_dedes.Mode4
+trMA.Ode3C14.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+trMA.Ode3C14.text = "Rejoice, only veritable east gate that only the Logos has gone through. Rejoice, for in your giving birth you shattered Hades' bars and gates. All-lauded one, rejoice, divine entrance of those who are being saved."
+
+trMA.Ode3K.ode = misc_en_US_dedes.Ode3
+trMA.Ode3K.mode = misc_en_US_dedes.Mode4
+trMA.Ode3K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode3K.text = he.h.m4_en_US_dedes.TousSousYmnologous.text
+
+trAK.Oikos130.text = "New creation was shown by the Creator in showing himself unto us whom He created, sprouting up from an unseeded womb, while preserving it just as it was, inviolate, so that beholding the miracle we might extol her, exclaiming:"
+trAK.Oikos131.text = "Rejoice, O flower of incorruptness. Rejoice, O crown of laurel for continence."
+trAK.Oikos132.text = "Rejoice, for in you resurrection is typified. Rejoice, for angelical life you exemplified."
+trAK.Oikos133.text = "Rejoice, fertile tree with luscious fruit, by which believers are sustained. Rejoice, foliaged tree beneath which are many sheltered in its shade."
+trAK.Oikos134.text = "Rejoice, for you were pregnant with the Guide for the errant. Rejoice, for of the Freer of captives you are the parent."
+trAK.Oikos135.text = "Rejoice, who plead till the just Judge surrenders. Rejoice, forgiveness for many offenders."
+trAK.Oikos136.text = "Rejoice, the vesture of those stripped of confidence. Rejoice, the tender love that conquers every longing."
+trAK.Oikos137.text = trAK.Refrain1.text
+
+trAK.Oikos140.text = "On seeing the strange childbirth, let's be estranged from the mundane, transporting our mind unto heaven. For this purpose the supernal God as a humble human being appeared down on earth, intending to attract unto the summit those who cry out to Him, Alleluia."
+trAK.Oikos141.text = trAK.Refrain2.text
+
+trAK.Oikos150.text = "Present below completely and above nowise absent was the uncircumscribable Logos. For it was no migration through space, but divine condescension that had taken place, and childbirth from a God-possessed Virgin who hears this that follows:"
+trAK.Oikos151.text = "Rejoice, the uncontainable God's container. Rejoice, the magnificent mystery's doorway."
+trAK.Oikos152.text = "Rejoice, for unbelievers a doubtful story. Rejoice, for the believers the doubtless glory."
+trAK.Oikos153.text = "Rejoice, all-holy vehicle of Him who rides the Cherubim. Rejoice, exquisite domicile of Him who mounts the Seraphim."
+trAK.Oikos154.text = "Rejoice, who integrate in yourself a contradiction. Rejoice, who incorporate both virginity and parturition."
+trAK.Oikos155.text = "Rejoice, through whom the trespass was nullified. Rejoice, through whom was Paradise opened wide."
+trAK.Oikos156.text = "Rejoice, the opener to Christ's kingdom. Rejoice, the hope of eternal blessings."
+trAK.Oikos157.text = trAK.Refrain1.text
+
+trAK.Oikos160.text = "Quite amazed by the great deed of Your incarnation was the entire nature of Angels. For the once inaccessible God they beheld accessible to all as a man, with us together sojourning while thusly hearing from everyone: Alleluia."
+trAK.Oikos161.text = trAK.Refrain2.text
+
+trAK.Oikos170.text = "Richly eloquent rhetors we see speechless as fishes when they contemplate you, O Theotokos. For at a loss are they to explain how you managed childbirth and a virgin yet remain. But we, in marveling at the mystery, cry out with conviction:"
+trAK.Oikos171.text = "Rejoice, God's Wisdom's repository. Rejoice, His providence's depository."
+trAK.Oikos172.text = "Rejoice, who prove the philosophers wisdomless. Rejoice, who reprove the sophists as ridiculous."
+trAK.Oikos173.text = "Rejoice, for the fierce debaters becoming fools lost their taste. Rejoice, for the creators of the myths have faded away."
+trAK.Oikos174.text = "Rejoice, you who rend the webs of the Athenians. Rejoice, you who fill the nets of the Fishermen."
+trAK.Oikos175.text = "Rejoice, who drag out from the deep of ignorance. Rejoice, who illumine many with cognizance."
+trAK.Oikos176.text = "Rejoice, the barge for those seeking salvation. Rejoice, the harbor for life's navigators."
+trAK.Oikos177.text = trAK.Refrain1.text
+
+trAK.Oikos180.text = "Set on saving the cosmos, He who set all things in order came down to it of His own volition. And though being the Shepherd as God, for us He appeared like us, as a man; and having called His own, like by like, as God He hears, Alleluia."
+trAK.Oikos181.text = trAK.Refrain2.text
+
+trMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode1
+trMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+trMA.Ode3Kathisma1.text = "The great commanding Chief of the bodiless powers * in Nazareth appears and announces the coming, * O spotless Maiden, unto you of the King of the ages and Lord, * saying, \"O rejoice,\" unto you blessed Mary, * \"incomprehensible and inexplicable wonder, * the restoration of mortal man.\""
+
+trMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode1
+trMA.Ode3Kathisma2.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+trMA.Ode3Kathisma2.text = "Incomprehensible and inexplicable wonder, * the restoration of mortal man."
+
+trMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode4C1H.text = he.h.m4_en_US_dedes.OKathimenosEnDoxi.text
+
+trMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode4C11.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+trMA.Ode4C11.text = "Unto you in songful voices do we loyally say, rejoice, mountain rich and curdled in the Holy Spirit, all-lauded one. Rejoice, O seven-branched lamp stand and the golden jar with the manna that sweetens the senses of pious folk."
+
+trMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode4C12.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+trMA.Ode4C12.text = "O rejoice, untainted Lady. Mercy seat for the world, rejoice, ladder elevating everyone from earth by an act of grace. Rejoice, O heavenly bridge that is conveying from death unto life, in truth, all those who chant hymns of praise to you."
+
+trMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode4C13.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+trMA.Ode4C13.text = "More exalted than the heavens, O immaculate Maid, rejoice, as the one who carried earth's Foundation painlessly in your womb. Rejoice, O murex who dyed in your own virgin blood the divine purple robe worn by the King of angelic hosts."
+
+trMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C14.mode = misc_en_US_dedes.Mode4
+trMA.Ode4C14.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+trMA.Ode4C14.text = "Lady, truly you gave birth to the divine Giver of the law Who erases freely everybody's record of lawlessness. Incomprehensible depth and height unspeakable, O unwedded Maid, rejoice, through whom we are deified."
+
+trMA.Ode4C15.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C15.mode = misc_en_US_dedes.Mode4
+trMA.Ode4C15.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+trMA.Ode4C15.text = "We extol you who have woven the not-woven-by-human-hands crown of hope and glory for the world, O Virgin, and say, rejoice, to you the fortification and the citadel and protective wall and sacred refuge for everyone."
+
+trMA.Ode4K.ode = misc_en_US_dedes.Ode4
+trMA.Ode4K.mode = misc_en_US_dedes.Mode4
+trMA.Ode4K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode4K.text = he.h.m4_en_US_dedes.OKathimenosEnDoxi.text
+
+trMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode5C1H.text = he.h.m4_en_US_dedes.ExestiTaSympanta.text
+
+trMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode5C11.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+trMA.Ode5C11.text = "Rejoice, for you carried in your womb the Way that leads to life. Bride of God, rejoice, all-blameless Maiden who saved the world from the flood of sin. Rejoice, awe-inspiring message and report, habitation of the One who is Lord of creation all."
+
+trMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode5C12.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+trMA.Ode5C12.text = "The might and the fortress of the human race, O spotless one, O rejoice, the holy place of glory, slayer of Hades, the bridal chamber of light. Delight of the Angels, O rejoice. Helper of the ones who pray to you faithfully, O rejoice."
+
+trMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode5C13.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+trMA.Ode5C13.text = "The fiery chariot of God the Logos, O rejoice; Lady, living paradisal garden which in its center contains the tree of life, the Lord Whose deliciousness gives life unto those who eat with faith, who were subject unto decay."
+
+trMA.Ode5C14.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C14.mode = misc_en_US_dedes.Mode4
+trMA.Ode5C14.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+trMA.Ode5C14.text = "Your power enheartens us. We loyally cry out, rejoice, unto you the city of the great King, about which glorious and remarkable things perspicuously have been declared. O unquarried mountain and depth unfathomable, rejoice."
+
+trMA.Ode5C15.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C15.mode = misc_en_US_dedes.Mode4
+trMA.Ode5C15.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+trMA.Ode5C15.text = "Rejoice, O Immaculate, the spacious dwelling of the Word; oyster that produces the divine Pearl. Rejoice, O Lady, exceeding wonderful; reconciliation with the Lord for all who beatify you the Mother of God each day."
+
+trMA.Ode5K.ode = misc_en_US_dedes.Ode5
+trMA.Ode5K.mode = misc_en_US_dedes.Mode4
+trMA.Ode5K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode5K.text = he.h.m4_en_US_dedes.ExestiTaSympanta.text
+
+trMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode6C1H.text = he.h.m4_en_US_dedes.TinTheianTaftin.text
+
+trMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode6C11.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+trMA.Ode6C11.text = "The undefiled chamber of the Word, for all the cause of deification, O Immaculate, rejoice. The Prophets' echoing prophesy, rejoice, and the adornment of the Apostles all."
+
+trMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode6C12.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+trMA.Ode6C12.text = "From you has dripped the refreshing Dew, undoing polytheism's fever, and we therefore say to you: Rejoice, the fleece that was wondrously bedewed, O holy Virgin, which Gideon foresaw."
+
+trMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode6C13.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+trMA.Ode6C13.text = "Behold, we cry unto you, rejoice. Become for us a harbor and anchorage, for we are tossed about upon the sea of adversities and of the many scandals of him who wars with us."
+
+trMA.Ode6C14.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C14.mode = misc_en_US_dedes.Mode4
+trMA.Ode6C14.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+trMA.Ode6C14.text = "O cause and reason for holy joy, cause holy grace to shine on our reasoning that we may cry, rejoice, O unconsumed bush and shining cloud that overshadows ceaselessly the believers all."
+
+trMA.C2Poet = poets_en_US_dedes.Iosif
+trMA.C2Acrostic.text = ""
+
+trMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C21.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C21.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C21.text = ""
+
+trMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C22.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C22.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C22.text = ""
+
+trMA.Ode6C23.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C23.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C23.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C23.text = ""
+
+trMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C2T.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C2T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C2T.text = ""
+
+trMA.C3Poet = poets_en_US_dedes.TheodorouTouStouditou
+
+trMA.Ode6C31.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C31.mode = misc_en_US_dedes.Mode5
+trMA.Ode6C31.melody = he.h.m5_en_US_dedes.TouKitousTonProfitin.name
+trMA.Ode6C31.text = ""
+
+trMA.Ode6C32.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C32.mode = misc_en_US_dedes.Mode5
+trMA.Ode6C32.melody = he.h.m5_en_US_dedes.TouKitousTonProfitin.name
+trMA.Ode6C32.text = ""
+
+trMA.Ode6C3Tr.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C3Tr.mode = misc_en_US_dedes.Mode5
+trMA.Ode6C3Tr.melody = he.h.m5_en_US_dedes.TouKitousTonProfitin.name
+trMA.Ode6C3Tr.text = ""
+
+trMA.Ode6C3T.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C3T.mode = misc_en_US_dedes.Mode5
+trMA.Ode6C3T.melody = he.h.m5_en_US_dedes.TouKitousTonProfitin.name
+trMA.Ode6C3T.text = ""
+
+trMA.Ode6C3A1.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C3A1.mode = misc_en_US_dedes.Mode5
+trMA.Ode6C3A1.melody = he.h.m5_en_US_dedes.TouKitousTonProfitin.name
+trMA.Ode6C3A1.text = ""
+
+trMA.Ode6C3A2.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C3A2.mode = misc_en_US_dedes.Mode5
+trMA.Ode6C3A2.melody = he.h.m5_en_US_dedes.TouKitousTonProfitin.name
+trMA.Ode6C3A2.text = ""
+
+trMA.Ode6C3H.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C3H.mode = misc_en_US_dedes.Mode5
+trMA.Ode6C3H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode6C3H.text = he.h.m5_en_US_dedes.TouKitousTonProfitin.text
+
+trAK.Oikos190.text = "Theotokos, O Virgin, you are the fortress for virgins and all who to you run for refuge. For the Maker of heaven and earth, O immaculate Maiden, thus constructed you. He inhabited your womb and instructed all how to address you:"
+trAK.Oikos191.text = "Rejoice, O pillar of the virgin station. Rejoice, O portal of man's salvation."
+trAK.Oikos192.text = "Rejoice, initiator of interior renaissance. Rejoice, administrator of God's beneficence."
+trAK.Oikos193.text = "Rejoice, for you regenerated those who were shamefully conceived. Rejoice, for you reeducated those whose intellects had been seized."
+trAK.Oikos194.text = "Rejoice, incapacitator of the deflowerer of sanity. Rejoice, procreator of the Sower of chastity."
+trAK.Oikos195.text = "Rejoice, of ungamic union the bridal room. Rejoice, who unite believers to the Lord as Groom."
+trAK.Oikos196.text = "Rejoice, O beautiful nursemaid of virgins. Rejoice, O bridesmaid of souls that are holy."
+trAK.Oikos197.text = trAK.Refrain1.text
+
+trAK.Oikos200.text = "Unsuccessful is every hymn that hastens to pay tribute to the multitude of Your tender mercies. For even if we offer You odes in number equal to the sands, O holy King, yet we do nothing worthy of what You have given us who cry to You: Alleluia."
+trAK.Oikos201.text = trAK.Refrain2.text
+
+trAK.Oikos210.text = "Viewing the holy Virgin, we see a light-bearing lantern that shone upon those who were in darkness. For she lit the immaterial light, and to divine knowledge thus conducts everyone, enlightening the intellect, and honored by such acclamations:"
+trAK.Oikos211.text = "Rejoice, the ray of the intelligible daystar. Rejoice, the beam of the unwaning luster."
+trAK.Oikos212.text = "Rejoice, flash of lightning that brightly illumines souls. Rejoice, who like thunder have stunned our enemies."
+trAK.Oikos213.text = "Rejoice, for you cause the rising up of the light that brightly glows. Rejoice, for you cause the gushing up of the stream that mightily flows."
+trAK.Oikos214.text = "Rejoice, who illustrate the baptismal font's image. Rejoice, who eliminate the stain of sin's stigma."
+trAK.Oikos215.text = "Rejoice, the laver washing out consciences. Rejoice, the krater serving what gladdens hearts."
+trAK.Oikos216.text = "Rejoice, the fragrance of Christ's aroma. Rejoice, the life of mystical feasting."
+trAK.Oikos217.text = trAK.Refrain1.text
+
+trAK.Oikos220.text = "Wishing to grant remission of ancient obligations, He who cancels the debts of all people came himself as a stranger and dwelt among those who were from His divine grace estranged; and tearing up the bond of sin, He hears from everyone, Alleluia."
+trAK.Oikos221.text = trAK.Refrain2.text
+
+trAK.Oikos230.text = "Extolling your birthgiving with songs, we all praise you as a live temple, O Theotokos. For the Lord who encompasses all in His hand, having made His abode in your womb, sanctified you and glorified you and taught all people to cry to you:"
+trAK.Oikos231.text = "Rejoice, O tabernacle of God the Logos. Rejoice, O holier than the holies."
+trAK.Oikos232.text = "Rejoice, ark that was gilt by the Spirit. Rejoice, life's inexhaustible treasure."
+trAK.Oikos233.text = "Rejoice, exquisite diadem of kings with true beliefs. Rejoice, reverential pride of profoundly pious priests."
+trAK.Oikos234.text = "Rejoice, the Church's unshaken citadel. Rejoice, the Empire's fortress that never fell."
+trAK.Oikos235.text = "Rejoice, through whom rise trophies of victory. Rejoice, through whom fall enemies utterly."
+trAK.Oikos236.text = "Rejoice, my bodily health's restoration. Rejoice, my soul's everlasting salvation."
+trAK.Oikos237.text = trAK.Refrain1.text
+
+trAK.Oikos240a.text = "You, all-laudable Mother who gave birth to the Logos Who is holiest of all who are holy:"
+trAK.Oikos240b.text = " O accept this offering now, and from calamities all deliver everyone, and redeem from the future torments of hell those who cry out with zeal: Alleluia."
+trAK.Oikos241.text = trAK.Refrain2.text
+
+trMA.Kontakion.mode = misc_en_US_dedes.Mode8
+trMA.Kontakion.melody = misc_en_US_dedes.Automelon
+trMA.Kontakion.text = he.a.m8_en_US_dedes.TiYpermacho.text
+trAK.Kontakion1.text = "O Champion General, I your City now inscribe to you "
+trAK.Kontakion2.text = "Triumphant anthems as the tokens of my gratitude,"
+trAK.Kontakion3.text = "Being rescued from the terrors, O Theotokos."
+trAK.Kontakion4.text = "Inasmuch as you have power unassailable,"
+trAK.Kontakion5.text = "From all kinds of perils free me, so that unto you"
+trAK.Kontakion6.text = "I may cry aloud: Rejoice, O unwedded Bride."
+
+trMA.Synaxarion1.Com = "On this day, Saturday of the fifth week of Great Lent, we celebrate the Akathist Hymn of our Most Holy Lady Theotokos and Ever-virgin Mary."
+trMA.Synaxarion1.Ver1 = "With sleepless hymns gratefully the City"
+trMA.Synaxarion1.Ver2 = "extols her Protectress who is vigilant in battles."
+
+trMA.Synaxarion1.Nar = ""
+
+trMA.Synaxarion.LastLine = "Through the intercessions of Your Mother the unassailable Champion, O Christ our God, redeem us from besetting calamities, and have mercy on us, as the only One who loves mankind."
+
+trMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode7C1H.text = he.h.m4_en_US_dedes.OukElatrefsan.text
+
+trMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode7C11.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+trMA.Ode7C11.text = "We sing hymns to you and shout: Rejoice, O chariot of the intelligible Sun. Rejoice, O veritable vine that cultured the ripened cluster dripping with wine, making glad the hearts and souls of all who faithfully praise and glorify you daily."
+
+trMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode7C12.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+trMA.Ode7C12.text = "Bride of God, rejoice, who carried in your womb the Healer of the human race. Rejoice, O mystical rod that blossomed the flower that will never wilt away. O Lady, rejoice, through whom we are fulfilled with joy and inherit life eternal."
+
+trMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode7C13.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+trMA.Ode7C13.text = "Insufficient is the tongue of any orator for hymns extolling you who were exalted above the Seraphim, having given birth to Christ the King; Whom, O Lady, beseech to rescue now from every harm those who bow in faith before you."
+
+trMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C14.mode = misc_en_US_dedes.Mode4
+trMA.Ode7C14.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+trMA.Ode7C14.text = "The ends of the earth extol you and pronounce you blest, and they cry out to you: Rejoice, the tablet on which, O pure one, the Word was by the Father's hand inscribed. Intercede with Him, O Theotokos, to enroll in the book of life your servants."
+
+trMA.Ode7C15.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C15.mode = misc_en_US_dedes.Mode4
+trMA.Ode7C15.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+trMA.Ode7C15.text = "We your servants now beseech you and we bend the knee of our heart to you. O pure one, lend us an ear, and save us, for we are drowning in adversities. And your City redeem, O Theotokos, from the hands of the infidel invaders."
+
+trMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C21.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C21.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C21.text = ""
+
+trMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C22.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C22.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C22.text = ""
+
+trMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C23.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C23.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C23.text = ""
+
+trMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C2T.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C2T.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C2T.text = ""
+
+trMA.Ode7C31.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C31.mode = misc_en_US_dedes.Mode5
+trMA.Ode7C31.melody = he.h.m5_en_US_dedes.EvlogitosEiOTheos.name
+trMA.Ode7C31.text = ""
+
+trMA.Ode7C32.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C32.mode = misc_en_US_dedes.Mode5
+trMA.Ode7C32.melody = he.h.m5_en_US_dedes.EvlogitosEiOTheos.name
+trMA.Ode7C32.text = ""
+
+trMA.Ode7C3Tr.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C3Tr.mode = misc_en_US_dedes.Mode5
+trMA.Ode7C3Tr.melody = he.h.m5_en_US_dedes.EvlogitosEiOTheos.name
+trMA.Ode7C3Tr.text = ""
+
+trMA.Ode7C3T.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C3T.mode = misc_en_US_dedes.Mode5
+trMA.Ode7C3T.melody = he.h.m5_en_US_dedes.EvlogitosEiOTheos.name
+trMA.Ode7C3T.text = ""
+
+trMA.Ode7C3A1.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C3A1.mode = misc_en_US_dedes.Mode5
+trMA.Ode7C3A1.melody = he.h.m5_en_US_dedes.EvlogitosEiOTheos.name
+trMA.Ode7C3A1.text = ""
+
+trMA.Ode7C3A2.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C3A2.mode = misc_en_US_dedes.Mode5
+trMA.Ode7C3A2.melody = he.h.m5_en_US_dedes.EvlogitosEiOTheos.name
+trMA.Ode7C3A2.text = ""
+
+trMA.Ode7C3H.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C3H.mode = misc_en_US_dedes.Mode5
+trMA.Ode7C3H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode7C3H.text = he.h.m5_en_US_dedes.EvlogitosEiOTheos.text
+
+trMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode8C1H.text = he.h.m4_en_US_dedes.PaidasEvageis.text
+
+trMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode8C11.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+trMA.Ode8C11.text = "You welcomed into your womb the Logos; you held in your arms the One Who holds all things. With your milk you nourished Him Who by a nod gives nourishment, O purest Maiden, unto the entire universe; to Whom we sing: O praise and supremely exalt the Lord, O all you His works, unto the ages."
+
+trMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode8C12.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+trMA.Ode8C12.text = "The glorious mystery of your childbirth did Moses perceive within the burning bush. Servants once in Babylon vividly prefigured this; for standing in the midst of fire they remained unburnt, O undefiled and all-holy Virgin. And therefore we extol you in hymns unto the ages."
+
+trMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode8C13.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+trMA.Ode8C13.text = "We who were left naked through beguilement have worn, through your pregnancy, the garment of incorruptibility; and we who were sitting in the darkness of our errors now have contemplated the light, O dwelling place of light, holy Damsel. And therefore we extol you in hymns unto the ages."
+
+trMA.Ode8C14.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C14.mode = misc_en_US_dedes.Mode4
+trMA.Ode8C14.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+trMA.Ode8C14.text = "Deceased have been quickened through your power, for pregnant were you with life hypostasized. They who once were speechless now speak with newfound eloquence. Diseases are exterminated, lepers purified. The legions of the aerial spirits, O Virgin, are defeated, for you are man's salvation."
+
+trMA.Ode8C15.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C15.mode = misc_en_US_dedes.Mode4
+trMA.Ode8C15.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+trMA.Ode8C15.text = "O Birthgiver of the world's salvation, through you we are raised from earth unto the heights. Ever-blessed Maid, rejoice, fortress and protective veil, O pure one, the defense and the fortification of all who sing the hymn: O praise and supremely exalt the Lord, O all you His works unto the ages."
+
+trMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C21.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C21.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C21.text = ""
+
+trMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C22.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C22.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C22.text = ""
+
+trMA.Ode8C23.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C23.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C23.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C23.text = ""
+
+trMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C2T.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C2T.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C2T.text = ""
+
+trMA.Ode8C31.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C31.mode = misc_en_US_dedes.Mode5
+trMA.Ode8C31.melody = he.h.m5_en_US_dedes.TonPoiitinTisKtiseos.name
+trMA.Ode8C31.text = ""
+
+trMA.Ode8C32.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C32.mode = misc_en_US_dedes.Mode5
+trMA.Ode8C32.melody = he.h.m5_en_US_dedes.TonPoiitinTisKtiseos.name
+trMA.Ode8C32.text = ""
+
+trMA.Ode8C3Tr.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C3Tr.mode = misc_en_US_dedes.Mode5
+trMA.Ode8C3Tr.melody = he.h.m5_en_US_dedes.TonPoiitinTisKtiseos.name
+trMA.Ode8C3Tr.text = ""
+
+trMA.Ode8C3T.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C3T.mode = misc_en_US_dedes.Mode5
+trMA.Ode8C3T.melody = he.h.m5_en_US_dedes.TonPoiitinTisKtiseos.name
+trMA.Ode8C3T.text = ""
+
+trMA.Ode8C3A1.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C3A1.mode = misc_en_US_dedes.Mode5
+trMA.Ode8C3A1.melody = he.h.m5_en_US_dedes.TonPoiitinTisKtiseos.name
+trMA.Ode8C3A1.text = ""
+
+trMA.Ode8C3A2.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C3A2.mode = misc_en_US_dedes.Mode5
+trMA.Ode8C3A2.melody = he.h.m5_en_US_dedes.TonPoiitinTisKtiseos.name
+trMA.Ode8C3A2.text = ""
+
+trMA.Ode8C3H.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C3H.mode = misc_en_US_dedes.Mode5
+trMA.Ode8C3H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode8C3H.text = he.h.m5_en_US_dedes.TonPoiitinTisKtiseos.text
+
+trMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode9C1H.text = he.h.m4_en_US_dedes.ApasGigenis.text
+
+trMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C11.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+trMA.Ode9C11.text = "So that we may cry, rejoice, unto you through whom we faithful have become sharers of eternal joy, O Maiden, rescue us from temptations all, barbarian invasions and from every other scourge, which are bound to follow on the multitude of transgressions committed by sinful man."
+
+trMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C12.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+trMA.Ode9C12.text = "Since you have appeared, our light and our surety, we therefore shout to you: O unsetting star, rejoice, from which the great Sun emerged unto the world. Rejoice, O pure one, for you opened Eden closed of old. O rejoice, the fiery pillar ushering humankind out of bondage to life on high."
+
+trMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C13.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+trMA.Ode9C13.text = "Come and let us stand reverently within the temple of our God and say: Mistress of the world, rejoice. Rejoice, O Mary, the Lady of us all. Rejoice, for among women you alone are blameless and fair; holy vessel which accepted the divine inexhaustible ointment poured over you."
+
+trMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C14.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C14.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+trMA.Ode9C14.text = "Pure and guileless dove who brought forth the Lord of mercy as an olive branch, Ever-virgin, O rejoice. The boast of every devout monastic Saint, rejoice, the crown of laurel of the martyr athletes. Rejoice, the divine adornment of the righteous all, and for us the believers, deliverance."
+
+trMA.Ode9C15.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C15.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C15.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+trMA.Ode9C15.text = "Spare us, O our God, Your very inheritance, by overlooking now all of our iniquities, O Christ, accepting for this the fervent prayers of her who without seed conceived on earth and carried You Who in Your great mercy and Your love for man willed to take on the form that was not Your own."
+
+trMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C21.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C21.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C21.text = ""
+
+trMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C22.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C22.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C22.text = ""
+
+trMA.Ode9C23.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C23.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C23.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C23.text = ""
+
+trMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C2T.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C2T.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C2T.text = ""
+
+trMA.Ode9C31.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C31.mode = misc_en_US_dedes.Mode5
+trMA.Ode9C31.melody = he.h.m5_en_US_dedes.IsaiaChoreve.name
+trMA.Ode9C31.text = ""
+
+trMA.Ode9C32.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C32.mode = misc_en_US_dedes.Mode5
+trMA.Ode9C32.melody = he.h.m5_en_US_dedes.IsaiaChoreve.name
+trMA.Ode9C32.text = ""
+
+trMA.Ode9C3Tr.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C3Tr.mode = misc_en_US_dedes.Mode5
+trMA.Ode9C3Tr.melody = he.h.m5_en_US_dedes.IsaiaChoreve.name
+trMA.Ode9C3Tr.text = ""
+
+trMA.Ode9C3T.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C3T.mode = misc_en_US_dedes.Mode5
+trMA.Ode9C3T.melody = he.h.m5_en_US_dedes.IsaiaChoreve.name
+trMA.Ode9C3T.text = ""
+
+trMA.Ode9C3A1.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C3A1.mode = misc_en_US_dedes.Mode5
+trMA.Ode9C3A1.melody = he.h.m5_en_US_dedes.IsaiaChoreve.name
+trMA.Ode9C3A1.text = ""
+
+trMA.Ode9C3A2.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C3A2.mode = misc_en_US_dedes.Mode5
+trMA.Ode9C3A2.melody = he.h.m5_en_US_dedes.IsaiaChoreve.name
+trMA.Ode9C3A2.text = ""
+
+trMA.Ode9C3H.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C3H.mode = misc_en_US_dedes.Mode5
+trMA.Ode9C3H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode9C3H.text = he.h.m5_en_US_dedes.IsaiaChoreve.text
+
+trMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+trMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.text = "The mystery that was concealed * for ages is today revealed. * The God from God and Logos * becomes now the Son of Mary * the Virgin, in His tender love. * And this good news of mighty joy * does Gabriel annunciate; * with whom let us cry together: * \"Rejoice, O Mother of the Master.\""
+
+trMA.Lauds1.mode = misc_en_US_dedes.Mode4
+trMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+trMA.Lauds1.text = me.m03.d24_en_US_dedes.meVE.Stichera01.text
+
+trMA.Lauds2.mode = misc_en_US_dedes.Mode4
+trMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+trMA.Lauds2.text = me.m03.d24_en_US_dedes.meVE.Stichera02.text
+
+trMA.Lauds3.mode = misc_en_US_dedes.Mode4
+trMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+trMA.Lauds3.text = me.m03.d24_en_US_dedes.meVE.Stichera03.text
+
+trMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
+trMA.LaudsGlory.melody  = ""
+trMA.LaudsGlory.text = me.m03.d25_en_US_dedes.meVE.Aposticha2.text
+
+trLI.EntranceHymn.text = ""
+
+trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode8
+trLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
+trLI.SeasonalKontakion.text = he.a.m8_en_US_dedes.TiYpermacho.text
+
+trLI.CommunionHymn.text = da.d4_en_US_dedes.daLI.CommunionHymn.text
+
+trMegalynarion.text = ""
+

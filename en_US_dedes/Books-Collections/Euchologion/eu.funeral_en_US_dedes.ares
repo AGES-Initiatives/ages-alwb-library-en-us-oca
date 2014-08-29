@@ -1,0 +1,117 @@
+A_Resource_Whose_Name = eu.funeral_en_US_dedes 
+
+euFUN.title = "Funeral Service"
+euFUN.translator = properties_en_US_dedes.version.translator
+
+euFUN.Key0100.title = "The Trisagion"
+
+euFUN.Key0110.text = prayers_en_US_dedes.res14
+euFUN.Key0111.text = prayers_en_US_dedes.res15
+euFUN.Key0112.text = prayers_en_US_dedes.res16
+
+euFUN.Key0200.title = "The Funeral"
+
+euFUN.Key0300.title = "FIRST STANZA"
+euFUN.Key0300.mode = misc_en_US_dedes.Mode6
+euFUN.Key0300.text = "Blameless in the way. Alleluia."
+
+euFUN.Key0400.title = "SECOND STANZA"
+euFUN.Key0400.mode = misc_en_US_dedes.Mode5
+euFUN.Key0400.text = "Have mercy on me, O Lord."
+
+euFUN.Key0500.title = "THIRD STANZA"
+euFUN.Key0500.mode = misc_en_US_dedes.Mode8
+euFUN.Key0500.text = "And have mercy on me. Alleluia."
+
+euFUN.Key0600.title = "Evlogetaria for the Dead"
+euFUN.Key0600.mode = misc_en_US_dedes.Mode5
+
+euFUN.Key0700.title = titles_en_US_dedes.Kontakion
+euFUN.Key0700.mode = misc_en_US_dedes.Mode8
+
+euFUN.Key0800.title = "Funeral Hymns"
+euFUN.Key0800.poet = poets_en_US_dedes.IoannouMonachou
+euFUN.Key0801.mode = misc_en_US_dedes.Mode1
+euFUN.Key0801.text = oc.m1.d7_en_US_dedes.ocVE.Aposticha4.text
+euFUN.Key0802.mode = misc_en_US_dedes.Mode2
+euFUN.Key0802.text = oc.m2.d7_en_US_dedes.ocVE.Aposticha4.text
+euFUN.Key0803.title = titles_en_US_dedes.EteronEktosTypikou
+euFUN.Key0803.mode = misc_en_US_dedes.Mode2
+euFUN.Key0803.text = oc.m2.d7_en_US_dedes.ocMA.Lauds4.text
+euFUN.Key0804.mode = misc_en_US_dedes.Mode3
+euFUN.Key0804.text = oc.m3.d7_en_US_dedes.ocVE.Aposticha4.text
+euFUN.Key0805.mode = misc_en_US_dedes.Mode4
+euFUN.Key0805.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+euFUN.Key0805.text = oc.m4.d7_en_US_dedes.ocMA.Aposticha1.text
+euFUN.Key0806.title = titles_en_US_dedes.EteronEktosTypikou
+euFUN.Key0806.mode = misc_en_US_dedes.Mode4
+euFUN.Key0806.text = oc.m4.d7_en_US_dedes.ocMA.LaudsGlory.text
+euFUN.Key0807.mode = misc_en_US_dedes.Mode5
+euFUN.Key0807.text = oc.m5.d7_en_US_dedes.ocVE.Aposticha2.text
+euFUN.Key0808.mode = misc_en_US_dedes.Mode6
+euFUN.Key0808.text = oc.m6.d7_en_US_dedes.ocVE.Aposticha2.text
+euFUN.Key0809.mode = misc_en_US_dedes.Mode7
+euFUN.Key0809.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
+euFUN.Key0809.text = oc.m7.d7_en_US_dedes.ocVE.Aposticha3.text
+euFUN.Key0810.title = titles_en_US_dedes.EteronEktosTypikou
+euFUN.Key0810.mode = misc_en_US_dedes.Mode7
+euFUN.Key0810.text = oc.m7.d7_en_US_dedes.ocVE.Aposticha2.text
+euFUN.Key0811.mode = misc_en_US_dedes.Mode8
+euFUN.Key0811.text = oc.m8.d7_en_US_dedes.ocVE.Aposticha2.text
+euFUN.Key0812.mode = misc_en_US_dedes.Mode8
+euFUN.Key0812.text = oc.m8.d7_en_US_dedes.ocVE.Aposticha3.text
+euFUN.Key0813.mode = misc_en_US_dedes.Mode8
+euFUN.Key0813.text = oc.m8.d7_en_US_dedes.ocVE.AposTheotokion.text
+
+euFUN.Key0900.title = "The Beatitudes"
+euFUN.Key0900.mode = misc_en_US_dedes.Mode6
+euFUN.Key0900.melody = he.h.m6_en_US_dedes.OiOsioiSouPaides.name
+euFUN.Key0901.text = ""
+euFUN.Key0902.text = ""
+euFUN.Key0903.text = ""
+euFUN.Key0904.text = ""
+euFUN.Key0905.text = ""
+euFUN.Key0906.text = ""
+euFUN.Key0907.text = ""
+euFUN.Key0908.text = ""
+
+euFUN.EpistleProkeimenon.text = "Truly blessed is the way that you travel on today; for a place has been prepared for your everlasting rest."
+
+euFUN.Key1101.mode = misc_en_US_dedes.Mode2
+euFUN.Key1101.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+euFUN.Key1101.text = "Brethren, let us give a final kiss * of farewell to him/her who is dead now, and offer thanks to God. * For he/she has departed from his/her friends and family. * He/she is ready for burial, no longer concerned with * anything of vanity or of the weary flesh. * Where now are the friends and the family? * Therefore let us pray to the Lord God, * that He will give rest to him/her who parts from us."
+
+euFUN.Key1102.mode = misc_en_US_dedes.Mode2
+euFUN.Key1102.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+euFUN.Key1102.text = "Brethren, separation is so hard. * Such a lamentation, such grieving, at this grave turn of events. * Come to kiss him/her who was with us just a short time ago. * He/she is taken for burial, and lies six feet under, * dwelling in the darkness now, buried alongside the dead. * Come, now, all his/ her friends and his/her family. * Fervently we pray to the Lord God, * that He will give rest to him/her who parts from us."
+
+euFUN.Key1103.mode = misc_en_US_dedes.Mode2
+euFUN.Key1103.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+euFUN.Key1103.text = "Save those who have placed their hope in you, * Mother of the Sun never-setting, and Theotokos all-pure. * We entreat you pray to God the most benevolent, * that He grant everlasting rest, * by your intercessions, * to the one departed, where the souls of righteous repose. * Grant that he/she inherit the good things * that our God prepared, in the dwellings * of the righteous, for eternal memory."
+
+euFUN.Key1104.mode = misc_en_US_dedes.Mode6
+euFUN.Key1104.melody = misc_en_US_dedes.Idiomelon
+euFUN.Key1104.text = ""
+
+euFUN.Key1105.mode = misc_en_US_dedes.Mode6
+euFUN.Key1105.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
+euFUN.Key1105.text = oc.m6.d7_en_US_dedes.ocVE.AposTheotokion.text
+
+euFUN.Key1200.title = "THE BURIAL"
+
+euFUN.Key1300.title = "For Clergy."
+euFUN.Key1301.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog2.text 
+euFUN.Key1302.text = ho.s03_en_US_dedes.hoMA.FuneralEvlog3.text 
+euFUN.Key1303.title = "Prayer for a Deceased Priest"
+euFUN.Key1303.text = ""
+
+euFUN.Key1400.title = "Dismissal"
+euFUN.Key1401.text = dismissals_en_US_dedes.dis00.deceased
+euFUN.Key1402.text = dismissals_en_US_dedes.dis02
+euFUN.Key1403.text = dismissals_en_US_dedes.dis06
+euFUN.Key1404.text = dismissals_en_US_dedes.dis08
+euFUN.Key1405.text = "of the holy and glorious forefathers Abraham, Isaac, and Jacob;"
+euFUN.Key1406.text = "of His holy and righteous friend Lazarus, who lay in the grave four days;"
+euFUN.Key1407.text = dismissals_en_US_dedes.dis10
+euFUN.Key1408.text = "establish the soul of His servant (Name), departed from us, in the dwelling place of the saints; give rest to him (her) in the bosom of Abraham; and number him (her) among the righteous."
+

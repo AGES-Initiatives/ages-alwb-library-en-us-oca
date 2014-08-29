@@ -1,0 +1,11 @@
+A_Resource_Whose_Name = ho.s15.m11.d16_en_US_dedes
+
+// Resource for texts needed in ho.s15 templates that are not in Menaion
+// e.g. commemoration listings, notes, fasting rubrics, extra hymns
+
+ho.rank  = ""
+ho.number = "16."
+ho.commemorations = "The holy and glorious Apostle and Evangelist Matthew."
+ho.note1 = rubrical_en_US_dedes.WineOil
+ho.note2 = ""
+

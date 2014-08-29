@@ -1,0 +1,582 @@
+A_Resource_Whose_Name = me.m11.d08_en_US_dedes
+
+meDate.text = "November 8"
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "the holy and glorious Supreme Commanders Michael and Gabriel, and the other bodiless hosts," //for use in petitions and dismissal
+meInsert2 = "whose Synaxis we celebrate;" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_dedes.Mode4
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera01.text = "As Commander-in-chief you stand by the Godhead and triple Sun, * O Archangel Michael, most brilliant minister. * And with the heavenly hosts on high * rejoicing you cry aloud: * You are holy, O Father; * You are holy, O equally unoriginate * Word; and holy are You, O Holy Spirit, single glory, rule and nature * and single Power and Divinity."
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode4
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode4
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera03.text = "You, O Lord, make Your messengers spirits, even as Scripture says, * and you make Your ministers be a fiery flame. * And You have made Michael who is Chief-commander to be supreme * in Your archangelic ranks. * He obediently submits unto Your commands. * And with fear does he cry out in a loud voice the thrice-holy hymn, O Master, * unto Your glory, O Word of God."
+
+meVE.Stichera04.mode = misc_en_US_dedes.Mode4
+meVE.Stichera04.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera04.text = ""
+
+meVE.Stichera05.mode = misc_en_US_dedes.Mode4
+meVE.Stichera05.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera05.text = "Standing as you do by the tri-solar Godhead's supernal throne and illumined abundantly * by the divine splendor that * from it without ceasing * radiates, Archangel, * deliver from the passions' gloom * those who on earth stand in chorus joyfully * extolling you, O Gabriel the Chief-commander. And brighten them * with divine lumination's light, * and entreat that our souls be saved."
+
+meVE.Stichera06.mode = misc_en_US_dedes.Mode4
+meVE.Stichera06.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera06.text = ""
+
+meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
+meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+meVE.SticGlory.melody  = ""
+meVE.SticGlory.text = "Rejoice with us, all you commanders of the Angels, for your leader and our champion, the great Chief Commander, wondrously appearing in his august temple, sanctifies this day. Therefore let us dutifully extol him and cry aloud: Shelter us in the shelter of your wings, O Michael the greatest Archangel."
+
+meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
+meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.text = "Rejoice with us, all you choirs of virgins. For our protection and mediatrix and shelter, and the great refuge, marvelously appearing in her august temple, sanctifies this day. Therefore let us dutifully extol her and cry aloud: Shelter us in the shelter of your wings, O immaculate Lady Theotokos."
+
+meVE.Lity1.poet = poets_en_US_dedes.Kyprianou
+meVE.Lity1.mode = misc_en_US_dedes.Mode1
+meVE.Lity1.melody  = ""
+meVE.Lity1.text = ""
+
+meVE.Lity2.poet = poets_en_US_dedes.Arseniou
+meVE.Lity2.mode = misc_en_US_dedes.Mode1
+meVE.Lity2.melody  = ""
+meVE.Lity2.text = ""
+
+meVE.Lity3.poet = poets_en_US_dedes.Stouditou
+meVE.Lity3.mode = misc_en_US_dedes.Mode2
+meVE.Lity3.melody  = ""
+meVE.Lity3.text = ""
+
+meVE.Lity4.poet = poets_en_US_dedes.Arseniou
+meVE.Lity4.mode = misc_en_US_dedes.Mode2
+meVE.Lity4.melody  = ""
+meVE.Lity4.text = "As you surround the immaterial throne, O noetic beings and divine Bodiless Powers, you sing the Thrice-holy hymn to God the Ruler, with your flaming lips: \"Holy God, the unoriginate Father; Holy Mighty, the Son who is also unoriginate; Holy Immortal, the coessential Spirit, glorified together with the Father and the Son.\""
+
+meVE.Lity5.poet = poets_en_US_dedes.Anatoliou
+meVE.Lity5.mode = misc_en_US_dedes.Mode2
+meVE.Lity5.melody  = ""
+meVE.Lity5.text = ""
+
+meVE.Lity6.poet = poets_en_US_dedes.EfraimKarias
+meVE.Lity6.mode = misc_en_US_dedes.Mode4
+meVE.Lity6.melody  = ""
+meVE.Lity6.text = ""
+
+meVE.Lity7.mode = misc_en_US_dedes.Mode6
+meVE.Lity7.melody  = ""
+meVE.Lity7.text = ""
+
+meVE.LityGlory.mode = misc_en_US_dedes.Mode4
+meVE.LityGlory.melody  = ""
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.mode = misc_en_US_dedes.Mode4
+meVE.LityBoth.melody  = ""
+meVE.LityBoth.text = ""
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Aposticha1.text = "Let us who dwell in the world now like angels keep the feast, * and unto God who is carried * on the throne of His glory * cry aloud the hymn, saying: \"Father who art * in the heavens, Holy are You; * co-unoriginate Logos, Holy are You; * and all-holy Spirit, Holy are You.\""
+
+meVE.ApostichaVerse2.text = "He makes His angels spirits and His ministers a flame of fire."
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Aposticha2.text = "Since you are foremost in heaven, and have great freedom to speak, * O Chief Commander Michael, as you stand there in glory * near the unendurable throne of the Lord, * and behold things ineffable, * by your entreaties deliver us from distress * and temptations and from perils, we pray."
+
+meVE.ApostichaVerse3.text = "Bless the Lord, O my soul. O Lord my God, You are magnified exceedingly."
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Aposticha3.text = "Among the bodiless Angels you are expressly the first. * O Chief Commander Michael, * an eye-witness and mystic * are you of that divine and resplendent light. * Hence we fervently pray to you: * Save us who piously honor you every year * and in faith extol the Trinity."
+
+meVE.AposGlory.poet = poets_en_US_dedes.IoannouMonachou
+meVE.AposGlory.mode = misc_en_US_dedes.Mode8
+meVE.AposGlory.melody  = ""
+meVE.AposGlory.text = "As captain and champion and leader of the Angels, deliver from all necessity and tribulation, illness and grievous sins, those who sincerely extol and entreat you, O glorious Chief Commander, as one immaterial who manifestly beholds the Immaterial One, and who is splendidly illumined by the unapproachable light of the Master's glory. * He it is who out of love for mankind assumed flesh from the Virgin for our sake, wishing as He did to save the human race."
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
+meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meVE.Apolytikion1.text = "O Chief Commanders of the heavenly armies, * we the unworthy ones entreat you in earnest, * that you might with your supplications fortify us, * guarding us who run to you and beneath the protection * of the pinions of your immaterial glory, * and who with fervor shout: Deliver us, * from every danger, as Captains of the hosts on high."
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma11.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma11.text = "Ο chief Commander of the bodiless ministers * as one who stands before the throne of the Godhead, * and brightly are illumined by its radiance, * brighten us and sanctify those who faithfully hymn you, * and from all the tyranny of the enemy free us. * And earnestly request a peaceful life * for our rulers * and the entire universe."
+
+meMA.Kathisma1T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma1T.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma1T.text = "We your servants shall not ever be silent, * O Theotokos, from extolling your mercies * wholeheartedly and gratefully, O Lady Bride of God, * crying out and uttering: Come in time and redeem us * from our seen and unseen foes, and from threatening dangers. * For you, All-holy Virgin, ever save * your faithful servants * from evils of every kind."
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma21.text = "The Cherubim along with many-eyed Seraphim * and all the armies of the Archangel ministers * as well as Principalities, Authorities and Thrones, * Angels and Dominions and Powers all importune You * earnestly imploring You our Lord God and Maker. * O Christ, do not despise Your people's prayer * though they be sinners, * for You are most merciful."
+
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma2T.melody = misc_en_US_dedes.Automelon
+meMA.Kathisma2T.text = he.a.m4_en_US_dedes.TachyProkatalave.text
+
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Kathisma31.text = "Michael and Gabriel, foremost-ranking leaders * of the celestial and high-throned awesome beings * of divine glory, you are their supreme Commanders. * O Ministers of the Master, with all the hosts * of bodiless powers ceaselessly intercede * on behalf of the universe, entreating earnestly that He * forgive our sins, that we might find * grace and mercy on Judgment Day."
+
+meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Kathisma3T.text = "With all the bodiless hosts and the Archangels * O pure and blessed Lady full of the divine grace, * with the Powers on high, together without ceasing * implore Him who out of pity came forth from you. * Entreat Him on our behalf that before the end * He might grant us forgiveness and the expiation of sins * as well as the amendment of life, * so that we might find the mercy of God."
+
+meMA.Prokeimenon.text = "" //for media
+
+meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelAngels.text
+
+meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.text = meVE.Lity4.text
+
+meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
+
+meMA.C2Poet = poets_en_US_dedes.IoannouMonachou
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C11.melody = he.h.m8_en_US_dedes.AsmaAnapempsomen.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_dedes.AsmaAnapempsomen.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_dedes.AsmaAnapempsomen.name
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.AsmaAnapempsomen.name
+meMA.Ode1C1T.text = ""
+
+meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C21.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C22.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+meMA.Ode1C22.text = ""
+
+meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C23.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+meMA.Ode1C23.text = ""
+
+meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+meMA.Ode1C2T.text = ""
+
+meMA.Ode1K.ode = misc_en_US_dedes.Ode1
+meMA.Ode1K.mode = misc_en_US_dedes.Mode4
+meMA.Ode1K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1K.text = he.h.m4_en_US_dedes.AnoixoToStomaMou_Eisodia.text
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C11.melody = he.h.m8_en_US_dedes.TonFovonSouKyrie.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_dedes.TonFovonSouKyrie.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_dedes.TonFovonSouKyrie.name
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.TonFovonSouKyrie.name
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C21.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+meMA.Ode3C21.text = ""
+
+meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C22.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+meMA.Ode3C22.text = ""
+
+meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C23.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+meMA.Ode3C23.text = ""
+
+meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C2T.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C2T.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+meMA.Ode3C2T.text = ""
+
+meMA.Ode3K.ode = misc_en_US_dedes.Ode3
+meMA.Ode3K.mode = misc_en_US_dedes.Mode4
+meMA.Ode3K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3K.text = he.h.m4_en_US_dedes.TousSousYmnologous_Eisodia.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Ode3KathismaT.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C11.melody = he.h.m8_en_US_dedes.EpevisEfIppous.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_dedes.EpevisEfIppous.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_US_dedes.EpevisEfIppous.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_dedes.EpevisEfIppous.name
+meMA.Ode4C1T.text = ""
+
+meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C21.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+meMA.Ode4C21.text = ""
+
+meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C22.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C23.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+meMA.Ode4C23.text = ""
+
+meMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C2T.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C2T.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+meMA.Ode4C2T.text = ""
+
+meMA.Ode4K.ode = misc_en_US_dedes.Ode4
+meMA.Ode4K.mode = misc_en_US_dedes.Mode4
+meMA.Ode4K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4K.text = he.h.m4_en_US_dedes.TinAnexichniaston.text
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C11.melody = he.h.m8_en_US_dedes.TonEkNyktosAgnosias.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_dedes.TonEkNyktosAgnosias.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C13.melody = he.h.m8_en_US_dedes.TonEkNyktosAgnosias.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_dedes.TonEkNyktosAgnosias.name
+meMA.Ode5C1T.text = ""
+
+meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C21.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C22.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C22.text = ""
+
+meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C23.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C23.text = ""
+
+meMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C2T.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C2T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C2T.text = ""
+
+meMA.Ode5K.ode = misc_en_US_dedes.Ode5
+meMA.Ode5K.mode = misc_en_US_dedes.Mode4
+meMA.Ode5K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5K.text = he.h.m4_en_US_dedes.ExestiTaSympanta_Eisodia.text
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C11.melody = he.h.m8_en_US_dedes.TonIonanEnToKitei.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_dedes.TonIonanEnToKitei.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_US_dedes.TonIonanEnToKitei.name
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.TonIonanEnToKitei.name
+meMA.Ode6C1T.text = ""
+
+meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C21.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C22.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C22.text = ""
+
+meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C23.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C23.text = ""
+
+meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C2T.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C2T.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C2T.text = ""
+
+meMA.Ode6K.ode = misc_en_US_dedes.Ode6
+meMA.Ode6K.mode = misc_en_US_dedes.Mode4
+meMA.Ode6K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6K.text = he.h.m4_en_US_dedes.TinTheianTaftin.text
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
+meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.text = "As God's Chief Commanders and ministers of His divine glory, guides of humanity and leaders of the Angels, pray for what will benefit us and for great mercy, as Chief Commanders of the Bodiless Hosts."
+
+meMA.Oikos1.text = "You said in the Scriptures, immortal Lover of humanity, that in heaven multitudes of Angels rejoice over one human being who repents. Therefore, O Sinless One, who alone know the heart, we in our lawlessness dare each day to implore You, the compassionate, to take pity on us, Master, and send us compunction, though we are unworthy, and pardon our sins, at the intercession for us all, of the Chief Captains of the Bodiless Hosts."
+
+meMA.Synaxarion.text  = ""
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C11.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C13.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1Tr.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1Tr.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C1Tr.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C1Tr.text = ""
+
+meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C21.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C22.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C23.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C23.text = ""
+
+meMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C2T.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C2T.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C2T.text = ""
+
+meMA.Ode7K.ode = misc_en_US_dedes.Ode7
+meMA.Ode7K.mode = misc_en_US_dedes.Mode4
+meMA.Ode7K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7K.text = he.h.m4_en_US_dedes.OukElatrefsan.text
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C11.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+meMA.Ode8C1T.text = ""
+
+meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C21.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C22.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C23.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C23.text = ""
+
+meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C2T.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C2T.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C2T.text = ""
+
+meMA.Ode8K.ode = misc_en_US_dedes.Ode8
+meMA.Ode8K.mode = misc_en_US_dedes.Mode4
+meMA.Ode8K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8K.text = he.h.m4_en_US_dedes.PaidasEvageis.text
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C11.melody = he.h.m8_en_US_dedes.OrousParilthes.name
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_dedes.OrousParilthes.name
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_dedes.OrousParilthes.name
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.OrousParilthes.name
+meMA.Ode9C1T.text = ""
+
+meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C21.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+meMA.Ode9C21.text = ""
+
+meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C22.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+meMA.Ode9C22.text = ""
+
+meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C23.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+meMA.Ode9C23.text = ""
+
+meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C2T.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C2T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+meMA.Ode9C2T.text = ""
+
+meMA.Ode9K.ode = misc_en_US_dedes.Ode9
+meMA.Ode9K.mode = misc_en_US_dedes.Mode4
+meMA.Ode9K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9K.text = he.h.m4_en_US_dedes.ApasGigenis_Eisodia.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.text = "Our God and Maker appointed you, * holy Archangel Michael, * as care-taker and champion * and excellent provider * for the entire human race, * and He has ineffably * honored you with the glory * that comes with being able * to sing to Him without ceasing * that divine, thrice-holy victory hymn."
+
+meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.Exaposteilarion2.text = "The light-transcendent Trinity * has fired you up ineffably * with divine illumination, O holy Archangel Michael. * Like lightning you traverse the world, * fulfilling God's divine command, * protecting, guarding and sheltering * all those who need your assistance * and joyously now extol you."
+
+meMA.Exaposteilarion3.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion3.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion3.text = "O Chief Commander, most divine * and all-glorious Michael, * God has appointed you to be * first among all the Angels, * the Principalities, Powers, * Archangels and Dominions, * Cherubim, Thrones, and all the rest. * As you now stand beside the most awesome throne, * shelter, guard, protect, defend, help and save us * who faithfully sing and honor you, * for you protect the whole world."
+
+meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.ExapTheotokion.text = "O Theotokos, praised by all, * you are higher in honor * than the high-honored Cherubim; * you are greater in glory * beyond compare than the awesome * Seraphim and more holy * than the angelic orders all. * For you gave birth to Him who created all, * in a way transcending all thought and reason. * Pray to Him as your Son and God, * to forgive our offenses."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode1
+meMA.Lauds1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds1.text = "You are the Chief of angelic heavenly hierarchies, * and the mighty protector of humanity on earth, * guarding and delivering us who sing * hymns extolling you loyally. * To you, O Michael, Commander-in-chief, we pray * to be saved from all destructive pain."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode1
+meMA.Lauds2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds2.text = "Today the Chief and Commander of the divine hosts on high * invites the choirs of mortals to convene with the angels * to organize a single radiant feast all together to celebrate * their divine Synaxis, and also to extol * God in song with the Thrice-holy hymn."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode1
+meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds3.text = "Beneath the shield of your holy and immaterial wings * guard and protect us always, * holy Archangel Michael. * Be with us throughout our entire life, * and indeed in the hour of death * be a most kindly assistance, and help us then, * as a spiritual servant of God."
+
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
+meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.text = "Wherever your grace overshadows, O Archangel, the power of the devil is driven away. For he cannot bear to stand in your light, the fallen Lucifer that he is. We therefore beg you to extinguish the fiery arrows that he shoots against us, and by your mediation to deliver us from the scandals he sets, O praiseworthy Archangel Michael."
+
+meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
+meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
+
+meMA.LaudsSundayVerse1.text = ""
+
+meMA.LaudsSundayVerse2.text = ""
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
+meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meLI.SeasonalKontakion.text = me.m11.d21_en_US_dedes.meMA.Kontakion1.text
+
+meLI.CommunionHymn.text = ""
+
+meMegalynarion.text = ""
+

@@ -1,0 +1,407 @@
+A_Resource_Whose_Name = me.m03.d09_en_US_dedes
+
+meDate.text = "March 9" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "Memory of the Holy Great Forty Martyrs who Witnessed in the Lake of Sebastia" // full title of day
+meShortCommemoration1.text = "Forty Martyrs"
+meInsert1 = "the holy and glorious Great Forty Martyrs of Sebastia," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "The Holy Forty Martyrs of Sebastia."
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.poet = poets_en_US_dedes.IoannouMonachou
+meVE.Stichera01.mode = misc_en_US_dedes.Mode2
+meVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera01.text = "Bravely enduring the present, rejoicing in what they hoped for, the holy Martyrs said to one another: \"Are we not stripping off our garments? So let us also put off the old man. Winter is bitter, but Paradise is sweet. Freezing is painful, but the reward is pleasant. Let us not waver, O fellow soldiers. Let us endure for a little while, so that we may wear the crowns of victory that are given by Christ God, the Savior of our souls.\""
+
+meVE.Stichera02.poet = poets_en_US_dedes.IoannouMonachou
+meVE.Stichera02.mode = misc_en_US_dedes.Mode2
+meVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera02.text = "Throwing off all their garments, entering the lake without flinching, the holy Martyrs said to one another: \"For the sake of Paradise, which we forfeited of old, let us not cling to our corruptible garmemts today. Once because of the snake, we put on a garment of mortality; so let us now take it off for the general resurrection. Let us think nothing of the icy frost that melts, and let us hate the flesh, so that we may wear the crowns of victory that are given by Christ God, the Savior of our souls.\""
+
+meVE.Stichera03.poet = poets_en_US_dedes.IoannouMonachou
+meVE.Stichera03.mode = misc_en_US_dedes.Mode2
+meVE.Stichera03.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera03.text = "Viewing the torture as pleasure, running to the freezing lake as to warm comforts, the holy Martyrs said to one another: \"Let us not shrink from the winter weather, so that we may escape the fiery Gehenna. Let our feet be burnt so they can dance forever. Let our hands drop off, so we may lift them to the Lord. And let us have no pity for our mortal nature. Let us choose death, so that we may wear the crowns of victory that are given by Christ God, the Savior of our souls.\""
+
+meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
+meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.SticTheotokion.text = ""
+
+meVE.AposGlory.mode = misc_en_US_dedes.Mode6
+meVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+meVE.AposGlory.text = ""
+
+meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
+meVE.AposTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
+meVE.AposTheotokion.text = he.o_en_US_dedes.TheotokeSyEiAthloforon.text
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = he.ga_en_US_dedes.TasAlgidonas.text
+
+meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
+meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
+meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meVE.Apolytikion2.text = ""
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma11.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Kathisma11.text = "In the Church's firmament * you shine most brightly * evermore, like superstars * and luminaries that you are, * and you illumine believers all, * O holy Forty Great Martyrs of Christ our God."
+
+meMA.Kathisma1T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma1T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Kathisma1T.text = "We your servants flee to you * for help and shelter, * and we pray that you accept * our supplication, O all-pure * and holy Virgin. Cease not to pray * and intercede with your Son, that He save our souls."
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma21.text = "With a courageous frame of mind, wondrous Martyrs, * you undertook Your testimony as Christians, * and you went through both fire and water, as the Psalmist said. * You were led into that wide place of rest and salvation, * receiving the inheritance of the kingdom of heaven. * O holy Forty Martyrs, being there, * pray to the Savior, * entreating on our behalf."
+
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma2T.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma2T.text = "That we may gratefully whole-heartedly praise you, * O Theotokos, and entreat you in earnest, * All-holy Virgin, grant your tender mercies to us, * your unworthy servants who now cry out to you saying: * Quickly come and rescue us * from all threatening danger * and from our enemies, both seen and unseen. * For you are truly * our helper in time of need."
+
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode5
+meMA.Kathisma31.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+meMA.Kathisma31.text = "Let the favorite ornament of the martyred saints, * this divinely recruited, divinely crowned platoon * of the Forty Martyrs now be extolled with hymns. * Truly wise, these men were tested by icy cold and fire, * and they were shown to be soldiers * of Christ the almighty Ruler. * And they intercede that we be saved."
+
+meMA.Kathisma3T.mode = misc_en_US_dedes.Mode5
+meMA.Kathisma3T.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+meMA.Kathisma3T.text = "I implore you to show forth your promptness to provide * your protection and help and your mercy unto me, * O pure Maid, and calm the waves of unruly thoughts, * and resurrect the fallen soul of me your servant, I entreat, * O all-holy Theotokos. * I know, O Virgin; I know it, * that you can do whatever you intend."
+
+meMA.Prokeimenon.text = "" // for media
+meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMartyrs.text
+
+meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelIdiomelon.melody = misc_en_US_dedes.Idiomelon
+meMA.PostGospelIdiomelon.text = "In the Psalms, David prophetically said, \"We went through fire and water, and You led us into a refreshing place.\" And you, O Martyrs of Christ, fulfilled this saying in very deed. For you went through fire and water, and you entered the kingdom of heaven. Therefore, O Forty Athletes, intercede on our behalf, that great mercy be granted to us."
+
+meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
+meMA.C1Acrostic.text = ""
+
+meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1H.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C1H.text = he.h.m2_en_US_dedes.DefteLaoi.text
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C11.melody = he.h.m2_en_US_dedes.DefteLaoi.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C12.melody = he.h.m2_en_US_dedes.DefteLaoi.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C13.melody = he.h.m2_en_US_dedes.DefteLaoi.name
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C1T.melody = he.h.m2_en_US_dedes.DefteLaoi.name
+meMA.Ode1C1T.text = ""
+
+meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1H.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C1H.text = he.h.m2_en_US_dedes.StereosonImasEnSoiKyrie.text
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C11.melody = he.h.m2_en_US_dedes.StereosonImasEnSoiKyrie.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C12.melody = he.h.m2_en_US_dedes.StereosonImasEnSoiKyrie.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C13.melody = he.h.m2_en_US_dedes.StereosonImasEnSoiKyrie.name
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C1T.melody = he.h.m2_en_US_dedes.StereosonImasEnSoiKyrie.name
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.text = ""
+
+meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1H.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.text = he.h.m2_en_US_dedes.EisakikoaKyrieTinAkoin.text
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C11.melody = he.h.m2_en_US_dedes.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C12.melody = he.h.m2_en_US_dedes.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C13.melody = he.h.m2_en_US_dedes.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C14.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C14.melody = he.h.m2_en_US_dedes.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C14.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C1T.melody = he.h.m2_en_US_dedes.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C1T.text = ""
+
+meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1H.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C1H.text = he.h.m2_en_US_dedes.OTouFotosChorigos.text
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C11.melody = he.h.m2_en_US_dedes.OTouFotosChorigos.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C12.melody = he.h.m2_en_US_dedes.OTouFotosChorigos.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C13.melody = he.h.m2_en_US_dedes.OTouFotosChorigos.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C1T.melody = he.h.m2_en_US_dedes.OTouFotosChorigos.name
+meMA.Ode5C1T.text = ""
+
+meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1H.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.text = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.text
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C11.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C12.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C13.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C1T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C1T.text = ""
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode6
+meMA.Kontakion1.melody = he.a.m6_en_US_dedes.TinYperImon.name
+meMA.Kontakion1.text = "When you had forsaken every worldly battalion, then you joined yourselves unto the Master in heaven, as the Lord's forty-numbered contenders who won the prize. Inasmuch as you have gone through fire and through water, O blessed ones, you worthily received * heavenly glory from on high, and manifold crowns."
+
+meMA.Oikos1.text = "O Christ the Ruler over all, our Creator and God, the One who is carried on an insufferable throne, who stretched out the heavens like a curtain, established the earth, and gathered the water into its places, who brought all things from nothingness into being, and who gives breath and life to all, who receives priase from the Archangels, and is glorified by Angels and worshipped by all: I the unworthy come before You and bring my prayer, asking for the grace of speech, so that I may piously extol the holy Martyrs, whom You showed to be victorious, and to whom You have given * heavenly glory from on high, and manifold crowns."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1H.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C1H.text = he.h.m2_en_US_dedes.EikonosChrysis.text
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C11.melody = he.h.m2_en_US_dedes.EikonosChrysis.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C12.melody = he.h.m2_en_US_dedes.EikonosChrysis.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C13.melody = he.h.m2_en_US_dedes.EikonosChrysis.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C14.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C14.melody = he.h.m2_en_US_dedes.EikonosChrysis.name
+meMA.Ode7C14.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C1T.melody = he.h.m2_en_US_dedes.EikonosChrysis.name
+meMA.Ode7C1T.text = ""
+
+meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1H.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.text = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.text
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C11.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C12.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C13.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C14.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C14.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C14.text = ""
+
+meMA.Ode8C1Tr.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1Tr.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C1Tr.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C1Tr.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C1T.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C1T.text = ""
+
+meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1H.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C1H.text = he.h.m2_en_US_dedes.TonEkTheouTheonLogon.text
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C11.melody = he.h.m2_en_US_dedes.TonEkTheouTheonLogon.name
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C12.melody = he.h.m2_en_US_dedes.TonEkTheouTheonLogon.name
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C13.melody = he.h.m2_en_US_dedes.TonEkTheouTheonLogon.name
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C14.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C14.melody = he.h.m2_en_US_dedes.TonEkTheouTheonLogon.name
+meMA.Ode9C14.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C1T.melody = he.h.m2_en_US_dedes.TonEkTheouTheonLogon.name
+meMA.Ode9C1T.text = ""
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.text = "The unit of the two score men * of the all-holy Trinity, * the choir of forty Martyrs * contended for Christ the Savior. * Let them be praised in sacred songs, * for they endured the elements, * fire and air and water * and earth with the fourfold virtues, * all for the almighty Master."
+
+meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.text = "Rejoice, redemption from the curse, * and Adam's reestablishment. * Rejoice, O pure Theotokos, * the hope of the world and shelter. * O Mother of our God, rejoice; * O vehicle divine, rejoice. * Rejoice, O ladder and east-gate; * rejoice, O swift and light cloud; * rejoice, the release of Eva."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode5
+meMA.Lauds1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.Lauds1.text = "Brethren, come now and let us sing praise * with hymns extolling the platoon of the martyred saints, * for they were consumed by freezing, * and they themselves thus consumed * the chill of delusion by their ardent zeal. * An army most valorous, a contingent most hallowed, * they fought as comrades, all for one and invincible. * They were guardians of the Faith, a protective wall. * Such are the forty martyred saints, a chorus inspired by God, * the Church's great intercessors, who make entreaties most powerful * to Christ, that He send down * lasting peace upon the world and great mercy on our souls."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode5
+meMA.Lauds2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.Lauds2.text = "Mighty, sacred assembly, rejoice. * O decorated and unbeatable regiment,* the towers of true religion, you are the soldiers of Christ,* rugged men in armor and invincible.* Most focused in intellect, and most manly in soul are you,* truly divine men, and exceedingly loved by God,* and a holy choir, and a God-chosen army corps.* O forty Martyrs of the Lord, all equal in suffering,* in frame of mind you were equal, and you received equal laurel crowns.* To Christ pray intently,* and entreat that His great mercy be granted to our souls."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode5
+meMA.Lauds3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.Lauds3.text = "Rejoice, O holy prize-winning band, * manfully fighting in the battles with excellence, * O stars who, after you passed through * the test of fire and cold,* by your ardent faith did melt the frozen lake. * A heaven you made of earth; you illumined the universe. * You now are kept warm in the bosom of Abraham, * and in chorus dance with angelical regiments. * O forty Martyrs of the Lord, the flowers of Paradise * emitting spiritual fragrance indeed dispensing the Spirit's gifts. * To Christ pray intently, * and entreat that His great mercy be granted to our souls."
+
+meMA.Lauds4.mode = misc_en_US_dedes.Mode1
+meMA.Lauds4.melody = misc_en_US_dedes.Idiomelon
+meMA.Lauds4.text = ""
+
+meMA.Lauds5.mode = misc_en_US_dedes.Mode2
+meMA.Lauds5.melody = misc_en_US_dedes.Idiomelon
+meMA.Lauds5.text = ""
+
+meMA.Lauds6.mode = misc_en_US_dedes.Mode2
+meMA.Lauds6.melody = misc_en_US_dedes.Idiomelon
+meMA.Lauds6.text = ""
+
+meMA.LaudsGlory.poet = poets_en_US_dedes.IoannouMonachou
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
+meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+meMA.LaudsGlory.text = "O victorious Martyrs of Christ, you have made the all-holy Fast even more cheerful by the memory of your glorious contest. Being forty in number, you sanctify the forty-day fast of Lent, for you imitated the saving Passion of Christ by contesting for His sake. Therefore, since you have confidence before Him, intercede for us that we may peacefully reach the three-day Resurrection of our God and the Savior of our souls."
+
+meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
+meMA.LaudsTheotokion.melody = ""
+meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
+
+meMA.LaudsSundayVerse1.text = "God is wondrous in His saints."
+
+meMA.LaudsSundayVerse2.text = "The Lord has done marvelous things for His saints that are on the earth."
+
+meMA.AposGlory.mode = misc_en_US_dedes.Mode2
+meMA.AposGlory.melody = misc_en_US_dedes.Idiomelon
+meMA.AposGlory.text = ""
+
+meMA.AposTheotokion.mode = misc_en_US_dedes.Mode2
+meMA.AposTheotokion.melody = ""
+meMA.AposTheotokion.text = ""
+
+//For Presanctified Liturgy on the day of the commemoration
+mePL.Glory.poet = poets_en_US_dedes.KyprianouMonachou
+mePL.Glory.mode = misc_en_US_dedes.Mode2
+mePL.Glory.melody = misc_en_US_dedes.Idiomelon
+mePL.Glory.text = "In his Psalms David said prophetically, \"We went through fire and water, and You led us into a refreshing place.\" And you, O Martyrs of Christ, fulfilled these words by your actions, for you indeed went through fire and water, and you entered the kingdom of heaven. Therefore, O Athletes forty in number, intercede for us, that we may obtain the great mercy."
+
+mePL.Theotokion.mode = misc_en_US_dedes.Mode2
+mePL.Theotokion.melody = ""
+mePL.Theotokion.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
+
+meLI.TheotokosHymn.mode = ""
+meLI.TheotokosHymn.text = ""
+
+meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+
+meMegalynarion.text = ""
+

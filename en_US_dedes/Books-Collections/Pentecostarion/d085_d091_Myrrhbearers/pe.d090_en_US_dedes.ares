@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = pe.d090_en_US_dedes
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_en_US_dedes.dis00.resurrection
+
+peMA.Kathisma21.mode = misc_en_US_dedes.Mode2
+peMA.Kathisma21.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+peMA.Kathisma21.text = "The Women with zeal brought spices to Your sepulcher. * Their souls leapt for joy beholding the Angel's dazzling light. * And they boldly proclaimed You the King of all; * and said to the Disciples, * \"Truly the Life of all has risen from the grave.\""
+

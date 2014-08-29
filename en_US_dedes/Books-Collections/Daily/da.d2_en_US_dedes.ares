@@ -1,0 +1,36 @@
+A_Resource_Whose_Name = da.d2_en_US_dedes 
+
+daDay.text = "Monday."
+daCommemoration.text = "The Bodiless Powers."
+
+daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onSundayEvening
+
+daVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
+daVE.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+daVE.Apolytikion1.text = me.m11.d08_en_US_dedes.meVE.Apolytikion1.text
+
+daVE.ApolTheotokion.mode = misc_en_US_dedes.Mode4
+daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.text = oc.m4.d2_en_US_dedes.ocMA.Kathisma33.text
+
+daMA.Triadic1Ending.text = "By the protection of the Bodiless Hosts have mercy on us."
+daMA.Triadic2Ending.text = prayers_en_US_dedes.trPresveiaisTonAgion
+daMA.Triadic3Ending.text = prayers_en_US_dedes.trDiaTisTheotokou
+
+daMA.Photagogic1Ending.text = "by the protection of the Bodiless Hosts, and save us."
+daMA.Photagogic2Ending.text = prayers_en_US_dedes.fePresveiaisTonAgionKaiSosonMe
+daMA.Photagogic3Ending.text = prayers_en_US_dedes.fePresveiaisTisTheotokou
+
+daMA.Photagogic1Beginning.text = "By the protection of the Bodiless Hosts, O Lord,"
+daMA.Photagogic2Beginning.text = prayers_en_US_dedes.fbPresveiaisKyrieTonAgion
+daMA.Photagogic3Beginning.text = prayers_en_US_dedes.fbPresveiaisKyrieTisTheotokou
+
+daMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+daMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+daMA.Exaposteilarion1.text = ""
+
+daMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+daMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+daMA.ExapTheotokion.text = ""
+
+daLI.CommunionHymn.text = "" //for media

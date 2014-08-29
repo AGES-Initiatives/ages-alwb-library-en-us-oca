@@ -1,0 +1,336 @@
+A_Resource_Whose_Name = tr.d022_en_US_dedes
+
+trCommemoration.text = "Cheesefare Sunday" //full title of day
+trShortCommemoration1.text = "Cheesefare"
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trDismissal = dismissals_en_US_dedes.dis00.resurrection
+
+trVE.Stichera01.mode = misc_en_US_dedes.Mode6
+trVE.Stichera01.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_US_dedes.Mode6
+trVE.Stichera02.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+trVE.Stichera02.text = "Disobeying Your divine command, O Lord, at the counsel * of the foe, I stripped myself * of the vesture made by God, wretched that I am. * Now with garments of skins * and with fig-leaf aprons * do I cover up my nakedness; * and I have been condemned * to eat bread of labor by my own sweat; * a curse was also put on earth * that it bring forth thistles and thorns for me. * O Savior who later became incarnate of the Virgin Maid, * I pray recall me and bring me back * once again to Paradise."
+
+trVE.Stichera03.mode = misc_en_US_dedes.Mode6
+trVE.Stichera03.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+trVE.Stichera03.text = ""
+
+trVE.Stichera04.mode = misc_en_US_dedes.Mode6
+trVE.Stichera04.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+trVE.Stichera04.text = "O all-honored Paradise * the most exquisite in beauty * habitation made by God, * enjoyment and happiness that will never end, * glory of the Righteous * delight of the Prophets, * and the dwelling place of all the saints, * by the sound of your leaves * earnestly entreat the Maker of all * to open for me the gates * that I closed by my disobedience; * pray that He will let me partake again of the tree of life * and of the joy that I once enjoyed * living in you long ago"
+
+trVE.SticGlory.mode = misc_en_US_dedes.Mode6
+trVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+trVE.SticGlory.text = ""
+
+trVE.LityGlory.mode = misc_en_US_dedes.Mode6
+trVE.LityGlory.melody = misc_en_US_dedes.Idiomelon
+trVE.LityGlory.text = ""
+
+trVE.LityBoth.mode = misc_en_US_dedes.Mode6
+trVE.LityBoth.melody  = ""
+trVE.LityBoth.text = ""
+
+trVE.AposGlory.mode = misc_en_US_dedes.Mode6
+trVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+trVE.AposGlory.text = ""
+
+trVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
+trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
+
+trMA.PostGospelGlory.mode = misc_en_US_dedes.Mode8
+trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.text = tr.d001_en_US_dedes.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_en_US_dedes.Mode8
+trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.text = tr.d001_en_US_dedes.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.text
+
+trMA.C1Poet = poets_en_US_dedes.ChristoforouTouProtasikritou
+
+trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C11.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C11.text = ""
+
+trMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C12.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C12.text = ""
+
+trMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C13.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C13.text = ""
+
+trMA.Ode1C14.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C14.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C14.text = ""
+
+trMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C1T.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C1T.text = ""
+
+trMA.Ode1K.ode = misc_en_US_dedes.Ode1
+trMA.Ode1K.mode = misc_en_US_dedes.Mode6
+trMA.Ode1K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode1K.text = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.text
+
+trMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C11.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C11.text = ""
+
+trMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C12.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C12.text = ""
+
+trMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C13.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C13.text = ""
+
+trMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C1T.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C1T.text = ""
+
+trMA.Ode3K.ode = misc_en_US_dedes.Ode3
+trMA.Ode3K.mode = misc_en_US_dedes.Mode6
+trMA.Ode3K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode3K.text = he.h.m6_en_US_dedes.OukEstinAgios.text
+
+trMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
+trMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+trMA.Ode3Kathisma1.text = ""
+
+trMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode4
+trMA.Ode3Kathisma2.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma2.text = ""
+
+trMA.Ode3Kathisma3.mode = misc_en_US_dedes.Mode4
+trMA.Ode3Kathisma3.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma3.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
+
+trMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C11.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C11.text = ""
+
+trMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C12.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C12.text = ""
+
+trMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C13.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C13.text = ""
+
+trMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C14.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C14.text = ""
+
+trMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C1T.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C1T.text = ""
+
+trMA.Ode4K.ode = misc_en_US_dedes.Ode4
+trMA.Ode4K.mode = misc_en_US_dedes.Mode6
+trMA.Ode4K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode4K.text = he.h.m6_en_US_dedes.ChristosMouDynamis.text
+
+trMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C11.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C11.text = ""
+
+trMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C12.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C12.text = ""
+
+trMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C13.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C13.text = ""
+
+trMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C1T.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C1T.text = ""
+
+trMA.Ode5K.ode = misc_en_US_dedes.Ode5
+trMA.Ode5K.mode = misc_en_US_dedes.Mode6
+trMA.Ode5K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode5K.text = he.h.m6_en_US_dedes.ToTheioFengeiSou.text
+
+trMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C11.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C11.text = ""
+
+trMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C12.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C12.text = ""
+
+trMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C13.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C13.text = ""
+
+trMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C1T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C1T.text = ""
+
+trMA.Ode6K.ode = misc_en_US_dedes.Ode6
+trMA.Ode6K.mode = misc_en_US_dedes.Mode6
+trMA.Ode6K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode6K.text = he.h.m6_en_US_dedes.TouViouTinThalassan.text
+
+trMA.Kontakion.mode = misc_en_US_dedes.Mode6
+trMA.Kontakion.melody = misc_en_US_dedes.NotMetered
+trMA.Kontakion.text = "O guide to wisdom, provider of prudence, disciplinarian of fools, and defender of the poor, fortify and discipline my heart, O Master; You, give me a word, O Word of the Father. For behold, I will not hinder my lips from crying to You: O merciful Lord, have mercy on me who have fallen."
+
+trMA.Oikos.text = "In times of old did Adam sit and cry in sorrow opposite the delights he had in Paradise; his hands upon did his forehead strike, as he said this: O merciful Lord, have mercy on me who have fallen."
+trMA.Oikos2.text = "Beholding the angel thrusting him, and closing the holy garden's gate, Adam wailed mightily to state: O merciful Lord, have mercy on me who have fallen."
+trMA.Oikos3.text = "O Paradise, now sympathize with your owner who was pauperized, and by the rustling of your leaves, beg the Maker not close you, please: O merciful Lord, have mercy on me who have fallen."
+trMA.Oikos4.text = "Paradise most excellent, most holy and most radiant, for Adam you were planted, because of Eve you were disbanded, beseech God for the fallen: O merciful Lord, have mercy on me who have fallen."
+
+trMA.Synaxarion1.Com = "On this day, we remember the expulsion of the first-formed Adam from the Garden of Eden."
+trMA.Synaxarion1.Ver1 = ""
+trMA.Synaxarion1.Ver2 = ""
+trMA.Synaxarion1.Nar = ""
+
+trMA.Synaxarion.LastLine = "By Your ineffable compassion, O Christ our God, make us worthy of the delights of Paradise and have mercy, as You alone love mankind. Amen."
+
+trMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C11.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C11.text = ""
+
+trMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C12.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C12.text = ""
+
+trMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C13.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C13.text = ""
+
+trMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C1T.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C1T.text = ""
+
+trMA.Ode7K.ode = misc_en_US_dedes.Ode7
+trMA.Ode7K.mode = misc_en_US_dedes.Mode6
+trMA.Ode7K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode7K.text = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.text
+
+trMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C11.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C11.text = ""
+
+trMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C12.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C12.text = ""
+
+trMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C13.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C13.text = ""
+
+trMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C1T.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C1T.text = ""
+
+trMA.Ode8K.ode = misc_en_US_dedes.Ode8
+trMA.Ode8K.mode = misc_en_US_dedes.Mode6
+trMA.Ode8K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode8K.text = he.h.m6_en_US_dedes.EkFlogosToisOsiois.text
+
+trMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C11.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C11.text = ""
+
+trMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C12.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C12.text = ""
+
+trMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C13.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C13.text = ""
+
+trMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C14.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C14.text = ""
+
+trMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C1T.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C1T.text = ""
+
+trMA.Ode9K.ode = misc_en_US_dedes.Ode9
+trMA.Ode9K.mode = misc_en_US_dedes.Mode6
+trMA.Ode9K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode9K.text = he.h.m6_en_US_dedes.TheonAnthropois.text
+
+trMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+trMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.text = "Wretch that I am, I disobeyed * Your good commandment, O my Lord.* And being stripped of Your glory,* alas! with shame I am laden.* And I have been evicted from * the pure delights of Paradise.* O Merciful and Compassionate, * have mercy on me who rightly * have been deprived of Your goodness."
+
+trMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
+trMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion2.text = "We were expelled of old, O Lord, * from the Garden of Eden,* for wrongly eating from the tree.* But, O my God and Savior,* You once again have restored us * through Your Cross and Your Passion.* Thereby, O Master, fortify * and enable us purely to finish Lent * and to worship Your divine resurrection,* Pascha our saving Passover,* by the prayers of Your Mother."
+
+trMA.Lauds1.mode = misc_en_US_dedes.Mode5
+trMA.Lauds1.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds1.text = "\"Woe is me!\" cried Adam in lament, \"that a serpent and a woman have deprived me of intimate communion with God; and eating from the tree has estranged me from the Paradise of delight. Woe is me, for I cannot bear the disgrace! Once the king of all God's creatures on the earth, I am now viewed as a hostage because of one piece of illicit advice; and though once vested with the glory of immortality, I, as mortal, carry about the skin of deadness lamentably. Woe is me! Which lamentation shall I enlist to collaborate with me? But You, Friend of man, who fashioned me from the earth, and who donned compassion; recall me from servitude to the enemy and save me.\""
+
+trMA.Lauds2.mode = misc_en_US_dedes.Mode5
+trMA.Lauds2.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds2.text = "The stadium of virtue is now open; those who wish to compete, enter therein, girded for the good contest of Lent, for those who compete according to the rules shall receive their laurels rightfully. Taking up the full armor of the Cross, let us do battle against the Enemy. As an impregnable wall, we have the Faith, prayer as our breastplate, and acts of mercy as our helmet. Instead of sword, there is fasting, which cuts every evil from the heart. He who does this shall attain a true crown from Christ, the King of all, on Judgment Day."
+
+trMA.Lauds3.mode = misc_en_US_dedes.Mode6
+trMA.Lauds3.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds3.text = "Adam was evicted from Paradise as one disobedient, after partaking of its luxury. Moses saw God, after cleansing the eyes of his soul by fasting. Hence if we desire to become residents of Paradise, let us divorce ourselves from baleful delights, and desiring to see God, as did Moses let us fast the Four Times Ten. By sincerely persevering in prayer and supplication, let us suppress the passions of our souls; let us avert the swellings of the flesh; thus lightened, let us set off on the journey to things above, where the choirs of angels in unbroken song sing praise to the undivided Trinity, to see the irresistible beauty of the Master. O Son of God and Giver of Life, we who set our hope on You entreat: Make us worthy of dancing with the armies of angels, O Christ, at the intercession of Your Mother, the Apostles, Martyrs and all the Saints."
+
+trMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
+trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+trMA.LaudsGlory.text = "The time has come - the start of our spiritual contests, the victory over demons, the full armor of self-control, the angels' dignity, the confidence before God. Thereby did Moses become conversant with the Creator, and heard the invisible voice. Lord, through fasting make us worthy to worship Your Passion and holy Resurrection, as You love humanity."
+
+trMA.LaudsTheotokion.mode  = ""
+trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
+
+trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode6
+trLI.SeasonalKontakion.melody  = ""
+trLI.SeasonalKontakion.text = trMA.Kontakion.text
+
+trMegalynarion.text = ""
+

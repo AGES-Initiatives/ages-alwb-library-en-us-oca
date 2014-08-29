@@ -1,0 +1,330 @@
+A_Resource_Whose_Name = me.m12.d12_en_US_dedes
+
+meDate.text = "December 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "Memory of our Devout Father Spyridon the Wonder-worker" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "Memory of our Devout Father Spyridon the Wonder-worker"
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_dedes.Mode5
+meVE.Stichera01.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Stichera01.text = "Rejoice, standard for hierarchs, * and the unshakable support of the Church of Christ; * the Orthodox peoples' glory, * wellspring of miracles, * and the never-failing stream of charity; * the luminous beacon light, and the Spirit's own instrument. * Your mind was godly, you were meek and impeccable, * and you were adorned with authentic simplicity. * You as a man were heavenly, * an angel upon the earth; * you labored well in the vineyard; * you are a genuine friend of Christ. * To Him importunely * pray beseeching Him to send down great mercy to our souls."
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode5
+meVE.Stichera02.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Stichera02.text = "Truly you were distinguished as meek, * and you inherited the land of the truly meek. * O Spyridon, as the glory * of all the Fathers, your wise * unsophisticated words by grace divine * like chords choked the enemy * the all-wicked, and Arius * who was demented. * In the Spirit you lifted up * the dogmatic teaching, salvific and God-inspired. * Openly you enlightened all * the Orthodox to believe * that there is one Logos who with * the unoriginate Father is * indeed coessential, * and who also is bestowing great mercy on the world."
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode5
+meVE.Stichera03.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Stichera03.text = "Father, when you had mortified all * the carnal passions, by divine grace you raised the dead, * and rendered the serpent golden; * and by the force of your prayer * you restrained the river's swiftly flowing course. * One night you indeed appeared to the Emperor deathly ill, * and standing near him, by your presence you made him well, * and were thereby wondrously glorified by the Lord. * Wherefore with voices loud and strong * we honor your memory; * we also reverence your relics' most sacred casket, O Spyridon, * from which divine rivers * of your healings and great mercy abundantly gush forth."
+
+meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
+meVE.SticGlory.mode = misc_en_US_dedes.Mode1
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "O devout Father, wise and blessed Spyridon, you inquired of your dead daughter as though she were alive, for the love of God; you who practiced poverty turned a snake into gold; and out of sympathy for the people, you held back the river's flow. You stood by the Emperor as his physician by the providence of God, and as His disciple you raised people who had died. You openly proclaimed the Faith in the midst of many Fathers. Since you can do all things in Christ who strengthens you, entreat Him now to save our souls."
+
+meVE.SticBoth.mode = misc_en_US_dedes.Mode6
+meVE.SticBoth.melody = ""
+meVE.SticBoth.text = "Prepare yourself, O Grotto, for the Ewe is coming, carrying Christ in her womb. O Manger, receive Him who released us earthlings from irrational activity by His word. You shepherds watching by night, witness to the awesome wonder. And you Magi from Persia, offer gold and frankincense and myrrh to the King. For the Lord has appeared from a virgin Mother. And bending over Him, the Mother, as a servant, worshipped Him, and she addressed the Infant in her arms, \"How were You sown in me, and how were You implanted in me, O my Redeemer and my God?\""
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha1.melody = misc_en_US_dedes.NotMetered
+meVE.Aposticha1.text = "A festive gathering is this, and a sacred banquet; come, believers, let us partake of it. Indeed Spyridon, our spiritual host, invites us to join him. His table is divine, and sweet are his miracles, his deeds are immortal. Let us imitate his gentleness, his innocence, his simplicity, his humanity, his wisdom concerning all. In these virtues he shone as a light among hierarchs."
+
+meVE.ApostichaVerse2.text = "Precious in the sight of the Lord is the death of His holy one."
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha2.melody = misc_en_US_dedes.NotMetered
+meVE.Aposticha2.text = "A great worker of virtue and miracles were you, O Spyridon most wise. By the former you made your life brighter than the sunshine, and by the latter you lit up the earth more than lightning in the sky; and you appeared more beautiful than both, O devout Father, to those who in faith take refuge in your protection."
+
+meVE.ApostichaVerse3.text = "Your priests shall clothe themselves in righteousness; Your saints shall greatly rejoice."
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha3.melody = misc_en_US_dedes.NotMetered
+meVE.Aposticha3.text = "Oh awsome miracle! the dead girl spoke in a live voice to you who believed; the river's current reversed at your command; the Emperor's illness departed by your prayer; the snake was transformed into gold; dead people were raised. For Christ was working in you, O Spyridon the priest, who openly proclaimed the dogma of the Trinity."
+
+meVE.AposGlory.poet = poets_en_US_dedes.Germanou
+meVE.AposGlory.mode = misc_en_US_dedes.Mode2
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "O devout and wise Father Spyridon, by your virtues you proved to be a divine gem of hierarchs. Therefore, when you became a guardian of the Church, you expelled the leaders of heresy, and in the Synod you threw down the blasphemy of Arius. Therefore, as a wonderworker in both deed and word, entreat the Savior to save our souls."
+
+meVE.AposBoth.mode = misc_en_US_dedes.Mode2
+meVE.AposBoth.melody = ""
+meVE.AposBoth.text = "Behold, the time of our salvation is at hand. Prepare yourself, O Grotto; the Virgin is close to giving birth. Bethlehem, land of Judah, rejoice and be glad, for our Lord has risen from you. Listen, O mountains and hills, and the region around Judea, for Christ is coming to save man whom He created, in His love for humanity."
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
+meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
+meVE.Apolytikion1.text = "At the first of the Synods, you emerged as the champion, * and wonder-worker, our God-bearing Father Spyridon. * Therefore, you addressed the dead one in the grave, * and a serpent you changed to gold. * And while chanting in service your sacred prayers,* you had angels concelebrating, O most Holy One.* Glory to Christ who glorified you, * glory to Him who crowned you, * glory to the One who works through you, healings for everyone."
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode3
+meMA.Kathisma11.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Kathisma11.text = "You turned a snake to gold, O holy Hierarch, * and with your words like cords * you stifled Arius * who was a wicked and impious heretic, O God-bearing Saint. * You, O father Spyridon, * made the Emperor well again, * and you resurrected the dead, * and you drove demons out of men. * We therefore come together to honor * your venerable memory with hymns of praise."
+
+meMA.Kathisma12.mode = misc_en_US_dedes.Mode3
+meMA.Kathisma12.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Kathisma12.text = "Replete with utter joy * is all the universe, * because the Virgin Maid * is close to giving birth * unto the Lord and King of all. * O wonder inexplicable! * Beginning is the Unbegun, * and the Fleshless is taking flesh; * and the cave receives the One * who encompasses everything. * O Bethlehem and all of creation, * exult and dance for joy on this forefestal day."
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kathisma21.text = "O Father, you beautified the Church of Christ by your words; * moreover you honored by your deeds the image of God, * O blessed Saint Spyridon, * shining the light of virtue in the world by your temperance, * flashing the grace of healing over all who entreat you. * And therefore with faith we observe your festive memorial."
+
+meMA.Kathisma22.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma22.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kathisma22.text = "O virgins, be leaders in the Virgin's joy on this day; * O mothers, sing out in praise of the procession escorting the Mother of Christ our God. * Magi, join the Angels, and with us sing, O Shepherds. * She is coming to the city of Bethlehem to give birth. * O God, at her intercessions, save our souls, we pray."
+
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma31.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma31.text = "To both rulers and churchmen at the august * convocation ingeniously you explained * the power of the Trinity * in a manner that honored God. * They witnessed you proclaiming the single Divinity * and dogmatizing clearly that three are in essence one. * Therefore by divine inspiration you brought down * the wordy philosopher, by the power of the Spirit, * O most godly Hierarch. * Intercede with Christ our God * that He grant forgiveness of offenses * to those who keep your all-holy memory with faith and love."
+
+meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma3T.text = "As the fiery Throne of our God, rejoice! * Holy Maid, as the Chair of the King, rejoice! * Bed with purple covering, Chamber decked in gold and purple, * the most exquisite Temple and porphyry-colored Cloak, * brightly shining Lamp-stand and lightning-bearing Chariot! * City with its twelve walls, rejoice, O Theotokos; * and Gate that is wrought in gold, Bridal Chamber most beautiful, * holy Table of shiny gold; * Dwelling Place adorned by God, * O rejoice, glorious Bride on whom the sun has dripped! * O rejoice, as my soul's only majesty!"
+
+meMA.Prokeimenon.text = "" // for media
+meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
+
+meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = "O Spyridon the wise, you are the joy and the cream of the Fathers; you illumine the four corners of the world with the splendor of your miracles. You brought down the madness of Arius. Entreat the Savior to save our souls."
+
+meMA.C1Poet = poets_en_US_dedes.Theofanous
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C11.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C12.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C13.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C1T.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C1T.text = ""
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C11.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C12.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C13.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C1T.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Ode3Kathisma2.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C11.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C12.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C13.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C1T.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C1T.text = ""
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C11.melody = he.h.m2_en_US_dedes.OFotismos.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C12.melody = he.h.m2_en_US_dedes.OFotismos.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C13.melody = he.h.m2_en_US_dedes.OFotismos.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C1T.melody = he.h.m2_en_US_dedes.OFotismos.name
+meMA.Ode5C1T.text = ""
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C11.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C12.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C13.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C1T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C1T.text = ""
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
+meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+meMA.Kontakion1.text = "Enraptured by love for Christ, O most sacred man, * uplifted in mind by the Spirit's irradiance, * by active contemplation you attained to action inspired by God; * having become a holy altar, O Spyridon, * you earnestly pray that God illumine all."
+
+meMA.Oikos1.text = "Let us now extol Spyridon, the Hierarch of the Lord, who was sanctified from the womb, who received the tablets of grace and divine glory, who was famous to all by his miracles. He was fervent and an eyewitness of divine illumination, a defender of the poor, and spiritual guide for sinners. He proved to be a faithful Hierarch, offering sacrifices at the altar of Christ, and he earnestly prays that God illumine all."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C11.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C12.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C13.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C1T.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C1T.text = ""
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C11.melody = he.h.m2_en_US_dedes.KaminosPote.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C12.melody = he.h.m2_en_US_dedes.KaminosPote.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C13.melody = he.h.m2_en_US_dedes.KaminosPote.name
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C1T.melody = he.h.m2_en_US_dedes.KaminosPote.name
+meMA.Ode8C1T.text = ""
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C11.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C12.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C13.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1T.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C1T.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C1T.text = ""
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.FosAnalloioton.name
+meMA.Exaposteilarion1.text = "O Spirit-bearer, the Spirit * moved you from tending mindless beasts * to mind a flock endowed with reason, * as He had done, O Spyridon,* of old with Moses and David, * whose meekness you imitated."
+
+meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
+meMA.Exaposteilarion2.text = "The Lord has glorified you * with many signs and wonders, * O blessed father Spyridon. * For at the holy Synod * you did proclaim the Trinity; * and you raised the dead to life; * you turned the snake into gold; * and by your holy prayers * you miraculously stopped * the river's flow and crossed over."
+
+meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
+meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
+meMA.ExapTheotokion.text = "O Lady all-immaculate, * you bore the Word of God and God * who with all wisdom brought to pass * the excellent economy, * which for the world is salvation. * And we all for this reason * do worthily now extol you, * for you intercede with Him * to deliver us from sickness * and from all kinds of dangers."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode1
+meMA.Lauds1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds1.text = "Fully imbued with the Spirit's * brightness, the wise Hierarch * brought down the murky nonsense * of the Arian doctrine. * Therefore, when he simply but faithfully * taught the truth of the Trinity, * he was revered by the erudite and the wise * for confirming what the Synod decreed."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode1
+meMA.Lauds2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds2.text = "The rays of heavenly brightness shine all around you, O Saint, * as by the Savior's power * you provide cures and healing * for the souls and bodies of those who with faith * now observe your memorial. * O Father Spyridon, cease not to pray for us, * as a Wonderworker blest by God."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode1
+meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds3.text = "Through faith, O God-bearing Father, * you were a laborer * of the noetic vineyard * of the Savior's commandments. * Spyridon, you mystically have received * from the Lord the denarius * of the celestial Kingdom; so ever pray * on behalf of us who honor you."
+
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "O devout Father and celebrated Hierarch, you were imbued with the apostolic teaching; and it showed, by your virtuous way of life, that you were a dwelling of the Holy Spirit. As such, you drove out the wolves from the Church with your doctrines; and you clearly elucidated the Orthodox Faith, and thus proved to be a pillar and champion of the true religion. You also worked miracles throughout the world: you turned a snake into gold; and you resurrected your daughter who had died, in order to question her. O holy Spyridon, as one who is worthy of admiration among the Fathers, and who keeps company with the Teachers, intercede with the Savior to save our souls."
+
+meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
+meMA.LaudsTheotokion.melody = ""
+meMA.LaudsTheotokion.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
+
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
+meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
+meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
+
+meLI.Alleluia.mode = misc_en_US_dedes.Mode1
+
+meLI.AlleluiaVerse1.text = "Your priests shall clothe themselves in righteousness; Your saints shall greatly rejoice."
+
+meLI.AlleluiaVerse2.text = "For the Lord has chosen Zion."
+
+meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+
+meMegalynarion.text = ""

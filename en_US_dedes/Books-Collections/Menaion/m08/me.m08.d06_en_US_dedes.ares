@@ -1,0 +1,573 @@
+A_Resource_Whose_Name = me.m08.d06_en_US_dedes
+
+meDate.text = "August 6"
+meCommemoration.text = "Commemoration of the Holy Transfiguration of our Lord God and Savior Jesus Christ." // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "The Transfiguration of our Lord and God and Savior Jesus Christ."
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+meDismissal = dismissals_en_US_dedes.dis00.transfiguration
+
+meSV.Stichera1.mode = misc_en_US_dedes.Mode4
+meSV.Stichera1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meSV.Stichera1.text = ""
+
+meSV.Stichera2.mode = misc_en_US_dedes.Mode4
+meSV.Stichera2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meSV.Stichera2.text = ""
+
+meSV.Stichera3.mode = misc_en_US_dedes.Mode4
+meSV.Stichera3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meSV.Stichera3.text = ""
+
+meSV.SticGlory.mode = misc_en_US_dedes.Mode8
+meSV.SticGlory.melody = ""
+meSV.SticGlory.text = ""
+
+meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
+meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.Aposticha1.text = ""
+
+meSV.ApostichaVerse2.text = meVE.ApostichaVerse2.text
+
+meSV.Aposticha2.mode = misc_en_US_dedes.Mode2
+meSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.Aposticha2.text = ""
+
+meSV.ApostichaVerse3.text = meVE.ApostichaVerse3.text
+
+meSV.Aposticha3.mode = misc_en_US_dedes.Mode2
+meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.Aposticha3.text = ""
+
+meSV.AposGlory.mode = misc_en_US_dedes.Mode2
+meSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.AposGlory.text = ""
+
+meVE.Stichera01.poet = poets_en_US_dedes.KosmaMonachou
+meVE.Stichera01.mode = misc_en_US_dedes.Mode4
+meVE.Stichera01.melody = ""
+meVE.Stichera01.text = "Before Your crucifixion, O Lord, the Mount became like heaven, the cloud was like the Tent. When You were transfigured and the Father bore witness to You, Peter, James and John were there, since they would also be with You when You were betrayed; so that by seeing these wonders of Yours now, they would not be frightened by Your sufferings later. Grant that we may venerate Your Passion in peace, because of Your great mercy."
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode4
+meVE.Stichera02.melody = ""
+meVE.Stichera02.text = "Before Your crucifixion, O Lord, You took Your Disciples and led them up a high mountain, and You were transfigured before them. You illumined them with rays of Your power, demonstrating Your love for humanity as well as Your authority. You wished to show them the radiance of the Resurrection. Grant us to experience the Resurrection in peace, O God, since You are merciful and You love mankind."
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode4
+meVE.Stichera03.melody = ""
+meVE.Stichera03.text = "When You were transfigured on a high mountain, O Savior, having with You those paramounts of Your Disciples, You shone forth with glory. Your intention was to show that those who attain the height of virtue will also be counted worthy of divine glory. Moses and Elias conversed with Christ, to show that He is the Lord of the living and the dead, and that the One who spoke through the Law and the Prophets of old was God. It was to Him that the voice of the Father bore witness from the bright cloud saying, \"Listen to Him.\" He is the One who despoiled Hades through the Cross, and who granted the dead eternal life."
+
+meVE.Stichera04.mode = misc_en_US_dedes.Mode4
+meVE.Stichera04.melody = ""
+meVE.Stichera04.text = "That Mount, which once was dark and smoky, is now revered and holy, for Your feet stood on it, O Lord. The mystery, which was hidden before all ages, was revealed in latter days by Your terrific Transfiguration, to Peter, John and James. They could not bear the shining ray of Your face nor the radiance of Your garments, so they fell on their faces, weighed down to the ground. In a state of ecstasy, they marveled as they watched Moses and Elias speaking with You about what was going to happen to You. Then the voice of the Father bore witness to You and said, \"This is my beloved Son, in whom I am well pleased. Listen to Him, who also grants the world the great mercy.\""
+
+meVE.Stichera78910.text = "" // for media stichera78910 on Sunday after feast
+
+meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
+meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Prefiguring Your Resurrection, O Christ God, You took Your three Disciples with You, Peter, James, and John, and You went up Mount Tabor. As You were transfigured, O Savior, Mount Tabor was covered in light. O Logos, Your Disciples threw themselves to the ground, unable to look at the form which no one can see. Angles served with fear and trembling, the heavens were in awe, and the earth shuddered; for they saw here on earth the Lord of glory."
+
+meVE.Lity1.mode = misc_en_US_dedes.Mode2
+meVE.Lity1.melody = ""
+meVE.Lity1.text = "O Good One who sanctified the entire world with Your light, You were transfigured on a high mountain; and to Your Disciples You showed Your power, that You deliver the world from transgression. Therefore we cry out to You: O compassionate Lord, save our souls!"
+
+meVE.Lity2.mode = misc_en_US_dedes.Mode2
+meVE.Lity2.melody = ""
+meVE.Lity2.text = ""
+
+meVE.Lity3.mode = misc_en_US_dedes.Mode2
+meVE.Lity3.melody = ""
+meVE.Lity3.text = ""
+
+meVE.LityGlory.mode = misc_en_US_dedes.Mode5
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.mode = misc_en_US_dedes.Mode5
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = ""
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha1.melody = ""
+meVE.Aposticha1.text = "He who of old conversed with Moses on Mount Sinai through symbols, saying, \"I am that I am, the One who is,\" was transfigured on Mount Tabor today for His Disciples to see. And since He had assumed human nature in himself, He showed them the original beauty of the image. He presented Moses and Elias as witnesses of this grace, and He let them share in the great joy, prefiguring what would follow through the Cross, namely the glorious and saving Resurrection."
+
+meVE.ApostichaVerse2.text = "The heavens belong to You, and the earth is Yours."
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha2.melody = ""
+meVE.Aposticha2.text = "When David, that ancestor of God, foresaw in the Spirit a long time ago that You, the Only-begotten Son, would visit mankind in the flesh, he invited all creation to celebrate. And he cried out prophetically, \"Tabor and Hermon shall greatly rejoice in Your name.\" And now, O Savior, as You mount that Mountain with Your Disciples, and as You are transfigured there, You have made our nature that was darkened in Adam to shine brightly again, transforming it into the glory and radiance of Your Divinity. Therefore we cry out to You: O Creator of all, glory to You, O Lord!"
+
+meVE.ApostichaVerse3.text = "Tabor and Hermon shall greatly rejoice in Your name."
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha3.melody = ""
+meVE.Aposticha3.text = "When Your foremost Apostles saw Your illimitable illumination and Your unapproachable Divinity on the Mountain of Your Transfiguration, O unoriginate Christ, they were changed by divine ecstasy. As a bright cloud shone all around them, they heard the Father's voice confirming the mystery of Your becoming man, that even after becoming incarnate, You are one and the same Only-begotten Son and Savior of the world."
+
+meVE.AposGlory.mode = misc_en_US_dedes.Mode6
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "Today on Mount Tabor, O Lord, You showed to Your foremost Disciples, Peter, James and John, the glory of Your divine appearance. For they watched as Your clothes were shining white as the light, and Your face shone brighter than the sun. But they could not bear to look and see Your unbearable shining, and they fell on the ground. Then they heard a voice bearing witness from above, \"This is My beloved Son, who has come to the world to save humankind.\""
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode7
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "You were transfigured upon the mountain, O Christ our God, showing to Your disciples Your glory as much as they could bear. Do also in us, sinners though we may be, shine Your everlasting light, by the intercessions of the Theotokos, O Giver of light. Glory to You."
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma11.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma11.text = "You were transfigured on the Mount * Tabor, and demonstrated thus * the transformation mortal men * shall with Your glory undergo * at the fearful Second Coming of You our Savior. * Moses and Elias were conversing with You. * And You called together three of Your disciples there, * who gazed upon Your glory, O Master, * and were astounded by Your fulgurant light. * O Lord who then shined Your light upon them, * do also illuminate our souls."
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma21.text = "You were transfigured on the Mount * Tabor, O Jesus our Lord, * and a shining cloud spread out * like a tabernacle * completely covering the Apostles with Your glory. * Whereupon they turned their gaze toward the ground, * unable to endure to see the radiance * of Your face's unapproachable glory, * O unoriginate Savior Christ. * Our God who then shined Your light upon them, * do also illuminate our souls."
+
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma31.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma31.text = "With Your Disciples You ascended the mountain, * and in the glory of the Father You shone forth, * while Moses and Elias stood beside You, O Lord. * To You as God do minister * both the Law and the Prophets. * The Genitor acknowledging Your natural sonship * did call You His beloved Son. * And we extol Him * with You and the Spirit."
+
+meMA.Prokeimenon.text = "" // for media
+//From goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=384andlanguage=elanddate=8/6/2013
+meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostles.text
+
+meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.Lity1.text
+
+meMA.C1Poet = poets_en_US_dedes.KosmaMonachou
+meMA.C1Acrostic.text = ""
+
+meMA.C2Poet = poets_en_US_dedes.IoannouTouDamaskinou
+meMA.C2Acrostic.text = ""
+
+meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C1H.text = he.h.m4_en_US_dedes.ChoroiIsrail.text
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C11.melody = he.h.m4_en_US_dedes.ChoroiIsrail.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_dedes.ChoroiIsrail.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_dedes.ChoroiIsrail.name
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C21.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C22.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+meMA.Ode1C22.text = ""
+
+meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C23.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+meMA.Ode1C23.text = ""
+
+meMA.Ode1K.ode = misc_en_US_dedes.Ode1
+meMA.Ode1K.mode = misc_en_US_dedes.Mode8
+meMA.Ode1K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1K.text = he.h.m8_en_US_dedes.StavronCharaxasMosis.text
+
+meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C1H.text = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.text
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C11.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C21.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C21.text = ""
+
+meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C22.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C22.text = ""
+
+meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C23.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C23.text = ""
+
+meMA.Ode3K.ode = misc_en_US_dedes.Ode3
+meMA.Ode3K.mode = misc_en_US_dedes.Mode8
+meMA.Ode3K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3K.text = he.h.m8_en_US_dedes.RavdosEisTypon.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.text = he.h.m4_en_US_dedes.EisakikoaTinEndoxon.text
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C11.melody = he.h.m4_en_US_dedes.EisakikoaTinEndoxon.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_dedes.EisakikoaTinEndoxon.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_dedes.EisakikoaTinEndoxon.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C14.melody = he.h.m4_en_US_dedes.EisakikoaTinEndoxon.name
+meMA.Ode4C14.text = ""
+
+meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C21.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C21.text = he.h.m8_en_US_dedes.EkSarkosSouVolides.text
+
+meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C22.melody = he.h.m8_en_US_dedes.EkSarkosSouVolides.name
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C23.melody = he.h.m8_en_US_dedes.EkSarkosSouVolides.name
+meMA.Ode4C23.text = ""
+
+meMA.Ode4C24.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C24.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C24.melody = he.h.m8_en_US_dedes.EkSarkosSouVolides.name
+meMA.Ode4C24.text = ""
+
+meMA.Ode4K.ode = misc_en_US_dedes.Ode4
+meMA.Ode4K.mode = misc_en_US_dedes.Mode8
+meMA.Ode4K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4K.text = he.h.m8_en_US_dedes.EisakikoaKyrie.text
+
+meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C1H.text = he.h.m4_en_US_dedes.OTouFotosDiatmixas.text
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C11.melody = he.h.m4_en_US_dedes.OTouFotosDiatmixas.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_dedes.OTouFotosDiatmixas.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_dedes.OTouFotosDiatmixas.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C14.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C14.melody = he.h.m4_en_US_dedes.OTouFotosDiatmixas.name
+meMA.Ode5C14.text = ""
+
+meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C21.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C22.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C22.text = ""
+
+meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C23.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C23.text = ""
+
+meMA.Ode5K.ode = misc_en_US_dedes.Ode5
+meMA.Ode5K.mode = misc_en_US_dedes.Mode8
+meMA.Ode5K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5K.text = he.h.m8_en_US_dedes.OTrismakaristonXylon.text
+
+meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.text = he.h.m4_en_US_dedes.EnToThlivesthaiMe.text
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C11.melody = he.h.m4_en_US_dedes.EnToThlivesthaiMe.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_dedes.EnToThlivesthaiMe.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C13.melody = he.h.m4_en_US_dedes.EnToThlivesthaiMe.name
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C21.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C22.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C22.text = ""
+
+meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C23.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C23.text = ""
+
+meMA.Ode6K.ode = misc_en_US_dedes.Ode6
+meMA.Ode6K.mode = misc_en_US_dedes.Mode8
+meMA.Ode6K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6K.text = he.h.m8_en_US_dedes.NotiouThiros.text
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode7
+meMA.Kontakion1.melody = ""
+meMA.Kontakion1.text = "Upon the mountain were You transfigured, and Your disciples beheld Your glory as far as they were able, O Christ our God; so that when they would see You crucified they might understand that Your Passion was deliberate, and declare to the world that in truth You are the Father's radiance."
+
+meMA.Oikos1.text = "Awake you dull thoughts, be not always groveling and bending my soul towards the earth; arise and go up to the height of divine ascent. Let us run to join Peter and Zebedee's sons, and with them go directly to Mount Tabor; that with them we may see the glory of our God, and may also hear the voice that they heard from heaven; and they proclaimed the Father's radiance."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C1H.text = he.h.m4_en_US_dedes.AvramiaioiPote.text
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C11.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C13.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C14.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C14.text = ""
+
+meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C21.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C22.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C23.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C23.text = "Now we have heard what was unheard of. * For the Father’s voice has gloriously borne witness * to His Son, who was born without a father from the Virgin, * because the Son is God and man, * in one person, to the ages."
+
+meMA.Ode7C24.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C24.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C24.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C24.text = ""
+
+meMA.Ode7K.ode = misc_en_US_dedes.Ode7
+meMA.Ode7K.mode = misc_en_US_dedes.Mode8
+meMA.Ode7K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7K.text = he.h.m8_en_US_dedes.EknoonProstagma.text
+
+meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.text = he.h.m4_en_US_dedes.OiEnVavyloniPaides.text
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C11.melody = he.h.m4_en_US_dedes.OiEnVavyloniPaides.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_dedes.OiEnVavyloniPaides.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_dedes.OiEnVavyloniPaides.name
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C14.melody = he.h.m4_en_US_dedes.OiEnVavyloniPaides.name
+meMA.Ode8C14.text = ""
+
+meMA.Ode8C15.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C15.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C15.melody = he.h.m4_en_US_dedes.OiEnVavyloniPaides.name
+meMA.Ode8C15.text = ""
+
+meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C21.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C22.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C23.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C23.text = ""
+
+meMA.Ode8C24.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C24.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C24.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C24.text = ""
+
+meMA.Ode8K.ode = misc_en_US_dedes.Ode8
+meMA.Ode8K.mode = misc_en_US_dedes.Mode8
+meMA.Ode8K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8K.text = he.h.m8_en_US_dedes.EvlogeitePaides.text
+
+meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C1H.text = he.h.m4_en_US_dedes.OTokosSouAfthoros.text
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C11.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C11.text = "Trembling at the new and brilliant shining, * suddenly illumined the Disciples * looked at one another. * And falling down with their faces to the ground, * they worshipped You the sovereign Master of the universe."
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C12.text = "A sound thundering from God was sent up * from the cloud verifying the wonder. * For the Father of lights * cried aloud to the Apostles: * This is my beloved Son. Listen to Him."
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C13.text = "Having seen strange and marvelous wonders, * and having heard the voice of the Father * on Mount Tabor, the servants of the Word * cried out proclaiming unto the whole world: * He is our Savior and the impress of the Archetype."
+
+meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C14.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C14.text = "Invariable image of the One who is, * the seal that is neither moved nor altered, * Son and Logos and Wisdom and Arm, * and Right Hand and Strength of the Most High, * we all extol you with the Father and the Spirit."
+
+meMA.Ode9C2H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C2H.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C2H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C2H.text = he.h.m8_en_US_dedes.EfrixePasaAkoi.text
+
+meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C21.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C21.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C21.text = "That You might manifestly show * Your unutterable second descent to come, * how You the Most High God * will then be seen standing in the midst of gods, * You did ineffably shine forth * on Moses and Elias and * on the Apostles, O Lord, * on Mount Tabor. Hence we magnify You, O Christ."
+
+meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C22.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C22.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C22.text = "People, come listen to me. * Let us climb that mountain, holy and heavenly, and immaterially * stand in the city of the living God. * Let us noetically see * the immaterial Divinity * of the Father and the Spirit, * shining forth in the Only-begotten Son."
+
+meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C23.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C23.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C23.text = "You have enraptured me, O Christ, * with Your longing and transformed me with love divine. * I pray, completely consume * with immaterial fire all my sins. * And count me worthy to be filled * fully with the delight in You, * that I may magnify * both Your Comings, O good Master, exultantly."
+
+meMA.Ode9K.ode = misc_en_US_dedes.Ode9
+meMA.Ode9K.mode = misc_en_US_dedes.Mode8
+meMA.Ode9K.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9K.text = he.h.m8_en_US_dedes.MystikosEiTheotoke.text
+
+meMA.Ode9K2.ode = misc_en_US_dedes.Ode9
+meMA.Ode9K2.mode = misc_en_US_dedes.Mode8
+meMA.Ode9K2.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9K2.text = he.h.m8_en_US_dedes.ODiaVroseos.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion1.melody = misc_en_US_dedes.Automelon
+meMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.FosAnalloioton.text
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode4
+meMA.Lauds1.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meMA.Lauds1.text = "Before You went to Your precious Cross and Passion, * taking those holy Disciples You had specially * chosen, O Lord, You went up with them into Mount Tabor, * wishing to show them Your glory as You did.* And when they beheld You thus transfigured and they saw * that You were shining more brightly than the sun, they fell down * and were astounded by Your authority. * They cried aloud: You are the timeless light, * and the Father's bright radiance, even though * as You willed You became flesh * without changing and were thus beheld."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode4
+meMA.Lauds2.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meMA.Lauds2.text = "O God the Word who exist before the ages, * who cover yourself with light as with a garment, O Lord, * You were transfigured before the eyes of Your Disciples * and shined, O Logos, more brightly than the sun. * Moses and Elias stood by You betokening * that You are truly the Lord of both the dead and living, * And they doxologized Your ineffable * mercy and dispensation and Your great * condescension by which You have saved the world * which was lost in transgressions * and was perishing because of sins."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode4
+meMA.Lauds3.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meMA.Lauds3.text = "When Your Disciples were there with You together, * the voice of the Father then explicitly declared * that You are His own beloved Son, the same in essence, * sharing the same throne, in whom He is well pleased, * You who from a virgin cloud were born becoming flesh, * and were transfigured, O sovereign Lord, upon Mount Tabor, * and were encompassed with a bright shining cloud. * Therefore did Peter in astonishment * say, \"O Master, it is well that we are here,\" * not knowing what he was saying, * O Benefactor rich in mercy."
+
+meMA.LaudsGlory.poet = poets_en_US_dedes.Vyzantos
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "Christ took Peter, James, and John, and led them up on a high mountain apart by themselves; and He was transfigured before them; and His face shone like the sun, and His clothes became as white as the light. Moses and Elijah appeared to them, talking with Him. Then a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, \"This is My beloved Son, in whom I am well pleased. Listen to Him!\""
+
+meMA.LaudsSundayVerse1.text = "" // for media on Sunday after
+
+meLI.Antiphon2.text = "who were transfigured in glory on Mt. Tabor."
+
+meLI.EntranceHymn.text = "" // for media
+
+meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
+meLI.SeasonalKontakion.melody = meMA.Kontakion1.melody
+meLI.SeasonalKontakion.text = meMA.Kontakion1.text
+
+meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode8
+meLI.TheotokosHymn.text = meMA.Ode7C23.text
+
+meLI.CommunionHymn.text = "" // for media
+
+meMegalynarion.text = ""
+

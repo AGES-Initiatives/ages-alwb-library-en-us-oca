@@ -1,0 +1,649 @@
+A_Resource_Whose_Name = me.m12.d25_en_US_dedes
+
+meDate.text = "December 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "The Nativity in the Flesh of our Lord God and Savior Jesus Christ" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "The Nativity in the Flesh of our Lord God and Savior Jesus Christ"
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+meDismissal = dismissals_en_US_dedes.dis00.christmas
+
+meVE.Stichera01.poet = poets_en_US_dedes.Germanou
+meVE.Stichera01.mode = misc_en_US_dedes.Mode2
+meVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera01.text = "Come, let us rejoice in the Lord, as we tell about this mystery. The middle wall of separation has been broken down; the fiery sword has turned back, the Cherubim permits access to the tree of life; and I partake of the delight of Paradise, from which I was cast out because of disobedience. For the exact Image of the Father, the express Image of his eternity, takes the form of a servant, coming forth from a virgin Mother; and He undergoes no change. He remained what He was, true God; and He took up what he was not, becoming human in His love for humanity. Let us cry out to Him: \"You who were born from a Virgin, O God, have mercy on us.\""
+
+meVE.Stichera02.poet = poets_en_US_dedes.Anatoliou
+meVE.Stichera02.mode = misc_en_US_dedes.Mode2
+meVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera02.text = "Since the Lord Jesus was born of the holy Virgin, the universe has been illumined. Shepherds were keeping watch, and Magi were adoring Him, and Angels were singing praises, and Herod was troubled; for God appeared in the flesh, yes, the Savior of our souls."
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode2
+meVE.Stichera03.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera03.text = "Your kingdom, O Christ God, is a kingdom of all the ages, and Your dominion is from generation to generation. You who were incarnate by the Holy Spirit and became man by the ever-virgin Mary, have shone on us as light, by Your advent, O Christ God. Light of light, the brightness of the Father, You have brightened all creation. Everything that breathes praises You, the express image of the Father's glory. O God, the One who is and who pre-existed, and who shone forth from the Virgin, have mercy on us."
+
+meVE.Stichera567.text = "" // for media on Sunday After
+
+meVE.Stichera04.mode = misc_en_US_dedes.Mode2
+meVE.Stichera04.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera04.text = "What shall we offer you, O Christ, because you have appeared on earth as a man for our sakes? For each of the creatures made by you offers you its thanks: the Angels, their hymn; the heavens, the Star; the Shepherds, their wonder; the Magi, their gifts; the earth, the Cave; the desert, the Manger; and we, a Virgin Mother. God before the ages, have mercy on us."
+
+meVE.SticGlory.poet = poets_en_US_dedes.Kasias
+meVE.SticGlory.mode = misc_en_US_dedes.Mode2
+meVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+meVE.SticGlory.text = "When Augustus reigned alone on the earth, the many kingdoms of mankind came to an end; and when You became man from the pure Virgin, the many gods of idolatry were destroyed. The cities of the world passed under one single rule, and the nations came to believe in one God. The peoples were enrolled by decree of Caesar; we the faithful were enrolled in the name of the Godhead, when You became man, O our God. Great is your mercy. Lord, glory to you."
+
+meVE.ProphecyTroparion1.mode = misc_en_US_dedes.Mode6
+meVE.ProphecyTroparion1.text = "O Savior, You were secretly born in the cave, but heaven used the star as a mouth and announced You to all. It brought to You the Magi who worshipped You with faith. Together with them have mercy on us."
+meVE.ProphecyTroparion1Refrain.text = "It brought to You the Magi who worshipped You with faith. Together with them have mercy on us."
+
+meVE.ProphecyTroparion2.mode = misc_en_US_dedes.Mode6
+meVE.ProphecyTroparion2.text = "You rose from the Virgin, O Christ, the noetic Sun of Righteousness, and a star pointed to You, the Uncontainable contained in a cave. It led the Magi to worship You; and with them we magnify You. O Giver of Life, glory to You!"
+meVE.ProphecyTroparion2Refrain.text = "It led the Magi to worship You; and with them we magnify You. O Giver of Life, glory to You!"
+
+meVE.TheotokosHymn.mode = ""
+meVE.TheotokosHymn.text = eu.lichrysbasil_en_US_dedes.euLI.Key1328.basil.text
+
+meVE.CommunionHymn.text = da.d1_en_US_dedes.daLI.CommunionHymn.text
+
+meVE.Lity1.poet = poets_en_US_dedes.IoannouMonachou
+meVE.Lity1.mode = misc_en_US_dedes.Mode1
+meVE.Lity1.melody = ""
+meVE.Lity1.text = ""
+
+meVE.Lity2.poet = poets_en_US_dedes.IoannouMonachou
+meVE.Lity2.mode = misc_en_US_dedes.Mode1
+meVE.Lity2.melody = ""
+meVE.Lity2.text = ""
+
+meVE.Lity3.poet = poets_en_US_dedes.IoannouMonachou
+meVE.Lity3.mode = misc_en_US_dedes.Mode1
+meVE.Lity3.melody = ""
+meVE.Lity3.text = "\"Glory to God in the highest!\" I hear the Angels sing this today in Bethlehem to Him whose good will it was that there be peace on earth. Now the Virgin is wider than heaven; for light has risen for those in darkness, and lifted up the humble who, like the angels, are singing, \"Glory to God in the highest.\""
+
+meVE.Lity4.mode = misc_en_US_dedes.Mode1
+meVE.Lity4.melody = ""
+meVE.Lity4.text = ""
+
+meVE.LityGlory.poet = poets_en_US_dedes.IoannouMonachou
+meVE.LityGlory.mode = misc_en_US_dedes.Mode5
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.poet = poets_en_US_dedes.Germanou
+meVE.LityBoth.mode = misc_en_US_dedes.Mode6
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = "All the Angels in heaven form a chorus and exult today; and all creation leaps for joy, because our Savior and Lord has been born in Bethlehem. All the deception of idols has ceased, and Christ reigns as King, forever and ever."
+
+meVE.Aposticha1.poet = poets_en_US_dedes.Germanou
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
+meVE.Aposticha1.melody = ""
+meVE.Aposticha1.text = "A great and paradoxal miracle has taken place today. A Virgin has given birth, and there is no damage to her womb. The Word becomes flesh, and He is not separated from the Father. Angels and Shepherd give glory, and we join them in shouting: \"Glory in the highest to God, and on earth let there be peace.\""
+
+meVE.ApostichaVerse2.text = ""
+
+meVE.Aposticha2.poet = poets_en_US_dedes.Germanou
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
+meVE.Aposticha2.melody = ""
+meVE.Aposticha2.text = ""
+
+meVE.ApostichaVerse3.text = ""
+
+meVE.Aposticha3.poet = poets_en_US_dedes.Germanou
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
+meVE.Aposticha3.melody = ""
+meVE.Aposticha3.text = ""
+
+meVE.AposGlory.poet = poets_en_US_dedes.IoannouMonachou
+meVE.AposGlory.mode = misc_en_US_dedes.Mode4
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = ""
+
+meVE.AposBoth.poet = poets_en_US_dedes.Anatoliou
+meVE.AposBoth.mode = misc_en_US_dedes.Mode4
+meVE.AposBoth.melody = ""
+meVE.AposBoth.text = ""
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "Your nativity, O Christ our God, has caused the light of knowledge to rise upon the world. For therein the worshippers of the stars were by a star instructed to worship You, the Sun of Righteousness, and to know You as Orient from on high. Glory to You, O Lord."
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma11.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma11.text = "Come, believers, let us see the place where Christ has been born.* With the Magi, those three kings who from the orient are,* now let us follow to where the star is proceeding.* Ceaselessly do Angels sing praises there.* Shepherds in the field sing a worthy song,* saying: Glory in the highest be to Him who* was born today in the grotto* from the Virgin and Theotokos,* in Bethlehem of Judea."
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma21.text = "Mary, why are you amazed and awed by what was done in you? * And she answers, \"For in time I have brought forth a timeless Son. * But I have no understanding of His conception. * Husbandless am I: how can I bear a son? * Who has ever seen seedless childbirth? * But where God wills, the order found in nature * is overcome, as it is written.\" * So Christ was born from the Virgin Maiden, * in Bethlehem of Judea."
+
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma31.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma31.text = "He whom nothing can contain has been contained in a womb. * He is in the Father's bosom and His Mother's embrace. * How can this be, but as He knows and willed and was well pleased. * Fleshless as He was, He willingly took flesh. * And He Who Is became what He was not, for us. * And while departing not from His own nature, * He shared in our nature's substance. * So Christ was born with dual natures, * wishing to replenish the world on high."
+
+meMA.Prokeimenon.text = "" // for media
+
+meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = "All things are filled with joy today, for Christ is born from the Virgin."
+
+meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = meMA.PostGospelGlory.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = "Glory to God in the highest, and peace on earth. Today Bethlehem receives him who is ever seated with the Father. Today Angels glorify in a manner fitting God the babe that is born. Glory to God in the highest, and on earth peace, and good will among men."
+
+meMA.C1Poet = poets_en_US_dedes.KyriouKosma
+meMA.C1Acrostic.text = ""
+
+meMA.C2Poet = poets_en_US_dedes.IoannouMonachou
+meMA.C2Acrostic.text = ""
+meMA.C2Acrostic1.text = ""
+meMA.C2Acrostic2.text = ""
+meMA.C2Acrostic3.text = ""
+meMA.C2Acrostic4.text = ""
+meMA.C2Acrostic5.text = ""
+
+meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1H.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C1H.text = he.h.m1_en_US_dedes.ChristosGennatai.text
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C11.melody = he.h.m1_en_US_dedes.ChristosGennatai.name
+meMA.Ode1C11.text = "Man was made in the image of God. * Because of his transgression he tumbled down, * and was to corruption wholly bound, * falling from a divine, superior life. * Now the wise Creator once again refashions Him. * For He is glorified."
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C12.melody = he.h.m1_en_US_dedes.ChristosGennatai.name
+meMA.Ode1C12.text = "The Master Builder, seeing collapsed * the man whom He constructed with His own hands, * bowing the heavens now descends. * And through a pure and holy Virgin unites * wholly with his nature, having truly taken flesh. * For He is glorified."
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C13.melody = he.h.m1_en_US_dedes.ChristosGennatai.name
+meMA.Ode1C13.text = "Christ our God, as the Father's Son, * His wisdom, Logos, power and radiance, * eluding the powers everywhere, * extraterrestrial and those down on earth, * and becoming human, has recovered us again. * For He is glorified."
+
+meMA.Ode1C2H.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C2H.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C2H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C2H.text = he.h.m1_en_US_dedes.EsoseLaon.text
+meMA.Ode1C2H1.text = he.h.m1_en_US_dedes.EsoseLaon1.text
+meMA.Ode1C2H2.text = he.h.m1_en_US_dedes.EsoseLaon2.text
+meMA.Ode1C2H3.text = he.h.m1_en_US_dedes.EsoseLaon3.text
+meMA.Ode1C2H4.text = he.h.m1_en_US_dedes.EsoseLaon4.text
+meMA.Ode1C2H5.text = he.h.m1_en_US_dedes.EsoseLaon5.text
+
+meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C21.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C21.melody = he.h.m1_en_US_dedes.EsoseLaon.name
+meMA.Ode1C21.text = ""
+meMA.Ode1C211.text = ""
+meMA.Ode1C212.text = ""
+meMA.Ode1C213.text = ""
+meMA.Ode1C214.text = ""
+meMA.Ode1C215.text = ""
+
+meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C22.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C22.melody = he.h.m1_en_US_dedes.EsoseLaon.name
+meMA.Ode1C22.text = ""
+meMA.Ode1C221.text = ""
+meMA.Ode1C222.text = ""
+meMA.Ode1C223.text = ""
+meMA.Ode1C224.text = ""
+meMA.Ode1C225.text = ""
+
+meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1H.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C1H.text = he.h.m1_en_US_dedes.ToProTonAionon.text
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C11.melody = he.h.m1_en_US_dedes.ToProTonAionon.name
+meMA.Ode3C11.text = "Made of dust was Adam, * while enjoying superior insufflation. * But through seduction by the woman, * he slipped into corruption. * Gazing at Christ born of woman, he cries: * You who for me have become now like me, * only You are holy, O Lord."
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C12.melody = ""
+meMA.Ode3C12.text = "Through participation * in inferior flesh, You, O Christ, did impart * divine nature. And conforming * to ignoble clay formation, * You were born human and remained God, * and have exalted the horn of our strength. * Only You are holy, O Lord."
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C13.melody = ""
+meMA.Ode3C13.text = "Bethlehem, be merry, * as the Queen of the rulers of Judah; for lo, * Israel's shepherd who is seated * on the Cherubim's shoulders, * Christ who manifestly hails from you * and who exalted the horn of our strength, * has reigned as King over all."
+
+meMA.Ode3C2H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C2H.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C2H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C2H.text = he.h.m1_en_US_dedes.NefsonProsYmnous.text
+meMA.Ode3C2H1.text = he.h.m1_en_US_dedes.NefsonProsYmnous1.text
+meMA.Ode3C2H2.text = he.h.m1_en_US_dedes.NefsonProsYmnous2.text
+meMA.Ode3C2H3.text = he.h.m1_en_US_dedes.NefsonProsYmnous3.text
+meMA.Ode3C2H4.text = he.h.m1_en_US_dedes.NefsonProsYmnous4.text
+meMA.Ode3C2H5.text = he.h.m1_en_US_dedes.NefsonProsYmnous5.text
+
+meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C21.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C21.melody = he.h.m1_en_US_dedes.NefsonProsYmnous.name
+meMA.Ode3C21.text = ""
+meMA.Ode3C211.text = ""
+meMA.Ode3C212.text = ""
+meMA.Ode3C213.text = ""
+meMA.Ode3C214.text = ""
+meMA.Ode3C215.text = ""
+
+meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C22.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C22.melody = he.h.m1_en_US_dedes.NefsonProsYmnous.name
+meMA.Ode3C22.text = ""
+meMA.Ode3C221.text = ""
+meMA.Ode3C222.text = ""
+meMA.Ode3C223.text = ""
+meMA.Ode3C224.text = ""
+meMA.Ode3C225.text = ""
+
+meMA.Hypakoe.mode = misc_en_US_dedes.Mode8
+meMA.Hypakoe.melody = ""
+meMA.Hypakoe.text = "Heaven called the Magi by a star, and thus it brought the first-fruits of the Gentiles to You, the infant lying in the manger. And they were amazed, not by scepters and thrones, but by the utter poverty. For what is more shabby than a cave? And what is more humble than swaddling clothes? But it was through these that the richese of your divinity shone forth. Lord, glory to You!"
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1H.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.text = he.h.m1_en_US_dedes.RavdosEkTisRizis.text
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C11.melody = he.h.m1_en_US_dedes.RavdosEkTisRizis.name
+meMA.Ode4C11.text = "O Christ, of whom Jacob once foretold, * the expectation of the nations, * from the tribe of Judah You arose and came to carry off * the power of Damascus and spoils of Samaria, * converting error into godly faith. * Glory to Your power, O Lord."
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C12.melody = he.h.m1_en_US_dedes.RavdosEkTisRizis.name
+meMA.Ode4C12.text = "You rose out of Jacob as of old * the seer Balaam foretold. * And mystic scholars of his oracles, those stargazers from the east, * You, the Star, fulfilled with joy, * the first importation from the Gentiles, * O Master, whom You received * bearing You acceptable gifts."
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C13.melody = he.h.m1_en_US_dedes.RavdosEkTisRizis.name
+meMA.Ode4C13.text = "Like rain on a fleece did You descend, * O Christ, into the virgin womb; * and like raindrops falling down to earth, so did Ethiopians, * and kings from Tarshish, the Isles of Arabia, * Sheba, Persia and all the earth, O Savior, fall down to You. * Glory to Your power, O Lord."
+
+meMA.Ode4C2H.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C2H.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C2H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C2H.text = he.h.m1_en_US_dedes.GenousVroteiou.text
+meMA.Ode4C2H1.text = he.h.m1_en_US_dedes.GenousVroteiou1.text
+meMA.Ode4C2H2.text = he.h.m1_en_US_dedes.GenousVroteiou2.text
+meMA.Ode4C2H3.text = he.h.m1_en_US_dedes.GenousVroteiou3.text
+meMA.Ode4C2H4.text = he.h.m1_en_US_dedes.GenousVroteiou4.text
+meMA.Ode4C2H5.text = he.h.m1_en_US_dedes.GenousVroteiou5.text
+
+meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C21.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C21.melody = he.h.m1_en_US_dedes.GenousVroteiou.name
+meMA.Ode4C21.text = ""
+meMA.Ode4C211.text = ""
+meMA.Ode4C212.text = ""
+meMA.Ode4C213.text = ""
+meMA.Ode4C214.text = ""
+meMA.Ode4C215.text = ""
+
+meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C22.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C22.melody = he.h.m1_en_US_dedes.GenousVroteiou.name
+meMA.Ode4C22.text = ""
+meMA.Ode4C221.text = ""
+meMA.Ode4C222.text = ""
+meMA.Ode4C223.text = ""
+meMA.Ode4C224.text = ""
+meMA.Ode4C225.text = ""
+
+meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C23.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C23.melody = he.h.m1_en_US_dedes.GenousVroteiou.name
+meMA.Ode4C23.text = ""
+meMA.Ode4C231.text = ""
+meMA.Ode4C232.text = ""
+meMA.Ode4C233.text = ""
+meMA.Ode4C234.text = ""
+meMA.Ode4C235.text = ""
+
+meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1H.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C1H.text = he.h.m1_en_US_dedes.TheosOnEirinis.text
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C11.melody = he.h.m1_en_US_dedes.TheosOnEirinis.name
+meMA.Ode5C11.text = "Submitting to Caesar Augustus' decree, * You, O Christ, were enrolled among your own slaves, * and freed us from our slavery to the enemy and sin. * Assuming our entire impoverished earthen nature, * by this very union and communion You rendered it deified."
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C12.melody = he.h.m1_en_US_dedes.TheosOnEirinis.name
+meMA.Ode5C12.text = "As Prophet Isaiah of old said, behold, * has the Virgin conceived in the womb and borne * God in human form, and yet remains a virgin still. * In truth the Theotokos is she through whom we sinners * have been reconciled to God. Come, let us praise her faithfully."
+
+meMA.Ode5C2H.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C2H.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C2H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C2H.text = he.h.m1_en_US_dedes.EkNyktosErgon.text
+meMA.Ode5C2H1.text = he.h.m1_en_US_dedes.EkNyktosErgon1.text
+meMA.Ode5C2H2.text = he.h.m1_en_US_dedes.EkNyktosErgon2.text
+meMA.Ode5C2H3.text = he.h.m1_en_US_dedes.EkNyktosErgon3.text
+meMA.Ode5C2H4.text = he.h.m1_en_US_dedes.EkNyktosErgon4.text
+meMA.Ode5C2H5.text = he.h.m1_en_US_dedes.EkNyktosErgon5.text
+
+meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C21.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C21.melody = he.h.m1_en_US_dedes.EkNyktosErgon.name
+meMA.Ode5C21.text = ""
+meMA.Ode5C211.text = ""
+meMA.Ode5C212.text = ""
+meMA.Ode5C213.text = ""
+meMA.Ode5C214.text = ""
+meMA.Ode5C215.text = ""
+
+meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C22.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C22.melody = he.h.m1_en_US_dedes.EkNyktosErgon.name
+meMA.Ode5C22.text = ""
+meMA.Ode5C221.text = ""
+meMA.Ode5C222.text = ""
+meMA.Ode5C223.text = ""
+meMA.Ode5C224.text = ""
+meMA.Ode5C225.text = ""
+
+meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1H.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.text = he.h.m1_en_US_dedes.SplanchnonIonan.text
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C11.melody = he.h.m1_en_US_dedes.SplanchnonIonan.name
+meMA.Ode6C11.text = "He is come made flesh * Christ our God, whom from the womb before the morning star does God the Father beget. * He who rides upon the immaculate host of the heavenly minds * now is laid in a manger of irrationals. * He is wrapped in tattered swaddling clothes, * but He looses transgressions' entangling bonds."
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C12.melody = he.h.m1_en_US_dedes.SplanchnonIonan.name
+meMA.Ode6C12.text = "For a child was born, * a Son, from Adam's nature, and given unto those who believe in Him. * Of the age to come He is Father and Prince, and His name has been called * the Angel of Great Counsel. Mighty God is He; * wonderful Counselor, Prince of peace, * and He governs creation with authority."
+
+meMA.Ode6C2H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C2H.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C2H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C2H.text = he.h.m1_en_US_dedes.NaionIonas.text
+meMA.Ode6C2H1.text = he.h.m1_en_US_dedes.NaionIonas1.text
+meMA.Ode6C2H2.text = he.h.m1_en_US_dedes.NaionIonas2.text
+meMA.Ode6C2H3.text = he.h.m1_en_US_dedes.NaionIonas3.text
+meMA.Ode6C2H4.text = he.h.m1_en_US_dedes.NaionIonas4.text
+meMA.Ode6C2H5.text = he.h.m1_en_US_dedes.NaionIonas5.text
+
+meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C21.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C21.melody = he.h.m1_en_US_dedes.NaionIonas.name
+meMA.Ode6C21.text = ""
+meMA.Ode6C211.text = ""
+meMA.Ode6C212.text = ""
+meMA.Ode6C213.text = ""
+meMA.Ode6C214.text = ""
+meMA.Ode6C215.text = ""
+
+meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C22.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C22.melody = he.h.m1_en_US_dedes.NaionIonas.name
+meMA.Ode6C22.text = ""
+meMA.Ode6C221.text = ""
+meMA.Ode6C222.text = ""
+meMA.Ode6C223.text = ""
+meMA.Ode6C224.text = ""
+meMA.Ode6C225.text = ""
+
+meMA.Kontakion1.poet = poets_en_US_dedes.RomanouTouMelodou
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
+meMA.Kontakion1.melody = misc_en_US_dedes.Automelon
+meMA.Kontakion1.text = he.a.m3_en_US_dedes.IParthenosSimeron.text
+
+meMA.Oikos1.text = "Bethlehem has opened Eden. Come, let us see. We have found the hidden delight. Come, let us receive the things of Paradise inside the Cave. There, we shall see an unwatered root that blossomed forgiveness. There, we shall find an undug well, from which David of old desired to drink. There, the Virgin quenched the thirst of both Adam and David, when she gave birth to her baby. So let us go there now, where He was born a newborn Child, the pre-eternal God."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1H.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C1H.text = he.h.m1_en_US_dedes.OiPaidesEfseveia.text
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C11.melody = he.h.m1_en_US_dedes.OiPaidesEfseveia.name
+meMA.Ode7C11.text = "The shepherds keeping watch over their flocks by night * witnessed an astonishing epiphany of light. * For the glory of the Lord surrounded them, * and an Angel shouted: Praise the Lord for Christ is born, * and say, O God of the fathers, You are blessed."
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C12.melody = he.h.m1_en_US_dedes.OiPaidesEfseveia.name
+meMA.Ode7C12.text = "And suddenly, with the Angel a multitude * of the host of heaven chanted, \"Glory to God * in the highest heaven and upon the earth, * peace to all mankind by the eternal divine good will,\" * and sang: \"O God of the fathers, You are blessed.\""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C13.melody = he.h.m1_en_US_dedes.OiPaidesEfseveia.name
+meMA.Ode7C13.text = "\"What can this be?\" the shepherds said in wonder. * \"Let us go ourselves and witness this divine event.\" * And coming to Bethlehem they worshipped Christ * along with her who gave Him birth, and they chanted with joy, * saying: \"O God of the fathers, You are blessed.\""
+
+meMA.Ode7C2H.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C2H.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C2H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C2H.text = he.h.m1_en_US_dedes.ToPantanaktos.text
+meMA.Ode7C2H1.text = he.h.m1_en_US_dedes.ToPantanaktos1.text
+meMA.Ode7C2H2.text = he.h.m1_en_US_dedes.ToPantanaktos2.text
+meMA.Ode7C2H3.text = he.h.m1_en_US_dedes.ToPantanaktos3.text
+meMA.Ode7C2H4.text = he.h.m1_en_US_dedes.ToPantanaktos4.text
+meMA.Ode7C2H5.text = he.h.m1_en_US_dedes.ToPantanaktos5.text
+
+meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C21.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C21.melody = he.h.m1_en_US_dedes.ToPantanaktos.name
+meMA.Ode7C21.text = ""
+meMA.Ode7C211.text = ""
+meMA.Ode7C212.text = ""
+meMA.Ode7C213.text = ""
+meMA.Ode7C214.text = ""
+meMA.Ode7C215.text = ""
+
+meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C22.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C22.melody = he.h.m1_en_US_dedes.ToPantanaktos.name
+meMA.Ode7C22.text = ""
+meMA.Ode7C221.text = ""
+meMA.Ode7C222.text = ""
+meMA.Ode7C223.text = ""
+meMA.Ode7C224.text = ""
+meMA.Ode7C225.text = ""
+
+meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C23.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C23.melody = he.h.m1_en_US_dedes.ToPantanaktos.name
+meMA.Ode7C23.text = ""
+meMA.Ode7C231.text = ""
+meMA.Ode7C232.text = ""
+meMA.Ode7C233.text = ""
+meMA.Ode7C234.text = ""
+meMA.Ode7C235.text = ""
+
+meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1H.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.text = he.h.m1_en_US_dedes.ThavmatosYperfyous.text
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C11.melody = he.h.m1_en_US_dedes.ThavmatosYperfyous.name
+meMA.Ode8C11.text = "The daughter of Babylon drew into exile * David's children as captives from Zion. * In return, she sends her own captivated * children, the three Magi bearing gifts, to court David's Daughter bearing God. * So let us melodiously chant in praise: * Let all creation bless and extol the Lord, * and let it exalt Him supremely to the ages."
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C12.melody = he.h.m1_en_US_dedes.ThavmatosYperfyous.name
+meMA.Ode8C12.text = "Lamentation once suspended organ of song; * for Zion's children would not sing in strange lands. * Rising out of Bethlehem, Christ abolished * all the error of Babylon, her symphony of music as well. * So let us melodiously chant in praise: * Let all creation bless and extol the Lord, * and let it exalt Him supremely to the ages."
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C13.melody = he.h.m1_en_US_dedes.ThavmatosYperfyous.name
+meMA.Ode8C13.text = "Babylon captured the spoils of war and riches * from the Queen of the cities of Zion. * Now from Zion, Christ captivates her treasures, * namely her stargazing kings themselves, bedazzled by the bright guiding star. * So let us melodiously chant in praise: * Let all creation bless and extol the Lord, * and let it exalt Him supremely to the ages."
+
+meMA.Ode8C2H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C2H.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C2H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C2H.text = he.h.m1_en_US_dedes.MitranAflektos.text
+meMA.Ode8C2H1.text = he.h.m1_en_US_dedes.MitranAflektos1.text
+meMA.Ode8C2H2.text = he.h.m1_en_US_dedes.MitranAflektos2.text
+meMA.Ode8C2H3.text = he.h.m1_en_US_dedes.MitranAflektos3.text
+meMA.Ode8C2H4.text = he.h.m1_en_US_dedes.MitranAflektos4.text
+meMA.Ode8C2H5.text = he.h.m1_en_US_dedes.MitranAflektos5.text
+
+meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C21.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C21.melody = he.h.m1_en_US_dedes.MitranAflektos.name
+meMA.Ode8C21.text = ""
+meMA.Ode8C211.text = ""
+meMA.Ode8C212.text = ""
+meMA.Ode8C213.text = ""
+meMA.Ode8C214.text = ""
+meMA.Ode8C215.text = ""
+
+meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C22.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C22.melody = he.h.m1_en_US_dedes.MitranAflektos.name
+meMA.Ode8C22.text = ""
+meMA.Ode8C221.text = ""
+meMA.Ode8C222.text = ""
+meMA.Ode8C223.text = ""
+meMA.Ode8C224.text = ""
+meMA.Ode8C225.text = ""
+
+meMA.Ode9C1M01.text = me.m01.d06_en_US_dedes.meMA.Ode9C1M01.text
+meMA.Ode9C1M02.text = "O my soul, magnify God who was born in the flesh from a Virgin."
+meMA.Ode9C1M03.text = "O my soul, magnify the King who was born as an infant in the grotto."
+meMA.Ode9C1M04.text = "O my soul, magnify God who was worshiped by the Magi."
+meMA.Ode9C1M05.text = ""
+meMA.Ode9C1M06.text = ""
+meMA.Ode9C1M07.text = ""
+
+meMA.Ode9C2M01.text = "Today the holy Virgin gives birth to the Master within the cave and grotto."
+meMA.Ode9C2M02.text = "Today our Lord and Master is born as an infant; His Mother is a virgin."
+meMA.Ode9C2M03.text = ""
+meMA.Ode9C2M04.text = ""
+meMA.Ode9C2M05.text = ""
+meMA.Ode9C2M06.text = ""
+meMA.Ode9C2MTr.text = me.m01.d06_en_US_dedes.meMA.Ode9C2MTr.text
+meMA.Ode9C2MTh.text = me.m01.d06_en_US_dedes.meMA.Ode9C2MTh.text
+
+meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1H.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C1H.text = he.h.m1_en_US_dedes.MystirionXenon.text
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C11.melody = he.h.m1_en_US_dedes.MystirionXenon.name
+meMA.Ode9C11.text = "The wise men concluded from their observations of * the extraordinary path of the peculiar nova which had lately * appeared and was shining more brightly than anything in outer space, * that Christ the King was born on earth, in Bethlehem to save our souls."
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C12.melody = he.h.m1_en_US_dedes.MystirionXenon.name
+meMA.Ode9C12.text = "When Magi came saying: \"Where is the newly born * child King whose star has appeared? * For we have come to adore Him * with gold, myrrh and incense,\" * then Herod, the enemy of God, was vexed, and madly incensed, * fuming he plotted how to murder Christ."
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C13.melody = he.h.m1_en_US_dedes.MystirionXenon.name
+meMA.Ode9C13.text = "Herod ascertained the exact time the star appeared; * by the guidance of which the wise men * with gifts in Bethlehem worshipped Christ; * by Whom they were directed * to go to their country by another way, * abandoning that terrible, ridiculous infanticide."
+
+meMA.Ode9C2H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C2H.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C2H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C2H.text = he.h.m1_en_US_dedes.StergeinMenImas.text
+meMA.Ode9C2H1.text = he.h.m1_en_US_dedes.StergeinMenImas1.text
+meMA.Ode9C2H2.text = he.h.m1_en_US_dedes.StergeinMenImas2.text
+meMA.Ode9C2H3.text = he.h.m1_en_US_dedes.StergeinMenImas3.text
+meMA.Ode9C2H4.text = he.h.m1_en_US_dedes.StergeinMenImas4.text
+meMA.Ode9C2H5.text = he.h.m1_en_US_dedes.StergeinMenImas5.text
+
+meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C21.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C21.melody = he.h.m1_en_US_dedes.StergeinMenImas.name
+meMA.Ode9C21.text = "We have clearly seen the obscure types and shadows * fulfilled; and the light of the truth we perceive now, * O pure Theotokos and Mother of the Logos * who lately came forth from the gate that had been closed. * Worthily we bless your womb, all-holy Virgin."
+meMA.Ode9C211.text = "We have clearly seen the obscure types and shadows"
+meMA.Ode9C212.text = "fulfilled; and the light of the truth we perceive now,"
+meMA.Ode9C213.text = "O pure Theotokos and Mother of the Logos,"
+meMA.Ode9C214.text = "who lately came forth from the gate that had been closed."
+meMA.Ode9C215.text = "Worthily we bless your womb, all-holy Virgin."
+
+meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C22.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C22.melody = he.h.m1_en_US_dedes.StergeinMenImas.name
+meMA.Ode9C22.text = "Having been granted the longed-for experience * of the Advent of God, the Christ-pleasing people * tearfully prays to see the regeneration, * the life-giving Baptism. All-pure and holy Virgin, * grant us the favor, to venerate that glory."
+meMA.Ode9C221.text = "Having been granted the longed-for experience"
+meMA.Ode9C222.text = "of the Advent of God, the Christ-pleasing people"
+meMA.Ode9C223.text = "tearfully prays to see the regeneration,"
+meMA.Ode9C224.text = "the life-giving Baptism. All-pure and holy Virgin,"
+meMA.Ode9C225.text = "grant us the favor, to venerate that glory."
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion1.melody = misc_en_US_dedes.Automelon
+meMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.EpeskepsatoImas.text
+
+meMA.Lauds1.poet = poets_en_US_dedes.AndreouIerosolymitou
+meMA.Lauds1.mode = misc_en_US_dedes.Mode4
+meMA.Lauds1.melody = ""
+meMA.Lauds1.text = "You righteous, be glad in heart; and the heavens, be exultant. Leap for joy, O mountains, at the birth of the Messiah. Resembling the Cherubim, the Virgin Maiden is seated and holds in her embraces God the Logos incarnate. The shepherds glorify the newborn Babe; Magi bring the Master their precious gifts. Angels are singing hymns of praise, and say, \"O Lord incomprehensible, glory to You.\""
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode4
+meMA.Lauds2.melody = ""
+meMA.Lauds2.text = "The Father was well pleased; the Logos became flesh; and the Virgin gave birth to God who became man. A Star reveals Him; Magi bow in worship; Shepherds marvel, and creation rejoices."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode4
+meMA.Lauds3.melody = ""
+meMA.Lauds3.text = "O Virgin Theotokos who gave birth to the Savior, you reversed the curse to which Eve once was subject. For you have become the Mother of the Father's good pleasure, and you hold in your embraces God the Logos incarnate. The mystery admits no inquiry; we all glorify it by faith alone, and with you we cry aloud and say, \"O Lord incomprehensible, glory to You.\""
+
+meMA.Lauds4.mode = misc_en_US_dedes.Mode4
+meMA.Lauds4.melody = ""
+meMA.Lauds4.text = "Come, let us extol and praise the Savior's Mother, who remained a virgin even after childbirth. Animate City of our King and God, rejoice, for Christ having dwelt in you has wrought our salvation. Together with Gabriel we sing your praise, together with the shepherds we glorify you, crying out, \"Theotokos, intercede with the Lord, who is incarnate from you, to save us.\""
+
+meMA.LaudsGlory.poet = poets_en_US_dedes.Germanou
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "When the time came for Your Advent on earth, the first census of the Roman world was conducted. Then it was that You began to record the names of those who would believe in Your birth. Such a decree was published by Caesar, because the timelessness of Your eternal kingdom was revealed anew. And now, we in our turn, above and beyond a monetary tax, bring to You the wealth of Orthodox theology, O God and Savior of our souls."
+
+meMA.LaudsBoth.poet = poets_en_US_dedes.IoannouMonachou
+meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
+meMA.LaudsBoth.melody = ""
+meMA.LaudsBoth.text = "Today in Bethlehem, Christ is born of the Virgin. Today, the Unoriginate begins, and the Word becomes flesh. The hosts of heaven are rejoicing, and the earth and humanity are merry. The Magi bring their gifts. The Shepherds proclaim the marvel. And we unceasingly cry aloud: * \"Glory to God in the highest, and on earth peace, goodwill toward men!\""
+
+meLI.Antiphon2.text = "who were born of a Virgin."
+
+meLI.EntranceHymn.text = ""
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
+meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
+meLI.SeasonalKontakion.text = meMA.Kontakion1.text
+
+//Need to prefix Megalynarion
+meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode1
+meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
+meLI.TheotokosHymn.text = meMA.Ode9C1H.text
+
+meLI.CommunionHymn.text = ""
+
+meLI.AfterCommunion.mode = misc_en_US_dedes.Mode4
+meLI.AfterCommunion.text = meVE.Apolytikion1.text
+
+meMegalynarion.text = ""
+

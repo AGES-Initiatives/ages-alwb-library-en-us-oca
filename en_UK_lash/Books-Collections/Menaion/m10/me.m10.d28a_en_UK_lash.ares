@@ -1,0 +1,638 @@
+A_Resource_Whose_Name = me.m10.d28a_en_UK_lash
+
+meDate.text = "October 28"
+meCommemoration.text = "We celebrate the commemoration of the Holy Protecting Veil of our Most Holy Lady, the Mother of God and Ever-Virgin Mary."
+meShortCommemoration1.text = "Holy Protection"
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "the commemoration of whose Holy Protecting Veil we celebrate;" //for use in petitions and dismissal
+meNote.text = "The Office I have translated here is that written by the late Father Gerasimos and first published in 1952 in connection with the decision by the Church of Greece to move the day of the feast to the 28th of the month, to commemorate the famous 'No' of the Greeks to the Italians in 1941. Father Gerasimos's text is centred on the original story of the vision of the monk Andrew in the church at Vlachernae and not in the least nationalistic. It is interesting, however, to note that in the text of the October Menaion published by the Apostoliki Diakonia in Athens altered the third line of the verses of the Synaxarion reads, 'Protection of God's Mother now veils Greece,' where Fr Gerasimos had written, 'Protection of God's Mother veils God's people.'"
+meLE.commemoration1 = "We celebrate the commemoration of the Holy Protecting Veil of our Most Holy Lady, the Mother of God and Ever-Virgin Mary."
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meSV.Stichera1.mode = misc_en_UK_lash.Mode1
+meSV.Stichera1.melody = ""
+meSV.Stichera1.text = 
+
+meSV.Stichera2.mode = misc_en_UK_lash.Mode1
+meSV.Stichera2.melody = ""
+meSV.Stichera2.text = 
+
+meSV.Stichera3.mode = misc_en_UK_lash.Mode1
+meSV.Stichera3.melody = ""
+meSV.Stichera3.text = 
+
+meSV.Stichera4.mode = misc_en_UK_lash.Mode1
+meSV.Stichera4.melody = ""
+meSV.Stichera4.text = 
+
+meSV.SticGlory.mode = misc_en_UK_lash.Mode1
+meSV.SticGlory.melody  = ""
+meSV.SticGlory.text = 
+
+meSV.Aposticha1.mode = misc_en_UK_lash.Mode2
+meSV.Aposticha1.melody = ""
+meSV.Aposticha1.text = 
+
+meSV.ApostichaVerse2.text = 
+
+meSV.Aposticha2.mode = misc_en_UK_lash.Mode2
+meSV.Aposticha2.melody = ""
+meSV.Aposticha2.text = 
+
+meSV.ApostichaVerse3.text = 
+
+meSV.Aposticha3.mode = misc_en_UK_lash.Mode2
+meSV.Aposticha3.melody = ""
+meSV.Aposticha3.text = 
+
+meSV.AposGlory.mode = misc_en_UK_lash.Mode2
+meSV.AposGlory.melody = ""
+meSV.AposGlory.text = 
+
+meSV.AposBoth.mode = misc_en_UK_lash.Mode2
+meSV.AposBoth.melody = misc_en_UK_lash.Heirmos
+meSV.AposBoth.text = 
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode1
+meVE.Stichera01.melody = ""
+meVE.Stichera01.text = "O marvellous wonder! The pure Mother of God each day unfolds her Protecting Veil, and with her motherly care and grace manifestly protects from every assault those who look to her and cry: Hail, Full of grace, protection and help of the your race that faithfully magnifies you, O Virgin."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode1
+meVE.Stichera02.melody = ""
+meVE.Stichera02.text = "Ah, your wonders, Pure Virgin! For you marvellously unfolded your Protecting Veil and wondrously protected the Queen of cities; while later by the grace of your light-bearing Protection you openly saved the people that bears Christ’s name from hostile threat. Therefore, raising songs of grateful praise, rejoicing we commemorate your many wonders."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode1
+meVE.Stichera03.melody = ""
+meVE.Stichera03.text = "The choirs of believers, Sovereign Lady, proclaim your providence towards us, as we praise your mother’s care. For from of old in your compassion you placed us beneath your Protection, and declared the race of the Orthodox to be your chosen lot. Therefore, O Full of grace, we cry to you: Hail! and magnify the graces of your godly Protecting Veil."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode4
+meVE.Stichera04.melody = ""
+meVE.Stichera04.text = "As we celebrate the memorial of your Protecting Veil, O Immaculate, we magnify your loving-kindness; because you rescue your race from every constraint and grant each day unstinted grace to those who praise the astounding mighty works of your glory and the greatness of its wonders."
+
+meVE.Stichera05.mode = misc_en_UK_lash.Mode4
+meVE.Stichera05.melody = ""
+meVE.Stichera05.text = "Wondrously of old you invisibly unfolded your Protecting Veil and protected the Royal City, but now even more manifestly you protect us, immaculate Maiden, and you guard and keep safe from all affliction your new inheritance. Therefore we sing the praise of the gifts of your Protecting Veil, O Virgin, and your constant help."
+
+meVE.Stichera06.mode = misc_en_UK_lash.Mode4
+meVE.Stichera06.melody = ""
+meVE.Stichera06.text = "In many ways, O Maiden, we know and clearly we have seen the manifestation of your holy Protection, shining out for by proofs and wonders, and with fervent tears we have glorified your abundant goodness, because you save us in dangers and grant joy to the afflicted and the suffering."
+
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody  = ""
+meVE.SticGlory.text = "Today your faithful people, Mother of God, whom you declared to be a holy nation and a special inheritance, honours the grace of your Protecting Veil, as they sing your songs of thanksgiving. For you have worked wonders and marvels among us in past generations, but now also you protect us and give us strength, you have rescued us from foes who assail us and have filled our souls with joy. Therefore we confess your grace and taking refuge in your radiant Protection, we fervently cry out, ‘Until the end of the age, Queen of all, protect those who unhesitatingly call out to you."
+meVE.Lity1.mode = misc_en_UK_lash.Mode1
+meVE.Lity1.melody  = ""
+meVE.Lity1.text = "Every country of the Orthodox, rejoice, for you are protected by the Protecting Veil of the all-praised Mother of God. For invisibly she, the Mother of the unsetting Light, unfolding it like a cloud of light, wraps you around, protects you from every side and turns back the regiments of enemies both perceptible and immaterial. Therefore with triumphant voice proclaim the grace you have been given, and resoundingly praise the Virgin who protects you, crying aloud, ‘Hail, Full of grace, the Lord is with you, he who through you grants the world his great mercy!’"
+
+meVE.Lity2.mode = misc_en_UK_lash.Mode2
+meVE.Lity2.melody  = ""
+meVE.Lity2.text = "As a radiant Queen you appeared to venerable Andrew, manifesting yourself invisibly in the church of Vlachernae, Mother of God, and you protected the queen of cities by unfolding your Protecting Veil, while you have filled us with joy by the exercise of your aid. But, Virgin all-praised, our protection and help, keep our race safe, we beg, from every assault."
+
+meVE.Lity3.mode = misc_en_UK_lash.Mode3
+meVE.Lity3.melody  = ""
+meVE.Lity3.text = "Of old the cloud covered the tabernacle of witness, foreshadowing, O Virgin, the mystery accomplished by you. But now your Protecting Veil, formed like lightning, covers and overshadows, as a bird her nestlings, the people that bears the name of Christ, and that fervently has recourse to you. And this you made manifest to the royal city though an ineffable appearance. Revealing your goodness towards us. Therefore, as we celebrate the memory of this, we proclaim the benefits you have shown us and your solicitude for us, because you save us at each moment from every affliction."
+
+meVE.Lity4.mode = misc_en_UK_lash.Mode4
+meVE.Lity4.melody  = ""
+meVE.Lity4.text = "Your Protecting Veil, Virgin Mother of God, shining out more brightly than the rays of the sun, glorious and astounding, wondrous and saving, works for our preservation. For of old, working marvels beyond nature, it saved the Queen of cities many times from unexpected dangers and disasters. Now too, All-immaculate, by your rich goodness, it rescues us from every constraint, and grants refreshing dew and gladness of heart in afflictions. As we acclaim it wonders, we bring you our festive praise, from our souls cry out, ‘Do not take your defence from us, pure Maiden, but protect and guard us, who are your inheritance."
+
+meVE.LityGlory.mode = misc_en_UK_lash.Mode5
+meVE.LityGlory.melody  = ""
+meVE.LityGlory.text = "Today the Queen of all, the Virgin Mother, spreading out her Protecting Veil formed of light, like a mother protects our race. Come, then, Orthodox peoples, let us with pure minds contemplate the Mother of God’s abundant providence for us. Because she is near us in good times and in afflictions, and she safely guides us to the aim of our calling on high, and, as Mother of God, she obtains for us grace and mercy and eternal salvation."
+
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha1.melody = ""
+meVE.Aposticha1.text = "Hail, pure Mother of God, inexhaustible fount of goodness, protection and fervent defence of the Orthodox, and comfort in afflictions. For in you, All-unblemished, we always take refuge, and by your grace we truly obtain salvation, peace and redemption. Therefore we praise the wonders of your divine Protecting Veil and we magnify, O Maiden, the acts of compassion of your foreknowledge, through which you ever save from disasters of every kind those who have put their trust in you."
+
+meVE.ApostichaVerse2.text = 
+
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha2.melody = ""
+meVE.Aposticha2.text = "In a radiant vision you appeared to God-bearing Andrew in the church of Vlachernae, as pure Sovereign far above the world, spiritually protecting your inheritance. And so as we celebrate the yearly memorial of this, we praise the greatness of your glory, and we, your people, cry to you, All-pure One, ‘Protect and guard with your Protecting Veil, O Virgin, us, whom you showed of old to be your portion, granting us all, O Maiden, joy, peace and great mercy’."
+
+meVE.ApostichaVerse3.text = 
+
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha3.melody = ""
+meVE.Aposticha3.text = "Unwaveringly confident in your shining Protecting Veil, pure Virgin, and the hope of your firm defence, your Orthodox people routed the arrogance of the foe. And so they raise their song of thankful praise and celebrate today the resplendent festival of your Protecting Veil, and fervently cry to you, pure Maiden, ‘You are my protection and champion and great rampart, and saved by your grace, All-holy, I sing your praise. But, Sovereign Lady, deliver me from future oppressive trials."
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode8
+meVE.AposGlory.melody  = ""
+meVE.AposGlory.text = "The manifold displays of your saving Protection for your race, O Immaculate, astound every ear. For both of old and now in every way and at every time you come and deliver us from every constraint by ways that you know, Lover of goodness. Therefore Sovereign Lady all-praised, do not to show us your ancient mercies until the end of the age, for we are your flock."
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "We sing the praise of the graces of your Protecting Veil, O Virgin, which like a light-bearing cloud you unfold beyond understanding, and you spiritually protect your people from every assault of their foe. For we have gained you as Protection and defender and helper, as we cry out to you: Glory to your mighty deeds, O Pure one; glory to your Protection; glory to your providence towards us, O Immaculate!"
+
+meVE.Apolytikion2.mode = misc_en_UK_lash.Mode8
+meVE.Apolytikion2.melody = ""
+meVE.Apolytikion2.text = "Mother of God Ever-Virgin, you have given your holy Protection, through which you protect those who hope in you, as a mighty refuge for your race. For as of old so now you have wondrously saved us, enveloping your people like a spiritual cloud. And so we implore you to grant peace to your commonwealth, and to our souls God’s great mercy."
+
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma11.melody = ""
+meMA.Kathisma11.text = "We sing the praise, Pure Virgin, of your holy Protection, which, in your goodness and motherly compassion, at every moment protects and watches over us, whom you have declared to be your lot and chosen part. But guard us also, Sovereign Lady, in future need."
+
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma21.melody = ""
+meMA.Kathisma21.text = "Venerable Andrew was amazed when in the church of Vlachernae he saw you unfolding for us your godly Robe, which is guarded there, pure Maiden, and reveals to all the grace of your protection, through which you protect and save us from every affliction."
+
+meMA.Kathisma31.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma31.melody = ""
+meMA.Kathisma31.text = "As you unfold each day your holy and wondrous Protection, which the cloud in the Law prefigured, you enfold your race, O Maiden, that looks intently for your goodness, and ever awaits the help which you give, Mother of God. And at all times turn the mad rage of enemies from us who sing the praise of the greatness of your wonders, as you intercede with your Son and God to grant forgiveness of faults to us who celebrate with love your all-radiant Protection."
+
+meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.text = "At the prayers of the Mother of God, O Merciful One, blot out the multitude of my transgressions."
+
+meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.text = "At the prayers of the all-immaculate, O Merciful One, blot out the multitude of my transgressions."
+
+meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.text = "Today the all-praised Virgin, unfolding her shining Protection, manifested clearly to the faithful her rich good favour in good times and in afflictions; therefore as we, who are protected by her, praise her grace, let us cry out with joy: Hail, Full of grace, Mother of God, who save our race and safely accompany us and guide us to the way of salvation."
+
+meMA.C1Acrostic.text = "You are the Protection of believers,"
+
+meMA.C2Acrostic.text = 
+
+meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode1C1H.text = "I will open my mouth and it will be filled with the Spirit, and I will utter a word to the Queen and Mother, and I shall be seen keeping glad festival, and rejoicing I will sing her wonders. Twice."
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C11.melody = ""
+meMA.Ode1C11.text = 
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C12.melody = ""
+meMA.Ode1C12.text = 
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C13.melody = ""
+meMA.Ode1C13.text = 
+
+meMA.Ode1C14.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C14.melody = ""
+meMA.Ode1C14.text = 
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C21.melody = ""
+meMA.Ode1C21.text = 
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C22.melody = ""
+meMA.Ode1C22.text = 
+
+meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C23.melody = ""
+meMA.Ode1C23.text = 
+
+meMA.Ode1C24.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C24.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C24.melody = ""
+meMA.Ode1C24.text = 
+
+meMA.Ode1K.ode = misc_en_UK_lash.Ode1
+meMA.Ode1K.mode = misc_en_UK_lash.Mode4
+meMA.Ode1K.melody = ""
+meMA.Ode1K.text = 
+
+meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode3C1H.text = 
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C11.melody = ""
+meMA.Ode3C11.text = 
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C12.melody = ""
+meMA.Ode3C12.text = 
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C13.melody = ""
+meMA.Ode3C13.text = 
+
+meMA.Ode3C14.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C14.melody = ""
+meMA.Ode3C14.text = 
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C21.melody = ""
+meMA.Ode3C21.text = 
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C22.melody = ""
+meMA.Ode3C22.text = 
+
+meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C23.melody = ""
+meMA.Ode3C23.text = 
+
+meMA.Ode3C24.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C24.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C24.melody = ""
+meMA.Ode3C24.text = 
+
+meMA.Ode3K.ode = misc_en_UK_lash.Ode3
+meMA.Ode3K.mode = misc_en_UK_lash.Mode4
+meMA.Ode3K.melody = ""
+meMA.Ode3K.text = 
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode3
+meMA.Ode3Kathisma1.melody = ""
+meMA.Ode3Kathisma1.text = 
+
+meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode4C1H.text = 
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C11.melody = ""
+meMA.Ode4C11.text = 
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C12.melody = ""
+meMA.Ode4C12.text = 
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C13.melody = ""
+meMA.Ode4C13.text = 
+
+meMA.Ode4C14.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C14.melody = ""
+meMA.Ode4C14.text = 
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C21.melody = ""
+meMA.Ode4C21.text = 
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C22.melody = ""
+meMA.Ode4C22.text = 
+
+meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C23.melody = ""
+meMA.Ode4C23.text = 
+
+meMA.Ode4C24.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C24.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C24.melody = ""
+meMA.Ode4C24.text = 
+
+meMA.Ode4K.ode = misc_en_UK_lash.Ode4
+meMA.Ode4K.mode = misc_en_UK_lash.Mode4
+meMA.Ode4K.melody = ""
+meMA.Ode4K.text = 
+
+meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode5C1H.text = 
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C11.melody = ""
+meMA.Ode5C11.text = 
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C12.melody = ""
+meMA.Ode5C12.text = 
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C13.melody = ""
+meMA.Ode5C13.text = 
+
+meMA.Ode5C14.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C14.melody = ""
+meMA.Ode5C14.text = 
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C21.melody = ""
+meMA.Ode5C21.text = 
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C22.melody = ""
+meMA.Ode5C22.text = 
+
+meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C23.melody = ""
+meMA.Ode5C23.text = 
+
+meMA.Ode5C24.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C24.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C24.melody = ""
+meMA.Ode5C24.text = 
+
+meMA.Ode5K.ode = misc_en_UK_lash.Ode5
+meMA.Ode5K.mode = misc_en_UK_lash.Mode4
+meMA.Ode5K.melody = ""
+meMA.Ode5K.text = 
+
+meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode6C1H.text = 
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C11.melody = ""
+meMA.Ode6C11.text = 
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C12.melody = ""
+meMA.Ode6C12.text = 
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C13.melody = ""
+meMA.Ode6C13.text = 
+
+meMA.Ode6C14.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C14.melody = ""
+meMA.Ode6C14.text = 
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C21.melody = ""
+meMA.Ode6C21.text = 
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C22.melody = ""
+meMA.Ode6C22.text = 
+
+meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C23.melody = ""
+meMA.Ode6C23.text = 
+
+meMA.Ode6C24.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C24.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C24.melody = ""
+meMA.Ode6C24.text = 
+
+meMA.Ode6K.ode = misc_en_UK_lash.Ode6
+meMA.Ode6K.mode = misc_en_UK_lash.Mode4
+meMA.Ode6K.melody = ""
+meMA.Ode6K.text = 
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode8
+meMA.Kontakion1.melody = ""
+meMA.Kontakion1.text = "Like a cloud brightly overshadowing the whole company of the Church, O all-pure, you appeared of old on the royal City. But as the Protection and Champion of your people, protect from every affliction us who cry to you: Hail, Protection wholly light."
+
+meMA.Oikos1.text = "Unfolding from on high your holy Protection, Virgin Mary, Mother of God, you protect and save your people, who cry out to you, Pure Maiden, hour by hour, while now they gratefully sing the praise of your wonders as they cry: Hail, Protection, wholly light!"
+meMA.Oikos12.text = "Hail, gate of salvation. Hail, Protection of the Church."
+meMA.Oikos13.text = "Hail, wondrous vision of the Angels. Hail, unshakeable support of mortals."
+meMA.Oikos14.text = "Hail, Ever-Virgin Mother of Christ the universal King. Hail, Protection and assistance of your faithful people."
+meMA.Oikos15.text = "Hail, for you appeared protecting your race. Hail, for you grant victories to the troops."
+
+meMA.Oikos16.text = "Hail, source of abundant goodness. Hail, lamp of God’s loving-kindness."
+
+meMA.Oikos17.text = "Hail, for through you we conquer the foe. Hail, for to you we cry out each day:"
+
+meMA.Oikos18.text = "Hail, Protection wholly light!"
+
+
+meMA.Synaxarion.text  = ""
+
+meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode7C1H.text = 
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C11.melody = ""
+meMA.Ode7C11.text = 
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C12.melody = ""
+meMA.Ode7C12.text = 
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C13.melody = ""
+meMA.Ode7C13.text = 
+
+meMA.Ode7C14.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C14.melody = ""
+meMA.Ode7C14.text = 
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C21.melody = ""
+meMA.Ode7C21.text = 
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C22.melody = ""
+meMA.Ode7C22.text = 
+
+meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C23.melody = ""
+meMA.Ode7C23.text = 
+
+meMA.Ode7C24.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C24.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C24.melody = ""
+meMA.Ode7C24.text = 
+
+meMA.Ode7K.ode = misc_en_UK_lash.Ode7
+meMA.Ode7K.mode = misc_en_UK_lash.Mode4
+meMA.Ode7K.melody = ""
+meMA.Ode7K.text = 
+
+meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode8C1H.text = 
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C11.melody = ""
+meMA.Ode8C11.text = 
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C12.melody = ""
+meMA.Ode8C12.text = 
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C13.melody = ""
+meMA.Ode8C13.text = 
+
+meMA.Ode8C14.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C14.melody = ""
+meMA.Ode8C14.text = 
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C21.melody = ""
+meMA.Ode8C21.text = 
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C22.melody = ""
+meMA.Ode8C22.text = 
+
+meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C23.melody = ""
+meMA.Ode8C23.text = 
+
+meMA.Ode8C24.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C24.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C24.melody = ""
+meMA.Ode8C24.text = 
+
+meMA.Ode8K.ode = misc_en_UK_lash.Ode8
+meMA.Ode8K.mode = misc_en_UK_lash.Mode4
+meMA.Ode8K.melody = ""
+meMA.Ode8K.text = 
+
+meMA.Ode9C1M01.text = 
+meMA.Ode9C1M02.text = 
+meMA.Ode9C1M03.text = 
+meMA.Ode9C1M04.text = 
+meMA.Ode9C1M05.text = 
+
+meMA.Ode9C2M01.text = 
+meMA.Ode9C2M02.text = 
+meMA.Ode9C2M03.text = 
+meMA.Ode9C2M04.text = 
+
+meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode9C1H.text = 
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C11.melody = ""
+meMA.Ode9C11.text = 
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C12.melody = ""
+meMA.Ode9C12.text = 
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C13.melody = ""
+meMA.Ode9C13.text = 
+
+meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C14.melody = ""
+meMA.Ode9C14.text = 
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C21.melody = ""
+meMA.Ode9C21.text = 
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C22.melody = ""
+meMA.Ode9C22.text = 
+
+meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C23.melody = ""
+meMA.Ode9C23.text = 
+
+meMA.Ode9C24.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C24.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C24.melody = ""
+meMA.Ode9C24.text = 
+
+meMA.Ode9K.ode = misc_en_UK_lash.Ode9
+meMA.Ode9K.mode = misc_en_UK_lash.Mode4
+meMA.Ode9K.melody = ""
+meMA.Ode9K.text = 
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion1.melody = ""
+meMA.Exaposteilarion1.text = "Your godly Protection, Maiden Mother of God, overshadows the faithful; and protects and guides the Orthodox flock and preserves it unscathed from dangers of every kind."
+
+meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion2.melody = ""
+meMA.Exaposteilarion2.text = "By your mighty Protection and unsleeping intercession, O Maiden, guard the race of the Orthodox unharmed. For we have all gained you as refuge in troubles."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode1
+meMA.Lauds1.melody = ""
+meMA.Lauds1.text = "The Ever-Virgin Maiden and pure Mother of God, ally and Protection of the attacked, and above all refuge and ready help, let us all praise as is fitting, as we magnify her Protection."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode1
+meMA.Lauds2.melody = ""
+meMA.Lauds2.text = "Your all-holy and dazzling Protection, which you unfold each day like a cloud of light, and with which you manifestly protect and cover us, in good fortune and in disasters, as we have learned, O Virgin, with gladness we call blessed."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode1
+meMA.Lauds3.melody = ""
+meMA.Lauds3.text = "Of old the queen of cities, O Virgin, escaped from dangers and fearful wars by your divine and wondrous Protection, while today your people by its grace escapes from troubles, disasters and calamities."
+
+meMA.Lauds4.mode = misc_en_UK_lash.Mode1
+meMA.Lauds4.melody  = ""
+meMA.Lauds4.text = "How wondrous the grace of your kindness, O Virgin, for your people both of old and now. And so, as we take refuge each day under your revered Protection, we find deliverance from every assault and participation in blessings of every kind."
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode5
+meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.text = "The gifts of your Protecting Veil, O Mother of God, unfolded in every place like the beams of the sun, bring us graces in countless ways; for they drive out the gloom of diseases, rout the regiments of foes, dispel the fog of unlooked for disasters and grant us lasting peace. But, O Virgin Full of grace, accept our thankful hymns, we beg, and be for us an ally and defender until the ends of the age."
+
+meMA.LaudsSundayVerse1.text = ""
+
+meMA.LaudsSundayVerse2.text = ""
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode8
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = meMA.Kontakion1.text
+
+meLI.CommunionHymn.text = "I will take the cup of salvation, and I will call on the name of the Lord. Alleluia."
+
+
+meMegalynarion.text = "You are the Protection of Orthodox Christians, O Virgin, protecting all the faithful. And so your people takes refuge in your Protection, and with faith magnifies your watchful care."
+

@@ -1,0 +1,361 @@
+A_Resource_Whose_Name = me.m07.d11_en_US_dedes
+
+meDate.text = "July 11"
+meCommemoration.text = "Memory of the Holy Great Martyr and All-famed Euphemia" // full title of day
+meShortCommemoration1.text = "St. Euphemia"
+meInsert1 = "the holy Great Martyr and all-famed Euphemia," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "The Holy Great Martyr Euphemia."
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_dedes.Mode8
+meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode8
+meVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode8
+meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.Stichera03.text = ""
+
+meVE.Stichera04.mode = misc_en_US_dedes.Mode4
+meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera04.text = ""
+
+meVE.Stichera05.mode = misc_en_US_dedes.Mode4
+meVE.Stichera05.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera05.text = ""
+
+meVE.Stichera06.mode = misc_en_US_dedes.Mode4
+meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera06.text = ""
+
+meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = ""
+
+meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
+meVE.SticTheotokion.melody = ""
+meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
+
+meVE.Lity1.mode = misc_en_US_dedes.Mode1
+meVE.Lity1.melody = ""
+meVE.Lity1.text = ""
+
+meVE.Lity2.mode = misc_en_US_dedes.Mode2
+meVE.Lity2.melody = ""
+meVE.Lity2.text = ""
+
+meVE.Lity3.mode = misc_en_US_dedes.Mode3
+meVE.Lity3.melody = ""
+meVE.Lity3.text = ""
+
+meVE.Lity4.mode = misc_en_US_dedes.Mode4
+meVE.Lity4.melody = ""
+meVE.Lity4.text = ""
+
+meVE.LityGlory.mode = misc_en_US_dedes.Mode5
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.mode = misc_en_US_dedes.Mode5
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
+meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Aposticha1.text = ""
+
+meVE.ApostichaVerse2.text = "I waited patiently for the Lord, and He heeded me."
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
+meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Aposticha2.text = ""
+
+meVE.ApostichaVerse3.text = "And He established my feet on a rock and kept straight my steps."
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
+meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Aposticha3.text = ""
+
+meVE.AposGlory.mode = misc_en_US_dedes.Mode6
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = ""
+
+meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
+meVE.AposTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
+meVE.AposTheotokion.text = he.o_en_US_dedes.TheotokeSyEiAthliforou.text
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
+meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meVE.Apolytikion1.text = "To the Orthodox you brought elation, * the unorthodox, humiliation, * O Euphemia, the beautiful virgin of Christ. * For what the Fathers of the Fourth Ecumenical * Synod decreed well as dogma you ratified. * Pray to Christ our God, O glorious Martyr, fervently, * entreating Him to grant us His great mercy."
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
+meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma11.text = "Your ewe lamb and Your bride, being smitten with longing * for You, O Christ our God, the celestial Bridegroom, * ran after You with her lamp, which was trimmed and was burning bright * with the oil of the grace of God and the virtues. * By her earnest prayers deliver us from all dangers, * for You are compassionate."
+
+meMA.Kathisma1T.mode = misc_en_US_dedes.Mode1
+meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma1T.text = me.m07.d08_en_US_dedes.meMA.Ode3KathismaT.text
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma21.text = "All the company of those who were in heresy were shamed * and their faces with disgrace were covered when to their chagrin * they saw the Tome of their heretical doctrine * lying by your feet, whereas they saw that ours * was reverently held in your precious hands, * rightly denouncing senseless teachings of the non-orthodox, and loudly proclaiming * that Christ was born indeed twofold in nature * and twofold in will as well."
+
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma2T.melody = misc_en_US_dedes.Automelon
+meMA.Kathisma2T.text = he.a.m4_en_US_dedes.KateplagiIosif.text
+
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Kathisma31.text = "At the illustrious feast of the all-lauded, * let us extol the virgin maid of Christ with longing, * O believers, reciting psalms and singing praises. * Oh marvelous wonder! She was shown forth to be * defending the fathers' dogmas; and in the end * she convicted Dioscorus * as well as Eutyches, who both * misunderstood the dogma of Christ, * Whom extolling we glorify."
+
+meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Kathisma3T.text = "We ever thank you, O all-holy Theotokos, * and magnify you the all-pure one; and we worship * and extol your divine Son, Maiden highly favored. * All-merciful Virgin, therefore we cry aloud * unceasingly praying, Save us, since you are good. * Snatch me out from the frightening * examination of accounts * by demons in the hour of trial. * May we your servants not be ashamed."
+
+meMA.Prokeimenon.text = "" // for media
+//July 11 says from Mark, see November 25; found Greek text at goarch; not at analogion.gr (from Liturgy)
+meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelWomanMartyr.text
+
+meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = "The virgin and victorious Martyr stood at the right hand of the Savior, and she was decked in the invincibility of virtue and adorned with the oil of purity and the blood of the contest. Holding her lamp, with exultant joy she shouts to Him, \"I have run after You for the smell of Your ointments, O Christ God, for I am wounded with Your love. Do not leave me, O heavenly Bridegroom.\" At her entreaties, O almighty Savior, send down to us Your mercies."
+
+meMA.C1Poet = poets_en_US_dedes.IakovouProtopsaltou
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C11.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C1T.text = ""
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C11.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C13.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Ode3KathismaT.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C11.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C1T.text = ""
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C11.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C1T.text = ""
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C11.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C13.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C1T.text = ""
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
+meMA.Kontakion1.melody = ""
+meMA.Kontakion1.text = "You struggled once in martyrdom, you struggled for the Faith, and you did both with ardent love for Christ your Bridegroom. And now pray Him through the Theotokos, that insolent enemies, as once the heresies, be suppressed underfoot by our Leaders, O all-famed Euphemia, who received from the six hundred thirty God-bearing Fathers the Definition of the Faith and guarded it."
+
+meMA.Oikos1.text = "What should one marvel at first: your martyric contests and accomplishments? Or your virginity and blameless life? You gladdened the Father, by wedding the Son and adorning yourself by the Holy Spirit. Who is capable of lauding these things? Who can tell of the many virtues that shine all around you and never fade? Like the sun, you rose from the east out of the grave, and you shine on all, and with your rays you illumine land and sea, and sanctify every continent, and make fragrant the ends of the earth. Therefore, you received from the six hundred thirty God-bearing Fathers the Definition of the Faith and guarded it."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C11.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C13.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C1T.text = ""
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C11.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C1T.text = ""
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C11.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C14.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C14.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C1T.text = ""
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EpeskepsatoImas.name
+meMA.Exaposteilarion1.text = "After dying, nonetheless * you poured out living myrrh of blood, * being alive in the living God; * and you held in your embrace * the tablets with the dogmas of Christ, * O Saint Euphemia; * and therefore we all extol you."
+
+meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
+meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EpeskepsatoImas.name
+meMA.ExapTheotokion.text = "Our God has given you, * O purest Maid, to be for us * a refuge and helper and strength * in the times of dire straights * and in trying circumstances. * Therefore when we all need you, * rescue us from our troubles."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode5
+meMA.Lauds1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.Lauds1.text = "Rejoice, O virgin martyr of Christ, * who has arisen from the East like a shining star, * and also brightly illumines the whole inhabited earth * by your soul's resplendence and its radiance. * Through you the divine decree of the Fathers was ratified, * and thus arrested was the blasphemous tongue of both * awful Eutyches and demented Dioscoros. * Martyr, your holy relics drip a stream of your holy blood; * and it is truly cathartic of all infectious impurities; * and this, by the power * of our Christ by whom great mercy is granted to the world."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode5
+meMA.Lauds2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.Lauds2.text = "Come all, and as the feast-day of Christ's * prize-winning Martyr is observed with solemnity, * let us now rejoice together in heightened spiritual joy, * and with jubilation let us celebrate. * For suffering martyrdom, she struck down the high-mindedness * of tyrant rulers, by the all-holy Spirit's might; * beating them, she raised a great trophy of victory. * Therefore, let us indeed extol with songs that acclaim the fame * of that most beautiful maiden whose famous name signals praise and fame, * as we importune Christ, * and beseech Him that great mercy be granted to the world."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode5
+meMA.Lauds3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.Lauds3.text = "Martyr, inside your casket were placed * the definitions of the pious and the heretics. * The one, which the Fathers published correctly, being inspired * from above, remained there cradled in your arms; * you trampled the other one, which belonged to the heretics, * whom you embarrassed, being false and opposed to God. * Therefore all of us, whom the Byzantine Hierarch * gathered together on this day, * extol you devotedly, * and in the solemn observance of your memorial we rejoice. * Hence pray to the Savior * and beseech Him that great mercy be granted to the world."
+
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "Let every tongue engage in praising the all-praised Euphemia. Every race and every age, young men and virgins, with words of praise let us crown the virgin-martyr of Christ. For she behaved manfully according to the rules, and she put away feminine weakness, and she threw down the tyrant foe through her exertions in the games, and for this she was decorated with a heavenly and divine crown. Now she entreats her Bridegroom and God, to grant us His great mercy."
+
+meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
+meMA.LaudsTheotokion.melody = ""
+meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
+
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
+
+meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+
+meMegalynarion.text = ""
+

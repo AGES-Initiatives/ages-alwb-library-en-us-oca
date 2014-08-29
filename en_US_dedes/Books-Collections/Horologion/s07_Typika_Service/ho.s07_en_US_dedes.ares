@@ -1,0 +1,59 @@
+A_Resource_Whose_Name = ho.s07_en_US_dedes 
+
+Title = ""
+
+R01 = ""
+
+hoLI.OnlyBegotten.title = "Only begotten."
+hoLI.OnlyBegotten.text = "Only begotten Son and Word of God, who are immortal, and for our salvation condescended to become incarnate of the holy Theotokos and ever-virgin Mary, and, without change became man, and were crucified, O Christ our God, and trampled on death by death, being one of the Holy Trinity, glorified together with the Father and the Holy Spirit: save us."
+
+hoTY.Key0212.text = "Remember us, O Lord, when You come in Your kingdom."
+hoTY.Key0213.text = "Remember us, O Master, when You come in Your kingdom."
+hoTY.Key0214.text = "Remember us, O Holy One, when You come in Your kingdom."
+hoTY.Key0215.text = "The heavenly choir extols you and says: Holy, Holy, Holy, Lord Sabaoth; heaven and earth are full of Your glory."
+hoTY.Key0216.text = "The choir of holy Angels and Archangels, with all the heavenly Powers, extols you and says: Holy, Holy, Holy, Lord Sabaoth; heaven and earth are full of Your glory."
+hoTY.Key0217.text = "Pardon, remit, forgive, O God, our offences, both voluntary and involuntary, in deed and word, in knowledge and ignorance, by night and by day, in mind and thought; forgive us all things, since You are good and love mankind."
+
+//0300-0313
+//0400-0408
+
+hoTY.Key0408.mode = misc_en_US_dedes.Mode2
+hoTY.Key0408.text = "O Protection of Christians unshamable, mediation with the Creator immovable, we sinners beg you, do not despise the voices of our prayers, but anticipate, since you are good, and swiftly come unto our aid as we cry out to you with faith: Hurry to intercession, and hasten to supplication, O Theotokos who defend now and ever those who honor you."
+
+hoTY.Key0501.text = "All-Holy Trinity, the consubstantial dominion, the indivisible rule, and cause of every good: be well pleased, even with regard to me a sinner. Strengthen my heart and grant it understanding, and take away all my defilement. Illumine my mind, so that I may ever glorify, praise, worship, and say: One is Holy, One is Lord, Jesus Christ, to the Glory of God the Father."
+
+// Liturgy Antiphons
+hoLI.Antiphon1.text = "Through the intercessions of the Theotokos, Savior, save us."
+
+hoLI.Antiphon21.text = "Save us, O Son of God, "
+hoLI.Antiphon22.text = "We sing to You, Alleluia."
+hoLI.Antiphon2s.text = "who arose from the dead."
+hoLI.Antiphon2w.text = "who are wondrous in the saints."
+
+hoLI.EntranceHymn.text ="Come let us worship and bow down before Christ." //in the template add parts of Antiphon 2
+hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
+hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
+
+hoLI.TrisagiosHymn.title = "TRISAGIOS HYMN"
+hoLI.TrisagiosHymn.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
+hoLI.TrisagiosHymn1.text = "Holy God."
+hoLI.TrisagiosHymn2.text = "Holy Mighty."
+hoLI.TrisagiosHymn3.text = "Holy Immortal,"
+hoLI.TrisagiosHymn4.text = "have mercy on us."
+ 
+hoLI.OsoiEisChriston.title = "INSTEAD OF HOLY GOD" 
+hoLI.OsoiEisChriston.text = "As many of you as were baptized into Christ have put on Christ. Alleluia."
+hoLI.OsoiEisChriston1.text = "As many of you"
+hoLI.OsoiEisChriston2.text = "as were baptized into Christ"
+hoLI.OsoiEisChriston3.text = "have put on Christ."
+hoLI.OsoiEisChriston4.text = "Alleluia."
+ 
+hoLI.TonStavronSou.title = "INSTEAD OF HOLY GOD" 
+hoLI.TonStavronSou.text = "Before Your Cross, we bow down, O Master, and Your holy resurrection we glorify."
+hoLI.TonStavronSou1.text = "Before Your Cross, we bow down,"
+hoLI.TonStavronSou2.text = "O Master,"
+hoLI.TonStavronSou3.text = "and Your holy resurrection."
+hoLI.TonStavronSou4.text = "we glorify."
+
+hoLI.GospelAlleluia.title = titles_en_US_dedes.Allilouia
+hoLI.GospelAlleluia.text = prayers_en_US_dedes.Allilouia3.text

@@ -1,0 +1,413 @@
+A_Resource_Whose_Name = tr.d001_en_US_dedes
+
+trCommemoration.text = "Sunday of the Publican and the Pharisee"
+trShortCommemoration1.text = "Publican and Pharisee"
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trDismissal = dismissals_en_US_dedes.dis00.resurrection
+
+trVE.Stichera01.mode = misc_en_US_dedes.Mode1
+trVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
+trVE.Stichera01.text = "Brethren, let us not offer prayer as did the Pharisee, for he who exalts himself will be brought to humility. Let us humble ourselves in the presence of God, as did the Publican, and through fasting cry to Him, \"God, be merciful to us sinners.\""
+
+trVE.Stichera02.mode = misc_en_US_dedes.Mode1
+trVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
+trVE.Stichera02.text = "A Pharisee, by self-esteem dominated, and a Publican, in repentance prostrated, both approached You the only Master. But the one, after boasting, was deprived of the blessings, while the other, not speaking, was counted worthy of Your gifts. Confirm me in such sighs as these, Christ God, since You love humanity."
+
+trVE.SticGlory.mode = misc_en_US_dedes.Mode8
+trVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+trVE.SticGlory.text = "Lord and Ruler over all, I know how effective tears can be. They raised Hezekiah from the gates of death. They delivered the sinful woman from her chronic sins. They justified the Publican over the Pharisee. I pray You, count me with them and have mercy on me."
+
+trVE.AposGlory.mode = misc_en_US_dedes.Mode5
+trVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+trVE.AposGlory.text = "My eyes are weighed down by my transgressions, and I cannot lift them up and see the height of heaven. But receive me, now repenting like the Publican, and have mercy on me, Savior."
+
+trVE.AposTheotokion.mode = oc.m5.d1_en_US_dedes.ocVE.AposTheotokion.mode
+trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.text = oc.m5.d1_en_US_dedes.ocVE.AposTheotokion.text
+
+trMA.PostGospelGlory.mode = misc_en_US_dedes.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = "Open to me the gates of repentance, O Giver of Life, for early in the morning my spirit hastens to Your holy temple, bringing the temple of my body all defiled. But as one compassionate, cleanse me, I pray, by Your loving-kindness and mercy."
+
+trMA.PostGospelBoth.mode = misc_en_US_dedes.Mode8
+trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.text = "Guide me in the paths of salvation, O Theotokos, for I have befouled my soul with shameful sins and I heedlessly squandered all of my life's resources. By your intercession deliver me from every uncleanness."
+
+trMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.text = "When I ponder in my wretchedness on the many terrible things that I have done, I tremble for that fearful day, the Day of Judgment. But trusting in the mercy of Your compassion, like David I cry to You, \"Have mercy on me, O God, according to Your great mercy.\""
+
+trMA.C1Poet = poets_en_US_dedes.Georgiou
+trMA.C1Acrostic.text = ""
+
+trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C11.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C11.text = ""
+
+trMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C12.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C12.text = ""
+
+trMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C13.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C13.text = ""
+
+trMA.Ode1C14.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C14.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C14.text = ""
+
+trMA.Ode1C15.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C15.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C15.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C15.text = ""
+
+trMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C1T.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+trMA.Ode1C1T.text = ""
+
+trMA.Ode1K.ode = misc_en_US_dedes.Ode1
+trMA.Ode1K.mode = misc_en_US_dedes.Mode6
+trMA.Ode1K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode1K.text = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.text
+
+trMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C11.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C11.text = ""
+
+trMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C12.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C12.text = ""
+
+trMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C13.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C13.text = ""
+
+trMA.Ode3C14.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C14.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C14.text = ""
+
+trMA.Ode3C15.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C15.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C15.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C15.text = ""
+
+trMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode3C1T.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+trMA.Ode3C1T.text = ""
+
+trMA.Ode3K.ode = misc_en_US_dedes.Ode3
+trMA.Ode3K.mode = misc_en_US_dedes.Mode6
+trMA.Ode3K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode3K.text = he.h.m6_en_US_dedes.OukEstinAgios.text
+
+trMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
+trMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+trMA.Ode3Kathisma1.text = ""
+
+trMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode4
+trMA.Ode3Kathisma2.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+trMA.Ode3Kathisma2.text = ""
+
+trMA.Ode3Kathisma3.mode = misc_en_US_dedes.Mode4
+trMA.Ode3Kathisma3.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+trMA.Ode3Kathisma3.text = ""
+
+trMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C11.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C11.text = ""
+
+trMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C12.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C12.text = ""
+
+trMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C13.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C13.text = ""
+
+trMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C14.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C14.text = ""
+
+trMA.Ode4C15.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C15.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C15.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C15.text = ""
+
+trMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode4C1T.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+trMA.Ode4C1T.text = ""
+
+trMA.Ode4K.ode = misc_en_US_dedes.Ode4
+trMA.Ode4K.mode = misc_en_US_dedes.Mode6
+trMA.Ode4K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode4K.text = he.h.m6_en_US_dedes.ChristosMouDynamis.text
+
+trMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C11.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C11.text = ""
+
+trMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C12.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C12.text = ""
+
+trMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C13.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C13.text = ""
+
+trMA.Ode5C14.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C14.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C14.text = ""
+
+trMA.Ode5C15.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C15.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C15.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C15.text = ""
+
+trMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode5C1T.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+trMA.Ode5C1T.text = ""
+
+trMA.Ode5K.ode = misc_en_US_dedes.Ode5
+trMA.Ode5K.mode = misc_en_US_dedes.Mode6
+trMA.Ode5K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode5K.text = he.h.m6_en_US_dedes.ToTheioFengeiSou.text
+
+trMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C11.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C11.text = ""
+
+trMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C12.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C12.text = ""
+
+trMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C13.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C13.text = ""
+
+trMA.Ode6C14.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C14.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C14.text = ""
+
+trMA.Ode6C15.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C15.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C15.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C15.text = ""
+
+trMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode6C1T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+trMA.Ode6C1T.text = ""
+
+trMA.Ode6K.ode = misc_en_US_dedes.Ode6
+trMA.Ode6K.mode = misc_en_US_dedes.Mode6
+trMA.Ode6K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode6K.text = he.h.m6_en_US_dedes.TouViouTinThalassan.text
+
+trMA.Kontakion0.mode = misc_en_US_dedes.Mode4 
+trMA.Kontakion0.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+trMA.Kontakion0.text = "Let us flee the Pharisee's * exalted parlance; * let us learn the Publican's * humble demeanor, and with sighs * unto the Savior cry out and say, * To us be gracious, O only forgiving Lord."
+
+trMA.Kontakion.mode = misc_en_US_dedes.Mode3
+trMA.Kontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+trMA.Kontakion.text = "Sinners, let us fall before * the Lord and Master in prayer, * and as once the Publican * let us present Him our sighing. * He desires that all humanity gain salvation. * And to all who are repentant He grants forgiveness. * He became a man for our sake, * though with the Father without beginning as God."
+
+trMA.Oikos.text = "Brethren, let us all garb ourselves in lowliness, and with laments and sighs strike at our conscience, that at the judgment then, which is in perpetuity, we shall be viewed guiltless, attaining our impunity. For there we have true mitigation; to see it, let us make supplication. For there is pain and sorrow's unseating, gone the deep sighs, there in wondrous Eden, of which Christ was fashioner, He being with the Father without beginning as God."
+
+trMA.Synaxarion1.Com = "On this day, we remember the parable of the Publican and the Pharisee from the holy Gospel of the Evangelist Luke (18:10-14)."
+trMA.Synaxarion1.Ver1 = ""
+trMA.Synaxarion1.Ver2 = ""
+trMA.Synaxarion1.Ver3 = "" //Title
+trMA.Synaxarion1.Ver4 = ""
+trMA.Synaxarion1.Ver5 = ""
+trMA.Synaxarion1.Ver6 = ""
+trMA.Synaxarion1.Nar = ""
+
+trMA.Synaxarion.LastLine = "By the intercessions of all Your Saints, who have done great things, O Christ our God, have mercy on us and save us. Amen."
+
+trMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C11.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C11.text = ""
+
+trMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C12.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C12.text = ""
+
+trMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C13.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C13.text = ""
+
+trMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C14.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C14.text = ""
+
+trMA.Ode7C15.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C15.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C15.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C15.text = ""
+
+trMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode7C1T.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+trMA.Ode7C1T.text = ""
+
+trMA.Ode7K.ode = misc_en_US_dedes.Ode7
+trMA.Ode7K.mode = misc_en_US_dedes.Mode6
+trMA.Ode7K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode7K.text = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.text
+
+trMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C11.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C11.text = ""
+
+trMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C12.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C12.text = ""
+
+trMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C13.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C13.text = ""
+
+trMA.Ode8C14.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C14.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C14.text = ""
+
+trMA.Ode8C15.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C15.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C15.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C15.text = ""
+
+trMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C1T.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+trMA.Ode8C1T.text = ""
+
+trMA.Ode8K.ode = misc_en_US_dedes.Ode8
+trMA.Ode8K.mode = misc_en_US_dedes.Mode6
+trMA.Ode8K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode8K.text = he.h.m6_en_US_dedes.EkFlogosToisOsiois.text
+
+trMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C11.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C11.text = ""
+
+trMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C12.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C12.text = ""
+
+trMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C13.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C13.text = ""
+
+trMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C14.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C14.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C14.text = ""
+
+trMA.Ode9C15.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C15.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C15.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C15.text = ""
+
+trMA.Ode9C16.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C16.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C16.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C16.text = ""
+
+trMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C1T.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+trMA.Ode9C1T.text = ""
+
+trMA.Ode9K.ode = misc_en_US_dedes.Ode9
+trMA.Ode9K.mode = misc_en_US_dedes.Mode6
+trMA.Ode9K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode9K.text = he.h.m6_en_US_dedes.TheonAnthropois.text
+
+trMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+trMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion1.text = "Let us all flee the Pharisee's * abusive ostentation, * and rather learn the Publican's * excellent self-abasement, * so that we too be exalted,* crying to God like he did, * Be gracious to Your servants, Lord * voluntarily born of a Virgin Maid, * Christ our Savior who endured crucifixion, * and with yourself raised up Your world, * by Your divine dominion."
+
+trMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+trMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+trMA.ExapTheotokion.text = "The God of all the universe * and Maker of creation * assumed our mortal human flesh * from your unsullied womb, O all-laudable Theotokos, * and my corrupted nature * He made completely new again. * After His birth He left you as you had been * before giving birth to Him. Hence we cry out * with faith extolling you, Rejoice, * the universe's glory."
+
+trMA.Lauds1.mode = misc_en_US_dedes.Mode1
+trMA.Lauds1.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds1.text = trVE.Stichera01.text
+
+trMA.Lauds2.mode = misc_en_US_dedes.Mode1
+trMA.Lauds2.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds2.text = trVE.Stichera02.text
+
+trMA.Lauds3.mode = misc_en_US_dedes.Mode3
+trMA.Lauds3.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds3.text = "Recognizing the difference between the Publican and the Pharisee, O my soul, hate the prideful voice of the one, yet emulate the contrite prayer of the other, and cry out, \"O God, be gracious to me, who have sinned, and have mercy on me.\""
+
+trMA.Lauds4.mode = misc_en_US_dedes.Mode3
+trMA.Lauds4.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds4.text = "Loathing the vaunting voice of the Pharisee, yet emulating the compunctious prayer of the Publican, let us not be haughty, O faithful, but rather humbling ourselves, with compunction let us cry, \"O God, have mercy and forgive our sins.\""
+
+trMA.LaudsSundayVerse1.text = "" //needed for media
+
+trMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
+trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+trMA.LaudsGlory.text = "The Pharisee, who justified himself by boasting about his works, O Lord, You condemned; but You justified the Publican who was modest, and who with sighs prayed for expiation. For You do not accept boastful thoughts, but hearts that are contrite You do not despise. Therefore we, too, in humility fall down before You, who suffered for us. Grant us absolution and great mercy."
+
+trMA.LaudsTheotokion.mode  = ""
+trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
+
+trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
+trLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+trLI.SeasonalKontakion.text = trMA.Kontakion0.text
+
+trLI.Alleluia.mode = misc_en_US_dedes.Mode8
+
+trLI.AlleluiaVerse1.text = ""
+
+trLI.AlleluiaVerse2.text = ""
+
+trLI.CherubicHymn.mode  = ""
+trLI.CherubicHymn.text = ""
+
+trLI.CommunionHymn.text = ""
+
+trMegalynarion.text = ""
+

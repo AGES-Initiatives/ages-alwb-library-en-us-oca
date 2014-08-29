@@ -1,0 +1,269 @@
+A_Resource_Whose_Name = me.m05.d02_en_US_dedes
+
+meDate.text = "May 2"
+meCommemoration.text = "Memory of the Transfer of the Relic of our Father among the Saints Athanasios, the Great, Patriarch of Alexandria."
+meShortCommemoration1.text = "St. Athanasios"
+meInsert1 = "and our father among the saints Athanasios, Patriarch of Alexandria, "
+meInsert2 = "the memory of the transfer of whose holy relics we celebrate, "
+meNote.text = ""
+meLE.commemoration1 = "The Translation of the Relics of our Father among the Saints Athanasios the Great."
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_dedes.Mode4
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera01.text = "Persecutions did you withstand * and in perils did you endure, * ven'rable divine teacher Athanasios, * until you drove out the godlessness and error of Arius. * O most sacred priest, you thus * saved the flock from his blasphemy * when you dogmatized * in the Orthodox way the homoousion, that Son and Holy Spirit * are with the Father in essence one."
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode4
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode4
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera03.text = ""
+
+meVE.SticGlory.poet = poets_en_US_dedes.Germanou
+meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+meVE.SticGlory.melody  = ""
+meVE.SticGlory.text = ""
+
+meVE.LityGlory.poet = poets_en_US_dedes.GermanouPatriarchou
+meVE.LityGlory.mode = misc_en_US_dedes.Mode3
+meVE.LityGlory.melody  = ""
+meVE.LityGlory.text = ""
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
+meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Aposticha1.text = ""
+
+meVE.ApostichaVerse2.text = ""
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
+meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Aposticha2.text = ""
+
+meVE.ApostichaVerse3.text = ""
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
+meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Aposticha3.text = ""
+
+meVE.AposGlory.poet = poets_en_US_dedes.Germanou
+meVE.AposGlory.mode = misc_en_US_dedes.Mode3
+meVE.AposGlory.melody  = ""
+meVE.AposGlory.text = ""
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
+meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meVE.Apolytikion1.text = "You were Orthodoxy's upright pillar; * you held up the Church with godly dogmas, * holy hierarch, divine Athanasios. * For by preaching that the Son is coessential * with the Father you humiliated Arius. * O devout Father, pray to Christ God fervently, * entreating that He grant us His great mercy."
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode3
+meMA.Kathisma11.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meMA.Kathisma11.text = "When you armed the Church with godly dogmas * that were Orthodox, O holy Father, * by your teachings you eradicated heresies. * Then you finished the race of true piety, * and like Paul the Apostle you kept the faith. * Henceforth the crown of righteousness is laid up for you as well, * for you labors, O all-blessed Athanasios."
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Kathisma21.text = "You forever lead to light Orthodox Christians, * like a star that never sets, with your true dogmas' shining light, * initiator in sacred things, * even since dying, O wise Athanasios."
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode3
+meMA.Ode1C11.melody = he.h.m3_en_US_dedes.AsomenToKyrio.name
+meMA.Ode1C11.text = "With God-inspired words let us all worthily honor * Athanasios who has acquired deathless glory * in the Church, and whom Christ our God has posthumously glorified * as a beloved servant of His."
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode3
+meMA.Ode1C12.melody = he.h.m3_en_US_dedes.AsomenToKyrio.name
+meMA.Ode1C12.text = "Your mind fully extended into the depth of contemplation * in the Holy Spirit, O mystic of things sacred, * you searched out the wealth of the divine words, O Father, * and thereby you enriched the world."
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode3
+meMA.Ode1C13.melody = he.h.m3_en_US_dedes.AsomenToKyrio.name
+meMA.Ode1C13.text = "As a lofty beacon of God-inspired doctrines, * Father, every day you navigate those who are storm-tossed * on the sea of error to the harbor of grace, * by the calmness of your words."
+
+meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1T.mode = misc_en_US_dedes.Mode3
+meMA.Ode1C1T.melody = he.h.m3_en_US_dedes.AsomenToKyrio.name
+meMA.Ode1C1T.text = "O Virgin Theotokos, pure Maiden, we extol you, * the cherubic vehicle, from whom our God was mothered. * For you alone became the fount of incorruption, * that gushes forth life for all. And when we draw from it * we receive healings and cures."
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode3
+meMA.Ode3C11.melody = he.h.m3_en_US_dedes.EstereothiIKardiaMou.name
+meMA.Ode3C11.text = "Becoming as you did the eye of the faithful, * with the lightening flashes of your words, O holy bishop, * you bedimmed the blind doctrine of Arius."
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode3
+meMA.Ode3C12.melody = he.h.m3_en_US_dedes.EstereothiIKardiaMou.name
+meMA.Ode3C12.text = "The priestly robe of the truth that was woven * with your labors and your sweat, O holy Father, * did you put on in grace when performing * the sacred rites unto Christ."
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode3
+meMA.Ode3C13.melody = he.h.m3_en_US_dedes.EstereothiIKardiaMou.name
+meMA.Ode3C13.text = "As the captain of the God-selected army, * you were armed with the sword of the Spirit, * and you broke through the close array of the enemies of God."
+
+meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1T.mode = misc_en_US_dedes.Mode3
+meMA.Ode3C1T.melody = he.h.m3_en_US_dedes.EstereothiIKardiaMou.name
+meMA.Ode3C1T.text = "As the captain of the God-selected army, * you were armed with the sword of the Spirit, * and you broke through the close array of the enemies of God."
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode3
+meMA.Ode3Kathisma1.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode3
+meMA.Ode4C11.melody = he.h.m3_en_US_dedes.EisakikoaTinAkoin.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode3
+meMA.Ode4C12.melody = he.h.m3_en_US_dedes.EisakikoaTinAkoin.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode3
+meMA.Ode4C13.melody = he.h.m3_en_US_dedes.EisakikoaTinAkoin.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1T.mode = misc_en_US_dedes.Mode3
+meMA.Ode4C1T.melody = he.h.m3_en_US_dedes.EisakikoaTinAkoin.name
+meMA.Ode4C1T.text = ""
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode3
+meMA.Ode5C11.melody = he.h.m3_en_US_dedes.TinSinEirinin.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode3
+meMA.Ode5C12.melody = he.h.m3_en_US_dedes.TinSinEirinin.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode3
+meMA.Ode5C13.melody = he.h.m3_en_US_dedes.TinSinEirinin.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1T.mode = misc_en_US_dedes.Mode3
+meMA.Ode5C1T.melody = he.h.m3_en_US_dedes.TinSinEirinin.name
+meMA.Ode5C1T.text = ""
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode3
+meMA.Ode6C11.melody = he.h.m3_en_US_dedes.EvoisaEnStenagmois.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode3
+meMA.Ode6C12.melody = he.h.m3_en_US_dedes.EvoisaEnStenagmois.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1T.mode = misc_en_US_dedes.Mode3
+meMA.Ode6C1T.melody = he.h.m3_en_US_dedes.EvoisaEnStenagmois.name
+meMA.Ode6C1T.text = ""
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
+meMA.Kontakion1.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.name
+meMA.Kontakion1.text = "You planted the dogmas of Orthodoxy, * and you cut down the briars of heresy, * and thus you increased the seed of Faith, * with the rain of the Spirit, O holy one. * And therefore we hymn your memorial."
+
+meMA.Oikos1.text = "Let us believers extol today the most festive memorial of Athanasios. He brought down the errant Arius, Eunomius and Sabellius, by means of true dogmas; and he delivered them to burn in everlasting fire, for they had wrongly blasphemed against the Savior's incarnation, which all the Prophets had announced. Therefore we hymn his memorial."
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode3
+meMA.Ode7C11.melody = he.h.m3_en_US_dedes.TreisPaidesEnKamino.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode3
+meMA.Ode7C12.melody = he.h.m3_en_US_dedes.TreisPaidesEnKamino.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode3
+meMA.Ode7C13.melody = he.h.m3_en_US_dedes.TreisPaidesEnKamino.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1T.mode = misc_en_US_dedes.Mode3
+meMA.Ode7C1T.melody = he.h.m3_en_US_dedes.TreisPaidesEnKamino.name
+meMA.Ode7C1T.text = ""
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode3
+meMA.Ode8C11.melody = he.h.m3_en_US_dedes.TonExAnarchou.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode3
+meMA.Ode8C12.melody = he.h.m3_en_US_dedes.TonExAnarchou.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1T.mode = misc_en_US_dedes.Mode3
+meMA.Ode8C1T.melody = he.h.m3_en_US_dedes.TonExAnarchou.name
+meMA.Ode8C1T.text = ""
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode3
+meMA.Ode9C11.melody = he.h.m3_en_US_dedes.SeTinAkataflekton.name
+meMA.Ode9C11.text = "Clearly demonstrating that your soul is * a spotless mirror of God, * both in word and in deed * you flash divine reflections brightly * throughout the entire world, all-blessed one."
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode3
+meMA.Ode9C12.melody = he.h.m3_en_US_dedes.SeTinAkataflekton.name
+meMA.Ode9C12.text = "O Godly-minded Father, you were shown to be a trumpet playing the pleasant sound of knowledge, and with manful words you rouse our thoughts against the enemies of God."
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode3
+meMA.Ode9C13.melody = he.h.m3_en_US_dedes.SeTinAkataflekton.name
+meMA.Ode9C13.text = "With hymns we magnify you who have been truly shown to be the mixing bowl of wisdom, giving us to drink the sober beverage of true religion."
+
+meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1T.mode = misc_en_US_dedes.Mode3
+meMA.Ode9C1T.melody = he.h.m3_en_US_dedes.SeTinAkataflekton.name
+meMA.Ode9C1T.text = "We believers magnify you, O pure Theotokos, who conceived the uncontainable Word in your womb, and gave birth to Him in the flesh in a manner that cannot be explained."
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+meMA.Exaposteilarion1.text = "Let us extol with praises * the pride and joy of hierarchs, * the progeny of Egypt, * and namesake of immortality, * the one who overthrew Arius, * and defended the faithful."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode4
+meMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meMA.Lauds1.text = "By your fiery dogmas is * all the tinder of heresy * utterly consumed, O all-glorious and wise. * The insubordinate army of the heretics founders in * your profundity of thought, * O devout Athanasios; and from day to day * the assembly of faithful prides itself in your theology and doctrines, * and with a loud voice it honors you."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode4
+meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meMA.Lauds2.text = "O devout Athanasios, by the splendor of your divine * discourses the whole Church is nobly beautified; * and she adorns herself piously with beautiful ornaments; * and she dutifully keeps * your most festive memorial, and she honors you, * the illustrious glory of the priesthood and the universal preacher * in the defense of the Trinity."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode4
+meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meMA.Lauds3.text = "With the staff of your dogmas you, O all-wise father, drove away * from the Church of Christ all the spiritual wolves; * and you protected her round about * with words as with battlements, * and presented her to Christ * free of blemish and injury. * Therefore supplicate * that He free from corruption and from dangers * those who loyally now honor * your ever-ven'rable memory."
+
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode3
+meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.text = "With sacred hymns let us extol that great glory of priests, Athanasius, the invincible hero. By the power of the Spirit, he cut down the ranks of the heresies, and he raised the trophies of Orthodoxy throughout the world. He correctly expounded on the mystery of the Trinity, speaking of three because of the attributes of each Person, and then speaking of one because of the unconfused identity of essence. He theologized like the cherubim, and he intercedes for our souls."
+
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
+meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
+
+meLI.Alleluia.mode = misc_en_US_dedes.Mode1
+
+meLI.AlleluiaVerse1.text = ""
+
+meLI.AlleluiaVerse2.text = ""
+
+meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+
+meMegalynarion.text = ""
+

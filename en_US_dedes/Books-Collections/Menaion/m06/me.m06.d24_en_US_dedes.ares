@@ -1,0 +1,602 @@
+A_Resource_Whose_Name = me.m06.d24_en_US_dedes
+
+meDate.text = "June 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "The Birth of the Honorable and Glorious Prophet, Forerunner and Baptist John." // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "whose Birth we celebrate; " // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "The Nativity of the Venerable and Glorious Prophet, the Forerunner John the Baptist."
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+meDismissal = ""
+
+meSV.Stichera1.mode = misc_en_US_dedes.Mode4
+meSV.Stichera1.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meSV.Stichera1.text = ""
+
+meSV.Stichera2.mode = misc_en_US_dedes.Mode4
+meSV.Stichera2.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meSV.Stichera2.text = ""
+
+meSV.Stichera3.mode = misc_en_US_dedes.Mode4
+meSV.Stichera3.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meSV.Stichera3.text = ""
+
+meSV.SticGlory.mode = misc_en_US_dedes.Mode8
+meSV.SticGlory.melody = ""
+meSV.SticGlory.text = ""
+
+meSV.SticBoth.mode = misc_en_US_dedes.Mode8
+meSV.SticBoth.melody = ""
+meSV.SticBoth.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
+
+meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
+meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.Aposticha1.text = ""
+
+meSV.ApostichaVerse2.text = ""
+
+meSV.Aposticha2.mode = misc_en_US_dedes.Mode2
+meSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.Aposticha2.text = ""
+
+meSV.ApostichaVerse3.text = ""
+
+meSV.Aposticha3.mode = misc_en_US_dedes.Mode2
+meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.Aposticha3.text = ""
+
+meSV.AposGlory.mode = misc_en_US_dedes.Mode2
+meSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.AposGlory.text = ""
+
+meVE.Stichera01.poet = poets_en_US_dedes.IoannouMonachou
+meVE.Stichera01.mode = misc_en_US_dedes.Mode4
+meVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera01.text = "The muteness of Zacharias is ended by the birth of John; for it was not right that the father should be silent when the Voice came forth. It previously bound the tongue for failure to believe, and now as it appears it frees its father. It announced the good news to him, and it became the Voice of the Logos and the Forerunner of the Light, interceding on behalf of our souls."
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode4
+meVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera02.text = "Today, the Voice of the Logos releases its father's voice which it had restrained because of disbelief. And it breaks its mother's bonds of barrenness, and thus indicates that the Church will have many children. The lamp of the Light comes forth, the dawn announces the coming of the Sun of righteousness, for the reformation of all and the salvation of our souls."
+
+meVE.Stichera03.poet = poets_en_US_dedes.Anatoliou
+meVE.Stichera03.mode = misc_en_US_dedes.Mode4
+meVE.Stichera03.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera03.text = "When the Logos of God was going to be born of a Virgin, a Messenger came forth from a barren womb, yes, that great one of those born of women and more than a prophet. And it was right that the beginnings of things divine should be amazing; pregnancy passed childbearing age, and conception without seed. O God who does wonders for our salvation, glory to You!"
+
+meVE.Stichera04.poet = poets_en_US_dedes.AndreouKritis
+meVE.Stichera04.mode = misc_en_US_dedes.Mode4
+meVE.Stichera04.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera04.text = ""
+
+meVE.Stichera05.mode = misc_en_US_dedes.Mode4
+meVE.Stichera05.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera05.text = ""
+
+meVE.Stichera06.mode = misc_en_US_dedes.Mode4
+meVE.Stichera06.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera06.text = ""
+
+meVE.Stichera07.mode = misc_en_US_dedes.Mode4
+meVE.Stichera07.melody = misc_en_US_dedes.Idiomelon
+meVE.Stichera07.text = ""
+
+meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
+meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+meVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+meVE.SticGlory.text = ""
+
+meVE.SticBoth.mode = misc_en_US_dedes.Mode6
+meVE.SticBoth.melody = misc_en_US_dedes.Idiomelon
+meVE.SticBoth.text = ""
+
+meVE.Lity1.mode = misc_en_US_dedes.Mode1
+meVE.Lity1.melody = misc_en_US_dedes.Idiomelon
+meVE.Lity1.text = ""
+
+meVE.Lity2.mode = misc_en_US_dedes.Mode1
+meVE.Lity2.melody = misc_en_US_dedes.Idiomelon
+meVE.Lity2.text = ""
+
+meVE.Lity3.mode = misc_en_US_dedes.Mode1
+meVE.Lity3.melody = misc_en_US_dedes.Idiomelon
+meVE.Lity3.text = ""
+
+meVE.LityGlory.poet = poets_en_US_dedes.AndreouKritis
+meVE.LityGlory.mode = misc_en_US_dedes.Mode5
+meVE.LityGlory.melody = misc_en_US_dedes.Idiomelon
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.mode = misc_en_US_dedes.Mode5
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
+meVE.Aposticha1.melody = misc_en_US_dedes.Idiomelon
+meVE.Aposticha1.text = ""
+
+meVE.ApostichaVerse2.text = ""
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
+meVE.Aposticha2.melody = misc_en_US_dedes.Idiomelon
+meVE.Aposticha2.text = ""
+
+meVE.ApostichaVerse3.text = ""
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
+meVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
+meVE.Aposticha3.text = ""
+
+meVE.AposGlory.poet = poets_en_US_dedes.KassiasMonachis
+meVE.AposGlory.mode = misc_en_US_dedes.Mode8
+meVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+meVE.AposGlory.text = "The words of the Prophet Isaiah are fulfilled today with the birth of John who was greater than the prophets. For he said, \"Behold, I will send my Messenger before you, who will prepare your way.\" He who was the soldier of the heavenly King went ahead and truly made straight the highways of our God. He was a man by nature and an Angel in his way of life; for embracing complete chastity and self-restraint, he was in a state according to nature, and he rejected what was contrary to nature, and he strove to transcend nature. Come, all the faithful, let us imitate him in virtue, and let us entreat him to intercede on our behalf, for the salvation of our souls."
+
+meVE.AposBoth.mode = misc_en_US_dedes.Mode8
+meVE.AposBoth.melody = misc_en_US_dedes.Idiomelon
+meVE.AposBoth.text = ""
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
+meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meVE.Apolytikion1.text = "O Prophet and Forerunner of the appearance of Christ, * with longing we honor you, although we have not the means * of extolling you worthily. * Your birth, which was exalted * and most glorious, ended * the barrenness of your mother and the muteness of your father; * and unto the world it announced * the Incarnation of God the Word."
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma11.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma11.text = "Unto us now has the son * of Zacharias been born, * and he mystically gives joy * to the believers' minds. * He is the desert's ornament, and the pedestal of the Prophets. * And thus did he become * the Forerunner * who testifies the truth * of the coming of Christ. * So let us cry aloud unto the Baptist * singing in unison spiritual songs: * O intercede for our salvation, * Prophet and Herald of the truth."
+
+meMA.Kathisma1T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma1T.melody = misc_en_US_dedes.Automelon
+meMA.Kathisma1T.text = he.a.m4_en_US_dedes.KateplagiIosif.text
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma21.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma21.text = "You were born in a truly uncommon way * as the first-fruits of the appearance of Christ, * O John, praised in all the world, * and the paramount of Prophets. * And as you were the voice of the Logos you cried aloud: * Repent, for the Kingdom of heaven is nigh at hand. * Hence did you prepare the way of the Master, * becoming the Forerunner * of divine grace to all the world, * O Apostle and Baptist John. * Intercede with Christ our God * that He grant forgiveness of offences * to those who with longing observe your holy memory."
+
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma2T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma2T.text = "Holy Virgin and Mother of Christ our God, * I entreat you most earnestly now to cure * the passions that grieve my soul, * and to grant me forgiveness * for the sins and offences * that I committed mindlessly, * thus polluting my body, * wretched one that I am. * Oh! and how I shudder * at the thought of that hour * when Angels will separate * my soul from my body. * Then, alas! what shall become of me? * O Lady, hence I pray you will come* to my aid as an ardent patron then. * For I your unworthy servant * have you as my only hope."
+
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Kathisma31.text = "Exult, O father; and mother, now be joyous. * For you gave birth today on earth unto the Prophet * who by God is called Forerunner, even as was promised. * The barren one now is nursing her newborn babe * the Baptist; while Zacharias is overjoyed * by the childbirth, and says: \"My tongue * has by your childbirth been loosed, * O Lamp of the great Light. This indeed * is a marvelous miracle.\""
+
+meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma3T.melody = misc_en_US_dedes.Automelon
+meMA.Kathisma3T.text = he.a.m8_en_US_dedes.ToProstachthen.text
+
+meMA.Prokeimenon.text = "" // for media
+meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelForerunner.text
+
+meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelIdiomelon.melody = misc_en_US_dedes.Idiomelon
+meMA.PostGospelIdiomelon.text = "He who was sanctified from his mother's womb, and who received the fullness of prophecy, was born today from a barren woman. He is distinctly proclaiming the coming of the Lord, \"Repent, for the kingdom of heaven is at hand.\""
+
+meMA.C1Poet = poets_en_US_dedes.IoannouTouDamaskinou
+meMA.C1Acrostic.text = ""
+
+meMA.C2Acrostic.poet = poets_en_US_dedes.Georgiou
+meMA.C2Acrostic.text = ""
+
+meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C1H.text = he.h.m4_en_US_dedes.TristatasKrataious.text
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C11.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
+meMA.Ode1C1T.text = ""
+
+meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C21.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C21.text = "Enhanced by the Spirit's grace, * the Church is gaily adorned today. * And beaming with utter joy, * she beautifies herself, * as she celebrates * the feast of John the Baptist's * Nativity cheerfully, * singing resoundingly."
+
+meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C22.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C22.text = "The Herald of grace who is * brighter himself than the morning star * discloses the Sun of glory by his birth today. * And he now proclaims * the Sun's illumination * that will brightly shine upon * the ends of all the earth."
+
+meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C23.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C23.text = "The dark night of godlessness * is by your birth, holy Forerunner, * dispelled and expelled from earth. * And now the rays of grace * over all the world * are spreading. For, O Prophet, * you proclaim the rising of * the never-setting Sun."
+
+meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C2T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C2T.text = "The barren one's pregnancy, * O Virgin pure and immaculate, * betokens the knowledge of * your own conceiving as well. * And it signifies * and presages your childbirth * without seed. For it produced * fruit from a fruitless womb."
+
+meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C1H.text = he.h.m4_en_US_dedes.OukEnSofia.text
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C11.melody = he.h.m4_en_US_dedes.OukEnSofia.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_dedes.OukEnSofia.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.OukEnSofia.name
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C21.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C21.text = "Word of your delivery, O Baptist, * from the barren woman loosed the bonds * of silence from your father's voice. * And hence the condescension of Christ, * which is incomprehensible, * is now foretokened with signs from God."
+
+meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C22.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C22.text = "The offspring that sprouted from the fruitless * barren woman, who himself declares * the fruitfulness attained in Christ, * cut down the unproductive and * unfruitful folly of the Jews, * using the axe of the words he preached."
+
+meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C23.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C23.text = "Rays of the new grace have brightly shone forth, * O Forerunner, by your birth today. * And now the old enigmas and types * according to the letter of * the Scriptures, like a shadow have * begun withdrawing before the light."
+
+meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C2T.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C2T.text = "The Son whom you bore, all-holy Virgin, * released human nature from the bonds * of condemnation; and instead * He bonded us, by grace, to himself, * bestowing blessings onto all, * O Theotokos, who honor you."
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Ode3Kathisma1.text = "As a radiating sun * did Zacharias's son * rise upon us on the earth * out of Elizabeth's womb. * He puts an end to his father's voicelessness. * And boldly he cries out * and very openly says * to the peoples of the world: * \"Make straight the ways of the Lord. * For He is surely coming and will save those * who in repentance return to Him.\" * O John the Baptist, since you announced Him, * also entreat Him to save our souls."
+
+meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Ode3KathismaT.text = "O most pure and spotless Maid, * the awesome mystery * of your childbirth amazed * the hosts of Angels all: * how He who holds all things together by will alone * is held in your embrace * as a human being; * how the Pre-eternal Lord * accepts an origin; * how He who nourishes all breathing creatures * out of His goodness is nursed by you! * Hence they extol you and glorify you * for being truly the Mother of God."
+
+meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.text = he.h.m4_en_US_dedes.OKathimenosEnDoxi.text
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C11.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C1T.text = ""
+
+meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C21.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C21.text = ""
+
+meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C22.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C23.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C23.text = ""
+
+meMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C2T.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C2T.text = ""
+
+meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C1H.text = he.h.m4_en_US_dedes.NynAnastisomai.text
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C11.melody = he.h.m4_en_US_dedes.NynAnastisomai.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_dedes.NynAnastisomai.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_dedes.NynAnastisomai.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.NynAnastisomai.name
+meMA.Ode5C1T.text = ""
+
+meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C21.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C22.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C22.text = ""
+
+meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C23.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C23.text = ""
+
+meMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C2T.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C2T.text = ""
+
+meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.text = he.h.m4_en_US_dedes.IlthonEisTaVathi.text
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C11.melody = he.h.m4_en_US_dedes.IlthonEisTaVathi.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_dedes.IlthonEisTaVathi.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.IlthonEisTaVathi.name
+meMA.Ode6C1T.text = ""
+
+meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C21.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C22.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C22.text = ""
+
+meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C23.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C23.text = ""
+
+meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C2T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C2T.text = ""
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
+meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+meMA.Kontakion1.text = "On this day Christ's Forerunner is born from her who was barren; and of all the prophesy he is himself the fulfillment. On the head of God the Word, who was by the Prophets heralded, he laid his hand at the Jordan River. Thus he showed himself to be His Prophet and Herald and likewise Forerunner."
+
+meMA.Oikos1.text = "Let us now extol the Lord's Forerunner, whom Elizabeth bore to the priest, from a womb that was fruitless, but not without seed. Only Christ traversed the field that no one else traversed, that was truly without seed. John was borne of a barren woman, who bore him not without the agency of a man. Whereas Jesus was borne of a chaste Virgin, by the overshadowing of the Father and the divine Spirit. Yet the son of the barren one showed himself to be for the Son of the Virgin, Prophet and Herald, and likewise Forerunner."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C1H.text = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.text
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C11.melody = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C13.melody = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.name
+meMA.Ode7C1T.text = ""
+
+meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C21.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C22.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C23.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C23.text = ""
+
+meMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C2T.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C2T.text = ""
+
+meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.text = he.h.m4_en_US_dedes.EvergetaChristePantodyname.text
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C11.melody = he.h.m4_en_US_dedes.EvergetaChristePantodyname.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_dedes.EvergetaChristePantodyname.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_dedes.EvergetaChristePantodyname.name
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.EvergetaChristePantodyname.name
+meMA.Ode8C1T.text = ""
+
+meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C21.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C22.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C23.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C23.text = ""
+
+meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C2T.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C2T.text = ""
+
+meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C1H.text = he.h.m4_en_US_dedes.LogouTheouAfraston.text
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C11.melody = he.h.m4_en_US_dedes.LogouTheouAfraston.name
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_dedes.LogouTheouAfraston.name
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.LogouTheouAfraston.name
+meMA.Ode9C1T.text = ""
+
+meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C21.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C21.text = "By the birth today * of St. John the Baptist do the gates of the divine * light begin to open now; * it is announced that the halls of darkness shall * be shut at last. For as the Forerunner and Prophet of Christ * comes into the * light of life he heralds this * and confirms it by means of his father's voice."
+
+meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C22.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C22.text = "John the Forerunner * burst forth as a shower of intelligible rain * from a dry and waterless cloud. * And as a Prophet, to all he then announced * the coming of the heavenly stream of the river of peace * for renewal * in the Spirit of our own * human nature increasing the fruits of grace."
+
+meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C23.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C23.text = "Like another sky * adorned with the shining stars, * so is the Church today * by the divine graces of * the holy Baptist brightly illumined now * and beautified. And thus she praises his nativity, * glorifying * and lauding the Lord of all * who bestows the superior gifts of grace."
+
+meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C2T.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C2T.text = "Gushing forth from you * as water of life, all-holy Virgin Bride of God, * the Lord washed and hallowed us * who have received Him into ourselves with faith, * and made us heirs of His divine and uncreated Rule. * We extol His * goodness and benevolence, * and we ardently magnify you with love."
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.text = "The gladdening nativity * today of John the Forerunner * dispels the sadness attached to * the voicelessness of his father * and to his mother's childlessness. * Moreover it proclaims the joy * and exultation still to come. * Wherefore is all creation * celebrating it gaily."
+
+meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.text = "The Prophets did proclaim of old, * and later the Apostles taught, * and godly-minded Martyrs * confessed distinctly, O Pure one, * your Son to be the God of all, * O Theotokos. And with them * we magnify you, for through you * O Virgin, we were redeemed from * the former condemnation."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode8
+meMA.Lauds1.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meMA.Lauds1.text = "What a paradoxal miracle! * The holy Forerunner John, * as the herald of God the Word, * hastens to come forth today * from his elderly mother's womb. * And by his birth he renders his father's tongue, * that had been fettered, distinctly eloquent. * Truly ineffable, * Master, is Your providence! By which, O Christ, * save our souls, as You alone * are One compassionate."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode8
+meMA.Lauds2.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meMA.Lauds2.text = "What a paradoxal miracle! * He who is greater than those * born of women and Prophets all * for his mother now dispels * the indictment of barrenness, * as in the spirit and pow'r of Elias he comes, * going before the Lord to prepare His ways. * Truly unutterable, * Master, is Your tender love. By which, O Christ, * save our souls, as You alone * are One compassionate."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode8
+meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meMA.Lauds3.text = "What a paradoxal miracle! * He who announced unto all * the kenósis of Christ the Lord * by the Master's voice is shown * to be greater than everyone. * And he releases Elizabeth's barrenness * by divine power, and Zachariah's voice. * Truly magnificent, * Master, are Your miracles. By which, O Christ, * save us who honor Your great * Baptist and Forerunner."
+
+meMA.Lauds4.mode = misc_en_US_dedes.Mode8
+meMA.Lauds4.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meMA.Lauds4.text = "What a paradoxal miracle! * He who had leapt in the womb * as the Prophet and Forerunner * now is shown to be the one * who is greatest among those born * of women, higher yet than the Prophets all, * and of the coming of Christ the messenger. * Great and magnificent, * loving Master, are Your gifts! By which, O Christ, * save our souls, as You alone * are the Almighty One."
+
+meMA.LaudsGlory.poet = poets_en_US_dedes.Anatoliou
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
+meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+meMA.LaudsGlory.text = "Star of stars, the Forerunner, from a barren womb is born on earth today: John, yes, John loved by God. And he manifests the resplendent dawning of Christ, the Orient from on high, for the straight passage of the faithful."
+
+meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
+meMA.LaudsTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
+meMA.LaudsTheotokion.text = he.o_en_US_dedes.TheotokeSyEiProdromou.text
+
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
+
+meLI.Alleluia.mode = misc_en_US_dedes.Mode1
+
+meLI.AlleluiaVerse1.text = ""
+
+meLI.AlleluiaVerse2.text = ""
+
+meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+
+meMegalynarion.text = ""
+

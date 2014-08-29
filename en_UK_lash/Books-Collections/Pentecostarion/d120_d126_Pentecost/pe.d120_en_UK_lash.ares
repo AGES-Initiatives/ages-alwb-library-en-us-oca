@@ -1,0 +1,552 @@
+A_Resource_Whose_Name = pe.d120_en_UK_lash
+
+peCommemoration.text = ""
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = ""
+
+peVE.Stichera01.mode = misc_en_UK_lash.Mode1
+peVE.Stichera01.melody = ""
+peVE.Stichera01.text = ""
+
+peVE.Stichera02.mode = misc_en_UK_lash.Mode1
+peVE.Stichera02.melody = ""
+peVE.Stichera02.text = ""
+
+peVE.Stichera03.mode = misc_en_UK_lash.Mode1
+peVE.Stichera03.melody = ""
+peVE.Stichera03.text = ""
+
+peVE.Stichera04.mode = misc_en_UK_lash.Mode2
+peVE.Stichera04.melody = ""
+peVE.Stichera04.text = ""
+
+peVE.Stichera05.mode = misc_en_UK_lash.Mode2
+peVE.Stichera05.melody = ""
+peVE.Stichera05.text = ""
+
+peVE.Stichera06.mode = misc_en_UK_lash.Mode2
+peVE.Stichera06.melody = ""
+peVE.Stichera06.text = ""
+
+peVE.Stichera07.mode = misc_en_UK_lash.Mode2
+peVE.Stichera07.melody = ""
+peVE.Stichera07.text = ""
+
+peVE.Stichera08.mode = misc_en_UK_lash.Mode2
+peVE.Stichera08.melody = ""
+peVE.Stichera08.text = ""
+
+peVE.SticGlory.poet = ""
+peVE.SticGlory.mode = misc_en_UK_lash.Mode8
+peVE.SticGlory.melody = ""
+peVE.SticGlory.text = ""
+
+peVE.Lity1.mode = misc_en_UK_lash.Mode2
+peVE.Lity1.melody = ""
+peVE.Lity1.text = "In the Prophets you announced to us the way of salvation, our Saviour, and in the Apostles shone the grace of your Spirit; you are God first of all, and in the future; and to the ages you are our God."
+
+peVE.Lity2.mode = misc_en_UK_lash.Mode2
+peVE.Lity2.melody = ""
+peVE.Lity2.text = ""
+
+peVE.Lity3.mode = misc_en_UK_lash.Mode2
+peVE.Lity3.melody = ""
+peVE.Lity3.text = ""
+
+peVE.LityGlory.mode = misc_en_UK_lash.Mode8
+peVE.LityGlory.melody = ""
+peVE.LityGlory.text = ""
+
+peVE.Aposticha1.mode = misc_en_UK_lash.Mode6
+peVE.Aposticha1.melody = ""
+peVE.Aposticha1.text = ""
+
+peVE.Aposticha2.mode = misc_en_UK_lash.Mode6
+peVE.Aposticha2.melody = ""
+peVE.Aposticha2.text = ""
+
+peVE.Aposticha3.mode = misc_en_UK_lash.Mode6
+peVE.Aposticha3.melody = ""
+peVE.Aposticha3.text = ""
+
+peVE.AposGlory.mode = misc_en_UK_lash.Mode8
+peVE.AposGlory.melody = ""
+peVE.AposGlory.text = ""
+
+peVE.Apolytikion1.mode = misc_en_UK_lash.Mode8
+peVE.Apolytikion1.melody = ""
+peVE.Apolytikion1.text = ""
+
+peMA.Kathisma11.mode = misc_en_UK_lash.Mode4
+peMA.Kathisma11.melody = ""
+peMA.Kathisma11.text = ""
+
+peMA.Kathisma21.mode = misc_en_UK_lash.Mode4
+peMA.Kathisma21.melody = ""
+peMA.Kathisma21.text = ""
+
+peMA.Kathisma31.mode = misc_en_UK_lash.Mode8
+peMA.Kathisma31.melody = ""
+peMA.Kathisma31.text = ""
+
+peMA.Prokeimenon.text = ""
+
+peMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+peMA.PostGospelGlory.melody = ""
+peMA.PostGospelGlory.text = ""
+
+peMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+peMA.PostGospelBoth.melody = ""
+peMA.PostGospelBoth.text = ""
+
+peMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+peMA.PostGospelIdiomelon.melody = ""
+peMA.PostGospelIdiomelon.text = ""
+
+peMA.C1Poet = ""
+peMA.C1Acrostic.text = ""
+
+peMA.C2Poet = ""
+peMA.C2Acrostic.text = ""
+peMA.C2Acrostic1.text = ""
+peMA.C2Acrostic2.text = ""
+peMA.C2Acrostic3.text = ""
+peMA.C2Acrostic4.text = ""
+peMA.C2Acrostic5.text = ""
+
+peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1H.mode = misc_en_UK_lash.Mode7
+peMA.Ode1C1H.melody = ""
+peMA.Ode1C1H.text = ""
+
+peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C11.mode = misc_en_UK_lash.Mode7
+peMA.Ode1C11.melody = ""
+peMA.Ode1C11.text = ""
+
+peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C12.mode = misc_en_UK_lash.Mode7
+peMA.Ode1C12.melody = ""
+peMA.Ode1C12.text = ""
+
+peMA.Ode1C2H.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C2H.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C2H.melody = ""
+peMA.Ode1C2H.text = ""
+peMA.Ode1C2H1.text = ""
+peMA.Ode1C2H2.text = ""
+peMA.Ode1C2H3.text = ""
+peMA.Ode1C2H4.text = ""
+peMA.Ode1C2H5.text = ""
+
+peMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C21.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C21.melody = ""
+peMA.Ode1C21.text = ""
+peMA.Ode1C211.text = ""
+peMA.Ode1C212.text = ""
+peMA.Ode1C213.text = ""
+peMA.Ode1C214.text = ""
+peMA.Ode1C215.text = ""
+
+peMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C22.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C22.melody = ""
+peMA.Ode1C22.text = ""
+peMA.Ode1C221.text = ""
+peMA.Ode1C222.text = ""
+peMA.Ode1C223.text = ""
+peMA.Ode1C224.text = ""
+peMA.Ode1C225.text = ""
+
+peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1H.mode = misc_en_UK_lash.Mode7
+peMA.Ode3C1H.melody = ""
+peMA.Ode3C1H.text = ""
+
+peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C11.mode = misc_en_UK_lash.Mode7
+peMA.Ode3C11.melody = ""
+peMA.Ode3C11.text = ""
+
+peMA.Ode3C2H.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C2H.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C2H.melody = ""
+peMA.Ode3C2H.text = ""
+peMA.Ode3C2H1.text = ""
+peMA.Ode3C2H2.text = ""
+peMA.Ode3C2H3.text = ""
+peMA.Ode3C2H4.text = ""
+peMA.Ode3C2H5.text = ""
+
+peMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C21.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C21.melody = ""
+peMA.Ode3C21.text = ""
+peMA.Ode3C211.text = ""
+peMA.Ode3C212.text = ""
+peMA.Ode3C213.text = ""
+peMA.Ode3C214.text = ""
+peMA.Ode3C215.text = ""
+
+peMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C22.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C22.melody = ""
+peMA.Ode3C22.text = ""
+peMA.Ode3C221.text = ""
+peMA.Ode3C222.text = ""
+peMA.Ode3C223.text = ""
+peMA.Ode3C224.text = ""
+peMA.Ode3C225.text = ""
+
+peMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
+peMA.Ode3Kathisma1.melody = ""
+peMA.Ode3Kathisma1.text = ""
+
+peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1H.mode = misc_en_UK_lash.Mode7
+peMA.Ode4C1H.melody = ""
+peMA.Ode4C1H.text = ""
+
+peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C11.mode = misc_en_UK_lash.Mode7
+peMA.Ode4C11.melody = ""
+peMA.Ode4C11.text = ""
+
+peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C12.mode = misc_en_UK_lash.Mode7
+peMA.Ode4C12.melody = ""
+peMA.Ode4C12.text = ""
+
+peMA.Ode4C2H.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C2H.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C2H.melody = ""
+peMA.Ode4C2H.text = ""
+peMA.Ode4C2H1.text = ""
+peMA.Ode4C2H2.text = ""
+peMA.Ode4C2H3.text = ""
+peMA.Ode4C2H4.text = ""
+peMA.Ode4C2H5.text = ""
+
+peMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C21.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C21.melody = ""
+peMA.Ode4C21.text = ""
+peMA.Ode4C211.text = ""
+peMA.Ode4C212.text = ""
+peMA.Ode4C213.text = ""
+peMA.Ode4C214.text = ""
+peMA.Ode4C215.text = ""
+
+peMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C22.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C22.melody = ""
+peMA.Ode4C22.text = ""
+peMA.Ode4C221.text = ""
+peMA.Ode4C222.text = ""
+peMA.Ode4C223.text = ""
+peMA.Ode4C224.text = ""
+peMA.Ode4C225.text = ""
+
+peMA.Ode4C23.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C23.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C23.melody = ""
+peMA.Ode4C23.text = ""
+peMA.Ode4C231.text = ""
+peMA.Ode4C232.text = ""
+peMA.Ode4C233.text = ""
+peMA.Ode4C234.text = ""
+peMA.Ode4C235.text = ""
+
+peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1H.mode = misc_en_UK_lash.Mode7
+peMA.Ode5C1H.melody = ""
+peMA.Ode5C1H.text = ""
+
+peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C11.mode = misc_en_UK_lash.Mode7
+peMA.Ode5C11.melody = ""
+peMA.Ode5C11.text = ""
+
+peMA.Ode5C2H.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C2H.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C2H.melody = ""
+peMA.Ode5C2H.text = ""
+peMA.Ode5C2H1.text = ""
+peMA.Ode5C2H2.text = ""
+peMA.Ode5C2H3.text = ""
+peMA.Ode5C2H4.text = ""
+peMA.Ode5C2H5.text = ""
+
+peMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C21.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C21.melody = ""
+peMA.Ode5C21.text = ""
+peMA.Ode5C211.text = ""
+peMA.Ode5C212.text = ""
+peMA.Ode5C213.text = ""
+peMA.Ode5C214.text = ""
+peMA.Ode5C215.text = ""
+
+peMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C22.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C22.melody = ""
+peMA.Ode5C22.text = ""
+peMA.Ode5C221.text = ""
+peMA.Ode5C222.text = ""
+peMA.Ode5C223.text = ""
+peMA.Ode5C224.text = ""
+peMA.Ode5C225.text = ""
+
+peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1H.mode = misc_en_UK_lash.Mode7
+peMA.Ode6C1H.melody = ""
+peMA.Ode6C1H.text = ""
+
+peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C11.mode = misc_en_UK_lash.Mode7
+peMA.Ode6C11.melody = ""
+peMA.Ode6C11.text = ""
+
+peMA.Ode6C2H.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C2H.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C2H.melody = ""
+peMA.Ode6C2H.text = ""
+peMA.Ode6C2H1.text = ""
+peMA.Ode6C2H2.text = ""
+peMA.Ode6C2H3.text = ""
+peMA.Ode6C2H4.text = ""
+peMA.Ode6C2H5.text = ""
+
+peMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C21.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C21.melody = ""
+peMA.Ode6C21.text = ""
+peMA.Ode6C211.text = ""
+peMA.Ode6C212.text = ""
+peMA.Ode6C213.text = ""
+peMA.Ode6C214.text = ""
+peMA.Ode6C215.text = ""
+
+peMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C22.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C22.melody = ""
+peMA.Ode6C22.text = ""
+peMA.Ode6C221.text = ""
+peMA.Ode6C222.text = ""
+peMA.Ode6C223.text = ""
+peMA.Ode6C224.text = ""
+peMA.Ode6C225.text = ""
+
+peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
+peMA.Kontakion1.melody = ""
+peMA.Kontakion1.text = ""
+
+peMA.Oikos1.text = ""
+
+peMA.Synaxarion1.Com = ""
+peMA.Synaxarion1.Ver1 = ""
+peMA.Synaxarion1.Ver2 = ""
+peMA.Synaxarion1.Ver3 = ""
+peMA.Synaxarion1.Nar = ""
+
+peMA.Synaxarion.LastLine = ""
+
+peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1H.mode = misc_en_UK_lash.Mode7
+peMA.Ode7C1H.melody = ""
+peMA.Ode7C1H.text = ""
+
+peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C11.mode = misc_en_UK_lash.Mode7
+peMA.Ode7C11.melody = ""
+peMA.Ode7C11.text = ""
+
+peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C12.mode = misc_en_UK_lash.Mode7
+peMA.Ode7C12.melody = ""
+peMA.Ode7C12.text = ""
+
+peMA.Ode7C2H.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C2H.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C2H.melody = ""
+peMA.Ode7C2H.text = ""
+peMA.Ode7C2H1.text = ""
+peMA.Ode7C2H2.text = ""
+peMA.Ode7C2H3.text = ""
+peMA.Ode7C2H4.text = ""
+peMA.Ode7C2H5.text = ""
+
+peMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C21.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C21.melody = ""
+peMA.Ode7C21.text = ""
+peMA.Ode7C211.text = ""
+peMA.Ode7C212.text = ""
+peMA.Ode7C213.text = ""
+peMA.Ode7C214.text = ""
+peMA.Ode7C215.text = ""
+
+peMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C22.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C22.melody = ""
+peMA.Ode7C22.text = ""
+peMA.Ode7C221.text = ""
+peMA.Ode7C222.text = ""
+peMA.Ode7C223.text = ""
+peMA.Ode7C224.text = ""
+peMA.Ode7C225.text = ""
+
+peMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C23.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C23.melody = ""
+peMA.Ode7C23.text = ""
+peMA.Ode7C231.text = ""
+peMA.Ode7C232.text = ""
+peMA.Ode7C233.text = ""
+peMA.Ode7C234.text = ""
+peMA.Ode7C235.text = ""
+
+peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1H.mode = misc_en_UK_lash.Mode7
+peMA.Ode8C1H.melody = ""
+peMA.Ode8C1H.text = ""
+
+peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C11.mode = misc_en_UK_lash.Mode7
+peMA.Ode8C11.melody = ""
+peMA.Ode8C11.text = ""
+
+peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C12.mode = misc_en_UK_lash.Mode7
+peMA.Ode8C12.melody = ""
+peMA.Ode8C12.text = ""
+
+peMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C2H.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C2H.melody = ""
+peMA.Ode8C2H.text = ""
+peMA.Ode8C2H1.text = ""
+peMA.Ode8C2H2.text = ""
+peMA.Ode8C2H3.text = ""
+peMA.Ode8C2H4.text = ""
+peMA.Ode8C2H5.text = ""
+
+peMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C21.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C21.melody = ""
+peMA.Ode8C21.text = ""
+peMA.Ode8C211.text = ""
+peMA.Ode8C212.text = ""
+peMA.Ode8C213.text = ""
+peMA.Ode8C214.text = ""
+peMA.Ode8C215.text = ""
+
+peMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C22.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C22.melody = ""
+peMA.Ode8C22.text = ""
+peMA.Ode8C221.text = ""
+peMA.Ode8C222.text = ""
+peMA.Ode8C223.text = ""
+peMA.Ode8C224.text = ""
+peMA.Ode8C225.text = ""
+
+peMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C23.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C23.melody = ""
+peMA.Ode8C23.text = ""
+peMA.Ode8C231.text = ""
+peMA.Ode8C232.text = ""
+peMA.Ode8C233.text = ""
+peMA.Ode8C234.text = ""
+peMA.Ode8C235.text = ""
+
+peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1H.mode = misc_en_UK_lash.Mode7
+peMA.Ode9C1H.melody = ""
+peMA.Ode9C1H.text = ""
+
+peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C11.mode = misc_en_UK_lash.Mode7
+peMA.Ode9C11.melody = ""
+peMA.Ode9C11.text = ""
+
+peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C12.mode = misc_en_UK_lash.Mode7
+peMA.Ode9C12.melody = ""
+peMA.Ode9C12.text = ""
+
+peMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C2H.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C2H.melody = ""
+peMA.Ode9C2H.text = ""
+peMA.Ode9C2H1.text = ""
+peMA.Ode9C2H2.text = ""
+peMA.Ode9C2H3.text = ""
+peMA.Ode9C2H4.text = ""
+peMA.Ode9C2H5.text = ""
+
+peMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C21.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C21.melody = ""
+peMA.Ode9C21.text = ""
+peMA.Ode9C211.text = ""
+peMA.Ode9C212.text = ""
+peMA.Ode9C213.text = ""
+peMA.Ode9C214.text = ""
+peMA.Ode9C215.text = ""
+
+peMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C22.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C22.melody = ""
+peMA.Ode9C22.text = ""
+peMA.Ode9C221.text = ""
+peMA.Ode9C222.text = ""
+peMA.Ode9C223.text = ""
+peMA.Ode9C224.text = ""
+peMA.Ode9C225.text = ""
+
+peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+peMA.Exaposteilarion1.melody = ""
+peMA.Exaposteilarion1.text = ""
+
+peMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
+peMA.Exaposteilarion2.melody = ""
+peMA.Exaposteilarion2.text = ""
+
+peMA.Lauds1.mode = misc_en_UK_lash.Mode4
+peMA.Lauds1.melody = ""
+peMA.Lauds1.text = ""
+
+peMA.Lauds2.mode = misc_en_UK_lash.Mode4
+peMA.Lauds2.melody = ""
+peMA.Lauds2.text = ""
+
+peMA.Lauds3.mode = misc_en_UK_lash.Mode4
+peMA.Lauds3.melody = ""
+peMA.Lauds3.text = ""
+
+peMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+peMA.LaudsGlory.melody = ""
+peMA.LaudsGlory.text = ""
+
+peLI.Antiphon2.text = ""
+
+peLI.EntranceHymn.text = ""
+
+peLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode8
+peLI.SeasonalKontakion.melody = ""
+peLI.SeasonalKontakion.text = ""
+
+peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode7
+peLI.TheotokosHymn.text = ""
+
+peLI.CommunionHymn.text = ""
+
+peLI.AfterCommunion.mode = misc_en_UK_lash.Mode8
+peLI.AfterCommunion.text = ""
+
