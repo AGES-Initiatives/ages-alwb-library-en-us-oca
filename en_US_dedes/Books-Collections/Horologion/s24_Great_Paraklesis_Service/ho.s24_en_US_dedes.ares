@@ -1,0 +1,411 @@
+A_Resource_Whose_Name = ho.s24_en_US_dedes
+
+//Great Paraklesis
+hoCA.title = "Service of the Great Parklesis "
+hoCA.title2 = "to the Most-holy Theotokos"
+hoCA.poet = "(by Emperor Theodore Doukas Laskaris)"
+
+hoCA.media.text = "(Complete Score)" //for complete music
+
+R01 = ""
+/*
+Priest
+[Invocation]
+Reader: Amen
+Ps142.title = ""
+Ps142.text = ""
+R02 = ""
+Mode4
+God is the Lord
+R03 = ""
+*/
+
+hoCA.Apolytikion1.mode = misc_en_US_dedes.Mode4
+hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+hoCA.Apolytikion1.text = oc.m4.d3_en_US_dedes.ocVE.ApolTheotokionVM.text
+
+//Glory. Repeat
+//R04 = ""
+//Both now
+
+hoCA.Apolytikion2.mode = misc_en_US_dedes.Mode4
+hoCA.Apolytikion2.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+hoCA.Apolytikion2.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
+
+//Reader
+//Ps50.title = ""
+//Ps50.text = ""
+
+//R05 = ""
+
+hoCA.Ode1H.ode = misc_en_US_dedes.Ode1
+hoCA.Ode1H.mode = misc_en_US_dedes.Mode8
+hoCA.Ode1H.melody = misc_en_US_dedes.Heirmos
+hoCA.Ode1H.text = he.h.m8_en_US_dedes.ArmatilatinFarao.text
+
+hoCA.Ode11.ode = misc_en_US_dedes.Ode1
+hoCA.Ode11.mode = misc_en_US_dedes.Mode8
+hoCA.Ode11.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+hoCA.Ode11.text = "Relentless onslaughts of distressing troubles now disquiet my humble soul. * And the gloomy clouds of tribulation shroud my heart. * But since you are, O Bride of God, * Theotokos and Mother * of the divine pre-eternal Light, * shine on me the light that is full of joy."
+
+hoCA.Ode12.ode = misc_en_US_dedes.Ode1
+hoCA.Ode12.mode = misc_en_US_dedes.Mode8
+hoCA.Ode12.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+hoCA.Ode12.text = "I have been saved from countless grave necessities and tribulations and woes, * hostile adversaries * and from life's calamities * by your prevailing power; hence, * all-immaculate Maiden, * I praise and magnify the immense * sympathy and solace you offer me."
+
+hoCA.Ode13.ode = misc_en_US_dedes.Ode1
+hoCA.Ode13.mode = misc_en_US_dedes.Mode8
+hoCA.Ode13.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+hoCA.Ode13.text = "Now trusting fully in your mighty patronage, for safety there have I fled; * and unto your shelter * have I run wholeheartedly, * O Lady, and I bend my knees * and lament sighing deeply. * Do not disdain me the wretched one. * For you are the refuge of Christians all."
+
+hoCA.Ode14.ode = misc_en_US_dedes.Ode1
+hoCA.Ode14.mode = misc_en_US_dedes.Mode8
+hoCA.Ode14.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+hoCA.Ode14.text = "I shall not cease from speaking most emphatically of your magnificent deeds. * For were you not always * standing up on my behalf, * petitioning your Son and God, * from so violent a tempest * and such formidable jeopardy, * who else would there be to deliver me?"
+
+hoCA.Troparion11.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion11.melody  = ""
+hoCA.Troparion11.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
+
+hoCA.Troparion12.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion12.melody  = ""
+hoCA.Troparion12.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+
+hoCA.Ode3H.ode = misc_en_US_dedes.Ode3
+hoCA.Ode3H.mode = misc_en_US_dedes.Mode8
+hoCA.Ode3H.melody = misc_en_US_dedes.Heirmos
+hoCA.Ode3H.text = he.h.m8_en_US_dedes.OuraniasApsidos.text
+
+hoCA.Ode31.ode = misc_en_US_dedes.Ode3
+hoCA.Ode31.mode = misc_en_US_dedes.Mode8
+hoCA.Ode31.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode31.text = "Altogether bewildered, with pain I cry unto you. * Come to me, O earnest protection, and hasten to provide * assistance unto me, * your poor and mis'rable servant * ardently imploring for * the aid which comes from you."
+
+hoCA.Ode32.ode = misc_en_US_dedes.Ode3
+hoCA.Ode32.mode = misc_en_US_dedes.Mode8
+hoCA.Ode32.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode32.text = "Now, O Maiden, upon me * your servant you have indeed * magnified your mercies, O Lady, and beneficial deeds. * Therefore I sing your praise * and glorify you and honor * your extensive patronage * to which there is no end."
+
+hoCA.Ode33.ode = misc_en_US_dedes.Ode3
+hoCA.Ode33.mode = misc_en_US_dedes.Mode8
+hoCA.Ode33.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode33.text = "I am drowning, O Lady, under the tide of distress, * and I am distraught by the blizzard of life's adversities. * Come quickly, I entreat, * and lend a hand of assistance. * For you are my Patroness * earnestly helping me."
+
+hoCA.Ode34.ode = misc_en_US_dedes.Ode3
+hoCA.Ode34.mode = misc_en_US_dedes.Mode8
+hoCA.Ode34.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode34.text = "I acknowledge, O Lady, as Theotokos in truth * you who have destroyed the dominion of death; for you gave birth * to Him who is the Life, * and from the prison of Hades * unto life you raised me up * who tumbled down to earth."
+
+hoCA.Troparion31.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion31.melody  = ""
+hoCA.Troparion31.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
+
+hoCA.Troparion32.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion32.melody  = ""
+hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+
+//R06 Priest
+//Litany
+
+//R07
+
+hoCA.Kathisma11.mode = misc_en_US_dedes.Mode2
+hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+hoCA.Kathisma11.text = ho.s23_en_US_dedes.hoCA.Kathisma11.text
+
+hoCA.Ode4H.ode = misc_en_US_dedes.Ode4
+hoCA.Ode4H.mode = misc_en_US_dedes.Mode8
+hoCA.Ode4H.melody = misc_en_US_dedes.Heirmos
+hoCA.Ode4H.text = he.h.m8_en_US_dedes.SyMouIschys.text
+
+hoCA.Ode41.ode = misc_en_US_dedes.Ode4
+hoCA.Ode41.mode = misc_en_US_dedes.Mode8
+hoCA.Ode41.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+hoCA.Ode41.text = "Where, in the end, * am I to find other patronage? * Where shall I seek refuge, where shall I be saved? * Whom shall I have as my fervent aid, * who, alas, am rattled * by life's afflictions and turbulence? * I hope and I take courage * and I boast in you only; * and I run to your shelter. Deliver me."
+
+hoCA.Ode42.ode = misc_en_US_dedes.Ode4
+hoCA.Ode42.mode = misc_en_US_dedes.Mode8
+hoCA.Ode42.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+hoCA.Ode42.text = "O purest Maid, * now I proclaim and I magnify * the sweet river of your tender-loving care * which has refreshed with abundant gifts * my completely wretched * and humble soul which is burning in * the furnace of disasters * and of grievous afflictions. * And I run to your shelter. Deliver me."
+
+hoCA.Ode43.ode = misc_en_US_dedes.Ode4
+hoCA.Ode43.mode = misc_en_US_dedes.Mode8
+hoCA.Ode43.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+hoCA.Ode43.text = "You are the pure, * you are the Virgin, the undefiled, * whom alone I have as an impregnable * fortress and wall, shelter and defense, * weapon of salvation. * Do not despise me the prodigal, * O hope of the dejected, * O ally of the feeble, * O assistance and joy of the suffering."
+
+hoCA.Ode44.ode = misc_en_US_dedes.Ode4
+hoCA.Ode44.mode = misc_en_US_dedes.Mode8
+hoCA.Ode44.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+hoCA.Ode44.text = "O Lady, how * shall I be able to worthily * tell of your immeasurable charity * that you pour out constantly on me * like refreshing water * to sooth my painfully burning soul? * O providence and labors * of benevolent kindness * which from you I have plentifully enjoyed!"
+
+hoCA.Troparion41.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion41.melody  = ""
+hoCA.Troparion41.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
+
+hoCA.Troparion42.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion42.melody  = ""
+hoCA.Troparion42.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+
+hoCA.Ode5H.ode = misc_en_US_dedes.Ode5
+hoCA.Ode5H.mode = misc_en_US_dedes.Mode8
+hoCA.Ode5H.melody = misc_en_US_dedes.Heirmos
+hoCA.Ode5H.text = he.h.m8_en_US_dedes.InaTiMeAposo.text
+
+hoCA.Ode51.ode = misc_en_US_dedes.Ode5
+hoCA.Ode51.mode = misc_en_US_dedes.Mode8
+hoCA.Ode51.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+hoCA.Ode51.text = "Now I gratefully cry out: * Rejoice, O virgin Mother; rejoice, O Bride of God! * O divine protection * and impregnable fortress and shield, rejoice! * O rejoice, the helper * and the defense and the salvation * of your servants who faithfully run to you!"
+
+hoCA.Ode52.ode = misc_en_US_dedes.Ode5
+hoCA.Ode52.mode = misc_en_US_dedes.Mode8
+hoCA.Ode52.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+hoCA.Ode52.text = "They who hate me have vainly * readied all their arrows and swords and have dug a pit. * And my wretched body * they are seeking to strike at and tear apart. * And they are attempting, * O purest Maiden, to reduce me * to the ground. So come quickly and rescue me."
+
+hoCA.Ode53.ode = misc_en_US_dedes.Ode5
+hoCA.Ode53.mode = misc_en_US_dedes.Mode8
+hoCA.Ode53.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+hoCA.Ode53.text = "Out of every affliction, * illness and necessity and harm deliver me. * O all-lauded Maiden, * by your power preserve me uninjured from * enemies that hate me * and war against me. And from danger * keep me covered beneath your protective veil."
+
+hoCA.Ode54.ode = misc_en_US_dedes.Ode5
+hoCA.Ode54.mode = misc_en_US_dedes.Mode8
+hoCA.Ode54.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+hoCA.Ode54.text = "What can I now present you * as a worthy gift in token of my gratitude * for your boundless kindness * and the bounties that I have enjoyed from you? * Therefore am I praising * and glorifying and exalting * your ineffable sympathy unto me."
+
+hoCA.Troparion51.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion51.melody  = ""
+hoCA.Troparion51.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
+
+hoCA.Troparion52.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion52.melody  = ""
+hoCA.Troparion52.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+
+hoCA.Ode6H.ode = misc_en_US_dedes.Ode6
+hoCA.Ode6H.mode = misc_en_US_dedes.Mode8
+hoCA.Ode6H.melody = misc_en_US_dedes.Heirmos
+hoCA.Ode6H.text = he.h.m8_en_US_dedes.TinDeisinEkcheo.text
+
+hoCA.Ode61.ode = misc_en_US_dedes.Ode6
+hoCA.Ode61.mode = misc_en_US_dedes.Mode8
+hoCA.Ode61.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode61.text = "My mis'rable * soul and heart are covered up * by the clouds of pain and sorrow, O Damsel, * causing in me a condition of darkness. * But since you gave birth to Light unapproachable, * dispel them far away from me * with the breath of your holy petitioning."
+
+hoCA.Ode62.ode = misc_en_US_dedes.Ode6
+hoCA.Ode62.mode = misc_en_US_dedes.Mode8
+hoCA.Ode62.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode62.text = "I recognize * you as solace in trouble, * and I know you as the healer of ailments, * and as the one who to death dealt destruction, * and as a river of life inexhaustible, * and as a quick and eager source * of assistance for those in calamities."
+
+hoCA.Ode63.ode = misc_en_US_dedes.Ode6
+hoCA.Ode63.mode = misc_en_US_dedes.Mode8
+hoCA.Ode63.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode63.text = "I do not hide * the abyss of your mercy, * nor the wellspring of your infinite wonders, * nor yet the truly perpetual fountain * of the compassion, O Lady, you have for me. * But rather I confess to all * and announce and proclaim and enunciate."
+
+hoCA.Ode64.ode = misc_en_US_dedes.Ode6
+hoCA.Ode64.mode = misc_en_US_dedes.Mode8
+hoCA.Ode64.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode64.text = "The dizzying * cares of life surround me now * like the bees round a honeycomb, O Virgin; * and being seized of my heart, O pure Maiden, * they sorely sting it with darts of adversities. * Oh, how I wish to find in you * a defender and helper and rescuer!"
+
+hoCA.Troparion61.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion61.melody  = ""
+hoCA.Troparion61.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
+
+hoCA.Troparion62.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion62.melody  = ""
+hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+
+//R08
+//R09
+
+hoCA.Kontakion.mode = misc_en_US_dedes.Mode2
+hoCA.Kontakion.melody  = ""
+hoCA.Kontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
+
+//R10
+//First Antiphon Mode 4
+
+//R11
+hoCA.Prokeimenon.text = ho.s23_en_US_dedes.hoCA.Prokeimenon.text
+
+hoCA.ProkVerse.text = ho.s23_en_US_dedes.hoCA.ProkVerse.text
+
+//Gospel
+
+hoCA.Gospel.name = " Luke"
+hoCA.Gospel.chapverse = "10:38-42, 11:27-28."
+hoCA.Gospel.text = "At that time, Jesus entered a village; and a woman named Martha received Him into her house. And she had a sister called Mary, who sat at Jesus' feet and listened to His words. But Martha was distracted with much serving; and she approached Him and said, \"Lord, do you not care that my sister has left me to serve alone? Tell her then to help me.\" But Jesus answered and said to her, \"Martha, Martha, you are anxious and troubled about many things; one thing is needful. Mary has chosen the good portion, which shall not be taken away from her.\" As He said this, a woman in the crowd raised her voice and said to Him, \"Blessed is the womb that bore you, and the breasts at which you nursed!\" And He said, \"Indeed, blessed are those who hear the word of God and keep it!\""
+
+//R12 ""
+hoCA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+hoCA.PostGospelGlory.melody  = ""
+hoCA.PostGospelGlory.text = ho.s23_en_US_dedes.hoCA.PostGospelGlory.text
+
+hoCA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+hoCA.PostGospelBoth.melody  = ""
+hoCA.PostGospelBoth.text = ho.s23_en_US_dedes.hoCA.PostGospelBoth.text
+
+hoCA.PostGospelVerse.text = ho.s23_en_US_dedes.hoCA.PostGospelVerse.text
+
+hoCA.PostGospelHymn1.mode = misc_en_US_dedes.Mode6
+hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+hoCA.PostGospelHymn1.text = ho.s23_en_US_dedes.hoCA.PostGospelHymn1.text
+
+hoCA.PostGospelHymn2.mode = misc_en_US_dedes.Mode6
+hoCA.PostGospelHymn2.melody  = ""
+hoCA.PostGospelHymn2.text = oc.m6.d3_en_US_dedes.ocMA.AposTheotokion.text
+
+hoCA.PostGospelHymn3.mode = misc_en_US_dedes.Mode6
+hoCA.PostGospelHymn3.melody  = ""
+hoCA.PostGospelHymn3.text = oc.m6.d3_en_US_dedes.ocVE.AposTheotokion.text
+
+//Priest
+//Supplication
+
+//R13
+
+hoCA.Ode7H.ode = misc_en_US_dedes.Ode7
+hoCA.Ode7H.mode = misc_en_US_dedes.Mode8
+hoCA.Ode7H.melody = misc_en_US_dedes.Heirmos
+hoCA.Ode7H.text = he.h.m8_en_US_dedes.PaidesEvraion.text
+
+hoCA.Ode71.ode = misc_en_US_dedes.Ode7
+hoCA.Ode71.mode = misc_en_US_dedes.Mode8
+hoCA.Ode71.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode71.text = "Mother of Light and Theotokos, * now illuminate me lying in the darkness * of the nighttime of sin, * O pure and stainless vessel * of light, that I may glorify * you with longing, O pure Maiden."
+
+hoCA.Ode72.ode = misc_en_US_dedes.Ode7
+hoCA.Ode72.mode = misc_en_US_dedes.Mode8
+hoCA.Ode72.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode72.text = "Shelter, assistance and protection, * and the cause of boasting be for me the sinner * who am destitute now * of every help, O Virgin. * The power of the helpless are you, * and the hope of the despairing."
+
+hoCA.Ode73.ode = misc_en_US_dedes.Ode7
+hoCA.Ode73.mode = misc_en_US_dedes.Mode8
+hoCA.Ode73.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode73.text = "I have enjoyed so many favors; * hence with all my soul and reason I extol you. * With my heart and my lips * I glorify you, Lady. * How awesome are your charity * and your never ending wonders!"
+
+hoCA.Ode74.ode = misc_en_US_dedes.Ode7
+hoCA.Ode74.mode = misc_en_US_dedes.Mode8
+hoCA.Ode74.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode74.text = "Graciously look upon your servant, * and attend to the affliction that besets me. * And redeem me from all * calamities, temptations * and perils and from injury, * in your infinite compassion."
+
+hoCA.Troparion71.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion71.melody  = ""
+hoCA.Troparion71.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
+
+hoCA.Troparion72.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion72.melody  = ""
+hoCA.Troparion72.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+
+hoCA.Ode8H.ode = misc_en_US_dedes.Ode8
+hoCA.Ode8H.mode = misc_en_US_dedes.Mode8
+hoCA.Ode8H.melody = misc_en_US_dedes.Heirmos
+hoCA.Ode8H.text = he.h.m8_en_US_dedes.TonEnOreiAgio.text
+
+hoCA.Ode81.ode = misc_en_US_dedes.Ode8
+hoCA.Ode81.mode = misc_en_US_dedes.Mode8
+hoCA.Ode81.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+hoCA.Ode81.text = "Overlook not your servant who is drowning * in the billowing waves * of everyday existence. * O noble Virgin, lend a helping hand to me * in your great compassion; * for I am exhausted by life's unending evils."
+
+hoCA.Ode82.ode = misc_en_US_dedes.Ode8
+hoCA.Ode82.mode = misc_en_US_dedes.Mode8
+hoCA.Ode82.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+hoCA.Ode82.text = "Tribulations and crises and privations * and the trials of life * have found me, O pure Maiden. * On every side temptations have surrounded me. * Care for me and help me * and provide protection beneath your mighty shelter."
+
+hoCA.Ode83.ode = misc_en_US_dedes.Ode8
+hoCA.Ode83.mode = misc_en_US_dedes.Mode8
+hoCA.Ode83.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+hoCA.Ode83.text = "I have found you a harbor in the tempest, * and rejoicing and happiness in sorrows, * a speedy help in sickness and infirmity, * also a protectress * in ordeals, and likewise a rescuer in perils."
+
+hoCA.Ode84.ode = misc_en_US_dedes.Ode8
+hoCA.Ode84.mode = misc_en_US_dedes.Mode8
+hoCA.Ode84.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+hoCA.Ode84.text = "O rejoice, fiery throne of the Master! * O rejoice, sacred manna-holding vessel! * O golden lampstand, unextinguished torch, rejoice! * Pride of pious virgins, * O rejoice, the glory and ornament of mothers!"
+
+hoCA.Troparion81.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion81.melody  = ""
+hoCA.Troparion81.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
+
+hoCA.Troparion82.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion82.melody  = ""
+hoCA.Troparion82.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+
+hoCA.Ode9H.ode = misc_en_US_dedes.Ode9
+hoCA.Ode9H.mode = misc_en_US_dedes.Mode8
+hoCA.Ode9H.melody = misc_en_US_dedes.Heirmos
+hoCA.Ode9H.text = he.h.m8_en_US_dedes.ExestiEpiTouto.text
+
+hoCA.Ode91.ode = misc_en_US_dedes.Ode9
+hoCA.Ode91.mode = misc_en_US_dedes.Mode8
+hoCA.Ode91.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+hoCA.Ode91.text = "O pure one, unto whom else am I to flee? * Where am I now to run? Where shall I be saved? Where shall I go? * Where am I to find any other place * of refuge, other fervent aid, * or another helper in my distress? * My hope is in you only. * In you alone I glory. * And taking courage, I have fled to you."
+
+hoCA.Ode92.ode = misc_en_US_dedes.Ode9
+hoCA.Ode92.mode = misc_en_US_dedes.Mode8
+hoCA.Ode92.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+hoCA.Ode92.text = "Impossible it is to enumerate * your magnificent wonders, O Bride of God, and to acclaim * aptly the unfathomable abyss * of your stupendous miracles * that are done continually for all * who honor you with longing * and faithfully pay rev'rence * to you the true Birthgiver of our God."
+
+hoCA.Ode93.ode = misc_en_US_dedes.Ode9
+hoCA.Ode93.mode = misc_en_US_dedes.Mode8
+hoCA.Ode93.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+hoCA.Ode93.text = "With grateful hymns I glorify and extol * your immeas'rable mercy, and I acknowledge unto all * the enormous power that you possess, * O Lady. And the benefits * which you have so lavishly poured on me * I magnify and herald * with heart and soul, O Virgin, * and with my mind and tongue forevermore."
+
+hoCA.Ode94.ode = misc_en_US_dedes.Ode9
+hoCA.Ode94.mode = misc_en_US_dedes.Mode8
+hoCA.Ode94.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+hoCA.Ode94.text = "Accept my poor and negligible appeal; * and my weeping and tears and my sighing too do not ignore. * But since you are good, come unto my aid, * fulfilling my petitions all. * You can do all things, as the Mother of * our God and Lord Almighty. * Just nod in the direction * of my lamentable humility."
+
+hoCA.Troparion91.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion91.melody  = ""
+hoCA.Troparion91.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
+
+hoCA.Troparion92.mode = misc_en_US_dedes.Mode8
+hoCA.Troparion92.melody  = ""
+hoCA.Troparion92.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+
+//R14
+
+hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
+hoCA.Meg01.melody = misc_en_US_dedes.Heirmos
+hoCA.Meg01.text = he.h.m6_en_US_dedes.TinTimioteran.text
+//R15
+hoCA.Meg02.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg02.text = ho.s23_en_US_dedes.hoCA.Meg02.text
+hoCA.Meg03.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg03.text = ho.s23_en_US_dedes.hoCA.Meg03.text
+hoCA.Meg04.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg04.text = ho.s23_en_US_dedes.hoCA.Meg04.text
+hoCA.Meg05.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg05.text = ho.s23_en_US_dedes.hoCA.Meg05.text
+hoCA.Meg06.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg06.text = ho.s23_en_US_dedes.hoCA.Meg06.text
+//R16
+R17 = "During the feast of the Transfiguration, the following Megalynarion for that feast may be inserted here."
+hoCA.MegTrans1.melody =he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.MegTrans1.text = "Wishing to display power from on high * and the Father's wisdom to Your three holy and divine * Disciples, O Christ, You ascended Mount Tabor, * and shining as the Master, * there You illumined them." //Could be linked to Menaion
+hoCA.Meg0F.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
+//Reader
+//Trisagion Prayers with exclamation
+
+//R18
+//R19
+//R20
+//Priest
+//Dismissal
+//R21
+hoCA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+hoCA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+hoCA.Exaposteilarion1.text = me.m08.d15_en_US_dedes.meMA.Exaposteilarion1.text
+
+hoCA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
+hoCA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+hoCA.Exaposteilarion2.text = da.d7_en_US_dedes.daMA.ExapTheotokion.text
+
+hoCA.Exaposteilarion3.mode = misc_en_US_dedes.Mode3
+hoCA.Exaposteilarion3.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+hoCA.Exaposteilarion3.text = da.d3_en_US_dedes.daMA.ExapTheotokion.text
+
+hoCA.Exaposteilarion4.mode = misc_en_US_dedes.Mode3
+hoCA.Exaposteilarion4.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+hoCA.Exaposteilarion4.text = ho.s23_en_US_dedes.hoCA.Exaposteilarion4.text
+
+//Priest
+//Through the prayers

@@ -1,0 +1,234 @@
+A_Resource_Whose_Name = tr.d030_en_US_dedes
+
+trCommemoration.text = "" //full title of day
+trShortCommemoration1.text = "Pan-Orthodox Vespers"
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+
+trVE.Stichera01.poet = poets_en_US_dedes.Iosif
+trVE.Stichera01.mode = misc_en_US_dedes.Mode4
+trVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+trVE.Stichera01.text = "Grant to me compunction and complete estrangement from every vice, * and correction of all my faults, * for I have immersed myself in the carnal passions. * I have become distant from You, my God and King of all, * and I have no other hope except for You. * O Jesus, the almighty One, I pray You save me the prodigal, * for surpassing benevolence, as the Savior of our souls, O Lord."
+
+trVE.Stichera02.mode = misc_en_US_dedes.Mode4
+trVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+trVE.Stichera02.text = "Moses, who was God-inspired, once by fasting was purified, * and he saw Him for whom he longed. * Therefore, humble soul of mine, try to emulate him. * On this day of fasting and self-restraint from every vice, * be all the more earnest to be purified. * And thus you will perceive the Lord to be benevolent and humane * for forgiving your every sin, as the Master omnipotent."
+
+trVE.Stichera03.poet = poets_en_US_dedes.KyriouTheodorou
+trVE.Stichera03.mode = misc_en_US_dedes.Mode6
+trVE.Stichera03.melody = ""
+trVE.Stichera03.text = "O brethren, let us cheerfully commence observing, day by day, the second week of Lent. From the four great virtues, let us make a fiery chariot for ourselves, like Elias the Tishbite. Through dispassion let us raise up our mind, and let us arm the flesh with chastity, putting the enemy to flight and gaining the victory."
+
+trVE.AposIdiomelon1.mode = misc_en_US_dedes.Mode8
+trVE.AposIdiomelon1.melody = misc_en_US_dedes.Idiomelon
+trVE.AposIdiomelon1.text = "Come, let us purify ourselves by acts of charity and tender mercy to the poor, not sounding our trumpet or making public the good that we have done. Let the left hand not know the right hand's deed; let not self-esteem scatter the fruit of charity. But in secret let us cry to Him who knows all secrets: \"Father, forgive us our trespasses, in Your love for humanity.\""
+
+trVE.AposMartyric.mode = misc_en_US_dedes.Mode8
+trVE.AposMartyric.melody  = ""
+trVE.AposMartyric.text = "Martyrs of the Lord, you sanctify every locality, and you heal every infirmity. Therefore, now intercede that our souls be delivered from the snares of the enemy, we pray to you."
+
+trVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
+trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.text = "The hosts of heaven now extol you, O unwedded Mother full of grace; and we also glorify your incomprehensible childbirth. Theotokos, intercede that our souls be saved."
+
+trMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+trMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+trMA.Kathisma21.text = ""
+
+trMA.Kathisma22.mode = misc_en_US_dedes.Mode4
+trMA.Kathisma22.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+trMA.Kathisma22.text = ""
+
+trMA.Kathisma31.mode = misc_en_US_dedes.Mode6
+trMA.Kathisma31.melody = ""
+trMA.Kathisma31.text = ""
+
+trMA.Kathisma32.mode = misc_en_US_dedes.Mode6
+trMA.Kathisma32.melody  = ""
+trMA.Kathisma32.text = ""
+
+trMA.C1Poet = poets_en_US_dedes.Iosif
+
+trMA.C2Poet = poets_en_US_dedes.Theodorou
+
+trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C11.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
+trMA.Ode1C11.text = ""
+
+trMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C12.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
+trMA.Ode1C12.text = ""
+
+trMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C13.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
+trMA.Ode1C13.text = ""
+
+trMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C1T.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
+trMA.Ode1C1T.text = ""
+
+trMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C21.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C21.melody = he.h.m6_en_US_dedes.VoithosKaiSkepastis.name
+trMA.Ode1C21.text = ""
+
+trMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C22.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C22.melody = he.h.m6_en_US_dedes.VoithosKaiSkepastis.name
+trMA.Ode1C22.text = ""
+
+trMA.Ode1C2Tr.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C2Tr.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C2Tr.melody = he.h.m6_en_US_dedes.VoithosKaiSkepastis.name
+trMA.Ode1C2Tr.text = ""
+
+trMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C2T.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C2T.melody = he.h.m6_en_US_dedes.VoithosKaiSkepastis.name
+trMA.Ode1C2T.text = ""
+
+trMA.Ode1C2A1.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C2A1.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C2A1.melody = he.h.m6_en_US_dedes.VoithosKaiSkepastis.name
+trMA.Ode1C2A1.text = ""
+
+trMA.Ode1C2H.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C2H.mode = misc_en_US_dedes.Mode6
+trMA.Ode1C2H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode1C2H.text = he.h.m6_en_US_dedes.VoithosKaiSkepastis.text
+
+trMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C11.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C11.melody = he.h.m4_en_US_dedes.LytrotaTouPantos.name
+trMA.Ode8C11.text = ""
+
+trMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C12.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C12.melody = he.h.m4_en_US_dedes.LytrotaTouPantos.name
+trMA.Ode8C12.text = ""
+
+trMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C13.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C13.melody = he.h.m4_en_US_dedes.LytrotaTouPantos.name
+trMA.Ode8C13.text = ""
+
+trMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C1T.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C1T.melody = he.h.m4_en_US_dedes.LytrotaTouPantos.name
+trMA.Ode8C1T.text = ""
+
+trMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C21.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C21.melody = he.h.m6_en_US_dedes.OnStratiaiOuranon.name
+trMA.Ode8C21.text = ""
+
+trMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C22.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C22.melody = he.h.m6_en_US_dedes.OnStratiaiOuranon.name
+trMA.Ode8C22.text = ""
+
+trMA.Ode8C2Tr.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C2Tr.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C2Tr.melody = he.h.m6_en_US_dedes.OnStratiaiOuranon.name
+trMA.Ode8C2Tr.text = ""
+
+trMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C2T.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C2T.melody = he.h.m6_en_US_dedes.OnStratiaiOuranon.name
+trMA.Ode8C2T.text = ""
+
+trMA.Ode8C2A1.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C2A1.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C2A1.melody = he.h.m6_en_US_dedes.OnStratiaiOuranon.name
+trMA.Ode8C2A1.text = ""
+
+trMA.Ode8C2H.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C2H.mode = misc_en_US_dedes.Mode6
+trMA.Ode8C2H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode8C2H.text = he.h.m6_en_US_dedes.OnStratiaiOuranon.text
+
+trMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C11.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C11.melody = he.h.m4_en_US_dedes.EvaMenToTisParakois.name
+trMA.Ode9C11.text = ""
+
+trMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C12.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C12.melody = he.h.m4_en_US_dedes.EvaMenToTisParakois.name
+trMA.Ode9C12.text = ""
+
+trMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C13.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C13.melody = he.h.m4_en_US_dedes.EvaMenToTisParakois.name
+trMA.Ode9C13.text = ""
+
+trMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C1T.melody = he.h.m4_en_US_dedes.EvaMenToTisParakois.name
+trMA.Ode9C1T.text = ""
+
+trMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C21.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C21.melody = he.h.m6_en_US_dedes.AsporouSyllipseos.name
+trMA.Ode9C21.text = ""
+
+trMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C22.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C22.melody = he.h.m6_en_US_dedes.AsporouSyllipseos.name
+trMA.Ode9C22.text = ""
+
+trMA.Ode9C2Tr.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C2Tr.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C2Tr.melody = he.h.m6_en_US_dedes.AsporouSyllipseos.name
+trMA.Ode9C2Tr.text = ""
+
+trMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C2T.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C2T.melody = he.h.m6_en_US_dedes.AsporouSyllipseos.name
+trMA.Ode9C2T.text = ""
+
+trMA.Ode9C2A1.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C2A1.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C2A1.melody = he.h.m6_en_US_dedes.AsporouSyllipseos.name
+trMA.Ode9C2A1.text = ""
+
+trMA.Ode9C2H.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C2H.mode = misc_en_US_dedes.Mode6
+trMA.Ode9C2H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode9C2H.text = he.h.m6_en_US_dedes.AsporouSyllipseos.text
+
+trMA.AposIdiomelon1.mode = misc_en_US_dedes.Mode5
+trMA.AposIdiomelon1.melody = misc_en_US_dedes.Idiomelon
+trMA.AposIdiomelon1.text = ""
+
+trMA.AposMartyric.mode = misc_en_US_dedes.Mode5
+trMA.AposMartyric.melody  = ""
+trMA.AposMartyric.text = ""
+
+trMA.AposTheotokion.mode = misc_en_US_dedes.Mode5
+trMA.AposTheotokion.melody  = ""
+trMA.AposTheotokion.text = ""
+
+trTE.Troparion.mode = misc_en_US_dedes.Mode5
+trTE.Troparion.melody  = ""
+trTE.Troparion.text = ""
+
+trTE.Prokeimenon1.mode = misc_en_US_dedes.Mode6
+trTE.Prokeimenon1.text = ""
+
+trTE.Prokeimenon1Verse.text = ""
+
+trTE.Reading1.book = ""
+trTE.Reading1.chapverse = ""
+trTE.Reading1.text = ""
+
+trTE.Prokeimenon2.mode = misc_en_US_dedes.Mode6
+trTE.Prokeimenon2.text = ""
+
+trTE.Prokeimenon2Verse.text = ""
+

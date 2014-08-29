@@ -1,0 +1,303 @@
+A_Resource_Whose_Name = ho.s03_en_US_holycross
+
+hoMA.title = "SERVICE OF MATINS"
+R01 = ""
+R02 = ""
+hoMA.Troparion3.text = "O awesome and unshamable Protection, O good and praiseworthy Theotokos, do not despise our petitions; make firm the community of the Orthodox; save those whom you have called to rule; grant them victory from heaven, for you gave birth to God and are truly blessed."
+R3 = ""
+R4 = ""
+SixPsalms.title = "The Six Psalms."
+R6 = ""
+hoMA.GodIsTheLord.text = "" //for media
+R7 = ""
+R8 = ""
+R9 = "" //(about Lent)
+R10 = ""
+
+/*
+hoMA.Triadics.title  = ""
+
+Title Mode1
+Triadic11
+Glory
+Triadic12
+Both
+Triadic13 
+
+Title Mode2
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode3
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode4
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode5
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode6
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode7
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode8
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+*/
+
+R12a = ""
+R12b = ""
+
+hoMA.ResEvlog.title1  = ""
+hoMA.ResEvlog.title2  = ""
+R13  = ""
+hoMA.ResEvlogVerse.text  = ""
+hoMA.ResEvlog1.mode  = ""
+hoMA.ResEvlog1.text  = ""
+hoMA.ResEvlog2.mode  = ""
+hoMA.ResEvlog2.text  = ""
+hoMA.ResEvlog3.mode  = ""
+hoMA.ResEvlog3.text  = ""
+hoMA.ResEvlog4.mode  = ""
+hoMA.ResEvlog4.text  = ""
+hoMA.ResEvlog5.mode  = ""
+hoMA.ResEvlog5.text  = ""
+hoMA.ResEvlog6.mode  = ""
+hoMA.ResEvlog6.text  = ""
+hoMA.ResEvlog7.mode  = ""
+hoMA.ResEvlog7.text  = ""
+
+hoMA.FuneralEvlog.title1 = "Evlogetaria for the Dead."
+hoMA.FuneralEvlog.title2 = ""
+R14 = ""
+hoMA.FuneralEvlogVerse.text = "Blessed are You, O Lord, teach me Your statutes."
+hoMA.FuneralEvlog1.mode = misc_en_US_holycross.Mode5
+hoMA.FuneralEvlog1.text = "The choir of Saints has found the fountain of life and the door of Paradise. May I also find the way through repentance. I am the sheep that is lost: O Savior, call me back and save me."
+hoMA.FuneralEvlog2.mode = misc_en_US_holycross.Mode5
+hoMA.FuneralEvlog2.text  = ""
+hoMA.FuneralEvlog3.mode = misc_en_US_holycross.Mode5
+hoMA.FuneralEvlog3.text  = ""
+hoMA.FuneralEvlog4.mode = misc_en_US_holycross.Mode5
+hoMA.FuneralEvlog4.text = "I am an image of Your ineffable glory, though I bear the scars of my transgressions. On Your creation, Master, take pity and cleanse me by Your compassion. Grant me the homeland for which I long and once again make me a citizen of Paradise."
+hoMA.FuneralEvlog5.mode = misc_en_US_holycross.Mode5
+hoMA.FuneralEvlog5.text = "Of old You created me from nothing and honored me with Your divine image. But when I disobeyed Your commandment, O Lord, You cast me down to the earth from where I was taken. Lead me back again to Your likeness, and renew my original beauty."
+hoMA.FuneralEvlog6.mode = misc_en_US_holycross.Mode5
+hoMA.FuneralEvlog6.text = "Give rest, O God, to Your servant, and place him (her) in Paradise where the choirs of the Saints and the righteous will shine as the stars of heaven. To Your departed servant give rest, O Lord, and forgive all his (her) offenses."
+hoMA.FuneralEvlog7.mode = misc_en_US_holycross.Mode5
+hoMA.FuneralEvlog7.text = "The threefold radiance of the one God let us praise, and let us shout in song: Holy are You, eternal Father, coeternal Son, and divine Spirit! Illumine us who worship You in faith and deliver us from the eternal fire."
+hoMA.FuneralEvlog8.mode = misc_en_US_holycross.Mode5
+hoMA.FuneralEvlog8.text = "Rejoice, gracious Lady, who for the salvation of all gave birth to God in the flesh, and through whom the human race has found salvation. Through you, pure and blessed Theotokos, may we find Paradise."
+hoMA.FuneralEvlog9.mode = misc_en_US_holycross.Mode5
+hoMA.FuneralEvlog9.text = prayers_en_US_holycross.Allilouia3Doxa.text
+
+
+//Psalm 50
+//hoMA.Psalm50.text = "" //for media
+
+hoMA.Ode9.Meg00.text = "It is truly right to call you blest, O Theotokos, the ever-blessed and all-blameless one and the Mother of our God. "
+
+R15 = ""
+R16 = "" //(Lent)
+/*
+Title On Monday
+ending1
+ending2
+ending3
+Title On Tuesday
+ending
+Title On Wed and Fri
+ending
+Title On Thur
+ending
+Title On Sat
+R17
+ending
+R18
+ending
+
+Title Photogogics
+Subtitle
+Title Mode1
+Hymn 3x
+Title Mode2
+Hymn 3x
+Title Mode3
+Hymn 3x
+Title Mode4
+Hymn 3x
+Title Mode5
+Hymn 3x
+Title Mode6
+Hymn 3x
+Title Mode7
+Hymn 3x
+Title Mode8
+Hymn 3x
+
+Title Exaposteilaria
+Subtitle
+On Monday
+Title Mode
+Hymn
+Title Theot
+Hymn
+
+On Tuesday
+Title Mode
+Hymn
+Title Theot
+Hymn ref
+
+On Wed and Fri
+Title Mode
+Hymn
+Title StavTheot
+Hymn
+
+On Thur
+Title Mode
+Hymn
+Title
+Hymn
+Title Theot
+Hymn
+*/
+
+hoMA.ExapSatTitle  = ""
+hoMA.ExapSat1.mode  = ""
+hoMA.ExapSat1.melody  = ""
+hoMA.ExapSat1.text  = ""
+
+hoMA.ExapSat2.mode  = ""
+hoMA.ExapSat2.melody  = ""
+hoMA.ExapSat2.text  = ""
+
+hoMA.ExapSatTh.mode  = ""
+hoMA.ExapSatTh.melody  = ""
+hoMA.ExapSatTh.text  = ""
+
+R19  = ""
+R20  = ""
+R21  = ""
+hoMA.LaudsSunTheotokion.text  = ""
+
+hoMA.DoxologyGreat.title  = ""
+hoMA.DoxologyGreatIntro.text  = ""
+hoMA.DoxologyVerse01.text  = ""
+hoMA.DoxologyVerse02.text  = ""
+hoMA.DoxologyVerse03.text  = ""
+hoMA.DoxologyVerse04.text  = ""
+hoMA.DoxologyVerse05.text  = ""
+hoMA.DoxologyVerse06.text  = ""
+hoMA.DoxologyVerse07.text  = ""
+hoMA.DoxologyVerse07e.text  = ""
+hoMA.DoxologyVerse08.text  = ""
+hoMA.DoxologyVerse08e.text  = ""
+hoMA.DoxologyVerse08n.text  = ""
+hoMA.DoxologyVerse09.text  = ""
+hoMA.DoxologyVerse10.text  = ""
+hoMA.DoxologyVerse11a.text  = ""
+hoMA.DoxologyVerse11b.text  = ""
+hoMA.DoxologyVerse11c.text  = ""
+hoMA.DoxologyVerse12.text  = ""
+hoMA.DoxologyVerse13.text  = ""
+hoMA.DoxologyVerse14.text  = ""
+hoMA.DoxologyVerse15.text  = ""
+hoMA.DoxologyVerse16.text  = ""
+hoMA.DoxologyVerse17.text  = ""
+hoMA.DoxologyVerse18.text  = ""
+hoMA.DoxologyVerse19.text  = ""
+R22  = ""
+hoMA.DoxologyVerse20.text  = ""
+R23 = ""
+hoMA.DoxologySmallIntro.text = "To you belongs glory, O Lord our God, and to you we send up glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages. Amen."
+hoMA.DoxologySmallEnd.text = "To you belongs praise, to you belongs a hymn, to you belongs glory, to the Father and the Son and the Holy Spirit, now and ever and to the ages of ages. Amen."
+hoMA.SmallDoxology.title = "DOXOLOGY"
+hoMA.SmallDoxology1.text = "Glory to God in the highest, and on earth peace, good will to men. We praise you, we bless you, we worship you, we glorify you, and we thank you, for your great glory. Lord, King, Heavenly God, Father Almighty; only-begotten Son, Lord Jesus Christ and Holy Spirit. Lord God, the Lamb of God, the Son of the Father, who take away the sin of the world, have mercy on us, you who take away the sins of the world. Accept our supplication, you who sit at the right of the Father, and have mercy on us. For you are the only Holy One, you are the only Lord, Jesus Christ, to the glory of God the Father. Amen. Every "
+hoMA.SmallDoxology1d = "day" 
+hoMA.SmallDoxology1e = "evening" 
+hoMA.SmallDoxology2.text = "I shall bless you, and I shall praise your name forever, and unto the ages of ages. Lord, you have become for us a refuge from generation to generation. I have said: Lord, have mercy on me, heal my soul, for I have sinned against you. Lord, to you I have fled; teach me to do your will, for you are my God. For with you is the fountain of life; in your light we shall see light. Extend your mercy to those who know you. Grant, O Lord, that in this "
+hoMA.SmallDoxology2d = "day"
+hoMA.SmallDoxology2e = "evening"
+hoMA.SmallDoxology2n = "night"
+hoMA.SmallDoxology3.text = "we may be kept without sin. Blessed are you, O Lord, the God of our Fathers, and praised and glorified is your name unto the ages. Amen. Let your mercy, Lord, come upon us, just as we have hoped in you. Blessed are you, O Lord, teach me your commandments. Blessed are you, O Master, make me understand your commandments. Blessed are you, O Holy One, enlighten me with your commandments. Lord, your mercy remains forever, do not turn away from the works of your hands. To you belongs praise, to you belongs a hymn, to you belongs glory, to the Father and the Son and the Holy Spirit, now and ever and to the ages of ages. Amen."
+
+R24 = ""
+R25  = ""
+R26  = ""
+R27  = ""
+R28  = ""
+hoMA.Apolytikion  = ""
+R29  = ""
+R30  = ""
+R31  = ""
+R32  = ""
+R33  = ""
+R34  = ""
+R35  = ""
+R36  = ""
+hoMA.SunTroparion1.mode  = ""
+hoMA.SunTroparion1.text  = ""
+R37  = ""
+//Title ultimately link this to pe.d18.peMA.Kath12
+hoMA.SunTroparion2.mode  = ""
+hoMA.SunTroparion2.text  = ""
+R38  = ""
+R39  = ""
+
+//Order of Matins Gospel
+hoMA.Antiphon11.text  = ""
+hoMA.PreGospelHymn.text  = ""
+
+hoMA.SunPostGospel.text  = ""
+
+hoMA.PostGospelApostle.text  = ""
+hoMA.PostGospelApostles.text  = ""
+hoMA.PostGospelMaleMartyr.text  = ""
+hoMA.PostGospelMartyrs.text  = ""
+hoMA.PostGospelWomanMartyr.text  = ""
+hoMA.PostGospelTeacher.text  = ""
+hoMA.PostGospelTeachers.text  = ""
+hoMA.PostGospelMonastic.text  = ""
+hoMA.PostGospelForerunner.text  = ""
+hoMA.PostGospelTheotokos.text  = ""
+hoMA.PostGospelAllPureLady.text  = ""
+hoMA.PostGospelProphet.text  = ""
+hoMA.PostGospelAngels.text  = ""
+hoMA.PostGospelHierarch.text  = ""
+
+hoMA.SunPostGospelIdiomelon.text  = ""
+
+hoMA.SunExapVerse1.text  = ""
+
+//Triodion specific, not in Horologion
+hoMA.RtrSoS01  = ""

@@ -1,0 +1,87 @@
+A_Resource_Whose_Name = me.m08.d29_en_UK_lash
+
+meDate.text = "August 29"
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = "St. John the Baptist"
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate; " //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.poet = ""
+meVE.Stichera01.mode = misc_en_UK_lash.Mode6
+meVE.Stichera01.melody  = misc_en_UK_lash.Idiomelon
+meVE.Stichera01.text = "As shameless Herod’s birthday was being celebrated the terms of the oath to the wanton dancing girl were fulfilled; for the head of the Forerunner was struck off and brought in on a dish like a delicacy for those at table. O hateful banquet, full of impious behaviour and bloodthirsty murder! But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode6
+meVE.Stichera02.melody  = misc_en_UK_lash.Idiomelon
+meVE.Stichera02.text = "She danced, the disciple of the all-evil devil, and took your head, O Forerunner, as her wages. O banquet filled with blood! If only you had not sworn, lawless Herod, offspring of falsehood. But if you had sworn, if only you had not kept your oath; for it was better to have lied and attained life, than to speak truly and to cut off the head of the Forerunner. But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode6
+meVE.Stichera03.melody  = misc_en_UK_lash.Idiomelon
+meVE.Stichera03.text = "You should not, Herod, have condemned to death the one who denounced your adultery, the result of satanic love and the insane passion of lust for a woman. You should not have perilously handed over his all-honoured head to a lawless woman because of an oath made for a dance. How did you dare to accomplish such a murder? How was the wanton dancing girl not consumed by fire in the middle of the banquet as she brought this head in on a dish? But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode6
+meVE.Stichera04.melody  = misc_en_UK_lash.Idiomelon
+meVE.Stichera04.text = "Once again Herodias rages, once again she is deranged. O deceitful dance and revelry with deceit! The Baptist was beheaded and Herod was troubled. At the prayers of your Forerunner, Lord, grant peace to our souls."
+
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody  = misc_en_UK_lash.Idiomelon
+meVE.SticGlory.text = "As shameless Herod’s birthday was being celebrated the terms of the oath to the wanton dancing girl were fulfilled; for the head of the Forerunner was struck off and brought in on a dish like a delicacy for those at table. O hateful banquet, full of impious behaviour and bloodthirsty murder! But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
+
+meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.text = "Who will not call you blessed, All-holy Virgin? Who will not hymn your child-birth without labour? For the only-begotten Son, who shone from the Father beyond time, came forth from you, pure Maiden, ineffably incarnate. By nature he is God, by nature he became man for our sakes, not divided in a duality of persons, but known without confusion in a duality of natures. O honoured and all-blessed, implore him to have mercy on our souls."
+
+meVE.Lity1.poet = ""
+meVE.Lity1.mode = misc_en_UK_lash.Mode1
+meVE.Lity1.melody  = ""
+meVE.Lity1.text = ""
+
+meVE.Lity2.mode = misc_en_UK_lash.Mode1
+meVE.Lity2.melody  = ""
+meVE.Lity2.text = ""
+
+meVE.Lity3.mode = misc_en_UK_lash.Mode1
+meVE.Lity3.melody  = ""
+meVE.Lity3.text = ""
+
+meVE.LityGlory.poet = ""
+meVE.LityGlory.mode = misc_en_UK_lash.Mode5
+meVE.LityGlory.melody  = ""
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode5
+meVE.LityBoth.melody  = ""
+meVE.LityBoth.text = ""
+
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
+meVE.Aposticha1.melody  = misc_en_UK_lash.Idiomelon
+meVE.Aposticha1.text = "Herald of repentance, John Baptist, when your head was struck off you sanctified the earth; because you made clear God’s law to the faithful and utterly destroyed lawlessness. As you stand before the throne of Christ the King of heaven, implore him to have mercy on our souls."
+
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode2
+meVE.Aposticha2.melody  = misc_en_UK_lash.Idiomelon
+meVE.Aposticha2.text = "For the law of the Lord your head was struck off, all-holy John. With blameless boldness of speech you rebuked the impious king when he transgressed the law. And so the hosts of Angels marvel at you; the choirs of Apostles and Martyrs glorify you; we too honour your yearly memorial, as we glorify the Holy Trinity, who crowned you, blessed Forerunner."
+
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode2
+meVE.Aposticha3.melody  = misc_en_UK_lash.Idiomelon
+meVE.Aposticha3.text = "The Prophet from a Prophet, who became greater than the Prophets, who was sanctified from his mother’s womb for the service of the Lord, had his head struck off today by a lawless king; and both before his execution and after it clearly rebuking the maiden who danced licentiously, he put the regiment of sin to shame. And so we cry out: Baptist John, as you have freedom to speak, intercede insistently for our souls."
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode8
+meVE.AposGlory.melody  = misc_en_UK_lash.Idiomelon
+meVE.AposGlory.text = "Forerunner of the Saviour, you rebuked kings that they should not act lawlessly; and so the little darling of a lawless woman persuaded Herod to cut off your head, and therefore from the rising of the sun to its setting your name is to be praised. As you have freedom before the Lord intercede insistently for our souls."
+
+meVE.AposTheotokion.mode = misc_en_UK_lash.Mode8
+meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.text = "Virgin without bridegroom, who conceived God ineffably in the flesh, Mother of God Most High, accept the supplications of your servants, O all-blameless, who bestow on all cleansing from faults. Now accept our entreaties and implore that we may all be saved."
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
+meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.text = "The just is remembered with praises, but for you the Lord’s testimony suffices, O Forerunner; for you were declared more praiseworthy than the Prophets, because you were found worthy to baptize in running streams the One they had proclaimed. Therefore, having struggled bravely for the truth with joy, you preached to those in Hell a God who had appeared in flesh, who takes away the sin of the world, and grants us his great mercy."
+

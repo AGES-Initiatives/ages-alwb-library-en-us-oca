@@ -1,0 +1,36 @@
+A_Resource_Whose_Name = da.d4_en_US_dedes 
+
+daDay.text = "Wednesday."
+daCommemoration.text = "The Theotokos."
+
+daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onTuesdayEvening
+
+daVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
+daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.text = me.m09.d14_en_US_dedes.meVE.Apolytikion1.text
+
+daVE.ApolTheotokion.mode = misc_en_US_dedes.Mode1
+daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.text = oc.m1.d4_en_US_dedes.ocVE.ApolTheotokionVM.text
+
+daMA.Triadic1Ending.text = "By the power of Your Cross save us."
+daMA.Triadic2Ending.text = prayers_en_US_dedes.trPresveiaisTonAgion
+daMA.Triadic3Ending.text = prayers_en_US_dedes.trDiaTisTheotokou
+
+daMA.Photagogic1Ending.text = "by the power of Your Cross, and save me."
+daMA.Photagogic2Ending.text = prayers_en_US_dedes.fePresveiaisTonAgionKaiSosonMe
+daMA.Photagogic3Ending.text = prayers_en_US_dedes.fePresveiaisTisTheotokou
+
+daMA.Photagogic1Beginning.text = "By the power of Your Cross, O Lord,"
+daMA.Photagogic2Beginning.text = prayers_en_US_dedes.fbPresveiaisKyrieTonAgion
+daMA.Photagogic3Beginning.text = prayers_en_US_dedes.fbPresveiaisKyrieTisTheotokou
+
+daMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+daMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+daMA.Exaposteilarion1.text = ""
+
+daMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+daMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+daMA.ExapTheotokion.text = ""
+
+daLI.CommunionHymn.text = "" //for media

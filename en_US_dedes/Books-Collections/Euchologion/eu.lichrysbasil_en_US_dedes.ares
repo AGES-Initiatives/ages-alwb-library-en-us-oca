@@ -1,0 +1,39 @@
+A_Resource_Whose_Name = eu.lichrysbasil_en_US_dedes 
+
+euLI.title = "The Divine Liturgy of Saint John Chrysostom"
+
+// Part 02 Great Litany - Antiphon 1
+euLI.Key0200.text = "The Great Litany" //.text and not .title for the sake of media
+
+// Part 11 Great Entrance
+euLI.Key1102.text = ""  //Cherubic. for media
+
+// Part 12 Litany and Creed
+euLI.Key1200.text = //Petitions. for media
+euLI.Key1205.text = ""  //Father Son. for media
+euLI.Key1206.text = "" //I will love You. for media
+
+// Part 13 Holy Anaphora
+euLI.Key1311.text = "" //Holy, holy, holy. for media
+euLI.Key1318.text = ""  //We praise You. for media
+euLI.Key1328.text = ""  //It is truly right. for media
+euLI.Key1328.basil.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma23.text
+
+// Part 14 Before Communion
+euLI.Key1411.text = //One is Holy. for media
+
+// Part 15 Communion
+euLI.Key1521.text = ho.s03_en_US_dedes.hoMA.SunPostGospel.text
+euLI.Key1522.text = he.h.m1_en_US_dedes.FotizouFotizou.text
+euLI.Key1523.text = pe.d00P_en_US_dedes.pePA.Ode91.text 
+euLI.Key1524.text = pe.d00P_en_US_dedes.pePA.Ode92.text 
+euLI.Key1527.title = "Hymns During Holy Communion"
+euLI.Key1530.text = "We have seen the true light; we have received the heavenly Spirit; we have found the true faith, worshiping the undivided Trinity, for this has saved us." //find this hymn in Pentecost
+euLI.Key1531.text = "Instead of \"We have seen.\""
+
+ 
+// Part 17 Dismissal
+euLI.Key1703.text = "Blessed be the name of the Lord, from now and to the ages."
+euLI.Key1706.text = "Preserve him who blesses and sanctifies us, O Lord; preserve him for many years."
+euLI.Key1706h.text = "Τὸν Δεσπότην καὶ Ἀρχιερέα ἡμῶν, Κύριε, φύλαττε. Εἰς πολλὰ ἔτη, Δέσποτα. Εἰς πολλὰ ἔτη, Δέσποτα. Εἰς πολλὰ ἔτη, Δέσποτα."
+

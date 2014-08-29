@@ -1,0 +1,324 @@
+A_Resource_Whose_Name = pe.d127_en_US_dedes
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = "All Saints"
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_en_US_dedes.dis00.resurrection
+
+peVE.Stichera07.mode = misc_en_US_dedes.Mode6
+peVE.Stichera07.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+peVE.Stichera07.text = ""
+
+peVE.Stichera08.mode = misc_en_US_dedes.Mode6
+peVE.Stichera08.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+peVE.Stichera08.text = ""
+
+peVE.Stichera09.mode = misc_en_US_dedes.Mode6
+peVE.Stichera09.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+peVE.Stichera09.text = ""
+
+peVE.Stichera10.mode = misc_en_US_dedes.Mode6
+peVE.Stichera10.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+peVE.Stichera10.text = ""
+
+peVE.SticGlory.mode = misc_en_US_dedes.Mode6
+peVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.SticGlory.text = ""
+
+peVE.Lity1.mode = misc_en_US_dedes.Mode1
+peVE.Lity1.melody = misc_en_US_dedes.Idiomelon
+peVE.Lity1.text = ""
+
+peVE.Lity2.mode = misc_en_US_dedes.Mode1
+peVE.Lity2.melody = misc_en_US_dedes.Idiomelon
+peVE.Lity2.text = ""
+
+peVE.Lity3.mode = misc_en_US_dedes.Mode1
+peVE.Lity3.melody = misc_en_US_dedes.Idiomelon
+peVE.Lity3.text = ""
+
+peVE.LityGlory.mode = misc_en_US_dedes.Mode5
+peVE.LityGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.LityGlory.text = ""
+
+peVE.LityBoth.mode = misc_en_US_dedes.Mode5
+peVE.LityBoth.melody  = ""
+peVE.LityBoth.text = oc.m5.d1_en_US_dedes.ocVE.AposTheotokion.text
+
+peVE.AposGlory.mode = misc_en_US_dedes.Mode6
+peVE.AposGlory.melody  = ""
+peVE.AposGlory.text = ""
+
+peVE.AposBoth.mode = misc_en_US_dedes.Mode6
+peVE.AposBoth.melody  = ""
+peVE.AposBoth.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
+
+peVE.Apolytikion1.mode = oc.m8.d1_en_US_dedes.ocVE.Apolytikion.mode
+peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.text = oc.m8.d1_en_US_dedes.ocVE.Apolytikion.text
+
+peVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
+peVE.Apolytikion2.melody  = ""
+peVE.Apolytikion2.text = "Your Church is arrayed in the holy blood of Your Martyrs who witnessed throughout the world, as though in purple and fine linen. Through them she cries to You, Christ our God, \"Send down to Your people Your tender love, grant peace from above to Your commonwealth, and to our souls Your great mercy.\""
+
+peVE.Apolytikion3.mode = oc.m4.d1_en_US_dedes.ocVE.ApolTheotokionVM.mode
+peVE.Apolytikion3.melody  = ""
+peVE.Apolytikion3.text = oc.m4.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
+
+peMA.Kathisma11.mode = oc.m8.d1_en_US_dedes.ocMA.Kathisma11.mode
+peMA.Kathisma11.melody = oc.m8.d1_en_US_dedes.ocMA.Kathisma11.melody
+peMA.Kathisma11.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma11.text
+
+peMA.Kathisma12.mode = oc.m8.d1_en_US_dedes.ocMA.Kathisma21.mode
+peMA.Kathisma12.melody  = ""
+peMA.Kathisma12.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma21.text
+
+peMA.Kathisma13.mode = oc.m8.d1_en_US_dedes.ocVE.ApolTheotokionVM.mode
+peMA.Kathisma13.melody  = ""
+peMA.Kathisma13.text = oc.m8.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
+
+peMA.Kathisma21.mode = misc_en_US_dedes.Mode8
+peMA.Kathisma21.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+peMA.Kathisma21.text = "Arrayed in white, Archangel Gabriel appeared bright * and shone like lightning at the Savior Christ's gravesite, * and he rolled back the stone from the sepulcher's entrance. * The guards then were overcome with a mighty fear, * and suddenly they became like dead men. * Gone, the guards from the sepulcher; gone, the seal from the stone. * Embarrassed be the lawless ones, surely knowing that Christ arose."
+
+peMA.Kathisma22.mode = oc.m8.d1_en_US_dedes.ocMA.Kathisma12.mode
+peMA.Kathisma22.melody = oc.m8.d1_en_US_dedes.ocMA.Kathisma12.melody
+peMA.Kathisma22.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma12.text
+
+peMA.Kathisma23.mode = oc.m8.d1_en_US_dedes.ocMA.Kathisma23.mode
+peMA.Kathisma23.melody  = ""
+peMA.Kathisma23.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma23.text
+
+peMA.C1Acrostic.text = ""
+
+peMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C11.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C11.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+peMA.Ode1C11.text = "" 
+
+peMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C12.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C12.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+peMA.Ode1C12.text = "" 
+
+peMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C13.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C13.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+peMA.Ode1C13.text = "" 
+
+peMA.Ode1C14.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C14.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C14.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+peMA.Ode1C14.text = "" 
+
+peMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+peMA.Ode1C1T.text = ""
+
+peMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C11.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C11.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+peMA.Ode3C11.text = "" 
+
+peMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C12.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C12.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+peMA.Ode3C12.text = "" 
+
+peMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C13.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C13.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+peMA.Ode3C13.text = "" 
+
+peMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+peMA.Ode3C1T.text = ""
+
+peMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+peMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+peMA.Ode3Kathisma1.text = ""
+
+peMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode8
+peMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+peMA.Ode3Kathisma2.text = ""
+
+peMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C11.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C11.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+peMA.Ode4C11.text = "" 
+
+peMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C12.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C12.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+peMA.Ode4C12.text = "" 
+
+peMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C13.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C13.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+peMA.Ode4C13.text = "" 
+
+peMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C14.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C14.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+peMA.Ode4C14.text = "" 
+
+peMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C1T.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C1T.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+peMA.Ode4C1T.text = ""
+
+peMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C11.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C11.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+peMA.Ode5C11.text = "" 
+
+peMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C12.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C12.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+peMA.Ode5C12.text = "" 
+
+peMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C13.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C13.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+peMA.Ode5C13.text = "" 
+
+peMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C1T.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C1T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+peMA.Ode5C1T.text = ""
+
+peMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C11.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C11.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+peMA.Ode6C11.text = "" 
+
+peMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C12.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C12.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+peMA.Ode6C12.text = "" 
+
+peMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C13.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C13.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+peMA.Ode6C13.text = "" 
+
+peMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C1T.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C1T.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+peMA.Ode6C1T.text = ""
+
+peMA.Kontakion1.mode = misc_en_US_dedes.Mode8
+peMA.Kontakion1.melody = misc_en_US_dedes.Automelon
+peMA.Kontakion1.text = he.a.m8_en_US_dedes.OsAparchas.text 
+
+peMA.Oikos1.text = "Those who were martyred throughout the earth, and those who moved their homes to the heavens, the imitators of Christ's suffering, and those who remove from us our suffering, here today are gathered, shown to be the first fruits of the Church, having held it as the type of that above. And they cried out to Christ, \"You are my God; preserve me. This, through the Theotokos, as You are most merciful.\""
+
+peMA.Synaxarion1.Com = "On this day, the Sunday after Pentecost, we celebrate the feast of Αll Saints, who are from every part of the world, those in Asia, Africa, Europe and America, from the North and from the South."
+peMA.Synaxarion1.Ver1 = "I sing praises to all the Friends of my Lord."
+peMA.Synaxarion1.Ver2 = "If one is so destined, to their number be added."
+peMA.Synaxarion1.Nar = ""
+
+peMA.Synaxarion.LastLine = "By the intercessions of Your immaculate Mother, O Christ our God, and of all Your Saints from every age, have mercy on us and save us, as You alone are good and love humanity. Amen."
+
+peMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C11.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C11.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+peMA.Ode7C11.text = "" 
+
+peMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C12.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C12.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+peMA.Ode7C12.text = "" 
+
+peMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C13.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C13.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+peMA.Ode7C13.text = "" 
+
+peMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C14.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C14.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+peMA.Ode7C14.text = "" 
+
+peMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C1T.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C1T.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+peMA.Ode7C1T.text = ""
+
+peMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C11.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C11.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+peMA.Ode8C11.text = "" 
+
+peMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C12.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C12.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+peMA.Ode8C12.text = "" 
+
+peMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C13.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C13.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+peMA.Ode8C13.text = "" 
+
+peMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C1T.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C1T.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+peMA.Ode8C1T.text = ""
+
+peMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C11.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C11.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+peMA.Ode9C11.text = "" 
+
+peMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C12.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C12.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+peMA.Ode9C12.text = "" 
+
+peMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C13.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C13.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+peMA.Ode9C13.text = "" 
+
+peMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C1T.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C1T.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+peMA.Ode9C1T.text = ""
+
+peMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+peMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+peMA.Exaposteilarion1.text = "The Baptist John the Forerunner, the Apostles and Prophets, * Martyrs and holy Hierarchs, the Devout and Ascetics, * and the divine Hieromartyrs, and the God-loving women, * and all the Righteous men of old, and the Angelic orders, * let us extol * dutifully honoring them with praises, * while entreating our Savior Christ * that we attain their glory."
+
+peMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+peMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+peMA.ExapTheotokion.text = "He who is glorified above as one divine by angels, * while He in manner yet untold * left not the Father's bosom, * with those below He mingled; * and you, O stainless Lady, have become the guardian, * host of this great salvation; from your pure blood, * you lent Him your flesh beyond comprehension. * Ask Him, O pure one, that He grant * forgiveness of sins to your servants."
+
+peMA.Lauds6.mode = misc_en_US_dedes.Mode4
+peMA.Lauds6.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+peMA.Lauds6.text = "Christ the Lord has made wondrous all of His Saints that were on the earth, * for as the Apostle declared, they bore His marks * and in their flesh shared His sufferings, adorning themselves therewith, * and distinguishing themselves in the beauty that is divine. Let us therefore praise * and acclaim them as never-fading flowers and as voluntary victims, * and as the Church's unerring stars."
+
+peMA.LaudsVerse7.text = "The righteous cried, and the Lord heard them."
+
+peMA.Lauds7.mode = misc_en_US_dedes.Mode4
+peMA.Lauds7.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+peMA.Lauds7.text = "With the Prophets, Apostles and the devoutest Monastic Saints, * Hieromartyrs, Teachers and every righteous man, * the holy women excelling in ascesis and martyrdom, * the entire host of Saints * and the ranks of the Righteous all be extolled today * with divine hymns, for they are the inheritors of heaven's rule and kingdom, * and the inhabitants of Paradise."
+
+peMA.LaudsVerse8.text = "God is wondrous in His saints."
+
+peMA.Lauds8.mode = misc_en_US_dedes.Mode4
+peMA.Lauds8.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+peMA.Lauds8.text = "By their virtues' effulgent light, they made earth to be heaven-like * and they imitated the death of Jesus Christ. * These are the ones who have walked the way that leads to immortal life. * By the surgery of grace, they removed human passions as healers of mankind. * And united throughout the world the Martyrs have courageously contested. * Let us extol all the Saints today."
+
+peMA.Lauds345 = "" //for media
+
+peLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode8
+peLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
+peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+
+peLI.CommunionHymn.text = da.d7_en_US_dedes.daLI.CommunionHymn.text
+
+peMegalynarion.text = ""

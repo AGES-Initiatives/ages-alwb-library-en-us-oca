@@ -1,0 +1,320 @@
+A_Resource_Whose_Name = pe.d076_en_US_dedes
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = "Bright Friday - The Life-bearing Spring"
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_en_US_dedes.dis00.resurrection
+
+peVE.Stichera1234.text = "" //for media with saint
+
+peVE.Stichera01.mode = misc_en_US_dedes.Mode6
+peVE.Stichera01.melody  = ""
+peVE.Stichera01.text = oc.m6.d1_en_US_dedes.ocVE.Stichera1.text
+
+peVE.Stichera02.mode = misc_en_US_dedes.Mode6
+peVE.Stichera02.melody  = ""
+peVE.Stichera02.text = oc.m6.d1_en_US_dedes.ocVE.Stichera2.text
+
+peVE.Stichera03.mode = misc_en_US_dedes.Mode6
+peVE.Stichera03.melody  = ""
+peVE.Stichera03.text = oc.m6.d1_en_US_dedes.ocVE.Stichera3.text
+
+peVE.Stichera04.mode = misc_en_US_dedes.Mode6
+peVE.Stichera04.melody  = ""
+peVE.Stichera04.text = oc.m6.d1_en_US_dedes.ocVE.Stichera4.text
+
+peVE.Stichera05.mode = misc_en_US_dedes.Mode6
+peVE.Stichera05.melody  = ""
+peVE.Stichera05.text = oc.m6.d1_en_US_dedes.ocVE.Stichera6.text
+
+peVE.Stichera06.mode = misc_en_US_dedes.Mode6
+peVE.Stichera06.melody  = ""
+peVE.Stichera06.text = oc.m6.d1_en_US_dedes.ocVE.Stichera5.text
+
+peVE.Stichera07.mode = misc_en_US_dedes.Mode6
+peVE.Stichera07.melody  = ""
+peVE.Stichera07.text  = ""
+
+peVE.Stichera08.mode = misc_en_US_dedes.Mode6
+peVE.Stichera08.melody  = ""
+peVE.Stichera08.text = peVE.Stichera07.text
+
+peVE.Stichera09.mode = misc_en_US_dedes.Mode6
+peVE.Stichera09.melody  = ""
+peVE.Stichera09.text  = ""
+
+peVE.Stichera10.mode = misc_en_US_dedes.Mode6
+peVE.Stichera10.melody  = ""
+peVE.Stichera10.text  = ""
+
+peVE.SticGlory.mode = misc_en_US_dedes.Mode8
+peVE.SticGlory.melody  = ""
+peVE.SticGlory.text  = ""
+
+peVE.SticBoth.mode = misc_en_US_dedes.Mode6
+peVE.SticBoth.melody  = ""
+peVE.SticBoth.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
+
+peVE.GreatProkeimenon.text = "" //for media
+
+peVE.Aposticha1.mode = misc_en_US_dedes.Mode6
+peVE.Aposticha1.melody  = ""
+peVE.Aposticha1.text = oc.m6.d1_en_US_dedes.ocVE.Aposticha1.text
+
+peVE.Aposticha2.mode = misc_en_US_dedes.Mode5
+peVE.Aposticha2.melody  = ""
+peVE.Aposticha2.text  = ""
+
+peVE.Aposticha3.mode = misc_en_US_dedes.Mode5
+peVE.Aposticha3.melody  = ""
+peVE.Aposticha3.text  = ""
+
+peVE.Aposticha4.mode = misc_en_US_dedes.Mode5
+peVE.Aposticha4.melody  = ""
+peVE.Aposticha4.text  = ""
+
+peVE.AposGlory.mode = misc_en_US_dedes.Mode5
+peVE.AposGlory.melody  = ""
+peVE.AposGlory.text  = ""
+
+peVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
+peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.text = "O Theotokos, your church is like the Garden of Paradise, since it pours out healings and cures like ever-living rivers. We come to it with faith, and we draw strength and eternal life from its water, through you who are the Spring that received Life himself. For you intercede with Christ our Savior, who was born from you, and you entreat Him to save our souls."
+
+peMA.C1Acrostic.text = ""
+
+peMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C11.mode = misc_en_US_dedes.Mode1
+peMA.Ode1C11.melody = he.h.m1_en_US_dedes.AnastaseosImera.name
+peMA.Ode1C11.text = "" 
+
+peMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C12.mode = misc_en_US_dedes.Mode1
+peMA.Ode1C12.melody = he.h.m1_en_US_dedes.AnastaseosImera.name
+peMA.Ode1C12.text = "" 
+
+peMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C13.mode = misc_en_US_dedes.Mode1
+peMA.Ode1C13.melody = he.h.m1_en_US_dedes.AnastaseosImera.name
+peMA.Ode1C13.text = "" 
+
+peMA.Ode1C14.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C14.mode = misc_en_US_dedes.Mode1
+peMA.Ode1C14.melody = he.h.m1_en_US_dedes.AnastaseosImera.name
+peMA.Ode1C14.text = "" 
+
+peMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C11.mode = misc_en_US_dedes.Mode1
+peMA.Ode3C11.melody = he.h.m1_en_US_dedes.DeftePomaPiomen.name
+peMA.Ode3C11.text = "" 
+
+peMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C12.mode = misc_en_US_dedes.Mode1
+peMA.Ode3C12.melody = he.h.m1_en_US_dedes.DeftePomaPiomen.name
+peMA.Ode3C12.text = "" 
+
+peMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C13.mode = misc_en_US_dedes.Mode1
+peMA.Ode3C13.melody = he.h.m1_en_US_dedes.DeftePomaPiomen.name
+peMA.Ode3C13.text = "" 
+
+peMA.Ode3C14.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C14.mode = misc_en_US_dedes.Mode1
+peMA.Ode3C14.melody = he.h.m1_en_US_dedes.DeftePomaPiomen.name
+peMA.Ode3C14.text = "" 
+
+peMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+peMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+peMA.Ode3Kathisma1.text = ""
+
+peMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C11.mode = misc_en_US_dedes.Mode1
+peMA.Ode4C11.melody = he.h.m1_en_US_dedes.EpiTisTheiasFylakis.name
+peMA.Ode4C11.text = "" 
+
+peMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C12.mode = misc_en_US_dedes.Mode1
+peMA.Ode4C12.melody = he.h.m1_en_US_dedes.EpiTisTheiasFylakis.name
+peMA.Ode4C12.text = "" 
+
+peMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C13.mode = misc_en_US_dedes.Mode1
+peMA.Ode4C13.melody = he.h.m1_en_US_dedes.EpiTisTheiasFylakis.name
+peMA.Ode4C13.text = "" 
+
+peMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C14.mode = misc_en_US_dedes.Mode1
+peMA.Ode4C14.melody = he.h.m1_en_US_dedes.EpiTisTheiasFylakis.name
+peMA.Ode4C14.text = "" 
+
+peMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C11.mode = misc_en_US_dedes.Mode1
+peMA.Ode5C11.melody = he.h.m1_en_US_dedes.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C11.text = "" 
+
+peMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C12.mode = misc_en_US_dedes.Mode1
+peMA.Ode5C12.melody = he.h.m1_en_US_dedes.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C12.text = "" 
+
+peMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C13.mode = misc_en_US_dedes.Mode1
+peMA.Ode5C13.melody = he.h.m1_en_US_dedes.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C13.text = "" 
+
+peMA.Ode5C14.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C14.mode = misc_en_US_dedes.Mode1
+peMA.Ode5C14.melody = he.h.m1_en_US_dedes.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C14.text = "" 
+
+peMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C11.mode = misc_en_US_dedes.Mode1
+peMA.Ode6C11.melody = he.h.m1_en_US_dedes.KatilthesEnToisKatotatois.name
+peMA.Ode6C11.text = "" 
+
+peMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C12.mode = misc_en_US_dedes.Mode1
+peMA.Ode6C12.melody = he.h.m1_en_US_dedes.KatilthesEnToisKatotatois.name
+peMA.Ode6C12.text = "" 
+
+peMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C13.mode = misc_en_US_dedes.Mode1
+peMA.Ode6C13.melody = he.h.m1_en_US_dedes.KatilthesEnToisKatotatois.name
+peMA.Ode6C13.text = "" 
+
+peMA.Ode6C14.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C14.mode = misc_en_US_dedes.Mode1
+peMA.Ode6C14.melody = he.h.m1_en_US_dedes.KatilthesEnToisKatotatois.name
+peMA.Ode6C14.text = "" 
+
+peMA.Kontakion1.mode = misc_en_US_dedes.Mode8
+peMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
+peMA.Kontakion1.text = "O Lady, full of grace divine, you ever grant to me * your grace's waters, which are gushing forth continually * from your never-failing Spring, beyond understanding. * You gave birth to God the Logos inexplicably, so I pray you that your gift of grace refreshes me, * that I may cry to you, \"Rejoice, water of deliverance!\""
+
+peMA.Oikos1.text = "All-spotless Theotokos, who ineffably gave birth to the Father's pre-eternal Logos, noble Lady, open wide my mouth, and assist me as I now commence praising you, so that I may cry out to you, extolling your Spring and saying:"
+peMA.Oikos12.text = "Rejoice, O Spring of joy unending. Rejoice, O stream of ineffable beauty."
+peMA.Oikos13.text = "Rejoice, termination of every malady. Rejoice, elimination of every suffering."
+peMA.Oikos14.text = "Rejoice, clearest stream that gives believers their health. Rejoice, water that is abundantly joyous to those who are sick."
+peMA.Oikos15.text = "Rejoice, water of wisdom, removing ignorance. Rejoice, potion for the heart, pouring forth ambrosia."
+peMA.Oikos16.text = "Rejoice, bowl of manna overflowing with life. Rejoice, basin overflowing with nectar divine."
+peMA.Oikos17.text = "Rejoice, for you point out the passing of illness. Rejoice, for you put out the fire of sickness."
+peMA.Oikos18.text = "Rejoice, water of deliverance!"
+
+peMA.Synaxarion1.Com = "On Friday of Bright (i.e. Renewal) Week, we celebrate the dedication of the church of our most-holy Lady Theotokos, namely the church of the Life-bearing Fount. We also remember the ineffable miracles that were performed in it by the Mother of God."
+peMA.Synaxarion1.Ver1 = ""
+peMA.Synaxarion1.Ver2 = ""
+peMA.Synaxarion1.Nar = ""
+peMA.Synaxarion.LastLine = "By the intercessions of Your Mother, O Christ God, have mercy on us. Amen."
+
+peMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C11.mode = misc_en_US_dedes.Mode1
+peMA.Ode7C11.melody = he.h.m1_en_US_dedes.OPaidasEkKaminou.name
+peMA.Ode7C11.text = "" 
+
+peMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C12.mode = misc_en_US_dedes.Mode1
+peMA.Ode7C12.melody = he.h.m1_en_US_dedes.OPaidasEkKaminou.name
+peMA.Ode7C12.text = "" 
+
+peMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C13.mode = misc_en_US_dedes.Mode1
+peMA.Ode7C13.melody = he.h.m1_en_US_dedes.OPaidasEkKaminou.name
+peMA.Ode7C13.text = "" 
+
+peMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C14.mode = misc_en_US_dedes.Mode1
+peMA.Ode7C14.melody = he.h.m1_en_US_dedes.OPaidasEkKaminou.name
+peMA.Ode7C14.text = "" 
+
+peMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C11.mode = misc_en_US_dedes.Mode1
+peMA.Ode8C11.melody = he.h.m1_en_US_dedes.AftiIKliti.name
+peMA.Ode8C11.text = "" 
+
+peMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C12.mode = misc_en_US_dedes.Mode1
+peMA.Ode8C12.melody = he.h.m1_en_US_dedes.AftiIKliti.name
+peMA.Ode8C12.text = "" 
+
+peMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C13.mode = misc_en_US_dedes.Mode1
+peMA.Ode8C13.melody = he.h.m1_en_US_dedes.AftiIKliti.name
+peMA.Ode8C13.text = "" 
+
+peMA.Ode8C14.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C14.mode = misc_en_US_dedes.Mode1
+peMA.Ode8C14.melody = he.h.m1_en_US_dedes.AftiIKliti.name
+peMA.Ode8C14.text = "" 
+
+peMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C11.mode = misc_en_US_dedes.Mode1
+peMA.Ode9C11.melody = he.h.m1_en_US_dedes.FotizouFotizou.name
+peMA.Ode9C11.text = "Pure Maiden, we know that the holy water of your Spring, * more than all other water, is most excellent indeed, * for it pours forth supernaturally, * and it relieves us of serious illness, * clearly restoring good health to our souls." 
+
+peMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C12.mode = misc_en_US_dedes.Mode1
+peMA.Ode9C12.melody = he.h.m1_en_US_dedes.FotizouFotizou.name
+peMA.Ode9C12.text = "Behold, we all see now the new Siloam of your Spring, * which, O Virgin, delivers people from infirmities. * Eyes of a man who was blind are restored. * We, in addition to life, are receiving * good health and vigor continually." 
+
+peMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C13.mode = misc_en_US_dedes.Mode1
+peMA.Ode9C13.melody = he.h.m1_en_US_dedes.FotizouFotizou.name
+peMA.Ode9C13.text = "All you who are seeking your health now run to the Spring. * For the grace of the Virgin does within the water dwell. * Greatly rejoice, O believers, and exult, * for you will have the appropriate answer * to your requests in her sacred shrine." 
+
+peMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C14.mode = misc_en_US_dedes.Mode1
+peMA.Ode9C14.melody = he.h.m1_en_US_dedes.FotizouFotizou.name
+peMA.Ode9C14.text = "The water of your Spring is exalted higher than the sky, * and its streams permeated all the oceans of the earth. * It is indeed the ambrosia of the soul, * nectar of the faithful and honey from the rock, * and manna that rains down on us." 
+
+peMA.Ode9C15.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C15.mode = misc_en_US_dedes.Mode1
+peMA.Ode9C15.melody = he.h.m1_en_US_dedes.FotizouFotizou.name
+peMA.Ode9C15.text = "" 
+
+peMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+peMA.Exaposteilarion1.melody = misc_en_US_dedes.Automelon
+peMA.Exaposteilarion1.text = he.a.m2_en_US_dedes.SarkiYpnosas.text
+
+peMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
+peMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.SarkiYpnosas.name
+peMA.Exaposteilarion2.text = "Lady, you are indeed a Spring * of living water for us all. * By touch alone You wash away * the grievous illnesses that plague * our bodies and our souls alike. * Christ is that saving water, * which you have poured forth on us."
+
+peMA.Lauds1.mode = misc_en_US_dedes.Mode6
+peMA.Lauds1.melody  = ""
+peMA.Lauds1.text = oc.m6.d1_en_US_dedes.ocMA.Lauds1.text
+
+peMA.Lauds2.mode = misc_en_US_dedes.Mode6
+peMA.Lauds2.melody  = ""
+peMA.Lauds2.text = oc.m6.d1_en_US_dedes.ocMA.Lauds2.text
+
+peMA.Lauds3.mode = misc_en_US_dedes.Mode6
+peMA.Lauds3.melody  = ""
+peMA.Lauds3.text = oc.m6.d1_en_US_dedes.ocMA.Lauds3.text
+
+peMA.Lauds4.mode = misc_en_US_dedes.Mode6
+peMA.Lauds4.melody = misc_en_US_dedes.Automelon
+peMA.Lauds4.text = oc.m6.d1_en_US_dedes.ocMA.Lauds4.text
+
+peMA.Lauds5.mode = misc_en_US_dedes.Mode2
+peMA.Lauds5.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peMA.Lauds5.text = "Water drawn from this Spring * brings healing and salvation * to all who suffer illness. * So let us come with faith now and draw the grace of God from it."
+
+peMA.Lauds6.mode = misc_en_US_dedes.Mode2
+peMA.Lauds6.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peMA.Lauds6.text = "This vivifying Well * of the immortal Fountain * provides a flood of healing * that never is exhausted * to those who come with faith and love."
+
+peMA.LaudsVerse7.text  = ""
+peMA.Lauds7.mode = misc_en_US_dedes.Mode2
+peMA.Lauds7.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peMA.Lauds7.text = "Healthy and strong are souls * made by the Virgin's water. * So let us who are soiled * by sinful passions run to the Maid and have them washed away."
+
+peMA.LaudsVerse8.text  = ""
+peMA.Lauds8.mode = misc_en_US_dedes.Mode2
+peMA.Lauds8.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peMA.Lauds8.text = "Now does that sacred jar * pour out in great abundance * the manna from the Fountain * that ever flows to those who request. Come all and draw from it."
+
+peMA.Lauds12.text = "" //for media with saint
+
+peMegalynarion.text = ""

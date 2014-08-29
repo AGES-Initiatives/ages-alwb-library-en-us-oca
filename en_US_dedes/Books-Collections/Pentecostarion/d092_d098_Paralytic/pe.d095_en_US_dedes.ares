@@ -1,0 +1,617 @@
+A_Resource_Whose_Name = pe.d095_en_US_dedes
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = "Mid-Pentecost"
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_en_US_dedes.dis00.resurrection
+
+peVE.Stichera01.mode = misc_en_US_dedes.Mode4
+peVE.Stichera01.melody = he.a.m4_en_US_dedes.KyrieAnelthonEnToStavro.name
+peVE.Stichera01.text = "Here at last is the midpoint of the days * that commence with the saving Resurrection from the dead, * reaching their limit and ending * with holy Pentecost. And it shines with radiance * that it gets from the both of them, thus uniting the two feasts. * It is dignified in that it manifests * the glory of the Master's Ascension that is yet to come."
+
+peVE.Stichera02.mode = misc_en_US_dedes.Mode4
+peVE.Stichera02.melody = he.a.m4_en_US_dedes.KyrieAnelthonEnToStavro.name
+peVE.Stichera02.text = "Zion heard and was jubilant with joy * when the Resurrection of the Christ was proclaimed to her. * Her faithful offspring exulted, and they were glad when they saw the Lord alive again; * from the stigma of Christicide He will cleanse by the Spirit. * She prepares for the festive observance of * the most joyful midpoint between the two important feasts."
+
+peVE.Stichera03.mode = misc_en_US_dedes.Mode4
+peVE.Stichera03.melody = he.a.m4_en_US_dedes.KyrieAnelthonEnToStavro.name
+peVE.Stichera03.text = "Coming is the abundant pouring out * of the Holy Spirit upon all, as the Scripture says. * And the appointed time's midpoint * today proclaims the undoubted promise made by Christ * after His death and burial and divine resurrection * to His holy Disciples, in reference to * the upcoming manifestation of Paraclete."
+
+peVE.SticGlory.mode = misc_en_US_dedes.Mode6
+peVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.SticGlory.text = "At the mid-point of the feast of Your Resurrection, O Christ, and of the divine coming of Your Holy Spirit, we have come together to extol the mysteries of Your miracles. We pray You, on this feast send down on us Your great mercy."
+
+peVE.Aposticha1.poet = poets_en_US_dedes.IoannouMonachou
+peVE.Aposticha1.mode = misc_en_US_dedes.Mode1
+peVE.Aposticha1.melody = misc_en_US_dedes.Idiomelon
+peVE.Aposticha1.text = "The midpoint of the Fifty Days has arrived. On this day, Christ somewhat exposed His divine authority, bracing the Paralytic and by a word raising him from his bed. And working miracles befitting His divinity, yet in a body of clay, He gave eternal life to humanity, and great mercy."
+
+peVE.Aposticha2.mode = misc_en_US_dedes.Mode1
+peVE.Aposticha2.melody = misc_en_US_dedes.Idiomelon
+peVE.Aposticha2.text = "You were present in the Temple, You, the Wisdom of God, about the middle of the feast; and You taught and reproved the unbelieving Judeans, the Pharisees and Scribes, and You openly cried out to them, \"Let him who thirsts come to Me and drink the water that is alive; and he will not thirst in eternity. He who believes in My goodness will have rivers of eternal life flowing out of his belly.\" Such is Your benevolence and Your compassion, O Christ our God! Glory to You."
+
+peVE.Aposticha3.mode = misc_en_US_dedes.Mode2
+peVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
+peVE.Aposticha3.text = "When the middle of the feast had come, Jesus went up to the Temple; and He taught the unbelieving Judeans, saying, \"Let him who thirsts come to Me and drink the water that is alive and eternal, and he will not thirst in eternity. He who believes in Me will have rivers flowing out of his belly, and he will have the light of life.\""
+
+peVE.AposGlory.mode = misc_en_US_dedes.Mode8
+peVE.AposGlory.melody  = ""
+peVE.AposGlory.text = "In the middle of the feast, as You, O Savior, were teaching, the Judeans were saying, \"How does this man have such learning without having studied?\" But they were unaware that You are the very Wisdom that created the world. Glory to You."
+
+peVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
+peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.text = "O Lord, midway through the feast, give drink to my thirsty soul from the waters of true religion. For to all You the Savior cried aloud, Let whoever is thirsty come to Me and drink. As the fountain of life, O Christ our God, glory to You."
+
+peMA.Kathisma11.mode = misc_en_US_dedes.Mode4
+peMA.Kathisma11.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+peMA.Kathisma11.text = "The Master, aware of all the thoughts in everyone's hearts, * stood up in the center of the Temple crying aloud; * to the liars He spoke the truth. * \"Why is it you are seeking to arrest Me, the Life-giver?\" * He spoke openly in the middle of the feast's celebration. * \"You breakers of the Law, judge not by appearances.\""
+
+peMA.Kathisma21.mode = misc_en_US_dedes.Mode5
+peMA.Kathisma21.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+peMA.Kathisma21.text = "In the midst of the venerable feast of Pentecost, * in the midst of the Temple, the Master of all things * stood, and speaking to the Jews, openly censured them, * for their heavy handed daring against their King and God.* Whereas, in His loving-kindness, * He is granting great mercy * to all of us who believe in Him."
+
+peMA.C1Poet = poets_en_US_dedes.Theofanous
+peMA.C1Acrostic.text = ""
+
+peMA.C2Poet = poets_en_US_dedes.AndreouKritis
+
+peMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
+peMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode1C1H.text = he.h.m4_en_US_dedes.ThalassisToErythraion.text
+
+peMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C11.mode = misc_en_US_dedes.Mode4
+peMA.Ode1C11.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
+peMA.Ode1C11.text = "" 
+
+peMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C12.mode = misc_en_US_dedes.Mode4
+peMA.Ode1C12.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
+peMA.Ode1C12.text = "" 
+
+peMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C13.mode = misc_en_US_dedes.Mode4
+peMA.Ode1C13.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
+peMA.Ode1C13.text = "" 
+
+peMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
+peMA.Ode1C1T.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
+peMA.Ode1C1T.text = ""
+
+peMA.Ode1C2H.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C2H.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode1C2H.text = he.h.m8_en_US_dedes.ThalassanEpixas.text
+
+peMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C21.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C21.melody = he.h.m8_en_US_dedes.ThalassanEpixas.name
+peMA.Ode1C21.text = "" 
+
+peMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C22.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C22.melody = he.h.m8_en_US_dedes.ThalassanEpixas.name
+peMA.Ode1C22.text = "" 
+
+peMA.Ode1C23.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C23.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C23.melody = he.h.m8_en_US_dedes.ThalassanEpixas.name
+peMA.Ode1C23.text = "" 
+
+peMA.Ode1C24.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C24.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C24.melody = he.h.m8_en_US_dedes.ThalassanEpixas.name
+peMA.Ode1C24.text = "" 
+
+peMA.Ode1C2Tr.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C2Tr.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C2Tr.melody = he.h.m8_en_US_dedes.ThalassanEpixas.name
+peMA.Ode1C2Tr.text = ""
+
+peMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
+peMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
+peMA.Ode1C2T.melody = he.h.m8_en_US_dedes.ThalassanEpixas.name
+peMA.Ode1C2T.text = ""
+
+peMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C1H.mode = misc_en_US_dedes.Mode4
+peMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode3C1H.text = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.text
+
+peMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C11.mode = misc_en_US_dedes.Mode4
+peMA.Ode3C11.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
+peMA.Ode3C11.text = "" 
+
+peMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C12.mode = misc_en_US_dedes.Mode4
+peMA.Ode3C12.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
+peMA.Ode3C12.text = "" 
+
+peMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
+peMA.Ode3C1T.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
+peMA.Ode3C1T.text = ""
+
+peMA.Ode3C2H.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C2H.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode3C2H.text = he.h.m8_en_US_dedes.EstereothiIKardiaMouEnKyrio.text
+
+peMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C21.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C21.melody = he.h.m8_en_US_dedes.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C21.text = "" 
+
+peMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C22.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C22.melody = he.h.m8_en_US_dedes.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C22.text = "" 
+
+peMA.Ode3C23.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C23.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C23.melody = he.h.m8_en_US_dedes.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C23.text = "" 
+
+peMA.Ode3C24.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C24.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C24.melody = he.h.m8_en_US_dedes.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C24.text = "" 
+
+peMA.Ode3C2Tr.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C2Tr.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C2Tr.melody = he.h.m8_en_US_dedes.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C2Tr.text = ""
+
+peMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
+peMA.Ode3C2T.mode = misc_en_US_dedes.Mode8
+peMA.Ode3C2T.melody = he.h.m8_en_US_dedes.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C2T.text = ""
+
+peMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+peMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+peMA.Ode3Kathisma1.text = "At the middle, O Lord, of the sacred feast, * as You stood in the Temple amid the crowd, * You proclaimed, \"If anyone thirst, let him come unto Me and drink.\" * And You said, \"He who drinks this divine drink that I provide, * from his heart will My dogmas like rivers flow out of him. * Whoever believes in God the Father, who sent Me, * will truly be glorified together with Me by Him.\" * Let us therefore cry aloud, * \"Glory be to You, Christ God, * for you poured out to Your servants abundantly* the waters of Your love for humanity.\""
+
+peMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode8
+peMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+peMA.Ode3Kathisma2.text = ""
+
+peMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
+peMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode4C1H.text = he.h.m4_en_US_dedes.EparthentaSeIdousa.text
+
+peMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C11.mode = misc_en_US_dedes.Mode4
+peMA.Ode4C11.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
+peMA.Ode4C11.text = "" 
+
+peMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C12.mode = misc_en_US_dedes.Mode4
+peMA.Ode4C12.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
+peMA.Ode4C12.text = "" 
+
+peMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C13.mode = misc_en_US_dedes.Mode4
+peMA.Ode4C13.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
+peMA.Ode4C13.text = "" 
+
+peMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
+peMA.Ode4C1T.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
+peMA.Ode4C1T.text = ""
+
+peMA.Ode4C2H.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C2H.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode4C2H.text = he.h.m8_en_US_dedes.OProfitisAvvakoum.text
+
+peMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C21.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C21.melody = he.h.m8_en_US_dedes.OProfitisAvvakoum.name
+peMA.Ode4C21.text = "" 
+
+peMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C22.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C22.melody = he.h.m8_en_US_dedes.OProfitisAvvakoum.name
+peMA.Ode4C22.text = "" 
+
+peMA.Ode4C23.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C23.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C23.melody = he.h.m8_en_US_dedes.OProfitisAvvakoum.name
+peMA.Ode4C23.text = "" 
+
+peMA.Ode4C24.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C24.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C24.melody = he.h.m8_en_US_dedes.OProfitisAvvakoum.name
+peMA.Ode4C24.text = "" 
+
+peMA.Ode4C25.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C25.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C25.melody = he.h.m8_en_US_dedes.OProfitisAvvakoum.name
+peMA.Ode4C25.text = "" 
+
+peMA.Ode4C2Tr.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C2Tr.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C2Tr.melody = he.h.m8_en_US_dedes.OProfitisAvvakoum.name
+peMA.Ode4C2Tr.text = ""
+
+peMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
+peMA.Ode4C2T.mode = misc_en_US_dedes.Mode8
+peMA.Ode4C2T.melody = he.h.m8_en_US_dedes.OProfitisAvvakoum.name
+peMA.Ode4C2T.text = ""
+
+peMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C1H.mode = misc_en_US_dedes.Mode4
+peMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode5C1H.text = he.h.m4_en_US_dedes.SyKyrieMouFos.text
+
+peMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C11.mode = misc_en_US_dedes.Mode4
+peMA.Ode5C11.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
+peMA.Ode5C11.text = "" 
+
+peMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C12.mode = misc_en_US_dedes.Mode4
+peMA.Ode5C12.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
+peMA.Ode5C12.text = "" 
+
+peMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
+peMA.Ode5C1T.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
+peMA.Ode5C1T.text = ""
+
+peMA.Ode5C2H.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C2H.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode5C2H.text = he.h.m8_en_US_dedes.KyrieOTheosImon.text
+
+peMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C21.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C21.melody = he.h.m8_en_US_dedes.KyrieOTheosImon.name
+peMA.Ode5C21.text = "" 
+
+peMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C22.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C22.melody = he.h.m8_en_US_dedes.KyrieOTheosImon.name
+peMA.Ode5C22.text = "" 
+
+peMA.Ode5C23.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C23.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C23.melody = he.h.m8_en_US_dedes.KyrieOTheosImon.name
+peMA.Ode5C23.text = "" 
+
+peMA.Ode5C2Tr.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C2Tr.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C2Tr.melody = he.h.m8_en_US_dedes.KyrieOTheosImon.name
+peMA.Ode5C2Tr.text = ""
+
+peMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
+peMA.Ode5C2T.mode = misc_en_US_dedes.Mode8
+peMA.Ode5C2T.melody = he.h.m8_en_US_dedes.KyrieOTheosImon.name
+peMA.Ode5C2T.text = ""
+
+peMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C1H.mode = misc_en_US_dedes.Mode4
+peMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode6C1H.text = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.text
+
+peMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C11.mode = misc_en_US_dedes.Mode4
+peMA.Ode6C11.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
+peMA.Ode6C11.text = "" 
+
+peMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C12.mode = misc_en_US_dedes.Mode4
+peMA.Ode6C12.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
+peMA.Ode6C12.text = "" 
+
+peMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
+peMA.Ode6C1T.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
+peMA.Ode6C1T.text = ""
+
+peMA.Ode6C2H.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C2H.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode6C2H.text = he.h.m8_en_US_dedes.OsYdataThalassis.text
+
+peMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C21.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C21.melody = he.h.m8_en_US_dedes.OsYdataThalassis.name
+peMA.Ode6C21.text = "" 
+
+peMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C22.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C22.melody = he.h.m8_en_US_dedes.OsYdataThalassis.name
+peMA.Ode6C22.text = "" 
+
+peMA.Ode6C23.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C23.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C23.melody = he.h.m8_en_US_dedes.OsYdataThalassis.name
+peMA.Ode6C23.text = "" 
+
+peMA.Ode6C24.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C24.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C24.melody = he.h.m8_en_US_dedes.OsYdataThalassis.name
+peMA.Ode6C24.text = "" 
+
+peMA.Ode6C2Tr.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C2Tr.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C2Tr.melody = he.h.m8_en_US_dedes.OsYdataThalassis.name
+peMA.Ode6C2Tr.text = ""
+
+peMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
+peMA.Ode6C2T.mode = misc_en_US_dedes.Mode8
+peMA.Ode6C2T.melody = he.h.m8_en_US_dedes.OsYdataThalassis.name
+peMA.Ode6C2T.text = ""
+
+peMA.Kontakion1.mode = misc_en_US_dedes.Mode4
+peMA.Kontakion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+peMA.Kontakion1.text = "The feast according to the Law at its midpoint, O Christ our God, as the Creator and Master of everything, You said to all those who were present there, \"Come that you might draw from Me the water of immortality.\" Hence with faith we cry to You as we prostrate before You. Your tender mercies grant to us, we pray. You are the fountain and source of our life, O Lord."
+
+peMA.Oikos1.text = "With the streams of Your blood water my soul parched by unlawful offences, and show it to be fruitful in virtue. For You have said to all, to approach You, all-holy Word of God, and to draw the water of incorruption, which is alive and washes away the sins of those who extol Your glorious and divine Resurrection. O Good One, You grant those who know You to be God the power of the Spirit that truly came down from on high to Your Disciples. You are the fountain and source of our life, O Lord."
+
+peMA.Synaxarion1.Com = "On Wednesday of the Paralytic, we celebrate the feast of Mid-Pentecost."
+peMA.Synaxarion1.Ver1 = "In the midst of the feast does Christ the Messiah"
+peMA.Synaxarion1.Ver2 = "stand up and teach amidst the teachers."
+peMA.Synaxarion1.Nar = ""
+
+peMA.Synaxarion.LastLine = "In Your infinite mercy, O Christ our God, have mercy on us. Amen."
+
+peMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
+peMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode7C1H.text = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.text
+
+peMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C11.mode = misc_en_US_dedes.Mode4
+peMA.Ode7C11.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
+peMA.Ode7C11.text = "" 
+
+peMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C12.mode = misc_en_US_dedes.Mode4
+peMA.Ode7C12.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
+peMA.Ode7C12.text = "" 
+
+peMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
+peMA.Ode7C1T.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
+peMA.Ode7C1T.text = ""
+
+peMA.Ode7C2H.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C2H.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode7C2H.text = he.h.m8_en_US_dedes.TonChaldaionIKaminos.text
+
+peMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C21.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C21.melody = he.h.m8_en_US_dedes.TonChaldaionIKaminos.name
+peMA.Ode7C21.text = "" 
+
+peMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C22.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C22.melody = he.h.m8_en_US_dedes.TonChaldaionIKaminos.name
+peMA.Ode7C22.text = "" 
+
+peMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C23.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C23.melody = he.h.m8_en_US_dedes.TonChaldaionIKaminos.name
+peMA.Ode7C23.text = "" 
+
+peMA.Ode7C24.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C24.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C24.melody = he.h.m8_en_US_dedes.TonChaldaionIKaminos.name
+peMA.Ode7C24.text = "" 
+
+peMA.Ode7C25.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C25.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C25.melody = he.h.m8_en_US_dedes.TonChaldaionIKaminos.name
+peMA.Ode7C25.text = "" 
+
+peMA.Ode7C26.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C26.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C26.melody = he.h.m8_en_US_dedes.TonChaldaionIKaminos.name
+peMA.Ode7C26.text = "" 
+
+peMA.Ode7C27.ode = misc_en_US_dedes.Ode8
+peMA.Ode7C27.mode = misc_en_US_dedes.Mode7
+peMA.Ode7C27.melody = he.h.m8_en_US_dedes.TonChaldaionIKaminos.name
+peMA.Ode7C27.text = "" 
+
+peMA.Ode7C2Tr.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C2Tr.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C2Tr.melody = he.h.m8_en_US_dedes.TonChaldaionIKaminos.name
+peMA.Ode7C2Tr.text = ""
+
+peMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
+peMA.Ode7C2T.mode = misc_en_US_dedes.Mode8
+peMA.Ode7C2T.melody = he.h.m8_en_US_dedes.TonChaldaionIKaminos.name
+peMA.Ode7C2T.text = ""
+
+peMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C1H.mode = misc_en_US_dedes.Mode4
+peMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode8C1H.text = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.text
+
+peMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C11.mode = misc_en_US_dedes.Mode4
+peMA.Ode8C11.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
+peMA.Ode8C11.text = "" 
+
+peMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C12.mode = misc_en_US_dedes.Mode4
+peMA.Ode8C12.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
+peMA.Ode8C12.text = "" 
+
+peMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C13.mode = misc_en_US_dedes.Mode4
+peMA.Ode8C13.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
+peMA.Ode8C13.text = "" 
+
+peMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
+peMA.Ode8C1T.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
+peMA.Ode8C1T.text = ""
+
+peMA.Ode8C2H.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C2H.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode8C2H.text = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.text
+
+peMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C21.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C21.melody = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.name
+peMA.Ode8C21.text = "" 
+
+peMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C22.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C22.melody = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.name
+peMA.Ode8C22.text = "" 
+
+peMA.Ode8C23.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C23.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C23.melody = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.name
+peMA.Ode8C23.text = "" 
+
+peMA.Ode8C24.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C24.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C24.melody = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.name
+peMA.Ode8C24.text = "" 
+
+peMA.Ode8C25.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C25.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C25.melody = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.name
+peMA.Ode8C25.text = "" 
+
+peMA.Ode8C26.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C26.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C26.melody = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.name
+peMA.Ode8C26.text = "" 
+
+peMA.Ode8C27.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C27.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C27.melody = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.name
+peMA.Ode8C27.text = "" 
+
+peMA.Ode8C2Tr.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C2Tr.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C2Tr.melody = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.name
+peMA.Ode8C2Tr.text = ""
+
+peMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
+peMA.Ode8C2T.mode = misc_en_US_dedes.Mode8
+peMA.Ode8C2T.melody = he.h.m8_en_US_dedes.AngeloiKaiOuranoi.name
+peMA.Ode8C2T.text = ""
+
+peMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C1H.mode = misc_en_US_dedes.Mode4
+peMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode9C1H.text = he.h.m4_en_US_dedes.LithosAcheirotmitos.text
+
+peMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C11.mode = misc_en_US_dedes.Mode4
+peMA.Ode9C11.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
+peMA.Ode9C11.text = "New and innovative is the lifestyle * that we have learned from Christ our Savior. * Let us be especially zealous * to persevere and preserve to the end, * so that we may experience the Holy Spirit's presence when He comes." 
+
+peMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C12.mode = misc_en_US_dedes.Mode4
+peMA.Ode9C12.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
+peMA.Ode9C12.text = "You, Life-giver, clothed my mortal nature * with immortality's apparel * and with the grace of incorruption, * and resurrected it, Savior, with Yourself; * ending the age-old war in me, unto the Father You presented it." 
+
+peMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C13.mode = misc_en_US_dedes.Mode4
+peMA.Ode9C13.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
+peMA.Ode9C13.text = "We who to the heavenly lifestyle * have been summoned again by virtue * of the mediation of Him who * emptied himself, taking on the form of a slave, * and also who exalted us, * let us all magnify Him worthily." 
+
+peMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
+peMA.Ode9C1T.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
+peMA.Ode9C1T.text = "Root and source and cause of incorruption * are You, O Virgin, and we faithful * honor you as such, thus believing* in the magnificent titles praising you. * For you poured out to all of us * the hypostatic immortality."
+
+peMA.Ode9C2H.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C2H.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode9C2H.text = he.h.m8_en_US_dedes.AllotrionTonMiteron.text
+
+peMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C21.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C21.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
+peMA.Ode9C21.text = "O Savior, when You went up to Your holy Temple, * about the middle of the feast of the Judeans, * You were teaching them all, and bewildered were the Judeans; * for they were saying, \"Where did this man learn * his letters, having not been taught?\"" 
+
+peMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C22.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C22.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
+peMA.Ode9C22.text = "Prodigious signs and wonders was my Redeemer* performing as He poured out grace's gifts of healing; * for He drove out diseases and cured people of their ailments. * But the Judeans became furious * at His abundant miracles." 
+
+peMA.Ode9C23.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C23.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C23.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
+peMA.Ode9C23.text = "Reproving them, my Redeemer said to the faithless * Judeans, and He cried out, \"Do not judge by appearance; * you should rather be judging with righteous judgment. See, the Law says * and orders even on the Sabbath day * a man should still be circumcised.\"" 
+
+peMA.Ode9C24.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C24.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C24.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
+peMA.Ode9C24.text = "" 
+
+peMA.Ode9C25.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C25.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C25.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
+peMA.Ode9C25.text = "" 
+
+peMA.Ode9C26.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C26.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C26.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
+peMA.Ode9C26.text = "" 
+
+peMA.Ode9C27.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C27.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C27.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
+peMA.Ode9C27.text = "" 
+
+peMA.Ode9C2Tr.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C2Tr.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C2Tr.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
+peMA.Ode9C2Tr.text = ""
+
+peMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
+peMA.Ode9C2T.mode = misc_en_US_dedes.Mode8
+peMA.Ode9C2T.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
+peMA.Ode9C2T.text = "Within your womb you contained Christ who is the Giver * of life, one of the Trinity, O Virgin Mother.* All creation extols Him; before Him thrones in heaven tremble. * Intently pray to Him, All-blessed One, * entreating that our souls be saved."
+
+peMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+peMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+peMA.Exaposteilarion1.text = "O Lord, possessing the chalice * of inexhaustible free gifts, * grant me to draw out the water * unto forgiveness of my sins. * A mighty thirst has constrained me, * only compassionate Savior."
+
+peMA.Lauds1.mode = misc_en_US_dedes.Mode4
+peMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+peMA.Lauds1.text = "When the Father's hypostasized * Wisdom, Power, and Radiance, * the eternal Logos, the very Son of God, * went to the Temple and there appeared * in flesh and began to teach * the ungrateful and severe * Jewish populace at the feast, * they were marveling * at the wealth of His wisdom, and they cried out, \"How does this man know his letters, * not having learned them from anyone?\""
+
+peMA.Lauds2.mode = misc_en_US_dedes.Mode4
+peMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+peMA.Lauds2.text = "The Messiah and Lord of all * stopped the mouths of the Jewish scribes, * and the Jews He censured when He cried out to them, * \"Judge not by outward appearances, * O lawbreakers, as unjust. * For example, since I raised * up the man who was paralyzed * on the Sabbath day, * I am Lord of the Law and of the Sabbath. So why do you seek to kill Me, * the One who brings back the dead to life?\""
+
+peMA.Lauds3.mode = misc_en_US_dedes.Mode4
+peMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+peMA.Lauds3.text = "The severe and iniquitous * and ungrateful society * of the Jews threw stones at the Prophet Moses of old. * They killed Isaiah by sawing him * in two with a wooden saw. * They imprisoned in a pit * Jeremiah the holy sage. * But the Lord of all * they had raised on a cross, and then they cried out, \"You who would destroy the temple, * we will believe if you save yourself.\""
+
+peMA.Lauds123.text = "" //for media
+
+peMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
+peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+peMA.LaudsGlory.text = "We were illumined, O brethren, by the Resurrection of Christ the Savior. And now we have reached the middle of the feast of the Lord. Let us sincerely keep the commandments of God, so that we may become worthy to celebrate the Ascension as well, and witness the coming of the Holy Spirit."
+
+peLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
+peLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+
+peLI.TheotokosHymn.mode = misc_en_US_dedes.Mode8
+peLI.TheotokosHymn.text = peMA.Ode9C2H.text
+
+peLI.CommunionHymn.text = "\"Those who eat my flesh and drink my blood abide in me, and I in them.\" So said the Lord."
+
+peMegalynarion.text = ""

@@ -1,0 +1,459 @@
+A_Resource_Whose_Name = me.m03.d25_en_US_dedes
+
+meDate.text = "March 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "The Annunciation of the Most Holy Theotokos and Ever-virgin Mary." // full title of day
+meShortCommemoration1.text = "Annunciation"
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "whose Annunciation we celebrate;" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "The Annunciation of our All-Holy Lady the Theotokos and Ever-Virgin Mary."
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+meDismissal = ""
+
+meSV.Stichera1.mode = misc_en_US_dedes.Mode4
+meSV.Stichera1.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meSV.Stichera1.text = "The Maker, pitying that which He created * and yielding unto the tender love He has for it, * hastens to take up His dwelling in * the virgin womb of * a damsel, namely the child of God, to whom * came the great Archangel saying unto her, \"Rejoice, * O Maiden full of the grace of God. * Our God is with you. * Fear not, for I am the King's commanding Chief. * You have again found favor, which was lost * by Eve your ancestral mother in times of old. * You shall conceive and shall give birth * to the Father's consubstantial Son.\""
+
+meSV.Stichera2.mode = misc_en_US_dedes.Mode4
+meSV.Stichera2.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meSV.Stichera2.text = "\"Strange is your speech as is also your appearance. * And your words and messages are likewise strange to me,\" * unto the Angel did Mary say. * \"Do not beguile me. * I am a maiden, a virgin yet unwed. * You tell me that I am to conceive the Uncircumscribed. * How is my womb to contain the One * Whom the expanses * of heaven's heights are unable to contain?\" * He answered, \"Let the tent of Abraham * now instruct you. For God it contained of old, * and prefigured, O Virgin, * your own womb which now receives our God.\""
+
+meSV.Stichera3.mode = misc_en_US_dedes.Mode4
+meSV.Stichera3.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meSV.Stichera3.text = "Reaching the city of Nazareth, the Angel * Gabriel salutes you now, the living City of Christ * the King, and cries out to you, \"Rejoice, * O blessed Maiden * who are endowed with abundant grace from God. * You shall carry God within your womb as He takes flesh * and as He calls back the human race, * in His compassion, * to its original ancient state through you. * And therefore blessed is the most divine * and immortal fruit of your virgin womb, * who is Christ God bestowing * the great mercy on the world through you.\""
+
+meSV.SticGlory.mode = misc_en_US_dedes.Mode1
+meSV.SticGlory.melody = ""
+meSV.SticGlory.text = "In the sixth month, the chief Commander of the Angels was sent to you the pure Virgin, to disclose to you the tidings of salvation, and also to hail you: \"Rejoice, Maiden full of grace, the Lord is with you. You shall bear a Son who was begotten of the Father before all ages. And He shall save His people from their transgressions.\""
+
+meSV.Aposticha1.mode = misc_en_US_dedes.Mode8
+meSV.Aposticha1.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meSV.Aposticha1.text = "Gabriel the chief Commander of * the hosts on high fluttered down. * He saluted the virgin Maid, * saying, \"Spotless chariot * of the Godhead, I say, rejoice! * For God has loved you before eternity, * and He has chosen you as His dwelling place. * I as your Master's slave * was sent to announce that He will be with you. * You shall bear the Lord and yet * remain inviolate.\""
+
+meSV.ApostichaVerse2.text = meVE.ApostichaVerse2.text
+
+meSV.Aposticha2.mode = misc_en_US_dedes.Mode8
+meSV.Aposticha2.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meSV.Aposticha2.text = "\"What is this fiery form of yours?\" * the noble Maiden exclaimed * with amazement to Gabriel. * \"What is your official rank * and the force of the words you speak? * For you are saying that I shall bear a child. * But I have had no experience of man. * Do not beguile me * with your crafty words, O man, as once before * the deceitful serpent did * to primal mother Eve.\""
+
+meSV.ApostichaVerse3.text = meVE.ApostichaVerse3.text
+
+meSV.Aposticha3.mode = misc_en_US_dedes.Mode8
+meSV.Aposticha3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meSV.Aposticha3.text = "\"Virgin Maid, the Holy Spirit of the Lord will come upon you, * and the power of God Most High * then will overshadow you, * O pure Lady, container of God. * You will give birth to a Child who preserves * your true virginity wholly undefiled. * This is the Son of God * without genealogy. And when He comes * He will save His people, as He was well pleased to do.\""
+
+meSV.AposGlory.mode = misc_en_US_dedes.Mode4
+meSV.AposGlory.melody = ""
+meSV.AposGlory.text = "In the sixth month, the Archangel was sent to the pure Virgin. He told her to rejoice, and he announced that the Redeemer would come forth from her. She accepted the salutation with faith, and she conceived You the pre-eternal God, who was ineffably well pleased to become man to save our souls."
+
+meVE.Stichera01.mode = misc_en_US_dedes.Mode6
+meVE.Stichera01.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+meVE.Stichera01.text = "Gabriel appeared to you, * O virgin Damsel, revealing * the pre-eternal plan of God. * And as he saluted you, * he called out and said, * \"O unsowed earth, rejoice; * unconsumed bush, rejoice. * O rejoice, depth hard to apprehend. * Rejoice, O sacred bridge * that conveys to heaven. I say, rejoice, * O ladder that is lifted up * and was seen by Jacob the patriarch. * Rejoice, O divine jar * of manna, and the lifting of the curse. * Rejoice, Adam's recovery. * Rejoice, for the Lord is with you.\""
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode6
+meVE.Stichera02.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+meVE.Stichera02.text = "Unto the angelic Chief * says the inviolate Damsel, * \"You appear to be a man. * But how is it that you speak * superhuman words? * For you say unto me * that with me God will be, * and will make His dwelling in my womb. * But how shall I become * a most spacious confine, explain to me. * How shall I be a holy place * of the One who rides on the Cherubim? * Please do not beguile me. * Do not deceive me. For I have not known * sensual pleasure nor intercourse. * How, then, shall I bear a child?\""
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode6
+meVE.Stichera03.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+meVE.Stichera03.text = "\"When God wills it, nature's laws * are overridden, O Damsel,\" * said the incorporeal, * \"and the superhuman deeds * then are brought to pass. * Therefore, trust that indeed * true are these words of mine, * O all-holy and most blameless one.\" * She then cried out in turn, * \"According to your word be it unto me; * and I shall bear the One who is * bodiless but borrowing flesh from me, * so that by His mingling * with man He might restore him to the height * of his primordial dignity, * as the only One who can.\""
+
+meVE.SticGlory.poet = poets_en_US_dedes.IoannouMonachou
+meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "From the heavens, the Archangel Gabriel was sent down to announce the conception to the Virgin. When he arrived in Nazareth, he pondered on the wonder in astonishment: \"He who is in the highest is incomprehensible. So, how can He be born of a Virgin? Heaven is His throne and earth is His footstool. So, how can He be contained in the womb of a woman? He on whom the six-winged Seraphim and many-eyed Cherubim are unable to gaze is well pleased to become incarnate of her by word alone. It is the Word of God who is present here. So, why am I standing here and not saying to the Maiden, 'Rejoice, you who are full of grace; the Lord is with you. Rejoice, O pure Virgin! Rejoice, O unwedded Bride! Rejoice, O Mother of Life! Blessed is the fruit of your womb.'\""
+
+meVE.Lity1.poet = poets_en_US_dedes.Vyzantos
+meVE.Lity1.mode = misc_en_US_dedes.Mode1
+meVE.Lity1.melody = ""
+meVE.Lity1.text = "In the sixth month, the chief Commander of the Angels was sent to you the pure Virgin, to disclose to you the tidings of salvation, and also to salute you: \"Rejoice, Maiden full of grace, the Lord is with you. You shall bear a Son who was begotten of the Father before all ages. And He shall save His people from their transgressions.\""
+
+meVE.Lity2.poet = poets_en_US_dedes.Anatoliou
+meVE.Lity2.mode = misc_en_US_dedes.Mode1
+meVE.Lity2.melody = ""
+meVE.Lity2.text = "In the sixth month, the Archangel Gabriel was sent from heaven to Nazareth, a city in Galilee, to bring to the Damsel good tidings of joy. And when he drew near to her, he shouted saying, \"Rejoice, O Maiden full of grace; the Lord is with you. Rejoice, O vessel of the uncontainable Nature. For the One whom the heavens could not contain has your womb now contained, O blessed one. Rejoice, O noble Virgin, Adam's restoration and deliverance of Eve, and the joy of the world, and the exultation of our race.\""
+
+meVE.Lity3.mode = misc_en_US_dedes.Mode1
+meVE.Lity3.melody = ""
+meVE.Lity3.text = "The Angel Gabriel was sent from heaven by God to the undefiled Virgin in Nazareth, a city in Galilee, to annunciate to her the good tidings of the strangely effected conception. A bodiless servant was sent to the animate city and intelligible gate, to inform her of the Master's condescension and coming. A heavenly soldier was sent to the animate palace of glory, to prepare for the Creator an everlasting dwelling. And coming to her he cried aloud, \"Rejoice, O fiery throne, Maiden by far more glorious than the living creatures with four faces. Rejoice, heavenly royal seat. Rejoice, unquarried mountain and exquisite vessel. For in you has dwelt all the fullness of the Godhead bodily, by the good pleasure of the eternal Father, and by the joint action of the Holy Spirit. Rejoice, O Maiden full of grace; the Lord is with you.\""
+
+meVE.LityGlory.poet = poets_en_US_dedes.KosmaMonachou
+meVE.LityGlory.mode = misc_en_US_dedes.Mode2
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = "Gabriel annunciates good tidings today to her who is full of grace: \"Rejoice, O Maiden unmarried and unwed. Be not astonished by my strange appearance, nor be dismayed. For an Archangel am I. The serpent once beguiled Eve, but I am now announcing to you the joy. You shall remain inviolate, and yet shall bear the Lord, O Immaculate.\""
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
+meVE.Aposticha1.melody = ""
+meVE.Aposticha1.text = "In the sixth month, the Archangel was sent to the Virgin pure. He said to her to rejoice, and he announced that the Redeemer would be born from her. When she accepted the salutation with faith, she conceived You, the pre-eternal God, Who were well pleased ineffably to become man to save our souls."
+
+meVE.ApostichaVerse2.text = "Proclaim from day to day the salvation of our God."
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode4
+meVE.Aposticha2.melody = ""
+meVE.Aposticha2.text = "The Theotokos heard a tongue she knew not. For the Archangel spoke to her the words of the Annunciation. When she accepted the salutation with faith, she conceived You, the pre-eternal God. We also greatly rejoice, and we say to You: O God, Who without changing became incarnate of her, grant peace to the world, and great mercy to our souls."
+
+meVE.ApostichaVerse3.text = "Oh, sing a new song to the Lord; sing to the Lord, all the earth."
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
+meVE.Aposticha3.melody = ""
+meVE.Aposticha3.text = "Behold, the restoration has now been revealed to us. God unites himself to man in a manner transcending reason, at the voice of the Archangel. Delusion is greatly diminished. The Virgin is accepting the joy. Things earthly have become heaven. The world has been released from the ancient curse. Let creation greatly rejoice and sing praises. \"O Lord, our Creator and Redeemer, glory to You!\""
+
+meVE.AposGlory.poet = poets_en_US_dedes.AndreouIerosolymitou
+meVE.AposGlory.mode = misc_en_US_dedes.Mode4
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "Today are glad announcements of joy proclaimed. This is the virgins' festival. The things below are joined to the things on high. Adam is made new again, while Eve is liberated from her former pain and sorrow. And the tabernacle of our human nature, with the deification of the substance that was assumed, has been designated as the temple of God. Oh, the mystery! The manner of the emptying is unknowable, the manner of conception ineffable. An Angel administers the miracle; the virgin womb welcomes the Son into itself. The Holy Spirit is sent down; above the Father gives His consent, and the transaction is effected according to the common wish. So, therein and thereby being saved, let us therefore cry aloud to the Virgin with Gabriel: \"Rejoice, O Maiden full of grace, for with you is the Lord, our salvation, Christ our God who from you did assume our own nature, which He thereby led back to himself. To Him pray fervently, entreating Him to save our souls.\""
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "Today is the summary of our salvation, and the revelation of the age-old mystery. For the Son of God becomes the Son of the Virgin, and Gabriel announces the good news of grace. Therefore, let us join him, and cry aloud to the Theotokos: \"Rejoice, Maiden full of grace! The Lord is with you.\""
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
+meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma11.text = "The great commanding Chief of the bodiless powers * in Nazareth appears and announces the coming * to you, O Immaculate, of the King of the ages and Lord, * saying unto you, \"Rejoice, O all-blessed Mary, * incomprehensible and inexplicable wonder, * the restoration of humanity.\""
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode3
+meMA.Kathisma21.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Kathisma21.text = "Today creation all exults with greatest joy, * for the Archangel came and said to you, \"Rejoice! * Blessed are you, all-blameless Maid, and undefiled and dignified.\" * And today the insolence * of the serpent is mortified. * The fetters of the curse once laid * on our forefather now are loosed. * And so with all the world we cry out to you: * Rejoice, O Maiden full of grace."
+
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma31.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma31.text = "To the noble Maiden cried * heaven-sent Gabriel, \"Rejoice! * For in your womb you shall conceive * the pre-eternal God, * Who by a word created the universe.\" * Therefore Mary said * in reply to him, * \"I have not known man. * So how can I bear a son? * Who has ever seen a seedless childbirth?\" * And the Angel explained to the Virgin Theotokos, * \"The Holy Spirit will come upon you, * and the power of the Highest will overshadow you.\""
+
+meMA.Kathisma32.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma32.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma32.text = "To the pure and virgin Maid * the Angel Gabriel was sent. * He announced to her the grace * and inexpressible joy: * \"You will conceive without seed and remain inviolate. * For pre-eternal God is the Son you will bear; * and He will save His people from their iniquities. * He who sent me here to call you blessed, * and to say to you, 'Rejoice,' so testifies. * O Virgin, you will give birth, and after childbirth * you will remain a Virgin.\""
+
+meMA.Prokeimenon.text = "" // for media
+meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.poet = poets_en_US_dedes.KosmaMonachou
+meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
+
+meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
+meMA.C1Acrostic.text = ""
+
+//Titles needed for the canon troparia
+meMA.Ode9C1M02.text = "Angel."
+meMA.Ode9C1M03.text = "Theotokos."
+
+meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C1H.text = he.h.m4_en_US_dedes.AnoixoToStomaMou_Syllipsis.text
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C11.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C11.text = "O Lady, let David your forefather sing to you as he strikes the harp of the Spirit: \"Listen, O Daughter, to the voice that is filled with joy, of Gabriel the Angel. For he is announcing joy ineffable to you.\""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C12.text = "Rejoicing, I speak to you. Incline your ear and give heed to me, as I am announcing the seedless conception of God. For before the Lord, you found exceeding favor, all-pure one, as no one else before you ever found."
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C13.text = "O Angel, make known to me the full significance of your words. How shall what you say occur? Clearly explain to me. How shall I conceive and thus become the mother of God my Creator, when I am a virgin still?"
+
+meMA.Ode1C14.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C14.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C14.text = "It seems that you think I am possibly speaking deceitfully. And seeing your cautiousness causes me to rejoice. But be not afraid, O Lady; for when God wills, then wonderful miracles easily come to pass."
+
+meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C1H.text = he.h.m4_en_US_dedes.TousSousYmnologous_Syllipsis.text
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C11.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C11.text = "From Judah the scepter has departed; the time has indeed therefore arrived, when Christ, the expectation and hope of all the nations, should appear. But you, explain to me how I, a virgin girl, shall give birth to him."
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C12.text = "O Maiden, you seek an explanation of how you, a virgin, will conceive. But this is inexplicable. Yet when He overshadows you with His creative energy, the Holy Spirit will accomplish it."
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C13.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C13.text = "My ancestral mother was evicted of old from the Garden of delight, when she accepted bad advice from the serpent. And therefore I am cautious of your curious greeting, lest I make the same mistake."
+
+meMA.Ode3C14.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C14.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C14.text = "I who stand before the Lord in heaven was sent to reveal His will to you. But why are you afraid of me, when I am here in awe of you? And why are you in awe of me revering you, O immaculate?"
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.AvlonPoimenikon.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.text = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C11.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C11.text = "I have heard the holy Prophet; he foresaw and proclaimed of old that a sacred Virgin shall conceive and bring forth Emmanuel. But what I earnestly long to know is how shall man's mortal nature sustain the mingling with the Divinity."
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C12.text = "Bride unwedded, Virgin Mary, you remember the burning bush: while sustaining fire, it was not consumed, Maiden full of grace. It thus prefigured your own amazing mystery: after giving birth, you shall remain ever-virgin pure."
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C13.text = "You, O Gabriel, illumined by the light of almighty God, since you are the herald of the truth, do tell me most truly how I shall give birth in the flesh unto the bodiless Word, with my purity remaining wholly inviolate."
+
+meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C14.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+meMA.Ode4C14.text = "As a slave before his mistress, I respectfully wait on you. Maiden, I am awestruck, and with fear and reverence I gaze on you, on whom the Word of the Father shall softly come down like rain on a fleece, as was His perfect good will to do."
+
+meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C1H.text = he.h.m4_en_US_dedes.ExestiTaSympanta.text
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C11.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C11.text = "Unable am I to grasp the total meaning of your words. For while often miracles have happened, wrought by divine power, which were symbols and types in the Law and in the sacred Books, never has a virgin borne without agency of a male."
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C12.text = "You marvel, all-blameless one. Your miracle is strange indeed. As the King of all becomes incarnate, you will receive Him into your virginal womb. The types and the symbols of the Law, and the words and riddles of the Prophets prefigure you."
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C13.text = "The Lord is invisible to all and uncontainable. He is, with the Father and the Spirit, without beginning. So, I do not understand: How can I conceive the Word of God? How can the Creator dwell in my womb, which He made himself?"
+
+meMA.Ode5C14.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C14.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C14.text = "To David your Forefather the Lord once swore an oath in truth, to set upon the throne of his kingdom one from the fruit of his loins forevermore. And you, Jacob's beauty, which He loved, He has chosen over all as His animate dwelling place."
+
+meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.text = he.h.m4_en_US_dedes.EvoiseProtypon.text
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C11.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C11.text = "O Gabriel, I believe and accept your most joyful words and I am completely filled with divine joy and happiness. For you are a herald of joy, announcing a joy that will never end."
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C12.text = "The godly joy has been given to you, O Mother of God. All creation cries rejoice to you who are the Bride of God. O pure one, for only you were preordained Mother of the Son of God."
+
+meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C13.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C13.text = "Let mother Eve's condemnation, through me, be rescinded now, and through me let what she owed to Adam be returned today. Let her ancient debt be more than fully repaid through my childbirth, "
+
+meMA.Ode6C14.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C14.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C14.text = "God made a vow to your forefather Abraham, promising that the nations would be blessed in his descendant, O Maiden pure; and today the promise is through you now beginning to come to pass."
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
+meMA.Kontakion1.melody = misc_en_US_dedes.Automelon
+meMA.Kontakion1.text = he.a.m8_en_US_dedes.TiYpermacho.text
+
+meMA.Oikos1.text = "An Angel of supreme rank was sent down from heaven to say to the Theotokos, Rejoice. And perceiving You take bodily form at the sound of his bodiless voice, O Lord, he was astounded and he stood shouting to her such salutations:"
+meMA.Oikos12.text = "Rejoice, through whom is the joy to shine forth. Rejoice, through whom is the curse to vanish."
+meMA.Oikos13.text = "Rejoice, restoration of Adam the fallen one. Rejoice, liberation of Eve from tears."
+meMA.Oikos14.text = "Rejoice, height to which the thoughts of men are hardly able to ascend. Rejoice, depth which for the Angels' eyes is very hard to apprehend."
+meMA.Oikos15.text = "Rejoice, for you are a throne for the King. Rejoice, for you hold the One who holds everything."
+meMA.Oikos16.text = "Rejoice, the star causing the Sun's manifestation. Rejoice, the womb of the divine incarnation."
+meMA.Oikos17.text = "Rejoice, through whom is creation re-created. Rejoice, by whom is the Creator procreated."
+meMA.Oikos18.text = "Rejoice, O unwedded Bride."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C1H.text = he.h.m4_en_US_dedes.OukElatrefsan.text
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C11.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C11.text = "You declare to me the bright good tidings that the Light the immaterial shall for great mercy unite with physical matter. And divine announcements now you cry out to me, saying, \"O blessed is the fruit of your womb, O purest Maiden.\""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C12.text = "Virgin Maid, rejoice. Rejoice, O Mistress wholly pure. Rejoice, container of God. Rejoice, O lampstand of Light, Adam's restoration and deliverance of Eve. Holy mountain, rejoice, chamber of immortality, and resplendent holy temple."
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C13.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C13.text = "The coming on me of the All-holy Spirit now has purified my soul; my body it sanctified. It made me a living shrine, a Tent adorned by God, the pure Mother of God, a Temple that is capable of containing the Creator."
+
+meMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C14.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C14.text = "As a burning torch emitting light I see you, and a chamber built by God. And as the gold-covered ark receive now, O Bride of God, the Giver of the Law, Who was thus well pleased through you to grant deliverance to corrupted human nature."
+
+meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.text = he.h.m4_en_US_dedes.AkoueKori.text
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C11.melody = he.h.m4_en_US_dedes.AkoueKori.name
+meMA.Ode8C11.text = "Answered the Virgin, \"Every mortal mind is overwhelmed which seeks to grasp the wondrous tidings that you now announce to me. I delight in your words, yet am also perplexed, fearing lest as Eve through trickery you send me far away from God. But even so am I already shouting: O all you works of the Lord, praise and bless the Lord.\""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_dedes.AkoueKori.name
+meMA.Ode8C12.text = "Gabriel uttered responding, \"Behold, the problem has been solved for you who rightly called it a thing hard to demonstrate. Persuaded, therefore, by the word of your own lips, no more doubt it as factitious, but believe it to be factual. For I myself am rejoicing and shouting: O all you works of the Lord, praise and bless the Lord.\""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_dedes.AkoueKori.name
+meMA.Ode8C13.text = "\"There is for mortals a God-given law,\" replied the blameless one again, \"that gamic union must precede a child's birth. But the pleasure of a mate I know not at all. So, how do you say that I shall bear? I fear lest now you speak with deceit. But, notwithstanding, behold I am shouting: O all you works of the Lord, praise and bless the Lord.\""
+
+meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C14.melody = he.h.m4_en_US_dedes.AkoueKori.name
+meMA.Ode8C14.text = "\"O chaste one,\" the Angel cried out once again, \"the maxim you declare to me is the convention for childbirth of mortal men. But I announce unto you that the very God, past conception and intelligence, as He knows, shall take flesh from you. And I am therefore rejoicing and shouting: O all you works of the Lord, praise and bless the Lord.\""
+
+meMA.Ode8C15.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C15.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C15.melody = he.h.m4_en_US_dedes.AkoueKori.name
+meMA.Ode8C15.text = "The Virgin assented, \"To me you appear to be a herald of the truth. For you came as an Angel of universal joy. Since, then, by the Spirit my soul is purified, be it unto me according to your utterance, and God dwell in me. For unto Him now with you am I shouting: O all you works of the Lord, praise and bless the Lord.\""
+
+meMA.Ode9C1M01.text = "O earth, announce the good tidings of great joy; You heavens, praise the glory of God."
+
+meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1H.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C1H.text = he.h.m4_en_US_dedes.OsEmpsychoTheouKivoto.text
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C11.melody = he.h.m4_en_US_dedes.OsEmpsychoTheouKivoto.name
+meMA.Ode9C11.text = "O pure Maid, you eluded nature's laws, conceiving God in ways past understanding. You evaded things proper to mothers in childbirth, even if by nature you were prone to change. Therefore you are worthily hearing: \"Rejoice, Maiden full of grace; the Lord is with you.\""
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_dedes.OsEmpsychoTheouKivoto.name
+meMA.Ode9C12.text = "How can you, O pure Virgin, nurse with milk? No human tongue is able to explain it. For you are displaying something alien to nature, transcending the order of lawful childbirth. Therefore you are worthily hearing: \"Rejoice, Maiden full of grace; the Lord is with you.\""
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_dedes.OsEmpsychoTheouKivoto.name
+meMA.Ode9C13.text = "It is mystically spoken of you in Sacred Writ, O Mother of the Most High. For of old when Jacob saw the ladder that prefigured you, he said, \"This is none other than the base of God.\" Therefore you are worthily hearing: \"Rejoice, Maiden full of grace; the Lord is with you.\""
+
+meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C14.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C14.melody = he.h.m4_en_US_dedes.OsEmpsychoTheouKivoto.name
+meMA.Ode9C14.text = "The bush and the fire revealed to hierophantic Moses a strange portent. Seeking its fulfillment in the course of time, he uttered, \"I shall see it fully in a Damsel pure, to whom as Theotokos be it spoken: Rejoice, Maiden full of grace; the Lord is with you.\""
+
+meMA.Ode9C15.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C15.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C15.melody = he.h.m4_en_US_dedes.OsEmpsychoTheouKivoto.name
+meMA.Ode9C15.text = "You are called, by Daniel, spiritual Mountain; and the Mother of God, by Isaiah. Gideon perceives you as a Fleece. And by David you are called Holy Place, and Gate by Ezekiel. Gabriel addresses you, saying: \"Rejoice, Maiden full of grace; the Lord is with you.\""
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.text = "The chief Commander of the hosts * of the Angels was sent down * by God, the Ruler over all, * to a pure virgin Maiden; * and he announced the good tidings * of the strange secret wonder, * namely that God will be from her * procreated as man, without human seed, * to refashion all of our human nature. * Announce the good tidings, peoples all, * that the world is refashioned."
+
+meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.text = "Rejoice, redemption from the curse * on Adam, Theotokos. * Noble Mother of God, rejoice. * Rejoice, living unburnt bush. * Rejoice, O lamp stand; throne, rejoice. * Rejoice, O gate and ladder. * Rejoice, all-holy vehicle. * Rejoice, temple; O cloud, swift and light, rejoice. * Golden jar of manna, rejoice, O mountain. * Rejoice, the table and the tent. * Rejoice, Eve's absolution."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode1
+meMA.Lauds1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds1.text = "Gabriel flew down from heaven * and came to Nazareth; * and to the Virgin Mary * he appeared and he cried out, * \"Rejoice, O blessed woman, for you will conceive * a Son, more ancient than Adam is. * He has created the ages, and He redeems * those who cry to you, O pure one, 'Rejoice!' \""
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode1
+meMA.Lauds2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds2.text = "Bringing good tidings from heaven, * Gabriel cried out, \"Rejoice,\" * unto the Virgin, saying, * \"You shall conceive and will carry * Him, who is containable in your womb, * and whom the whole world cannot contain. * You shall be seen as the Mother of Him who rose * from the Father before the morning star.\""
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode1
+meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds3.text = "In His exceeding compassion, * viewing with mercy our fall, * the co-eternal Logos * of the beginningless Father * came down and appeared to the things below, * never leaving the things on high. * Having assumed Adam's poverty to Himself * He has taken on the other's form."
+
+//This troparion is not found in the Menaion but appears as a fourth Sticheron at Lauds of the Annunciation in Μέγας Ἱερὸς Συνέκδημος (Athens: Phos Publications, n.d.), p. 877; and, curiously, as an Apostichon at Vespers of the Akathist
+meMA.Lauds4.mode = misc_en_US_dedes.Mode1
+meMA.Lauds4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds4.text = "The Word transcending all essence, * who has appeared to the world, * who was eternally fathered * and temporally mothered, * becoming flesh has taken the form of a slave, * losing not His Divinity. * And in the womb of the woman who without seed * has conceived Him He refashions man."
+
+meMA.LaudsGlory.poet = poets_en_US_dedes.Theofanous
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "The age-old mystery is revealed today, and the Son of God becomes the Son of man, so that by partaking of what is lower He may impart to me what is superior. Of old, Adam was deceived; and he did not become God, though this was his desire. But now, God becomes man, to make Adam god. Let creation sing for joy, and let nature be exultant. For the Archangel is standing with awe before the Virgin and is delivering the salutation, \"Rejoice,\" the reverse of the pain and sorrow. O our God, who in Your tender mercy became man, glory to You!"
+
+meMA.LaudsSundayVerse1.text = ""
+
+meMA.LaudsSundayVerse2.text = ""
+
+meLI.Antiphon1Verse1.text = "O God, give Your judgments to the King, and Your righteousness to the King's Son."
+
+meLI.Antiphon1Verse2.text = "Let the mountains raise up peace for Your people and the hills in righteousness."
+
+meLI.Antiphon1Verse3.text = "Proclaim the salvation of our God from day to day."
+
+meLI.Antiphon1Verse4.text = "The Lord swore to David this truth, and He shall not reject it."
+
+meLI.Antiphon2Verse1.text = "He shall come down like rain on the fleece, like raindrops falling on the earth."
+
+meLI.Antiphon2Verse2.text = "The Most High sanctified His tabernacle."
+
+meLI.Antiphon2Verse3.text = "God will come openly; He is our God, and He shall not be silent."
+
+meLI.Antiphon2Verse4.text = "In His days, righteousness and abundance of peace shall flourish."
+
+meLI.Antiphon2.text = "who were incarnate for us."
+
+meLI.Antiphon3Verse1.text = "Let His name be blessed unto the ages."
+
+meLI.Antiphon3Verse2.text = "Blessed is the Lord God, the God of Israel, who alone does wondrous things."
+
+meLI.Antiphon3Verse3.text = "And blessed is His name forever and unto ages of ages."
+
+meLI.EntranceHymn.text = "Proclaim from day to day the salvation of our God."
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode8
+meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
+meLI.SeasonalKontakion.text = he.a.m8_en_US_dedes.TiYpermacho.text
+
+// need to add megaynarion verse
+meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode4
+meLI.TheotokosHymn.text = he.h.m4_en_US_dedes.OsEmpsychoTheouKivoto.text
+
+meLI.CommunionHymn.text = "The Lord has chosen Zion; He has chosen her for His dwelling. Alleluia."
+
+meMegalynarion.text = ""
+
+meMA.AdditionalIdiomelon1.poet = poets_en_US_dedes.IoannouMonachou
+meMA.AdditionalIdiomelon1.mode = misc_en_US_dedes.Mode8
+meMA.AdditionalIdiomelon1.melody = ""
+meMA.AdditionalIdiomelon1.text = ""
+

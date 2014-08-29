@@ -1,0 +1,118 @@
+A_Resource_Whose_Name = me.m09.d01_en_UK_lash 
+
+meHO.Month.text = ""
+meHO.DaysHours.text = ""
+
+meDate.text = "September 1"
+meCommemoration.text = "Beginning of the Indiction, that is of the New Year; and commemoration of our Venerable Father Symeon the Stylite and Archimandrite; the assembly of the most holy Mother of God of the Miasini; commemoration of the Holy Martyr Aithalas; of the forty Holy Women and of the deacon Ammoun, their teacher; of the Holy Martyrs Kallisti, Evodos and Hermogenes, sister and brothers; commemoration of Jesus son of Navi; and anniversary of the great fire." //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "our Venerable Father Symeon the Stylite," //for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "Beginning of the Indiction, that is of the New Year; and commemoration of our Venerable Father Symeon the Stylite and Archimandrite; the assembly of the most holy Mother of God of the Miasini; commemoration of the Holy Martyr Aithalas; of the forty Holy Women and of the deacon Ammoun, their teacher; of the Holy Martyrs Kallisti, Evodos and Hermogenes, sister and brothers; commemoration of Jesus son of Navi; and anniversary of the great fire."
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode1
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera01.text = "Having learned to pray in his own words from Christ’s divine teaching, let us cry out each day to the Creator: Our Father, who dwell in heaven, give us our daily bread, overlooking our faults."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode1
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera02.text = "As the limbs of the Hebrews who truly disobeyed you, the Master of all, were once fittingly strewn across the desert, so now too, O Christ, as the Psalm says, scatter the bones of the impious and unbelieving Hagarenes at the mouth of Hell."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode1
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera03.text = "Christ God, who once on Mount Sinai wrote the tables of the law, now too, according to the flesh, in the city of Nazareth yourself took the book of the prophet to read; and having closed it began to teach the peoples that the Scripture had been fulfilled in you."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode5
+meVE.Stichera04.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera04.text = "Venerable Father, you found a fair ladder, by which you went up on high, the ladder which Elias found as a chariot of fire. He though did not leave his mount to others, but you keep your pillar even after death. Man of heaven, angel of earth, unsleeping beacon of the inhabited world, Venerable Symeon, intercede that our souls may be saved."
+
+meVE.Stichera05.mode = misc_en_UK_lash.Mode5
+meVE.Stichera05.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera05.text = "Venerable Father, if the pillar could speak it would not cease crying out your toils, your hardships, your laments. Though it supported, it was itself supported, nourished like a tree with your tears. Angels were amazed, mortals marvelled, demons cowered at your endurance. Venerable Symeon, intercede that our souls may be saved."
+
+meVE.Stichera06.mode = misc_en_UK_lash.Mode5
+meVE.Stichera06.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera06.text = "Venerable Father, by the power of the divine Spirit, imitating your Master, you went up onto a pillar as onto a cross. He though wiped out the record of all, while you abolished the uprising of the passions; he like a sheep, you like a victim; he on a cross, you on the pillar. Venerable Symeon, intercede that our souls may be saved"
+
+meVE.Stichera07.mode = misc_en_UK_lash.Mode2
+meVE.Stichera07.melody  = misc_en_UK_lash.Idiomelon
+meVE.Stichera07.text = "A good fruit sprouted from a good root, Symeon, holy from infancy, nurtured on grace rather than milk, and, having raised his body on a rock and his mind yet higher towards God, with virtues he built a habitation in the air, and walking on high with the divine Powers he became a dwelling place of Christ, who is God and the Saviour of our souls."
+
+meVE.Stichera08.mode = misc_en_UK_lash.Mode2
+meVE.Stichera08.melody  = misc_en_UK_lash.Idiomelon
+meVE.Stichera08.text = "Your memorial, Venerable Father Symeon, and the meekness of your heart, blessed servant, endure for ever; for though you have passed over from us, good shepherd, you have not passed from us in spirit as you stand near God in love and dance with the Angels in heaven. With them intercede that our souls may be saved."
+
+meVE.Stichera09.poet = "By Kyprianos."
+meVE.Stichera09.mode = misc_en_UK_lash.Mode2
+meVE.Stichera09.melody  = misc_en_UK_lash.Idiomelon
+meVE.Stichera09.text = "The casket of your relics, all-praised Father, is a source of healings; and your holy soul, united with the Angels, fittingly rejoices. Therefore, as you have boldness towards the Lord, Venerable Saint, and dance with the Bodiless ones in heaven, implore him that our souls may be saved."
+
+meVE.Stichera10.poet = "By Germanos."
+meVE.Stichera10.mode = misc_en_UK_lash.Mode2
+meVE.Stichera10.melody  = misc_en_UK_lash.Idiomelon
+meVE.Stichera10.text = "You loved the highest philosophy, O God-bearer, and you dwelt outside the world, living above visible things; and you were revealed as a godly, untarnished mirror of God; and being ever one with Light, you gained more light and clearly met a blessed end. Intercede for our souls, wise Symeon."
+
+meVE.SticGlory.poet = "By Germanos."
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody  = misc_en_UK_lash.Idiomelon
+meVE.SticGlory.text = "Divine grace hovered over the casket of your relics, hallowed Symeon; therefore we too run to the sweet fragrance of your wonders, drawing out healing of diseases. But Venerable Father, intercede with Christ God on behalf of our souls."
+
+meVE.SticBoth.poet = "By Byzantios."
+meVE.SticBoth.mode = misc_en_UK_lash.Mode6
+meVE.SticBoth.melody  = misc_en_UK_lash.Idiomelon
+meVE.SticBoth.text = "One with the Holy Spirit, O Word and Son without beginning, co-maker of all and co-creator of all things visible and invisible, bless the crown of the year, guarding in peace the multitudes of the Orthodox, at the prayers of the Mother of God and of all the Saints."
+
+meVE.Aposticha1.poet = "By Monk John"
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode1
+meVE.Aposticha1.melody  = misc_en_UK_lash.Idiomelon
+meVE.Aposticha1.text = "The entrance of the year is here, summoning all the shining ones to honour it, Kallisti, Evodos and Hermogenes, brethren and champions; Symeon the equal of the angels; Jesus son of Navi; the Seven Youths of Ephesus, and the choir of Holy Women, beacon of forty fires. As we celebrate their memories together, lovers of festivals, let us eagerly cry out: O Lord, bless the works of your hands, and grant that we may pass profitably through the course of the year."
+
+meVE.ApostichaVerse2.text = ""
+
+meVE.Aposticha2.poet = "By Monk John."
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode1
+meVE.Aposticha2.melody  = misc_en_UK_lash.Idiomelon
+meVE.Aposticha2.text = "Christ our God, who created all things with wisdom and brought them from non-being into being, bless the crown of the year and preserve our city unbesieged; make glad our faithful Sovereigns by your power, giving them victories against enemies, through the Mother of God granting the world your great mercy."
+
+meVE.ApostichaVerse3.text = ""
+
+meVE.Aposticha3.poet = "By Kyprianos."
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode2
+meVE.Aposticha3.melody  = misc_en_UK_lash.Idiomelon
+meVE.Aposticha3.text = "Wonderful are you, O God, and wonderful are your works, and your ways are unsearchable; for you are the Wisdom of God and perfect substance and power, co-operation like him without beginning and without end; therefore by your all-powerful authority you came inexpressibly, unchanged in your Godhead, from a Mother who did not know man, to visit the world, seeking the creature you had beautified, setting bounds and times, O Unchangeable, for our salvation. Therefore we cry out to you: Loving Lord, glory to you!"
+
+meVE.ApostichaVerse4.text = ""
+
+meVE.Aposticha4.poet = "By Monk John."
+meVE.Aposticha4.mode = misc_en_UK_lash.Mode2
+meVE.Aposticha4.melody  = misc_en_UK_lash.Idiomelon
+meVE.Aposticha4.text = "You who created all things with wisdom, Word of the Father before the ages, and established the whole creation by your all-powerful word, bless the crown of the year with your goodness, and overthrow heresies, through the Mother of God, for you are good and love mankind."
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode5
+meVE.AposGlory.melody  = misc_en_UK_lash.Automelon
+meVE.AposGlory.text = meVE.Stichera04.text 
+
+meVE.AposBoth.poet = "By Monk John."
+meVE.AposBoth.mode = misc_en_UK_lash.Mode5
+meVE.AposBoth.melody  = misc_en_UK_lash.Idiomelon
+meVE.AposBoth.text = "You, O King, Who Are and who abide even to ages without end, accept the supplication of sinners who beg salvation; and grant, O Lover of mankind, abundance to your land, giving it temperate weather; as once with David, fight alongside our faithful King against godless barbarians, for they have entered your tabernacles and defiled your all-holy place, O Saviour. But grant victories, Christ God, at the intercession of the Mother of God; for you are the victory and boast of the Orthodox."
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
+meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.text = "Fashioner of all creation, who fix times and seasons by your own authority, bless the crown of the year with your goodness, Lord, preserving the Kings and your city in peace, at the prayers of the Mother of God, and save us."
+
+meVE.Apolytikion2.mode = misc_en_UK_lash.Mode1
+meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.text = "You became a pillar of endurance, Venerable Father, rivalling the forefathers: Job in sufferings and Joseph in trials, and, while still in the body, the life of the Bodiless Powers. Our Venerable Father Symeon, intercede with Christ God that our souls may be saved."
+
+meVE.Apolytikion3.mode = misc_en_UK_lash.Mode7
+meVE.Apolytikion3.melody  = ""
+meVE.Apolytikion3.text = "Hail full of grace, Virgin Mother of God, harbour and protection of the human race; for from you the Redeemer of the world became incarnate; for you alone are Mother and Virgin, ever blessed and glorified. Intercede with Christ God to grant peace to the whole inhabited world."

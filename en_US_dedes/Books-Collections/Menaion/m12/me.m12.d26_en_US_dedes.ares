@@ -1,0 +1,116 @@
+A_Resource_Whose_Name = me.m12.d26_en_US_dedes
+
+meDate.text = "December 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "The Synaxis in Honor of the Most Holy Theotokos" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "the Synaxis in honor of whom we celebrate," // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "The Synaxis in Honor of the Most Holy Theotokos"
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+meDismissal = dismissals_en_US_dedes.dis00.christmas
+
+meVE.Stichera01.poet = poets_en_US_dedes.Germanou
+meVE.Stichera01.mode = misc_en_US_dedes.Mode2
+meVE.Stichera01.melody = ""
+meVE.Stichera01.text = me.m12.d25_en_US_dedes.meVE.Stichera01.text
+
+meVE.Stichera02.poet = poets_en_US_dedes.Anatoliou
+meVE.Stichera02.mode = misc_en_US_dedes.Mode2
+meVE.Stichera02.melody = ""
+meVE.Stichera02.text = me.m12.d25_en_US_dedes.meVE.Stichera02.text
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode2
+meVE.Stichera03.melody = ""
+meVE.Stichera03.text = me.m12.d25_en_US_dedes.meVE.Stichera03.text
+
+meVE.Stichera04.mode = misc_en_US_dedes.Mode2
+meVE.Stichera04.melody = ""
+meVE.Stichera04.text = me.m12.d25_en_US_dedes.meVE.Stichera04.text
+
+meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+meVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+meVE.SticGlory.text = me.m12.d25_en_US_dedes.meMA.PostGospelIdiomelon.text
+
+meVE.Aposticha1.poet = poets_en_US_dedes.IoannouMonachou
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode8
+meVE.Aposticha1.melody = misc_en_US_dedes.Idiomelon
+meVE.Aposticha1.text = "A paradoxal mystery has been shown to us today. Natures become new, as God becomes man. He has remained what He always was, and He has assumed what He previously was not, yet nothing in Him is confused or divided."
+
+meVE.ApostichaVerse2.text = ""
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode8
+meVE.Aposticha2.melody = misc_en_US_dedes.Idiomelon
+meVE.Aposticha2.text = "Lord, You came to Bethlehem. Heaven is Your throne, and yet You stayed in the Cave. Hosts of Angels surround You, and yet You lay in a manger. You came down to the shepherds, in order to save all humanity, O compassionate Lord. Glory to You. "
+
+meVE.ApostichaVerse3.text = ""
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode8
+meVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
+meVE.Aposticha3.text = misc_en_US_dedes.NA
+
+meVE.AposGlory.mode = misc_en_US_dedes.Mode8
+meVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+meVE.AposGlory.text = misc_en_US_dedes.NA
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = me.m12.d25_en_US_dedes.meVE.Apolytikion1.text
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode6
+meMA.Kontakion1.melody = ""
+meMA.Kontakion1.text = "He who was begotton of the Father before the Morning Star without a mother is made flesh from you on earth today without a father. Therefore a Star announces the good tidings to the Magi, and Shepherds join the Angels in extolling your immaculate birthgiving, O Maiden full of grace."
+
+meMA.Oikos1.text = "The mystical grapevine held the Cluster that she produced without natural labor in her arms as if in branches, and she spoke to Him. \"You are my fruit, You are my life. You are my God, and from You I know that I am still a virgin as before. And as I see that the seal of my virginity is intact, I proclaim You to be the unchanged Logos who became flesh. I knew no insemination, but I know You the destroy of corruption. For even after You came forth from me, I am still pure; and You left my womb like You found it. For this reason all creation celebrates together and sings to me: 'Rejoice, O Maiden full of grace.'\""
+
+meMA.Synaxarion.text = ""
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion1.melody = misc_en_US_dedes.Automelon
+meMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.EpeskepsatoImas.text
+
+meMA.Lauds1.poet = poets_en_US_dedes.AndreouIerosolymitou
+meMA.Lauds1.mode = misc_en_US_dedes.Mode4
+meMA.Lauds1.melody = ""
+meMA.Lauds1.text = me.m12.d25_en_US_dedes.meMA.Lauds1.text
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode4
+meMA.Lauds2.melody = ""
+meMA.Lauds2.text = me.m12.d25_en_US_dedes.meMA.Lauds2.text
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode4
+meMA.Lauds3.melody = ""
+meMA.Lauds3.text = me.m12.d25_en_US_dedes.meMA.Lauds3.text
+
+meMA.Lauds4.mode = misc_en_US_dedes.Mode4
+meMA.Lauds4.melody = ""
+meMA.Lauds4.text = me.m12.d25_en_US_dedes.meMA.Lauds4.text
+
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
+meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+meMA.LaudsGlory.text = "Today, the invisible Nature is conjoined to humanity from a Virgin. Today, the infinite Essence is wrapped in swaddling clothes in Bethlehem. Today, God uses a star to lead Magi to adore Him. By their gold, frankincense and myrrh, they foretell His three-day burial. For that reason we sing, \"O Christ our God, who were incarnate of a Virgin, save our souls.\""
+
+meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
+meMA.LaudsBoth.melody = misc_en_US_dedes.Idiomelon
+meMA.LaudsBoth.text = me.m12.d25_en_US_dedes.meMA.LaudsBoth.text
+
+meMA.LaudsSundayVerse1.text = ""
+
+meMA.LaudsSundayVerse2.text = ""
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
+meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
+meLI.SeasonalKontakion.text = me.m12.d25_en_US_dedes.meMA.Kontakion1.text
+
+meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode1
+meLI.TheotokosHymnVerse.text = me.m12.d25_en_US_dedes.meMA.Ode9C2MTh.text
+meLI.TheotokosHymn.text = he.h.m1_en_US_dedes.StergeinMenImas.text
+
+meLI.CommunionHymn.text = "" // for media
+
+meMegalynarion.text = ""

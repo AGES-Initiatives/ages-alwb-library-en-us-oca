@@ -1,0 +1,316 @@
+A_Resource_Whose_Name = tr.d008_en_US_dedes 
+
+trCommemoration.text = "Sunday of the Prodigal Son" //full title of day
+trShortCommemoration1.text = "Prodigal Son"
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trDismissal = dismissals_en_US_dedes.dis00.resurrection
+
+trVE.Stichera01.mode = misc_en_US_dedes.Mode1
+trVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
+trVE.Stichera01.text = "In a land that is sinless and living, You trusted me. I scattered my sins like seed, and when I put in the sickle, I harvested the fruits of my carelessness; and I bundled the sheaves of my actions, which I threshed not on the floor of repentance. So I entreat You, our pre-eternal God and husbandman, remove the chaff from my works with the wind of Your loving compassion, and as Landowner, provide forgiveness to my soul, and store me in Your heavenly granary, and save me."
+
+trVE.Stichera02.mode = misc_en_US_dedes.Mode1
+trVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
+trVE.Stichera02.text = "Brethren, let us learn the power of the mystery: When the Prodigal Son runs back from sin to the warmth of his Father's house, the all-loving Father, goes to meet him and kisses him, and he gives him back again the tokens of his own glory; and he sacrifices the fatted calf and thus celebrates the mystical joy with those in heaven. Let us understand this so that we might live lives worthy of the loving Father, who offered the sacrifice, and of the glorious sacrificial victim, who is the Savior of our souls."
+
+trVE.SticGlory.mode = misc_en_US_dedes.Mode2
+trVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+trVE.SticGlory.text = ""
+
+trVE.AposGlory.mode = misc_en_US_dedes.Mode6
+trVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+trVE.AposGlory.text = "I squandered the riches that my Father gave me. Then I ran with a herd of unintelligent brutes, pitiful wretch that I am. Although I helped myself to their fodder, I could not get my fill, and I was starving. So now I am returning to my compassionate Father, and with tears in my eyes I am crying out, \"Take me back as a hired hand, as I throw myself before your love for humanity, and save me.\""
+
+trVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
+trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
+
+trMA.PostGospelGlory.mode = misc_en_US_dedes.Mode8
+trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.text = tr.d001_en_US_dedes.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_en_US_dedes.Mode8
+trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.text = tr.d001_en_US_dedes.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.text
+
+trMA.C1Poet = poets_en_US_dedes.KyriouIosif
+
+trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C11.mode = misc_en_US_dedes.Mode2
+trMA.Ode1C11.melody = he.h.m2_en_US_dedes.TinMoseosOdin.name
+trMA.Ode1C11.text = ""
+
+trMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C12.mode = misc_en_US_dedes.Mode2
+trMA.Ode1C12.melody = he.h.m2_en_US_dedes.TinMoseosOdin.name
+trMA.Ode1C12.text = ""
+
+trMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C13.mode = misc_en_US_dedes.Mode2
+trMA.Ode1C13.melody = he.h.m2_en_US_dedes.TinMoseosOdin.name
+trMA.Ode1C13.text = ""
+
+trMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C1T.mode = misc_en_US_dedes.Mode2
+trMA.Ode1C1T.melody = he.h.m2_en_US_dedes.TinMoseosOdin.name
+trMA.Ode1C1T.text = ""
+
+trMA.Ode1K.ode = misc_en_US_dedes.Ode1
+trMA.Ode1K.mode = misc_en_US_dedes.Mode2
+trMA.Ode1K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode1K.text = he.h.m2_en_US_dedes.TinMoseosOdin.text
+
+trMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C11.mode = misc_en_US_dedes.Mode2
+trMA.Ode3C11.melody = he.h.m2_en_US_dedes.SteirothentaMouTonNoun.name
+trMA.Ode3C11.text = ""
+
+trMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C12.mode = misc_en_US_dedes.Mode2
+trMA.Ode3C12.melody = he.h.m2_en_US_dedes.SteirothentaMouTonNoun.name
+trMA.Ode3C12.text = ""
+
+trMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C13.mode = misc_en_US_dedes.Mode2
+trMA.Ode3C13.melody = he.h.m2_en_US_dedes.SteirothentaMouTonNoun.name
+trMA.Ode3C13.text = ""
+
+trMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C1T.mode = misc_en_US_dedes.Mode2
+trMA.Ode3C1T.melody = he.h.m2_en_US_dedes.SteirothentaMouTonNoun.name
+trMA.Ode3C1T.text = ""
+
+trMA.Ode3K.ode = misc_en_US_dedes.Ode3
+trMA.Ode3K.mode = misc_en_US_dedes.Mode2
+trMA.Ode3K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode3K.text = he.h.m2_en_US_dedes.SteirothentaMouTonNoun.text
+
+trMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode1
+trMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+trMA.Ode3Kathisma1.text = ""
+
+trMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode1
+trMA.Ode3Kathisma2.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+trMA.Ode3Kathisma2.text = ""
+
+trMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C11.mode = misc_en_US_dedes.Mode2
+trMA.Ode4C11.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+trMA.Ode4C11.text = ""
+
+trMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C12.mode = misc_en_US_dedes.Mode2
+trMA.Ode4C12.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+trMA.Ode4C12.text = ""
+
+trMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C13.mode = misc_en_US_dedes.Mode2
+trMA.Ode4C13.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+trMA.Ode4C13.text = ""
+
+trMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C1T.mode = misc_en_US_dedes.Mode2
+trMA.Ode4C1T.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+trMA.Ode4C1T.text = ""
+
+trMA.Ode4K.ode = misc_en_US_dedes.Ode4
+trMA.Ode4K.mode = misc_en_US_dedes.Mode2
+trMA.Ode4K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode4K.text = he.h.m2_en_US_dedes.TinEkParthenou.text
+
+trMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C11.mode = misc_en_US_dedes.Mode2
+trMA.Ode5C11.melody = he.h.m2_en_US_dedes.TisNyktosDielthousis.name
+trMA.Ode5C11.text = ""
+
+trMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C12.mode = misc_en_US_dedes.Mode2
+trMA.Ode5C12.melody = he.h.m2_en_US_dedes.TisNyktosDielthousis.name
+trMA.Ode5C12.text = ""
+
+trMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C13.mode = misc_en_US_dedes.Mode2
+trMA.Ode5C13.melody = he.h.m2_en_US_dedes.TisNyktosDielthousis.name
+trMA.Ode5C13.text = ""
+
+trMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C1T.mode = misc_en_US_dedes.Mode2
+trMA.Ode5C1T.melody = he.h.m2_en_US_dedes.TisNyktosDielthousis.name
+trMA.Ode5C1T.text = ""
+
+trMA.Ode5K.ode = misc_en_US_dedes.Ode5
+trMA.Ode5K.mode = misc_en_US_dedes.Mode2
+trMA.Ode5K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode5K.text = he.h.m2_en_US_dedes.TisNyktosDielthousis.text
+
+trMA.Ode6C11.ode = misc_en_US_dedes.Ode5
+trMA.Ode6C11.mode = misc_en_US_dedes.Mode2
+trMA.Ode6C11.melody = he.h.m2_en_US_dedes.VythoAmartimaton.name
+trMA.Ode6C11.text = ""
+
+trMA.Ode6C12.ode = misc_en_US_dedes.Ode5
+trMA.Ode6C12.mode = misc_en_US_dedes.Mode2
+trMA.Ode6C12.melody = he.h.m2_en_US_dedes.VythoAmartimaton.name
+trMA.Ode6C12.text = ""
+
+trMA.Ode6C13.ode = misc_en_US_dedes.Ode5
+trMA.Ode6C13.mode = misc_en_US_dedes.Mode2
+trMA.Ode6C13.melody = he.h.m2_en_US_dedes.VythoAmartimaton.name
+trMA.Ode6C13.text = ""
+
+trMA.Ode6C1T.ode = misc_en_US_dedes.Ode5
+trMA.Ode6C1T.mode = misc_en_US_dedes.Mode2
+trMA.Ode6C1T.melody = he.h.m2_en_US_dedes.VythoAmartimaton.name
+trMA.Ode6C1T.text = ""
+
+trMA.Ode6K.ode = misc_en_US_dedes.Ode5
+trMA.Ode6K.mode = misc_en_US_dedes.Mode2
+trMA.Ode6K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode6K.text = he.h.m2_en_US_dedes.VythoAmartimaton.text
+
+trMA.Kontakion.mode = misc_en_US_dedes.Mode3
+trMA.Kontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+trMA.Kontakion.text = "I revolted senselessly * out of Your fatherly glory; * I have squandered sinfully * all of the riches You gave me.* Hence to You, using the Prodigal's words, I cry out,* I have sinned before You, merciful loving Father.* O receive me in repentance, * I pray, and treat me * as one of Your hired hands."
+
+trMA.Oikos.text = "Since our Savior teaches us each day by His familiar voice, let us listen to the Scriptures about the son who became prodigal and then returned to his senses, and in faith let us emulate his good repentance. With a humble heart let us cry out to God who observes all that is hidden, \"We have sinned against You, tender-loving Father, and we are no longer worthy to be called Your children as before. But inasmuch as You love humanity, receive me, I pray, and treat me as one of Your hired hands.\""
+
+trMA.Synaxarion1.Com = "On this day we remember the parable of the Prodigal Son from the holy Gospel, which the most divine Fathers placed second in the Triodion."
+trMA.Synaxarion1.Ver1 = ""
+trMA.Synaxarion1.Ver2 = ""
+trMA.Synaxarion1.Nar = ""
+
+trMA.Synaxarion.LastLine = "By Your ineffable love for humanity, O Christ our God, have mercy on us. Amen."
+
+trMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C11.mode = misc_en_US_dedes.Mode2
+trMA.Ode7C11.melody = he.h.m2_en_US_dedes.TaCherouvimMimoumenoi.name
+trMA.Ode7C11.text = ""
+
+trMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C12.mode = misc_en_US_dedes.Mode2
+trMA.Ode7C12.melody = he.h.m2_en_US_dedes.TaCherouvimMimoumenoi.name
+trMA.Ode7C12.text = ""
+
+trMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C13.mode = misc_en_US_dedes.Mode2
+trMA.Ode7C13.melody = he.h.m2_en_US_dedes.TaCherouvimMimoumenoi.name
+trMA.Ode7C13.text = ""
+
+trMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C1T.mode = misc_en_US_dedes.Mode2
+trMA.Ode7C1T.melody = he.h.m2_en_US_dedes.TaCherouvimMimoumenoi.name
+trMA.Ode7C1T.text = ""
+
+trMA.Ode7K.ode = misc_en_US_dedes.Ode7
+trMA.Ode7K.mode = misc_en_US_dedes.Mode2
+trMA.Ode7K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode7K.text = he.h.m2_en_US_dedes.TaCherouvimMimoumenoi.text
+
+trMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C11.mode = misc_en_US_dedes.Mode2
+trMA.Ode8C11.melody = he.h.m2_en_US_dedes.TonEnTiVatoMosi.name
+trMA.Ode8C11.text = ""
+
+trMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C12.mode = misc_en_US_dedes.Mode2
+trMA.Ode8C12.melody = he.h.m2_en_US_dedes.TonEnTiVatoMosi.name
+trMA.Ode8C12.text = ""
+
+trMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C13.mode = misc_en_US_dedes.Mode2
+trMA.Ode8C13.melody = he.h.m2_en_US_dedes.TonEnTiVatoMosi.name
+trMA.Ode8C13.text = ""
+
+trMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C1T.mode = misc_en_US_dedes.Mode2
+trMA.Ode8C1T.melody = he.h.m2_en_US_dedes.TonEnTiVatoMosi.name
+trMA.Ode8C1T.text = ""
+
+trMA.Ode8K.ode = misc_en_US_dedes.Ode8
+trMA.Ode8K.mode = misc_en_US_dedes.Mode2
+trMA.Ode8K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode8K.text = he.h.m2_en_US_dedes.TonEnTiVatoMosi.text
+
+trMA.C1Acrostic.text = "" //Acrostic for Ode 9
+trMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C11.mode = misc_en_US_dedes.Mode2
+trMA.Ode9C11.melody = he.h.m2_en_US_dedes.TonGigenonTisIkouse.name
+trMA.Ode9C11.text = ""
+
+trMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C12.mode = misc_en_US_dedes.Mode2
+trMA.Ode9C12.melody = he.h.m2_en_US_dedes.TonGigenonTisIkouse.name
+trMA.Ode9C12.text = ""
+
+trMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C13.mode = misc_en_US_dedes.Mode2
+trMA.Ode9C13.melody = he.h.m2_en_US_dedes.TonGigenonTisIkouse.name
+trMA.Ode9C13.text = ""
+
+trMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C14.mode = misc_en_US_dedes.Mode2
+trMA.Ode9C14.melody = he.h.m2_en_US_dedes.TonGigenonTisIkouse.name
+trMA.Ode9C14.text = ""
+
+trMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C1T.mode = misc_en_US_dedes.Mode2
+trMA.Ode9C1T.melody = he.h.m2_en_US_dedes.TonGigenonTisIkouse.name
+trMA.Ode9C1T.text = ""
+
+trMA.Ode9K.ode = misc_en_US_dedes.Ode9
+trMA.Ode9K.mode = misc_en_US_dedes.Mode2
+trMA.Ode9K.melody = misc_en_US_dedes.Heirmos
+trMA.Ode9K.text = he.h.m2_en_US_dedes.TonGigenonTisIkouse.text
+
+trMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+trMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.text = "The riches of Your gifts of grace,* which You gave me, the wretched one,* I squandered badly, O Savior,* since without cause I departed,* and lived in great extravagance.* The demons tricked me to disperse.* And therefore as the Prodigal,* I am returning. Receive me,* O loving Father, and save me."
+
+trMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
+trMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+trMA.Exaposteilarion2.text = "The wealth You gave to me, O Lord,* I squandered and I spent it all.* And I the wretch have submitted * myself to the wicked demons.* O Savior all-compassionate,* take pity on this Prodigal. * And make me clean, for I am stained.* And give me again my former * robe of Your rule and kingdom."
+
+trMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+trMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+trMA.ExapTheotokion.text = "O Virgin Mother, holy Maid,* you are the great resounding boast * of the Apostles and Martyrs * of the Devout and the Prophets.* And therefore make your Son and Lord * propitiously disposed toward us,* your servants, when He sits to judge * each according to his merits, * O all-holy Theotokos."
+
+trMA.Lauds1.mode = misc_en_US_dedes.Mode2
+trMA.Lauds1.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds1.text = "The cry of the Prodigal I offer to You, O Lord: I have sinned before Your eyes, O good one; I have squandered the wealth of the gifts You gave me, but receive me as I repent, O Savior, and save me."
+
+trMA.Lauds2.mode = misc_en_US_dedes.Mode4
+trMA.Lauds2.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds2.text = "Like the Prodigal Son, I too, have come, O compassionate one; I have spent my whole life in a foreign land; I have squandered the wealth that You have given me, O Father. Receive me as I repent, O God, and have mercy on me."
+
+trMA.Lauds3.mode = misc_en_US_dedes.Mode8
+trMA.Lauds3.melody = misc_en_US_dedes.Idiomelon
+trMA.Lauds3.text = "I exhausted the wealth of my father's holdings, and have consumed them; I have become destitute, dwelling in the land of wicked citizens. No longer able to bear their company, I return and cry to You, the compassionate Father, \"I have sinned against heaven and before You, and I am not worthy to be called Your son. Treat me as one of Your hirelings, O God, and have mercy on me.\""
+
+trMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
+trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+trMA.LaudsGlory.text = "Good Father, I made myself distant from You; do not forsake me, nor show me to be useless in Your kingdom. The vile enemy has denuded me; he has taken my wealth. The gifts of my soul I have squandered with abandon. So, having arisen, once again I return to You and cry, \"Treat me as one of Your hirelings.\" For me You stretched out Your pure hands upon the cross to snatch me from the fearsome beast, and to vest me with that former dignified apparel, for You alone are great in mercy."
+
+trMA.LaudsTheotokion.mode  = ""
+trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
+
+trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
+trLI.SeasonalKontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+trLI.SeasonalKontakion.text = trMA.Kontakion.text
+
+trLI.Alleluia.mode  = ""
+
+trLI.AlleluiaVerse1.text = ""
+
+trLI.AlleluiaVerse2.text = ""
+
+trLI.CommunionHymn.text = ""
+
+trMegalynarion.text = ""
+

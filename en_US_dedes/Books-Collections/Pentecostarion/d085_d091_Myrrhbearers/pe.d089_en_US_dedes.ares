@@ -1,0 +1,31 @@
+A_Resource_Whose_Name = pe.d089_en_US_dedes
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_en_US_dedes.dis00.resurrection
+
+ 
+
+peMA.Kathisma11.mode = misc_en_US_dedes.Mode2
+peMA.Kathisma11.melody  = ""
+peMA.Kathisma11.text = pe.d085_en_US_dedes.peMA.Kathisma22.text
+
+peMA.Kathisma12.mode = misc_en_US_dedes.Mode2
+peMA.Kathisma12.melody  = ""
+peMA.Kathisma12.text = ""
+
+peMA.Kathisma13.mode = misc_en_US_dedes.Mode2
+peMA.Kathisma13.melody  = ""
+peMA.Kathisma13.text = ""
+
+peMA.Kathisma1T.mode = misc_en_US_dedes.Mode2
+peMA.Kathisma1T.melody  = ""
+peMA.Kathisma1T.text = oc.m2.d5_en_US_dedes.ocMA.Kathisma13.text
+
+peMA.Kathisma21.mode = misc_en_US_dedes.Mode2
+peMA.Kathisma21.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+peMA.Kathisma21.text = "The Women with faith brought spices for You, O Lord. * They earnestly wished to anoint You, the Friend of man. * Then an Angel spoke to them * from the tomb, announcing, \"The Giver of life * and Lord has arisen, * after trampling Hades and death.\""
+

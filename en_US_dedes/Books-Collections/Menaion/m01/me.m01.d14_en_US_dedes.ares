@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = me.m01.d14_en_US_dedes
+
+meDate.text = "January 14" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "Memory of the Holy Ascetic Fathers who were Killed in Sinai and Raitho." // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "Our Venerable Fathers who Died in Sinai and Raitho."
+meLE.commemoration2 = ""
+meHO.number = "14."
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+meDismissal = dismissals_en_US_dedes.dis00.epiphany
+
+meMA.Synaxarion.text = ""
+

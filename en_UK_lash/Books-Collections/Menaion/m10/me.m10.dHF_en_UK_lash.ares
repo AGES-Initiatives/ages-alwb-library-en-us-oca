@@ -1,0 +1,279 @@
+A_Resource_Whose_Name = me.m10.dHF_en_UK_lash 
+
+meDate.text = ""
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode6
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera01.text = "The Patriarch Germanos the Younger collected together in one Canon the seven Councils of the Fathers, which had taken place at different times, excellently writing together and strengthening their teachings; he also presents them to the Lord as unsleeping advocates of salvation and fellow-shepherds of the flock."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode6
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera02.text = "The letter of the Law laid down for the children of the Hebrews that the heptad was to be honoured, and they devoted themselves to a shadow and reverenced it. But you, O Fathers, came together in a heptad of Councils, at the behest of God, who fashioned the universe in a hexad of days and blessed the seventh, and you made the heptad even more honourable by laying down a definition of the Faith."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode6
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera03.text = "Thrice-blessed Fathers, you have handed down that the Trinity is the cause of the birth of the world for all things that are created; for with mystic reason you established three and four Councils, and you appeared as champions of orthodox reason, for you showed that while there are four elements, it is the Trinity which created them and made the world."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode6
+meVE.Stichera04.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera04.text = "It would have been sufficient for the Prophet Elisaius to have bent over once at most to breathe life into the child that lay dead; nevertheless he bent over seven times and lay right over him, thus like a scout he foretold your comings together, by which you breathed life into the slaying of God the Word, by putting to death Arius and his boon companions."
+
+meVE.Stichera05.mode = misc_en_UK_lash.Mode6
+meVE.Stichera05.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera05.text = "Revered Fathers, with wisdom you sewed together the torn garment of Christ, rent asunder by baying hounds, for you could not bear to look on his nakedness, as Sem and Japhet of old could not on their father’s, and you put the parricide to shame along with his supporters: Arius, whose name the madness bears."
+
+meVE.Stichera06.mode = misc_en_UK_lash.Mode6
+meVE.Stichera06.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera06.text = "As true shepherds you bravely drove away the Macedioniusses, the Nestoriusses, the Eftychisses, the Dioscorusses, Apollinariusses and Sabellioseverusses, exposed as dangerous wolves in sheepskins, far from the Saviour’s flock stripped of their fleeces, making them thrice-wretched; therefore we call you blessed."
+
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody  = ""
+meVE.SticGlory.text = "Let us praise today the mystical trumpets of the Spirit, the Godbearing Fathers, who sang a harmonious melody of theology in the midst of the Church, one Trinity, unchanging Essence and Godhead; the overthrowers of Arius, the champions of the Orthodox, who ever intercede with the Lord that he may have mercy on our souls."
+
+meVE.LityGlory.mode = misc_en_UK_lash.Mode3
+meVE.LityGlory.melody  = ""
+meVE.LityGlory.text = "Holy Fathers, you have become sure guardians of the Apostolic traditions; for by teaching the orthodox doctrine of the consubstantiality of the Holy Trinity, you overthrew in Council the blasphemy of Arius. With him you refuted Macedonius, the opponent of the Spirit, and condemned Nestorius, Eftychis and Dioscorus, Sabellius and Severus the Leaderless. We implore you: beg that we who have been delivered from their error may preserve our life spotless in the faith."
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode3
+meVE.LityBoth.melody  = ""
+meVE.LityBoth.text = ""
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode4
+meVE.AposGlory.melody  = ""
+meVE.AposGlory.text = "Let us with faith celebrate today the yearly commemoration of the god-bearing Fathers, who were assembled from the whole world in the radiant city of Nicaea, as we reverence the gatherings of the Orthodox; for they, their minds attuned to true religion, overthrew the godless teaching of Arius, and in council banished him from the Catholic Church; and in the Symbol of faith, which they precisely and devoutly laid down, they taught all to confess clearly the Son of God as consubstantial and co-eternal, and existing before the ages. And so we too, following their divine teachings and firm in our belief, worship the Son and the all-holy Spirit with the Father, in one Godhead, a consubstantial Trinity."
+
+meVE.AposTheotokion.mode = misc_en_UK_lash.Mode4
+meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.text = ""
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode8
+meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.text = ""
+
+meMA.C1Poet = ""
+meMA.C1Acrostic.text = ""
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C11.melody = ""
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C12.melody = ""
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C13.melody = ""
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C1T.melody = ""
+meMA.Ode1C1T.text = ""
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C11.melody = ""
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C12.melody = ""
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C13.melody = ""
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C1T.melody = ""
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
+meMA.Ode3Kathisma1.melody = ""
+meMA.Ode3Kathisma1.text = ""
+
+
+meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
+meMA.Ode3KathismaT.melody = ""
+meMA.Ode3KathismaT.text = ""
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C11.melody = ""
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C12.melody = ""
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C13.melody = ""
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C1T.melody = ""
+meMA.Ode4C1T.text = ""
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C11.melody = ""
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C12.melody = ""
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C1T.melody = ""
+meMA.Ode5C1T.text = ""
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C11.melody = ""
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C12.melody = ""
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C1T.melody = ""
+meMA.Ode6C1T.text = ""
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode2
+meMA.Kontakion1.melody = ""
+meMA.Kontakion1.text = ""
+
+
+meMA.Oikos1.text = ""
+
+
+meMA.Synaxarion.text  = ""
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C11.melody = ""
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C12.melody = ""
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C13.melody = ""
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C1T.melody = ""
+meMA.Ode7C1T.text = ""
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C11.melody = ""
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C12.melody = ""
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C13.melody = ""
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C1T.melody = ""
+meMA.Ode8C1T.text = ""
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C11.melody = ""
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C12.melody = ""
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C13.melody = ""
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C1T.melody = ""
+meMA.Ode9C1T.text = ""
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion1.melody = ""
+meMA.Exaposteilarion1.text = ""
+
+meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode3
+meMA.ExapTheotokion.melody = ""
+meMA.ExapTheotokion.text = ""
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode6
+meMA.Lauds1.melody = ""
+meMA.Lauds1.text = ""
+
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode6
+meMA.Lauds2.melody  = ""
+meMA.Lauds2.text = ""
+
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode6
+meMA.Lauds3.melody  = ""
+meMA.Lauds3.text = ""
+
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.text = ""
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode2
+meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.text = ""
+
+
+meLI.Alleluia.mode = misc_en_UK_lash.Mode4
+
+meLI.AlleluiaVerse1.text = ""
+
+meLI.AlleluiaVerse2.text = ""
+
+meLI.CommunionHymn.text = ""
+
+
+meMegalynarion.text = ""
+

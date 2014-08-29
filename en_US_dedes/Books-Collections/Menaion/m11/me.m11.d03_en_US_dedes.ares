@@ -1,0 +1,521 @@
+A_Resource_Whose_Name = me.m11.d03_en_US_dedes
+
+meDate.text = "November 3"
+meCommemoration.text = "Memory of the holy Martyrs Akepsimas, Joseph, and Aeithalas; and of the dedication of the Temple of the Holy Great-Martyr George in Lydda" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "the holy Martyrs Akepsimas, Joseph, and Aeithalas, and the holy and glorious Great-Martyr George the Trophy-bearer, " //for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "Memory of the holy Martyrs Akepsimas, Joseph, and Aeithalas; and of the dedication of the Temple of the Holy Great-Martyr George in Lydda"
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank  = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+// The stichera are from HTM
+meVE.Stichera01.mode = misc_en_US_dedes.Mode5
+meVE.Stichera01.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Stichera01.text = "Rejoice, three Martyrs mighty of name, * the virtues' pure abodes, the Trinity's trinity; * ye winebowls that pour forth piety as a God-given wine, * bringing joy and gladness to the souls of all; * ye breasts gushing forth the milk of the healing of maladies; * ye stars that flash forth with the light of eternal truth, * lighting up the ends of the world with its shining rays; * ye who allayed the bitter night and darkness of ignorance * and as the day have enlightened the minds of all men with radiance: * now make intercession * with the Saviour Christ to grant His great mercy to our souls. (HTM)"
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode5
+meVE.Stichera02.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Stichera02.text = "Rejoice, ye that are worthy of awe, * Joseph , Aethalas, and sacred Acepsimas, * who wholly quenched with divine fire and with the knowledge of God * the deceit of godless worshippers of fire. * Through you, those who lawlessly offered worship unto the sun * and stars of heaven were themselves darkened and eclipsed, * and all the designs of the Magi were brought to nought, * Martyrs for ever ven'rable, the Trinity's champions, * the light to those in that darkness which is to know not the Saviour Christ, * the true and Chief Shepherd, * Who was sacrificed and granteth great mercy to the world. (HTM)"
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode5
+meVE.Stichera03.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Stichera03.text = "Every assault of suff'rings and pains * did ye endure with an exceeding courageous mind; * and loaded like lifeless burdens upon irrational beasts, * ye were led to suffer torments more severe. * And when ye were fiercely thrashed, and were beaten with clubs and staves, * and sorely wasted by most merciless stripes and blows, * ye did not relent, neither did ye deny our God. * Wherefore ye carried off the crown of vic'try as conquerors * and manifestly were numbered with the divine Martyrs' companies; * with them, intercede ye * that great mercy and forgiveness be granted to our souls. (HTM)"
+
+meVE.Stichera04.mode = misc_en_US_dedes.Mode5
+meVE.Stichera04.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Stichera04.text = "Bravely didst thou go forth of thyself * unto thy contests, filled with joy and most ardent zeal, * astonishing every mind by thy great endurance of pain, * trampling down the tyrants' proud audacity. * And now thou hast passed beyond to the shining angelic life, * dancing in gladness with the Angels in choirs of joy, * and in every hour thou dost save by thy watchful care * those who with faith revere thee, O all-blessed Great Martyr George, * and thou dost hearken with pity unto the paupers' laments and woes, * as thou dost entreat Christ, * Who doth graciously bestow His great mercy on the world. (HTM)"
+
+meVE.Stichera05.mode = misc_en_US_dedes.Mode5
+meVE.Stichera05.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Stichera05.text = "Come thou to us who praise thee with love, * and be a helper unto those who are in distress, * come lighten the pain of bitter temptations grievous to bear, * and remove the weighty burden from our souls; * preserve us and keep us safe, yea, and save us, O Martyr George, * and lead us over unto God by the means of faith, * guiding us to keep the Creator's divine commands, * that we, as having lived by His great goodness, may all attain * to the divine recompenses found in the Heavens with all the Saints, * while praising Christ Saviour, * Who doth graciously bestow His great mercy on the world. (HTM)"
+
+meVE.Stichera06.mode = misc_en_US_dedes.Mode5
+meVE.Stichera06.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Stichera06.text = "Wondrous and very great in all truth * is the report of thine unspeakable martyrdom, * for like unto an illustrious prince, thou passes throughout * all creation, O amazing Martyr George; * and being adorned in truth with the grace to work miracles, * thou grantest healing to those stricken with sicknesses, * and the suffering thou dost treat with thy holy prayers. * Hence, we know thee to be a fervent helper in all distress, * and a most kind benefactor deliv'ring those in captivity. * O all- blessed Martyr, * intercede with Christ to grant His great mercy to our souls. (HTM)"
+
+meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+meVE.SticGlory.melody  = ""
+meVE.SticGlory.text = me.m04.d23_en_US_dedes.meVE.SticGlory.text
+
+meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
+meVE.SticTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
+meVE.SticTheotokion.text = he.o_en_US_dedes.TheotokeSyEiAthloforou.text
+
+meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode6
+meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
+meVE.SticStavrotheotokion.text = ""
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
+meVE.Aposticha1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Aposticha1.text = ""
+
+meVE.ApostichaVerse2.text = "God is wondrous in His saints, the God of Israel."
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode4
+meVE.Aposticha2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Aposticha2.text = ""
+
+meVE.ApostichaVerse3.text = "The Lord has done marvelous things for His saints that are on the earth."
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
+meVE.Aposticha3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Aposticha3.text = ""
+
+// Glory from HTM
+meVE.AposGlory.poet = poets_en_US_dedes.EfraimKarias
+meVE.AposGlory.mode = misc_en_US_dedes.Mode6
+meVE.AposGlory.melody  = ""
+meVE.AposGlory.text = "The Three Children in Persia who were preserved unburnt were a symbolic prelude to your thrice-radiant concord, O athletes, and your witness in Christ ot the unmingled Trinity and Unity transcendent in essence. For even as they braved the fire because they would not insult God, so ye also sought not to escape death, because ye had not given up your love for Christ; and as Christ, that Fourth One Who appeared, bedewed them in the fire, thus did He, Who is One of the Trinity, receive you in a place of refreshment. O divinely inspired Acepsimas, Joseph, and Aethalas, intercede in behalf of our souls. (HTM)"
+
+meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
+meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.text = ""
+
+meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
+meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
+meVE.AposStavrotheotokion.text = ""
+
+meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
+meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meVE.Apolytikion1.text = ""
+
+meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
+meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
+meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meVE.Apolytikion2.text = ""
+
+meMA.C1Acrostic.text = ""
+
+meMA.C2Acrostic.text = ""
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C11.melody = he.h.m1_en_US_dedes.SouITropaiouchos.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C12.melody = he.h.m1_en_US_dedes.SouITropaiouchos.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C13.melody = he.h.m1_en_US_dedes.SouITropaiouchos.name
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1T.mode = misc_en_US_dedes.Mode1
+meMA.Ode1C1T.melody = he.h.m1_en_US_dedes.SouITropaiouchos.name
+meMA.Ode1C1T.text = ""
+
+meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C21.melody = he.h.m4_en_US_dedes.ToOdigisantiPalai.name
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C22.melody = he.h.m4_en_US_dedes.ToOdigisantiPalai.name
+meMA.Ode1C22.text = ""
+
+meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C23.melody = he.h.m4_en_US_dedes.ToOdigisantiPalai.name
+meMA.Ode1C23.text = ""
+
+meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C2T.melody = he.h.m4_en_US_dedes.ToOdigisantiPalai.name
+meMA.Ode1C2T.text = ""
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C11.melody = he.h.m1_en_US_dedes.OMonosEidos.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C12.melody = he.h.m1_en_US_dedes.OMonosEidos.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C13.melody = he.h.m1_en_US_dedes.OMonosEidos.name
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1T.mode = misc_en_US_dedes.Mode1
+meMA.Ode3C1T.melody = he.h.m1_en_US_dedes.OMonosEidos.name
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C21.melody = he.h.m4_en_US_dedes.OStereonVrontin.name
+meMA.Ode3C21.text = ""
+
+meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C22.melody = he.h.m4_en_US_dedes.OStereonVrontin.name
+meMA.Ode3C22.text = ""
+
+meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C23.melody = he.h.m4_en_US_dedes.OStereonVrontin.name
+meMA.Ode3C23.text = ""
+
+meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C2T.melody = he.h.m4_en_US_dedes.OStereonVrontin.name
+meMA.Ode3C2T.text = ""
+
+meMA.Ode3H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3H.mode = misc_en_US_dedes.Mode4
+meMA.Ode3H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3H.text = he.h.m4_en_US_dedes.OStereonVrontin.text
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
+meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+meMA.Kontakion1.text = ""
+
+meMA.Oikos1.text = ""
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3Kathisma2.text = ""
+
+meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.text = ""
+
+meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode8
+meMA.Ode3KathismaSt.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C11.melody = he.h.m1_en_US_dedes.OrosSeTiChariti.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C12.melody = he.h.m1_en_US_dedes.OrosSeTiChariti.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C13.melody = he.h.m1_en_US_dedes.OrosSeTiChariti.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1T.mode = misc_en_US_dedes.Mode1
+meMA.Ode4C1T.melody = he.h.m1_en_US_dedes.OrosSeTiChariti.name
+meMA.Ode4C1T.text = ""
+
+meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C21.melody = he.h.m4_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C21.text = ""
+
+meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C22.melody = he.h.m4_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C23.melody = he.h.m4_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C23.text = ""
+
+meMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C2T.melody = he.h.m4_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C2T.text = ""
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C11.melody = he.h.m1_en_US_dedes.OFotisasTiEllampsei.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C12.melody = he.h.m1_en_US_dedes.OFotisasTiEllampsei.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C13.melody = he.h.m1_en_US_dedes.OFotisasTiEllampsei.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1T.mode = misc_en_US_dedes.Mode1
+meMA.Ode5C1T.melody = he.h.m1_en_US_dedes.OFotisasTiEllampsei.name
+meMA.Ode5C1T.text = ""
+
+meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C21.melody = he.h.m4_en_US_dedes.AnateilonMoiKyrie.name
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C22.melody = he.h.m4_en_US_dedes.AnateilonMoiKyrie.name
+meMA.Ode5C22.text = ""
+
+meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C23.melody = he.h.m4_en_US_dedes.AnateilonMoiKyrie.name
+meMA.Ode5C23.text = ""
+
+meMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C2T.melody = he.h.m4_en_US_dedes.AnateilonMoiKyrie.name
+meMA.Ode5C2T.text = ""
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C11.melody = he.h.m1_en_US_dedes.EkyklosenImas.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C12.melody = he.h.m1_en_US_dedes.EkyklosenImas.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C13.melody = he.h.m1_en_US_dedes.EkyklosenImas.name
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1T.mode = misc_en_US_dedes.Mode1
+meMA.Ode6C1T.melody = he.h.m1_en_US_dedes.EkyklosenImas.name
+meMA.Ode6C1T.text = ""
+
+meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C21.melody = he.h.m4_en_US_dedes.ZaliMeLogismon.name
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C22.melody = he.h.m4_en_US_dedes.ZaliMeLogismon.name
+meMA.Ode6C22.text = ""
+
+meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C23.melody = he.h.m4_en_US_dedes.ZaliMeLogismon.name
+meMA.Ode6C23.text = ""
+
+meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C2T.melody = he.h.m4_en_US_dedes.ZaliMeLogismon.name
+meMA.Ode6C2T.text = ""
+
+meMA.Ode6H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6H.mode = misc_en_US_dedes.Mode4
+meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6H.text = he.h.m4_en_US_dedes.ZaliMeLogismon.text
+
+meMA.Kontakion2.mode = misc_en_US_dedes.Mode8
+meMA.Kontakion2.melody = he.a.m8_en_US_dedes.TiYpermacho.name
+meMA.Kontakion2.text = ""
+
+meMA.Oikos2.text = ""
+meMA.Oikos22.text = ""
+meMA.Oikos23.text = ""
+meMA.Oikos24.text = ""
+meMA.Oikos25.text = ""
+meMA.Oikos26.text = ""
+meMA.Oikos27.text = ""
+meMA.Oikos28.text = ""
+
+meMA.Synaxarion.text  = ""
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C11.melody = he.h.m1_en_US_dedes.SeNoitin.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C12.melody = he.h.m1_en_US_dedes.SeNoitin.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C13.melody = he.h.m1_en_US_dedes.SeNoitin.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1T.mode = misc_en_US_dedes.Mode1
+meMA.Ode7C1T.melody = he.h.m1_en_US_dedes.SeNoitin.name
+meMA.Ode7C1T.text = ""
+
+meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C21.melody = he.h.m4_en_US_dedes.ODiasosasEnPyri.name
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C22.melody = he.h.m4_en_US_dedes.ODiasosasEnPyri.name
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C23.melody = he.h.m4_en_US_dedes.ODiasosasEnPyri.name
+meMA.Ode7C23.text = ""
+
+meMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C2T.melody = he.h.m4_en_US_dedes.ODiasosasEnPyri.name
+meMA.Ode7C2T.text = ""
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C11.melody = he.h.m1_en_US_dedes.EnKaminoPaides.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C12.melody = he.h.m1_en_US_dedes.EnKaminoPaides.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C13.melody = he.h.m1_en_US_dedes.EnKaminoPaides.name
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1Tr.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1Tr.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C1Tr.melody = he.h.m1_en_US_dedes.EnKaminoPaides.name
+meMA.Ode8C1Tr.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1T.mode = misc_en_US_dedes.Mode1
+meMA.Ode8C1T.melody = he.h.m1_en_US_dedes.EnKaminoPaides.name
+meMA.Ode8C1T.text = ""
+
+meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C21.melody = he.h.m4_en_US_dedes.GiKaiPantaTaEnAfti.name
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C22.melody = he.h.m4_en_US_dedes.GiKaiPantaTaEnAfti.name
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C23.melody = he.h.m4_en_US_dedes.GiKaiPantaTaEnAfti.name
+meMA.Ode8C23.text = ""
+
+meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C2T.melody = he.h.m4_en_US_dedes.GiKaiPantaTaEnAfti.name
+meMA.Ode8C2T.text = ""
+
+meMA.Ode8H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8H.mode = misc_en_US_dedes.Mode4
+meMA.Ode8H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8H.text = he.h.m4_en_US_dedes.GiKaiPantaTaEnAfti.text
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C11.melody = he.h.m1_en_US_dedes.TyponTisAgnis.name
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C12.melody = he.h.m1_en_US_dedes.TyponTisAgnis.name
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C13.melody = he.h.m1_en_US_dedes.TyponTisAgnis.name
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1T.mode = misc_en_US_dedes.Mode1
+meMA.Ode9C1T.melody = he.h.m1_en_US_dedes.TyponTisAgnis.name
+meMA.Ode9C1T.text = ""
+
+meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C21.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C21.text = ""
+
+meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C22.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C22.text = ""
+
+meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C23.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C23.text = ""
+
+meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C2T.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C2T.text = ""
+
+meMA.Ode9H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9H.mode = misc_en_US_dedes.Mode4
+meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9H.text = he.h.m4_en_US_dedes.OTokosSouAfthoros.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.text = "Akepsimas the glorious * with the courageous Joseph * and the all-wise Aeithalas, * by the power of Christ God, * contested and they dismantled * the error of the Persians; * and with the Holy Trinity * they intercede for us. As we now extol * them as hieromartyrs with pious reverence * we celebrate their radiant * memory with rejoicing."
+
+meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
+meMA.Exaposteilarion2.text = "O blessed martyr, with the streams * of your blood you extinguished * deception's flame, and thus you made * the audacious defiance * of tyrants utterly vanish, * thereby glorifying Christ, * O George victorious athlete. * Therefore you received the crown * of incorruption and life * from the right hand of the Most High."
+
+meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
+meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
+meMA.ExapTheotokion.text = "O Virgin, there is not in me * any hope of salvation. * For I have fallen grievously * into a pit of vices. * And I await what was threatened, * namely ghastly punishment, * to share the goats' disappointment. * Pity me before my trial, * ardent helper that you are, * my Lady the Theotokos."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode4
+meMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meMA.Lauds1.text = "To a brave one in martyr saints, * Christ's own tillage and georgic field, * let us sing the praises of wise great martyr George. * He was a preacher of truth divine; * and an ever-living branch * of the vine of life was he, * in abundance producing fruit, * also gushing forth * the sweet wine of the Orthodox religion; and he gladdens those who yearly * observer his memory faithfully."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode4
+meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meMA.Lauds2.text = "We who honor your memory * know you well as a glowing star * and a shining sun in the Church's firmament. * And we extol you whom we esteem * as a most exquisite pearl, * as a sparkling precious gem, * as a brave one in martyr saints, * as a son of day; * as a champion defender and protector * of believers when in danger, * great and victorious Martyr George."
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode4
+meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meMA.Lauds3.text = "Do protect me on every side, * whether sailing upon the sea * or just walking down the street * or sleeping at night. * All-blessed George, when I stay awake * sustain me in vigilance. * And vouchsafe me through your prayers * to do only the will of God, * so that I who run * to your shelter might gain the absolution * of the sins I have committed * throughout my lifetime, on Judgment Day."
+
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
+meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.text = ""
+
+meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
+meMA.LaudsTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meMA.LaudsTheotokion.text = ""
+
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
+meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
+
+meMegalynarion.text = ""
+

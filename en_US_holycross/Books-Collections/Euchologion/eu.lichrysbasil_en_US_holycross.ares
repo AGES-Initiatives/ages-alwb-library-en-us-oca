@@ -1,0 +1,253 @@
+A_Resource_Whose_Name = eu.lichrysbasil_en_US_holycross
+
+euLI.title = "The Divine Liturgy of Saint John Chrysostom"
+
+// Part 01 Enarxis
+euLI.Key0101.text = "Καιρός τοῦ ποιῆσαι τῷ Κυρίῳ. Δέσποτα Ἅγιε εὐλόγησον."
+euLI.Key0102.text = prayers_en_US_holycross.enarxis01
+euLI.Key0103.text = "Ἀμην. Εὖξαι ὑπὲρ ἐμοῦ, Δέσποτα Ἅγιε."
+euLI.Key0104.text = "Κατευθύναι Κύριος τὰ διαβήματά σου εἰς πᾶν ἔργον ἀγαθόν."
+euLI.Key0105.text = "Μνήσθητί μου, Δέσποτα Ἅγιε."
+euLI.Key0106.text = "Μνησθείη σου Κύριος ὁ Θεὸς ἐν τῇ βασιλείᾳ αὐτοῦ, πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν."
+euLI.Key0107.text = "Κύριε, τὰ χείλη μου ἀνοίξεις, καὶ τὸ στόμα μου ἀναγγελεῖ τὴν αἴνεσίν σου."
+euLI.Key0108.text = prayers_en_US_holycross.res08
+euLI.Key0109.text = prayers_en_US_holycross.enarxis02
+euLI.Key0110.text = prayers_en_US_holycross.res04
+
+// Part 02 Great Litany - Antiphon 1
+euLI.Key0200.text = "The Great Litany" //.text and not .title for the sake of media
+euLI.Key0201.title = "PRAYER OF THE FIRST ANTIPHON"
+euLI.Key0201.text = "Lord, our God, whose power is beyond compare, and glory is beyond understanding; whose mercy is boundless, and love for us is ineffable: look upon us and upon this holy house in Your compassion. Grant to us and to those who pray with us Your abundant mercy."
+
+// Part 03 Antiphon 2
+euLI.Key0301.title = "PRAYER OF THE SECOND ANTIPHON"
+euLI.Key0301.text = "Lord our God, save Your people and bless Your inheritance; protect the whole body of Your Church; sanctify those who love the beauty of Your house; glorify them in return by Your divine power; and do not forsake us who hope in You."
+
+// Part 04 Antiphon 3 
+euLI.Key0401.title = "PRAYER OF THE THIRD ANTIPHON"
+euLI.Key0401.text = "Lord, You have given us grace to offer these common prayers with one heart. You have promised to grant the requests of two or three gathered in Your name. Fulfill now the petitions of Your servants for our benefit, giving us the knowledge of Your truth in this world, and granting us eternal life in the world to come."
+
+// Part 05 Small Entrance
+euLI.Key0501.text = "Master and Lord our God, You have established in heaven the orders and hosts of angels and archangels to minister to Your glory. Grant that the holy angels may enter with us that together we may serve and glorify Your goodness."
+euLI.Key0502.text = "Master, bless the holy entrance."
+euLI.Key0503.text = "Blessed is the entrance of Your saints always, now and forever and to the ages of ages."
+
+// Part 06 Trisagios Hymn 
+euLI.Key0601.text = "Holy God, You dwell among Your saints. You are praised by the Seraphim with the thrice holy hymn and glorified by the Cherubim and worshiped by all the heavenly powers. You have brought all things out of nothing into being. You have created man and woman in Your image and likeness and adorned them with all the gifts of Your grace. You give wisdom and understanding to the supplicant and do not overlook the sinner but have established repentance as the way of salvation. You have enabled us, Your lowly and unworthy servants, to stand at this hour before the glory of Your holy altar and to offer to You due worship and praise. Master, accept the thrice holy hymn also from the lips of us sinners and visit us in Your goodness. Forgive our voluntary and involuntary transgressions, sanctify our souls and bodies, and grant that we may worship and serve You in holiness all the days of our lives, by the intercessions of the holy Theotokos and of all the saints who have pleased You throughout the ages."
+euLI.Key0602.text = "Dynamis."
+euLI.Key0603.text = prayers_en_US_holycross.KelefsonDespota
+euLI.Key0604.text = "Blessed is He who comes in the name of the Lord."
+euLI.Key0605.text = "Master, bless the throne on high."
+euLI.Key0606.text = "Blessed are You on the throne of glory of Your kingdom, seated upon the Cherubim always, now and forever and to the ages of ages. Amen."
+euLI.Key0607.text = "Lord, save the pious people."
+euLI.Key0608.text = "And hear us."
+
+// Part 07 The Readings
+euLI.Key0701.text = "Bless, Master, the herald of the Gospel of the holy, glorious Apostle and Evangelist (Name)."
+euLI.Key0702.text = "May God, through the intercessions of the holy and glorious Apostle and Evangelist (Name), grant you who proclaim the Gospel to do so with great power, for the fulfillment of the Gospel of His beloved Son, our Lord Jesus Christ."
+euLI.Key0703.text = "Amen, amen, amen. Be it unto me according to your word."
+euLI.Key0704.text = "Shine within our hearts, loving Master, the pure light of Your divine knowledge and open the eyes of our minds that we may comprehend the message of Your Gospel. Instill in us also reverence for Your blessed commandments, so that having conquered all sinful desires, we may pursue a spiritual life, thinking and doing all those things that are pleasing to You. For You, Christ our God, are the light of our souls and bodies, and to You we give glory together with Your Father who is without beginning and Your all holy, good, and life giving Spirit, now and forever and to the ages of ages. Amen."
+euLI.Key0705.text = prayers_en_US_holycross.gos04
+
+// Part 08 Ektenia
+euLI.Key0800.title = "LITANY OF FERVENT SUPPLICATION"
+euLI.Key0801.text = "Lord our God, accept this fervent supplication from Your servants, and have mercy on us in accordance with the abundance of Your mercy, and send down Your compassion upon us and upon all Your people who await to receive Your great and rich mercy."
+
+// Part 09 Catechumens
+euLI.Key0900.title = "LITANY OF THE CATECHUMENS"
+euLI.Key0901.text = "You who are Catechumens, pray to the Lord."
+euLI.Key0902.text = "You faithful, let us pray for the Catechumens."
+euLI.Key0903.text = "That the Lord will show them mercy."
+euLI.Key0904.text = "That He will instruct them in the word of His truth."
+euLI.Key0905.text = "That He will reveal to them the Gospel of righteousness."
+euLI.Key0906.text = "That He will unite them to His Holy, Catholic and Apostolic Church."
+euLI.Key0907.text = "Save them, have mercy on them, help them and keep them, O God, in Your grace."
+euLI.Key0908.text = "You who are Catechumens, bow your heads to the Lord."
+euLI.Key0909.text = "Lord, our God, dwelling on high and beholding things below, who for the salvation of mankind sent forth your only-begotten Son, our Lord and God, Jesus Christ, look upon your servants the catechumens, who have bowed their necks to you; and count them worthy in due time of the washing of rebirth, the forgiveness of sins and the garment of incorruption; unite them to your holy, Catholic and Apostolic Church, and number them with your chosen flock."
+euLI.Key0910.text = "That with us they too may glorify Your most noble and majestic name, of the Father and of the Son and of the Holy Spirit, now and forevermore."
+euLI.Key0911.text = "All Catechumens, depart. The Catechumens, depart. All Catechumens, depart. Let none of the Catechumens remain."
+euLI.Key0912.text = "All the faithful."
+ 
+// Part 10 Prayers of the Faithful
+euLI.Key1000.title = "LITURGY OF THE FAITHFUL"
+euLI.Key1001.title = "PRAYER OF THE FAITHFUL"
+euLI.Key1001.text = "We thank you, Lord, God of the powers of heaven, for counting us worthy to stand even now before your holy altar and humbly to seek your compassion for our sins and for those committed in ignorance by the people. Receive our supplication, O God; make us worthy to offer you prayers and entreaties and unbloody sacrifices for all your people. And enable us, whom you have appointed to this your ministry by the power of your Holy Spirit, to invoke you at every time and place without blame and without condemnation, with the witness of a pure conscience, so that you may hear us and be merciful to us in the abundance of your goodness."
+euLI.Key1002.title = "PRAYER OF THE FAITHFUL"
+euLI.Key1002.text = "Again, we bow before You and pray to You, O good and loving God. Hear our supplication: cleanse our souls and bodies from every defilement of flesh and spirit, and grant that we may stand before Your holy altar without blame or condemnation. Grant also, O God, progress in life, faith, and spiritual discernment to the faithful who pray with us, so that they may always worship You with reverence and love, partake of Your Holy Mysteries without blame or condemnation, and become worthy of Your heavenly kingdom."
+euLI.Key1003.text = "And grant that always guarded by Your power we may give glory to You, the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+
+// Part 11 Great Entrance
+euLI.Key1100.title = "THE GREAT ENTRANCE"
+euLI.Key1101.text = "No one bound by worldly desires and pleasures is worthy to approach, draw near or minister to You, the King of glory. To serve You is great and awesome even for the heavenly powers. But because of Your ineffable and immeasurable love for us, You became man without alteration or change. You have served as our High Priest, and as Lord of all, and have entrusted to us the celebration of this liturgical sacrifice without the shedding of blood. For You alone, Lord our God, rule over all things in heaven and on earth. You are seated on the throne of the Cherubim, the Lord of the Seraphim and the King of Israel. You alone are holy and dwell among Your saints. You alone are good and ready to hear. Therefore, I implore you, look upon me, Your sinful and unworthy servant, and cleanse my soul and heart from evil consciousness. Enable me by the power of Your Holy Spirit so that, vested with the grace of priesthood, I may stand before Your holy Table and celebrate the mystery of Your holy and pure Body and Your precious Blood. To you I come with bowed head and pray: do not turn Your face away from me or reject me from among Your children, but make me, Your sinful and unworthy servant, worthy to offer to You these gifts. For You, Christ our God, are the Offerer and the Offered, the One who receives and is distributed, and to You we give glory, together with Your eternal Father and Your holy, good and life giving Spirit, now and forever and to the ages of ages. Amen."
+euLI.Key1102.title = "Cherubic Hymn"
+euLI.Key1102.text = "We who mystically represent the Cherubim sing the thrice holy hymn to the life giving Trinity. Let us set aside all the cares of life,"
+euLI.Key1103.text = "that we may receive the King of all..."
+euLI.Key1104.text = "Forgive me, brothers and concelebrants. (or, Forgive me, brother and concelebrant.)"
+euLI.Key1105.text = "God forgive those who hate us and who love us."
+euLI.Key1106.text = "God be gracious to me a sinner and have mercy on me."
+euLI.Key1107.text = "Lift up, Master."
+euLI.Key1108.text = "In peace lift up your hands to the holy places, and bless the Lord."
+euLI.Key1109.text = "God went up with a shout, the Lord with the sound of the trumpet."
+euLI.Key1110.text = "May the Lord God remember all of you in His kingdom, now and forever and to the ages of ages."
+euLI.Key1111.text = "Remember us, O Lord, when You come in Your kingdom."
+euLI.Key1112.text = "Our Archbishop (name) and all our brotherhood in Christ, our pious nation and all civil authorities, the armed forces, the residents and visitors of this city, the parishioners, parish council members, stewards and benefactors of this holy church, and all of us who have come to this divine liturgy."
+euLI.Key1113.text = "The blessed and ever-memorable founders, restorers and benefactors of this holy church, those who fought and died in defense of faith and country, and all our fathers and brethren who have fallen asleep in the hope of resurrection: may the Lord God remember in His kingdom always, now and ever, and to the ages of ages."
+euLI.Key1114.text = "May the Lord God remember your priesthood in His kingdom, always, now and ever, and to the ages of ages."
+euLI.Key1115.text = "May the Lord God remember your diaconate in His kingdom, always, now and ever, and to the ages of ages."
+euLI.Key1116.text = "Give kindness, Master."
+euLI.Key1117.text = "Then shall they offer young bulls on Your altar (3), and have mercy on me, O God."
+euLI.Key1118.text = "Remember me in your prayers, my brother and concelebrant."
+euLI.Key1119.text = "Pray for me, holy Master."
+euLI.Key1120.text = "The Holy Spirit will come upon you, and the power of the Most High will overshadow you."
+euLI.Key1121.text = "This Spirit will concelebrate with us all the days of our life [and will illumine you, Reverend Father]."
+euLI.Key1122.text = "Remember me in your praeyrs, holy Master."
+euLI.Key1123.text = "Invisibly escorted by the angelic hosts. Alleluia."
+euLI.Key1124.text = "May the Lord God remember your arch-priesthood in His kingdom, always, now and ever, and to the ages of ages."
+
+// Part 12 Litany and Creed
+euLI.Key1200.title = "THE PETITIONS"
+euLI.Key1200.text = "" //for media
+euLI.Key1201.text = "For the precious gifts here presented, let us pray to the Lord."
+euLI.Key1202.title = "THE PRAYER OF THE PROSKOMIDE"
+euLI.Key1202.text = "Lord, God Almighty, You alone are holy. You accept a sacrifice of praise from those who call upon You with their whole heart. Receive also the prayer of us sinners and let it reach Your holy altar. Enable us to bring before You gifts and spiritual sacrifices for our sins and for the transgressions of the people. Make us worthy to find grace in Your presence so that our sacrifice may be pleasing to You and that Your good and gracious Spirit may abide with us, with the gifts here presented, and with all Your people."
+euLI.Key1202.basil.text = "Lord, our God, You created us and brought us into this life. You have shown us the way to salvation and have bestowed upon us the revelation of heavenly mysteries. You have appointed us to this service by the power of Your Holy Spirit. Grant, therefore, O Lord that we may be accepted as servants of Your new Covenant and ministers of Your holy mysteries. Accept us as we draw near to Your holy altar, according to the multitude of Your mercy, that we may be worthy to offer You this spiritual sacrifice without the shedding of blood, for our sins and for the transgressions of Your people. Grant that, having accepted this sacrifice upon Your holy, heavenly, and spiritual altar as an offering of spiritual fragrance, You may in return send down upon us the grace of Your Holy Spirit. Look upon us, O God, and consider our worship; and accept it as You accepted the gifts of Abel, the sacrifices of Noah, the burnt offerings of Abraham, the priestly offices of Moses and Aaron, and the peace offerings of Samuel. As You accepted this true worship from Your holy apostles, accept also in Your goodness, O Lord, these gifts from the hands of us sinners, that being deemed worthy to serve at Your holy altar without blame., we may obtain the reward of the faithful stewards on the fearful day of Your just judgment."
+euLI.Key1203.text = "Through the mercies of Your only begotten Son with whom You are blessed, together with Your all holy, good, and life giving Spirit, now and forever and to the ages of ages."
+euLI.Key1204.text = "Let us love one another that with one mind we may confess:"
+euLI.Key1205.text = "Father, Son, and Holy Spirit, Trinity one in essence and inseparable."
+euLI.Key1206.text = "I love You, Lord, my strength. The Lord is my rock, and my fortress, and my deliverer."
+euLI.Key1207.text = "Christ is in our midst. He was, and is, and shall be."
+euLI.Key1208.text = "Guard the doors. Wisdom. Let us be attentive."
+
+// Part 13 Holy Anaphora
+euLI.Key1300.title = "THE HOLY ANAPHORA"
+euLI.Key1301.text = "Let us stand well. Let us stand in awe. Let us be attentive, that we may present the holy offering in peace."
+euLI.Key1302.text = "Mercy and peace, a sacrifice of praise."
+euLI.Key1303.text = "The grace of our Lord Jesus Christ, and the love of God the Father, and the communion of the Holy Spirit, be with all of you."
+euLI.Key1304.text = "And with your spirit."
+euLI.Key1305.text = "Let us lift up our hearts."
+euLI.Key1306.text = "We lift them up to the Lord."
+euLI.Key1307.text = "Let us give thanks to the Lord."
+euLI.Key1308.text = "It is proper and right."
+euLI.Key1309.text = "It is proper and right to sing to You, bless You, praise You, thank You and worship You in all places of Your dominion; for You are God ineffable, beyond comprehension, invisible, beyond understanding, existing forever and always the same; You and Your only begotten Son and Your Holy Spirit. You brought us into being out of nothing, and when we fell, You raised us up again. You did not cease doing everything until You led us to heaven and granted us Your kingdom to come. For all these things we thank You and Your only begotten Son and Your Holy Spirit; for all things that we know and do not know, for blessings seen and unseen that have been bestowed upon us. We also thank You for this liturgy which You are pleased to accept from our hands, even though You are surrounded by thousands of Archangels and tens of thousands of Angels, by the Cherubim and Seraphim, six-winged, many-eyed, soaring with their wings,"
+euLI.Key1309.basil.text = "Master, Lord, God, worshipful Father almighty, it is truly just and right to the majesty of Your holiness to praise You, to hymn You, to bless You, to worship You, to give thanks to You, to glorify You, the only true God, and to offer to You this our spiritual worship with a contrite heart and a humble spirit. For You have given us to know Your truth. Who is worthy to praise Your mighty acts? Or to make known all Your praises? Or tell of all Your wonderful deeds at all times? Master of all things, Lord of heaven and earth, and of every creature visible and invisible, You are seated upon the throne of glory and behold the depths. You are without beginning, invisible, incomprehensible, beyond words, unchangeable. You are the Father of our Lord Jesus Christ, who is the great God and Savior of our hope, the image of Your goodness, the true seal of revealing in Himself You, the Father. He is the living Word, the true God, eternal wisdom, life, sanctification, power, and the true light. Through Him the Holy Spirit was manifested, the spirit of truth the gift of Sonship, the pledge of our future inheritance, the first fruits of eternal blessings, the life giving power, the source of sanctification through whom every rational and spiritual creature is made capable of worshiping You and giving You eternal glorification, for all things are subject to You. For You are praised by the angels, archangels, thrones, dominions, principalities, authorities, powers, and the many eyed Cherubim. Round about You stand the Seraphim, one with six wings and the other with six wings; with two they cover their faces; with two they cover their feet; with two they fly, crying out to one another with unceasing voices and everresounding praises:"
+euLI.Key1310.text = "Singing the victory hymn, proclaiming, crying out, and saying:"
+euLI.Key1311.text = "Holy, holy, holy, Lord Sabaoth, heaven and earth are filled with Your glory. Hosanna in the highest. Blessed is He who comes in the name of the Lord. Hosanna to God in the highest."
+euLI.Key1312.text = "Together with these blessed powers, merciful Master, we also proclaim and say: You are holy and most holy, You and Your only-begotten Son and Your Holy Spirit. You are holy and most holy, and sublime is Your glory. You so loved Your world that You gave Your only begotten Son so that whoever believes in Him should not perish, but have eternal life. He came and fulfilled the divine plan for us. On the night when He was betrayed, or rather when He gave Himself up for the life of the world, He took bread in His holy, pure, and blameless hands, gave thanks, blessed, sanctified, broke, and gave it to His holy disciples and apostles saying:"
+euLI.Key1312.basil.text = "Together with these blessed powers, loving Master we sinners also cry out and say: Truly You are holy and most holy, and there are no bounds to the majesty of Your holiness. You are holy in all Your works, for with righteousness and true judgment You have ordered all things for us. For having made man by taking dust from the earth, and having honored him with Your own image, O God, You placed him in a garden of delight, promising him eternal life and the enjoyment of everlasting blessings in the observance of Your commandments. But when he disobeyed You, the true God who had created him, and was led astray by the deception of the serpent becoming subject to death through his own transgressions, You, O God, in Your righteous judgment, expelled him from paradise into this world, returning him to the earth from which he was taken, yet providing for him the salvation of regeneration in Your Christ. For You did not forever reject Your creature whom You made, O Good One, nor did You forget the work of Your hands, but because of Your tender compassion, You visited him in various ways: You sent forth prophets; You performed mighty works by Your saints who in every generation have pleased You. You spoke to us by the mouth of Your servants the prophets, announcing to us the salvation which was to come; You gave us the law to help us; You appointed angels as guardians. And when the fullness of time had come, You spoke to us through Your Son Himself, through whom You created the ages. He, being the splendor of Your glory and the image of Your being, upholding all things by the word of His power, thought it not robbery to be equal with You, God and Father. But, being God before all ages, He appeared on earth and lived with humankind. Becoming incarnate from a holy Virgin, He emptied Himself, taking the form of a servant, conforming to the body of our lowliness, that He might change us in the likeness of the image of His glory. For, since through man sin came into the world and through sin death, it pleased Your only begotten Son, who is in Your bosom, God and Father, born of a woman, the holy Theotokos and ever virgin Mary; born under the law, to condemn sin in His flesh, so that those who died in Adam may be brought to life in Him, Your Christ. He lived in this world, and gave us precepts of salvation. Releasing us from the delusions of idolatry, He guided us to the sure knowledge of You, the true God and Father. He acquired us for Himself, as His chosen people, a royal priesthood, a holy nation. Having cleansed us by water and sanctified us with the Holy Spirit, He gave Himself as ransom to death in which we were held captive, sold under sin. Descending into Hades through the cross, that He might fill all things with Himself, He loosed the bonds of death. He rose on the third day, having opened a path for all flesh to the resurrection from the dead, since it was not possible that the Author of life would be dominated by corruption. So He became the first fruits of those who have fallen asleep, the first born of the dead, that He might be Himself the first in all things. Ascending into heaven, He sat at the right hand of Your majesty on high and He will come to render to each according to His works. As memorials of His saving passion, He has left us these gifts which we have set forth before You according to His commands. For when He was about to go forth to His voluntary, ever memorable, and life-giving death, on the night on which He was delivered up for the life of the world, He took bread in His holy and pure hands, and presenting it to You, God and Father, and offering thanks, blessing, sanctifying, and breaking it:"
+euLI.Key1313.text = "Take, eat, this is my Body which is broken for you for the forgiveness of sins." 
+euLI.Key1313.basil.text = "He gave it to His holy disciples and apostles saying: Take, eat, this is my body which is broken for you and for the forgiveness of sins." 
+euLI.Key1314.text = "Likewise, after supper, He took the cup, saying:"
+euLI.Key1314.basil.text = "Likewise, He took the cup of the fruit of vine, and having mingled it, offering thanks, blessing, and sanctifying it."
+euLI.Key1315.text = "Drink of it all of you; this is my Blood of the new Covenant which is shed for you and for many for the forgiveness of sins."
+euLI.Key1315.basil.text = "He gave it to His holy disciples and apostles saying: Drink of this all of you. This is my blood of the new Covenant, shed for you and for many, for the forgiveness of sins."
+euLI.Key1316.text = "Remembering, therefore, this command of the Savior, and all that came to pass for our sake, the cross, the tomb, the resurrection on the third day, the ascension into heaven, the enthronement at the right hand of the Father, and the second, glorious coming."
+euLI.Key1316.basil.text = "Do this in remembrance of me. For as often as you eat this Bread and drink this Cup, you proclaim my death, and you confess my resurrection. Therefore, Master, we also, remembering His saving passion and life giving cross, His three; day burial and resurrection from the dead, His ascension into heaven, and enthronement at Your right hand, God and Father, and His glorious and awesome second coming."
+euLI.Key1317.text = "We offer to You these gifts from Your own gifts in all and for all."
+euLI.Key1318.text = "We praise You, we bless You, we give thanks to You, and we pray to You, Lord our God."
+euLI.Key1319.text = "Once again we offer to You this spiritual worship without the shedding of blood, and we ask, pray, and entreat You: send down Your Holy Spirit upon us and upon these gifts here presented."
+euLI.Key1319.basil.text = "Therefore, most holy Master, we also, Your sinful and unworthy servants, whom You have made worthy to serve at Your holy altar, not because of our own righteousness (for we have not done anything good upon the earth), but because of Your mercy and compassion, which You have so richly poured upon us, we dare to approach Your holy altar, and bring forth the symbols of the holy Body and Blood of Your Christ. We pray to You and call upon You, O Holy of Holies, that by the favor of Your goodness, Your Holy Spirit may come upon us and upon the gifts here presented, to bless, sanctify,"
+euLI.Key1320.text = "Bless, Master, the Holy Bread."
+euLI.Key1321.text = "And make this bread the precious Body of Your Christ." 
+euLI.Key1321.basil.text = "And make this bread to be the precious Body of our Lord and God and Savior Jesus Christ." 
+euLI.Key1322.text = "Bless, Master, the Holy Cup."
+euLI.Key1323.text = "And that which is in this cup the precious Blood of Your Christ." 
+euLI.Key1323.basil.text = "And this cup to be the precious Blood of our Lord and God and Savior Jesus Christ." 
+euLI.Key1324.text = "Bless, Master, both Holy Gifts."
+euLI.Key1325.text = "Changing them by Your Holy Spirit."
+euLI.Key1325.basil.text = "Shed for the life and salvation of the world."
+euLI.Key1326.text = "So that they may be to those who partake of them for vigilance of soul, forgiveness of sins, communion of Your Holy Spirit, fulfillment of the kingdom of heaven, confidence before You, and not in judgment or condemnation. Again, we offer this spiritual worship for those who repose in the faith, forefathers, fathers, patriarchs, prophets, apostles, preachers, evangelists, martyrs, confessors, ascetics, and for every righteous spirit made perfect in faith."
+euLI.Key1326.basil.text = "And unite us all to one another who become partakers of the one Bread and the Cup in the communion of the one Holy Spirit. Grant that none of us may partake of the holy Body and Blood of Your Christ to judgment or condemnation; but, that we may find mercy and grace with all the saints who through the ages have pleased You: forefathers, fathers, patriarchs, prophets, apostles, preachers, evangelists, martyrs, confessors, teachers, and every righteous spirit made perfect in faith."
+euLI.Key1327.text = "Especially for our most holy, pure, blessed, and glorious Lady, the Theotokos and ever virgin Mary."
+euLI.Key1328.title = "MEGALYNARION"
+euLI.Key1328.text = "It is truly right to bless you, Theotokos, ever blessed, most pure, and mother of our God. More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, without corruption you gave birth to God the Word. We magnify you, the true Theotokos."
+euLI.Key1328.basil.text = ""
+euLI.Key1329.text = "For Saint John the prophet, forerunner, and baptist; for the holy glorious and most honorable Apostles, for Saints(s) (Name(s)) whose memory we commemorate today; and for all Your saints, through whose supplications, O God, bless us. Remember also all who have fallen asleep in the hope of resurrection unto eternal life. (Here the priest commemorates the names of the deceased.) And grant them rest, our God, where the light of Your countenance shines. Again, we ask You, Lord, remember all Orthodox bishops who rightly teach the word of Your truth, all presbyters, all deacons in the service of Christ, and every one in holy orders. We also offer to You this spiritual worship for the whole world, for the holy, catholic, and apostolic Church, and for those living in purity and holiness. And for all those in public service; permit them, Lord, to serve and govern in peace that through the faithful conduct of their duties we may live peaceful and serene lives in all piety and holiness."
+euLI.Key1329.basil.text = "For Saint John the prophet, forerunner, and baptist; for the holy, glorious, and most; honorable ; apostles; for Saint(s) (Name;s), whose memory we commemorate today; and for all Your saints, through whose supplications, O God, visit us. Remember also all who have fallen asleep in the hope of the resurrection to eternal life (here the priest commemorates the names of the deceased) . And grant them rest, our God, where the light of Your countenance shines. Again, we pray to You, be mindful of Your holy, catholic, and apostolic Church, which is from one end of the inhabited earth to the other. Grant peace to her which You have obtained with the precious blood of Your Christ. Strengthen also this holy house to the end of the ages. Remember, Lord, those who have brought You these gifts, and for whom and through whom and the intentions for which they were offered. Remember, Lord, those who bear fruit and do good works in Your holy churches, and those who remember the poor. Reward them with Your rich and heavenly gifts. Grant them in return for earthly things, heavenly gifts; for temporal, eternal; for corruptible, incorruptible. Remember, Lord, those who are in the deserts, on mountains, in caverns, and in the chambers of the earth. Remember, Lord, those living in chastity and godliness, in asceticism and holiness of life. Remember, Lord, this country and all those in public service whom you have allowed to govern on earth. Grant them profound and lasting peace. Speak to their hearts good things concerning your Church and all your people that through the faithful conduct of their duties we may live peaceful and serene lives in all piety and holiness. Sustain the good in their goodness; make the wicked good through Your goodness. Remember, Lord, the people here presented and those who are absent with good cause. Have mercy on them and on us according to the multitude of Your mercy. Fill their treasuries with every good thing; preserve their marriages in peace and harmony; nurture the infants; instruct the youth; strengthen the aged; give courage to the faint hearted; reunite those separated; bring back those in error and unite them to Your holy, catholic, and apostolic Church. Free those who are held captive by unclean spirits; sail with those who sail; travel with those who travel; defend the widows; protect the orphans; liberate the captives; heal the sick. Remember, Lord, those who are in mines, in exile, in harsh labor, and those in every kind of affliction, necessity, or distress; those who entreat your loving kindness; those who love us and those who hate us; those who have asked us to pray for them, unworthy though we may be. Remember, Lord our God, all Your people, and pour out Your rich mercy upon them, granting them their petitions for salvation. Remember, O God, all those whom we have not remembered through ignorance, forgetfulness or because of their multitude since You know the name and age of each, even from their mother's womb. For You, Lord, are the helper of the helpless, the hope of the hopeless, the savior of the afflicted, the haven of the voyager, and the physician of the sick. Be all things to all, You who know each person, his requests, his household, and his need. Deliver this community and city, O Lord, and every city and town, from famine, plague, earthquake, flood, fire, sword, invasion of foreign enemies, and civil war."
+euLI.Key1330.text = "Above all, remember, Lord, our Archbishop (Name). Grant that he may serve Your holy churches in peace. Keep him safe, honorable, and healthy for many years, rightly teaching the word of Your truth."
+euLI.Key1330a.text = "Above all, remember, Lord,"
+euLI.Key1330b.text = "Grant that he may serve Your holy churches in peace. Keep him safe, honorable, and healthy for many years, rightly teaching the word of Your truth."
+euLI.Key1331.text = "Remember also, Lord, those whom each of us calls to mind and all your people."
+euLI.Key1332.text = "And all Your people."
+euLI.Key1333.text = "Remember, Lord, the city in which we live, every city and country, and the faithful who dwell in them. Remember, Lord, the travelers, the sick, the suffering, and the captives, granting them protection and salvation. Remember, Lord, those who do charitable work, who serve in Your holy churches, and who care for the poor. And send Your mercy upon us all."
+euLI.Key1333.basil.text = "Remember, Lord, all Orthodox bishops who rightly teach the word of Your truth. Remember Lord, my unworthiness according to the multitude of Your mercies; forgive my every transgression, both voluntary and involuntary. Do not take away the grace of Your Holy Spirit from these gifts presented because of my sins. Remember, Lord, the presbyters, the diaconate in Christ, and every order of the clergy, and do not confound any of us who stand about Your holy altar. Visit us with Your goodness, Lord; manifest Yourself to us through Your rich compassion. Grant us seasonable weather and fruitful seasons; send gentle showers upon the earth so that it may bear fruit; bless the crown of the year of Your goodness. Prevent schism in the Church; pacify the raging of the heathen. Quickly stop the uprisings of heresies by the power of Your Holy Spirit. Receive us all into Your kingdom. Declare us to be sons and daughters of the light and of the day. Grant us Your peace and love, Lord our God, for You have given all things to us."
+euLI.Key1334.text = "And grant that with one voice and one heart we may glorify and praise Your most honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+euLI.Key1335.text = "The mercy of our great God and Savior Jesus Christ be with all of you."
+euLI.Key1336.text = "And with your spirit."
+
+// Part 14 Before Communion
+euLI.Key1400.title = ""
+euLI.Key1401.text = "Having remembered all the saints, let us again in peace pray to the Lord."
+euLI.Key1402.text = "For the precious Gifts offered and consecrated, let us pray to the Lord."
+euLI.Key1403.text = "That our loving God who has received them at His holy, heavenly, and spiritual altar as an offering of spiritual fragrance, may in return send upon us divine grace and the gift of the Holy Spirit, let us pray."
+euLI.Key1404.text = "Having prayed for the unity of the faith and for the communion of the Holy Spirit, let us commit ourselves, and one another, and our whole life to Christ our God."
+euLI.Key1405.text = "We entrust to You, loving Master, our whole life and hope, and we ask, pray, and entreat: make us worthy to partake of your heavenly and awesome Mysteries from this holy and spiritual Table with a clear conscience; for the remission of sins, forgiveness of transgressions, communion of the Holy Spirit, inheritance of the kingdom of heaven, confidence before You, and not in judgment or condemnation."
+euLI.Key1405.basil.text = "Our God, the God who saves, You teach us justly to thank You for the good things which You have done and still do for us. You are our God who has accepted these Gifts. Cleanse us from every defilement of flesh and spirit, and teach us how to live in holiness by Your fear, so that receiving the portion of Your holy Gifts with a clear conscience we may be united with the holy Body and Blood of Your Christ. Having received them worthily, may we have Christ dwelling in our hearts, and may we become the temple of Your Holy Spirit. Yes, our God, let none of us be guilty before these, Your awesome and heavenly Mysteries, nor be infirm in body and soul by partaking of them unworthily. But enable us, even up to our last breath, to receive a portion of Your holy Gifts worthily, as provision for eternal life and as an acceptable defense at the awesome judgment seat of Your Christ. So that we also, together with all the saints who through the ages have pleased You, may become partakers of Your eternal good things, which You, Lord, have prepared for those who love You."
+euLI.Key1406.text = "And make us worthy, Master, with confidence and without fear of condemnation, to dare call You, the heavenly God, FATHER, and to say:"
+euLI.Key1407.text = "We give thanks to You, invisible King. By Your infinite power You created all things and by Your great mercy You brought everything from nothing into being. Master, look down from heaven upon those who have bowed their heads before You; they have bowed not before flesh and blood but before You the awesome God. Therefore, Master, guide the course of our life for our benefit according to the need of each of us. Sail with those who sail; travel with those who travel; and heal the sick, Physician of our souls and bodies."
+euLI.Key1407.basil.text = "Lord Master, the Father of mercies and God of every consolation, bless sanctify, guard, fortify, and strengthen those who have bowed their heads to You. Distance them from every evil deed. Lead them to every good work and make them worthy to partake without condemnation of these, Your most pure and life-giving Mysteries, for the forgiveness of sins and for the communion of the Holy Spirit."
+euLI.Key1408.text = prayers_en_US_holycross.exc07a
+euLI.Key1409.text = "Lord Jesus Christ, our God, hear us from Your holy dwelling place and from the glorious throne of Your kingdom. You are enthroned on high with the Father and are also invisibly present among us. Come and sanctify us, and let Your pure Body and precious Blood be given to us by Your mighty hand and through us to all Your people."
+euLI.Key1410.text = "The holy Gifts for the holy people of God."
+euLI.Key1411.text = "One is Holy, one is Lord, Jesus Christ, to the glory of God the Father. Amen."
+
+// Part 15 Communion
+euLI.Key1500.title = "THE COMMUNION HYMN"
+euLI.Key1501.text = "Break, Master, the Holy Bread."
+euLI.Key1502.text = "The Lamb of God is broken and distributed; broken but not divided. He is forever eaten yet is never consumed, but He sanctifies those who partake of Him."
+euLI.Key1503.text = "Fill, Master, the holy cup."
+euLI.Key1504.text = "The fullness of the Holy Spirit."
+euLI.Key1505.text = "Bless, Master, the zeon."
+euLI.Key1506.text = "Blessed is the fervor of Your saints, now and forever and to the ages of ages. Amen."
+euLI.Key1507.text = "The warmth of the Holy Spirit. Amen."
+euLI.Key1508.text = "Brother and concelebrant, forgive me the sinner. (Or, Brothers and fathers, forgive me the sinner.)"
+euLI.Key1509.text = "Behold, I approach Christ, our immortal King and God."
+euLI.Key1510.text = "The precious and most holy Body of our Lord, God, and Savior Jesus Christ is given to me (Name) the priest, for the forgivenss of my sins and eternal life."
+euLI.Key1511.text = "Deacon, approach."
+euLI.Key1512.text = "Behold, I approach Christ, our immortal King and God. Impart, Master, to me, (Name), the unworthy deacon, the precious and most holy Body of our Lord, God, and Savior Jesus Christ for the forgivenss of my sins and eternal life."
+euLI.Key1513.text = "Unto you, (Name), the most devout deacon, is imparted the precious and most holy Body of our Lord, God, and Savior Jesus Christ for the forgivenss of your sins and eternal life."
+euLI.Key1514.text = "Behold, again I approach Christ, our immortal King and God."
+euLI.Key1515.text = "The precious and most holy Blood of our Lord, God, and Savior Jesus Christ is given to me (Name) the priest, for the forgivenss of my sins and eternal life."
+euLI.Key1516.text = "This has touched my lips, taking away my transgressions and cleansing my sins."
+euLI.Key1517.text = "Deacon, approach again."
+euLI.Key1518.text = "Impart, Master, to me, (Name), the unworthy deacon, the precious and most holy Blood of our Lord, God, and Savior Jesus Christ for the forgivenss of my sins and eternal life."
+euLI.Key1519.text = "Again to you, (Name), the most devout deacon, is imparted the precious and most holy Blood of our Lord, God, and Savior Jesus Christ for the forgivenss of your sins and eternal life."
+euLI.Key1520.text = "This has touched your lips, taking away my transgressions and cleansing my sins."
+euLI.Key1521.text = ho.s03_en_US_holycross.hoMA.SunPostGospel.text
+//euLI.Key1522.text = he.h.m1_en_US_holycross.FotizouFotizou.text
+//euLI.Key1523.text = pe.d00P_en_US_holycross.pePA.Ode91.text 
+//euLI.Key1524.text = pe.d00P_en_US_holycross.pePA.Ode92.text 
+euLI.Key1525.text = "Wash away, Lord, by Your holy Blood, the sins of all those commemorated, through the intercessions of the Theotokos and all Your saints. Amen."
+euLI.Key1526.text = "Approach with the fear of God, faith, and love."
+euLI.Key1527.title = //"Hymns During Holy Communion"
+euLI.Key1527.text = "The servant of God (Name) receives the Body and Blood of Christ for forgiveness of sins and eternal life."
+euLI.Key1528.text = "To you is imparted the Body and the Blood our Lord, God, and Savior Jesus Christ for the forgivenss of your sins and eternal life."
+euLI.Key1529.text = "Save, O God, Your people and bless Your inheritance."
+euLI.Key1530.text = "We have seen the true light; we have received the heavenly Spirit; we have found the true faith, worshiping the undivided Trinity, for the Trinity has saved us." //find this hymn in Pentecost
+euLI.Key1531.text = "Instead of \"We have seen.\""
+
+// Part 16 After Communion 
+euLI.Key1601.text = "Exalt, Master."
+euLI.Key1602.text = "Be exalted, O God, above the heavens. Let Your glory be over all the earth"
+euLI.Key1603.text = "Let our mouths be filled with Your praise, Lord, that we may sing of Your glory. You have made us worthy to partake of Your holy mysteries. Keep us in Your holiness, that all the day long we may meditate upon Your righteousness. Alleluia. Alleluia. Alleluia." 
+euLI.Key1604.title = "THANKSGIVING AND DISMISSAL"
+euLI.Key1604.text = "Let us be attentive. Having partaken of the divine, holy, pure, immortal, heavenly, life giving, and awesome Mysteries of Christ, let us worthily give thanks to the Lord."
+euLI.Key1605.text = "Having prayed for a perfect, holy, peaceful, and sinless day, let us commit ourselves, and one another, and our whole life to Christ our God."
+euLI.Key1606.title = "PRAYER OF THANKSGIVING"
+euLI.Key1606.text = "We thank You, loving Master, benefactor of our souls, that on this day You have made us worthy once again of Your heavenly and immortal Mysteries. Direct our ways in the right path, establish us firmly in Your fear, guard our lives, and make our endeavors safe, through the prayers and supplications of the glorious Theotokos and ever virgin Mary and of all Your saints."
+euLI.Key1606.basil.text = "We thank You, Lord, our God, for the communion of Your holy, most pure, immortal, and heavenly Mysteries which You have granted us for the benefit, sanctification, and healing of our souls and bodies. Grant, Master of all, that the communion of the holy Body and Blood of Your Christ may become for us faith unashamed, love unfeigned, fulness of wisdom, healing of soul and body, repelling of every hostile adversary, observance of Your commandments, and an acceptable defense at the dread judgment seat of Your Christ."
+euLI.Key1607.text = prayers_en_US_holycross.exc24
+ 
+// Part 17 Dismissal
+euLI.Key1700.title = "THE DISMISSAL"
+euLI.Key1701.text = " Let us go forth in peace."
+euLI.Key1702.title = ""
+euLI.Key1702.text = "Lord, bless those who praise You and sanctify those who trust in You. Save Your people and bless Your inheritance. Protect the whole body of Your Church. Sanctify those who love the beauty of Your house. Glorify them in return by Your divine power, and do not forsake us who hope in You. Grant peace to Your world, to Your churches, to the clergy, to those in public service, to the armed forces, and to all Your people. For every good and perfect gift is from above, coming from You, the Father of lights. To You we give glory, thanksgiving, and worship, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+euLI.Key1702.basil.text = "O Christ, our God, accept from those who call upon You with all their heart this spiritual sacrifice without the shedding of blood as a sacrifice of praise and true worship. You are the Lamb and Son of God who bears the sins of the world; the blameless calf who does not accept the yoke of sin and who freely sacrificed Yourself for us. You are broken but not divided. You are consumed but never spent. You sanctify those who partake of you. In remembrance of Your voluntary passion and life-giving resurrection on the third day, You have made us partakers of Your ineffable and heavenly and awesome mysteries of Your holy Body and precious Blood. Preserve us, Your servants, those who minister, our leaders, the armed forces, and the people present here, in Your holiness. Grant that we may meditate upon Your righteousness at all times and in every season. Guide us and our actions so that we may do what is pleasing to You, and may You find us worthy to stand at Your right hand when You return to judge the living and the dead. Deliver our brothers and sisters who are in captivity, visit those who are sick, protect those who are in danger at sea, and give rest to the souls of all those who have fallen asleep in the hope of the eternal life where the light of Your face shines. Hear the petitions of all those who beseech You for Your help. For You are the giver of all good things, and to You we give glory, together with Your eternal Father and Your all holy, good, and life giving Spirit, now and forever and to the ages of ages."
+euLI.Key1703.text = "Blessed is the name of the Lord, both now and to the ages."
+euLI.Key1704.text = "Christ our God, You are the fulfillment of the Law and the Prophets. You have fulfilled all the dispensation of the Father. Fill our hearts with joy and gladness always, now and forever and to the ages of ages. Amen."
+euLI.Key1704.basil.text = "The mystery of Your dispensation, O Christ our God, has been accomplished and perfected as far as it is in our power. We have had the memorial of Your death. We have seen the typos of Your resurrection. We have been filled with Your unending life. We have enjoyed Your inexhaustible delight which in the world to come be well pleased to give to us all, through the grace of Your holy and good and life-giving Spirit, now and forever and to the ages of ages."
+euLI.Key1705.text = prayers_en_US_holycross.pet37
+euLI.Key1706.text = "Lord, grant long life to him who blessed and sanctifies us."
+euLI.Key1707.text = "May the holy Trinity protect all of you."
+euLI.Key1708.text = "May the blessing and the mercy of the Lord be with you."
+
