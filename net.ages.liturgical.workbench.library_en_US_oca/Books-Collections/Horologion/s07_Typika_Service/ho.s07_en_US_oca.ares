@@ -1,0 +1,59 @@
+A_Resource_Whose_Name = ho.s07_en_US_oca
+
+Title = ""
+
+R01 = ""
+
+hoLI.OnlyBegotten.title = ""
+hoLI.OnlyBegotten.text = ""
+
+hoTY.Key0212.text = ""
+hoTY.Key0213.text = ""
+hoTY.Key0214.text = ""
+hoTY.Key0215.text = ""
+hoTY.Key0216.text = ""
+hoTY.Key0217.text = ""
+
+//0300-0313
+//0400-0408
+
+hoTY.Key0408.mode = misc_en_US_oca.Mode2
+hoTY.Key0408.text = ""
+
+hoTY.Key0501.text = ""
+
+// Liturgy Antiphons
+hoLI.Antiphon1.text = ""
+
+hoLI.Antiphon21.text = ""
+hoLI.Antiphon2s.text = ""
+hoLI.Antiphon2w.text = ""
+hoLI.Antiphon22.text = ""
+
+hoLI.EntranceHymn.text ="" //in the template add parts of Antiphon 2
+hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
+hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
+
+hoLI.TrisagiosHymn.title = ""
+hoLI.TrisagiosHymn.text = ""
+hoLI.TrisagiosHymn1.text = ""
+hoLI.TrisagiosHymn2.text = ""
+hoLI.TrisagiosHymn3.text = ""
+hoLI.TrisagiosHymn4.text = ""
+ 
+hoLI.OsoiEisChriston.title = ""
+hoLI.OsoiEisChriston.text = ""
+hoLI.OsoiEisChriston1.text = ""
+hoLI.OsoiEisChriston2.text = ""
+hoLI.OsoiEisChriston3.text = ""
+hoLI.OsoiEisChriston4.text = ""
+
+hoLI.TonStavronSou.title = "" 
+hoLI.TonStavronSou.text = ""
+hoLI.TonStavronSou1.text = ""
+hoLI.TonStavronSou2.text = ""
+hoLI.TonStavronSou3.text = ""
+hoLI.TonStavronSou4.text = ""
+
+hoLI.GospelAlleluia.title = titles_en_US_oca.Allilouia
+hoLI.GospelAlleluia.text = prayers_en_US_oca.Allilouia3.text 
