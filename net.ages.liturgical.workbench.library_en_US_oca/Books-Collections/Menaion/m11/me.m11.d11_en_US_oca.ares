@@ -15,27 +15,27 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode8
-meVE.Stichera01.melody = "" // he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Stichera01.melody = he.a.m8_en_US_oca.OTouParadoxou.name
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode8
-meVE.Stichera02.melody = "" // he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Stichera02.melody = he.a.m8_en_US_oca.OTouParadoxou.name
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode8
-meVE.Stichera03.melody = "" // he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Stichera03.melody = he.a.m8_en_US_oca.OTouParadoxou.name
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode8
-meVE.Stichera04.melody = "" // he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Stichera04.melody =  // he.a.m8_en_US_oca.OTouParadoxou.name
 meVE.Stichera04.text = "Father Theodore, * true to your name: \"the gift of God,\" * you have given the gifts you received beyond understanding * to those who love you in faith! * You increased your talent, blessed one, * and heard the voice of God calling you to His bridal chamber.// * Wondrous one, you live there now by the throne of the King of all!"
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode8
-meVE.Stichera05.melody = "" // he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Stichera05.melody = he.a.m8_en_US_oca.OTouParadoxou.name
 meVE.Stichera05.text = "Theodore, Father of fathers, * you brought a multitude of monastics to Christ! * You were the godly cause of their salvation. * You were enlightened with true teaching! * You were revealed prophetically to be the mouth of the Lord!// * As you stand now before Him wise one, ever remember us!"
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode8
-meVE.Stichera06.melody = "" // he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Stichera06.melody = he.a.m8_en_US_oca.OTouParadoxou.name
 meVE.Stichera06.text = "Wise initiate of sacred mysteries, * the abundant grace of the Spirit was poured forth in your mouth! * A well-spring of teaching gushed forth from there, * revealing you, Theodore, to be a champion of true worship, * a zealous bearer of the truth, * a pillar and fortress of the Orthodox faith,// * and a most excellent example of the monastic life, wise one!"
 
 meVE.SticGlory.poet = "" // poets_en_US_oca.Vyzantiou
@@ -44,27 +44,27 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Again the yearly memorial of the beacons of the world has dawned: * Mennas, Victor and Vincent! * They enlighten the hearts of the faithful * by their struggles for Christ and His Cross! * Therefore let us honor Christ our God in hymns,// * Who has crowned them with glory and honor!"
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode6
-meVE.SticTheotokion.melody = "" // he.a.m6_en_US_oca.TriimerosAnestis.name
+meVE.SticTheotokion.melody = //he.a.m6_en_US_oca.TriimerosAnestis.name
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode6
-meVE.SticStavrotheotokion.melody = "" // he.a.m6_en_US_oca.TriimerosAnestis.name
+meVE.SticStavrotheotokion.melody = //he.a.m6_en_US_oca.TriimerosAnestis.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode4
-meVE.Aposticha1.melody = "" // he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Aposticha1.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.name
 meVE.Aposticha1.text = ""
 
 meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode4
-meVE.Aposticha2.melody = "" // he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Aposticha2.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.name
 meVE.Aposticha2.text = ""
 
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode4
-meVE.Aposticha3.melody = "" // he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Aposticha3.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode6
@@ -72,26 +72,26 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Venerable Father, * the proclamation of your words has gone forth into all the earth! * Therefore you have found the reward of your labors in the heavens! * You destroyed the ranks of demons * and reached the rank of angels whose life you blamelessly imitate! * Since you have boldness before the Lord,// * pray for peace for our souls!"
 
 meVE.AposTheotokion.mode = misc_en_US_oca.Mode6
-meVE.AposTheotokion.melody = "" // he.a.m6_en_US_oca.TriimerosAnestis.name
+meVE.AposTheotokion.melody = //he.a.m6_en_US_oca.TriimerosAnestis.name
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_oca.Mode6
-meVE.AposStavrotheotokion.melody = "" // he.a.m6_en_US_oca.TriimerosAnestis.name
+meVE.AposStavrotheotokion.melody = //he.a.m6_en_US_oca.TriimerosAnestis.name
 meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.poet = "" // poets_en_US_oca.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
-meVE.Apolytikion1.melody = "" // he.a.m4_en_US_oca.TachyProkatalave.name
+meVE.Apolytikion1.melody = he.a.m4_en_US_oca.TachyProkatalave.name
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.poet = "" // poets_en_US_oca.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode3
-meVE.Apolytikion2.melody = "" // he.a.m3_en_US_oca.TheiasPisteos.name
+meVE.Apolytikion2.melody = //he.a.m3_en_US_oca.TheiasPisteos.name
 meVE.Apolytikion2.text = ""
 
 meVE.Apolytikion3.poet = "" // poets_en_US_oca.Gerasimou
 meVE.Apolytikion3.mode = misc_en_US_oca.Mode5
-meVE.Apolytikion3.melody = "" // he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meVE.Apolytikion3.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.name
 meVE.Apolytikion3.text = ""
 
 meMA.C1Poet = "" // poets_en_US_oca.Theofanous
@@ -191,23 +191,23 @@ meMA.Ode3H.melody = misc_en_US_oca.Heirmos
 meMA.Ode3H.text = "" // he.h.m8_en_US_oca.OStereosasKatArchas.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
-meMA.Kontakion1.melody = "" // he.a.m2_en_US_oca.TaAnoZiton.name
+meMA.Kontakion1.melody = he.a.m2_en_US_oca.TaAnoZiton.name
 meMA.Kontakion1.text = "You girded yourself with every ascetic practice * to protect your angelic life, * with the grace of God you conquered, * becoming like the angels. * Never cease to intercede with them, Theodore, before Christ our God,// * that He may have mercy on us all!"
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = "" // he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode3
-meMA.Ode3Kathisma2.melody = "" // he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Ode3Kathisma2.melody = //he.a.m3_en_US_oca.TheiasPisteos.name
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode3
-meMA.Ode3KathismaT.melody = "" // he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Ode3KathismaT.melody = //he.a.m3_en_US_oca.TheiasPisteos.name
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode3KathismaSt.mode = misc_en_US_oca.Mode3
-meMA.Ode3KathismaSt.melody = "" // he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Ode3KathismaSt.melody = //he.a.m3_en_US_oca.TheiasPisteos.name
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -331,7 +331,7 @@ meMA.Ode6H.melody = misc_en_US_oca.Heirmos
 meMA.Ode6H.text = "" // he.h.m8_en_US_oca.IlasthitiMoiSotir.text
 
 meMA.Kontakion2.mode = misc_en_US_oca.Mode4
-meMA.Kontakion2.melody = "" // he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kontakion2.melody = he.a.m4_en_US_oca.EpefanisSimeron.name
 meMA.Kontakion2.text = ""
 
 meMA.Oikos2.text = ""
@@ -479,15 +479,15 @@ meMA.Ode9H.melody = misc_en_US_oca.Heirmos
 meMA.Ode9H.text = "" // he.h.m8_en_US_oca.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = "" // he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.Exaposteilarion1.melody = //he.a.m3_en_US_oca.OOuranonToisAstrois.name
 meMA.Exaposteilarion1.text = "Jesus, the stars adorn the heavens,  * and Mennas, Victor and Vincent adorn the Church!// * For their sake grant orthodox Christians victory over their adversaries!"
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion2.melody = "" // he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.Exaposteilarion2.melody = //he.a.m3_en_US_oca.OOuranonToisAstrois.name
 meMA.Exaposteilarion2.text = "In your piety, Theodore, * you were revealed to be a living tower of the teachings of orthodoxy! * You denounced the deception of iconoclasts; * you ended your confession with suffering,// * and now you are glorified!"
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-meMA.ExapTheotokion.melody = "" // he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.ExapTheotokion.melody = //he.a.m3_en_US_oca.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "We, the faithful, all send you now as mediator * to Him Who was born of you, and crucified for many!// * Virgin, do not cease, to intercede for us!"
 
 meMA.ApostichaVerse4.text = ""
@@ -502,11 +502,11 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_oca.Mode1
-meMA.AposTheotokion.melody = "" // he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meMA.AposTheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.name
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = misc_en_US_oca.Mode1
-meMA.AposStavrotheotokion.melody = "" // he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meMA.AposStavrotheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.name
 meMA.AposStavrotheotokion.text = ""
 
 meMA.LaudsSundayVerse1.text = "" // for media
