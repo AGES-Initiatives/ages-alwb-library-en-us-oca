@@ -1,0 +1,189 @@
+A_Resource_Whose_Name = template.titles_en_US_oca 
+
+//books - collections
+eo = ""
+eu = ""
+he = ""
+hi = ""
+ho = ""
+ka = ""
+le = "" // this should be divided into three sections: prophecies, epistles, gospels
+me = ""
+oc = ""
+pe = ""
+ps = ""
+sy = ""
+tr = ""
+
+//service days
+sat = ""
+sun = ""
+wkd = ""
+
+//sacraments
+bap.html.tab = ""
+bap.pdf.header = ""
+bap.pdf.cover = ""
+
+cdo.html.tab = ""
+cdo.pdf.header = ""
+cdo.pdf.cover = ""
+
+chi.html.tab = ""
+chi.pdf.header = ""
+chi.pdf.cover = ""
+
+con.html.tab = ""
+con.pdf.header = ""
+con.pdf.cover = ""
+
+fun.html.tab = ""
+fun.pdf.header = ""
+fun.pdf.cover = ""
+
+mem.html.tab = ""
+mem.pdf.header = ""
+mem.pdf.cover = ""
+
+ord.html.tab = ""
+ord.pdf.header = ""
+ord.pdf.cover = ""
+
+pen.html.tab = ""
+pen.pdf.header = ""
+pen.pdf.cover = ""
+
+swb.html.tab = ""
+swb.pdf.header = ""
+swb.pdf.cover = ""
+
+unc.html.tab  = ""
+unc.pdf.header = ""
+unc.pdf.cover = ""
+
+wed.html.tab = ""
+wed.pdf.header = ""
+wed.pdf.cover = ""
+
+//service names
+service = ""
+
+co.html.tab  = ""
+co.pdf.header = ""
+co.pdf.cover = ""
+co.smallcompline.cover = ""
+co.smallcompline.header = ""
+co.salutations.pdf.cover = ""
+co.salutations.pdf.header = ""
+co.greatcompline.pdf.cover = ""
+co.greatcompline.pdf.header = ""
+
+em.html.tab  = "" //this is for Matins in the evening during Holy Week
+em.pdf.header = ""
+em.pdf.cover = ""
+
+gh.html.tab  = ""
+gh.pdf.header = ""
+gh.pdf.cover = ""
+
+gp.html.tab = ""
+gp.pdf.header = ""
+gp.pdf.cover = ""
+
+h1.html.tab  = ""
+h1.pdf.header = ""
+h1.pdf.cover = ""
+
+h3.html.tab  = ""
+h3.pdf.header = ""
+h3.pdf.cover = ""
+
+h6.html.tab  = ""
+h6.pdf.header = ""
+h6.pdf.cover = ""
+
+h9.html.tab  = ""
+h9.pdf.header = ""
+h9.pdf.cover = ""
+
+hw.pdf.cover = ""
+
+li.html.tab  = ""
+li.pdf.header = ""
+li.pdf.cover = ""
+
+ma.html.tab  = ""
+ma.pdf.header = ""
+ma.pdf.cover = ""
+
+mo.html.tab  = ""
+mo.pdf.header = ""
+mo.pdf.cover = ""
+
+pl.html.tab  = ""
+pl.pdf.header = ""
+pl.pdf.cover = ""
+
+sp.html.tab = ""
+sp.pdf.header = ""
+sp.pdf.cover = ""
+
+sv.html.tab  = ""
+sv.pdf.header = ""
+sv.pdf.cover = ""
+
+ve.html.tab  = ""
+ve.pdf.header = ""
+ve.pdf.cover = ""
+
+vl.html.tab  = ""
+vl.pdf.header = ""
+vl.pdf.cover = ""
+
+//other
+d  = ""
+d.delimiter = ""
+d.of = ""
+d.on = ""
+d.ontheeveof = ""
+d.onSundayMorning = ""
+d.onSundayEvening = ""
+d.onMondayMorning = ""
+d.onMondayEvening = ""
+d.onTuesdayMorning = ""
+d.onTuesdayEvening = ""
+d.onWednesdayMorning = ""
+d.onWednesdayEvening = ""
+d.onThursdayMorning = ""
+d.onThursdayEvening = ""
+d.onFridayMorning = ""
+d.onFridayAfternoon = ""
+d.onFridayEvening = ""
+d.onSaturdayMorning = ""
+d.onSaturdayEvening = ""
+
+m.month  = "" // I will programatically determine whether to look up the m.month vs m.mode key
+m.mode = ""
+
+//Holy Week
+hw.mergedscores.title = ""
+hw.palmsunday = ""
+hw.bridegroomservice = ""
+hw.passion = ""
+hw.removal = ""
+hw.lamentation = ""
+hw.beforeresurrection = ""
+hw.ofholymonday = ""
+hw.ofholytuesday = ""
+hw.ofholywednesday = ""
+hw.ofholythursday = ""
+hw.ofholyfriday = ""
+hw.ofholysaturday = ""
+
+pa.pascha = ""
+pa.ofpascha = ""
+pa.resurrection = ""
+pa.easter = ""
+pa.agape = ""
+pa.brightweek = ""
+

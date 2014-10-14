@@ -1,0 +1,305 @@
+A_Resource_Whose_Name = ho.s03_en_US_oca
+
+hoMA.title = ""
+R01 = ""
+R02 = ""
+hoMA.Troparion3.text = ""
+R3 = ""
+R4 = ""
+SixPsalms.title = ""
+R6 = ""
+hoMA.GodIsTheLord.text = "" //for media
+R7 = ""
+R8 = ""
+R9 = "" //(about Lent)
+R10 = ""
+
+hoMA.Triadics.title = titles_en_US_oca.TriadicHymns
+R11 = ""
+/*
+Title Mode1
+Triadic11
+Glory
+Triadic12
+Both
+Triadic13 
+
+Title Mode2
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode3
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode4
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode5
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode6
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode7
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+
+Title Mode8
+Triadic1
+Glory
+Triadic2
+Both
+Triadic3 
+*/
+
+R12a = ""
+R12b = ""
+
+hoMA.ResEvlog.title1 = ""
+hoMA.ResEvlog.title2 = ""
+//Title Mode5
+R13 = ""
+hoMA.ResEvlogVerse.text = ""
+hoMA.ResEvlog1.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog1.text = ""
+hoMA.ResEvlog2.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog2.text = ""
+hoMA.ResEvlog3.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog3.text = ""
+hoMA.ResEvlog4.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog4.text = ""
+hoMA.ResEvlog5.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog5.text = ""
+hoMA.ResEvlog6.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog6.text = ""
+hoMA.ResEvlog7.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog7.text = prayers_en_US_oca.Allilouia3Doxa.text 
+
+hoMA.FuneralEvlog.title1 = ""
+hoMA.FuneralEvlog.title2 = ""
+R14 = ""
+hoMA.FuneralEvlogVerse.text = ""
+hoMA.FuneralEvlog1.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog1.text = ""
+hoMA.FuneralEvlog2.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog2.text = ""
+hoMA.FuneralEvlog3.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog3.text = ""
+hoMA.FuneralEvlog4.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog4.text = ""
+hoMA.FuneralEvlog5.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog5.text = ""
+hoMA.FuneralEvlog6.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog6.text = ""
+hoMA.FuneralEvlog7.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog7.text = ""
+hoMA.FuneralEvlog8.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog8.text = ""
+hoMA.FuneralEvlog9.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog9.text = prayers_en_US_oca.Allilouia3Doxa.text
+
+//Psalm 50
+hoMA.Psalm50.text = "" //for media
+
+hoMA.Ode9.Meg00.text = ""
+
+R15 = ""
+R16 = "" //(Lent)
+/*
+Title On Monday
+ending1
+ending2
+ending3
+Title On Tuesday
+ending
+Title On Wed and Fri
+ending
+Title On Thur
+ending
+Title On Sat
+R17
+ending
+R18
+ending
+
+Title Photogogics
+Subtitle
+Title Mode1
+Hymn 3x
+Title Mode2
+Hymn 3x
+Title Mode3
+Hymn 3x
+Title Mode4
+Hymn 3x
+Title Mode5
+Hymn 3x
+Title Mode6
+Hymn 3x
+Title Mode7
+Hymn 3x
+Title Mode8
+Hymn 3x
+
+Title Exaposteilaria
+Subtitle
+On Monday
+Title Mode
+Hymn
+Title Theot
+Hymn
+
+On Tuesday
+Title Mode
+Hymn
+Title Theot
+Hymn ref
+
+On Wed and Fri
+Title Mode
+Hymn
+Title StavTheot
+Hymn
+
+On Thur
+Title Mode
+Hymn
+Title
+Hymn
+Title Theot
+Hymn
+*/
+
+hoMA.ExapSatTitle = ""
+hoMA.ExapSat1.mode = misc_en_US_oca.Mode3
+hoMA.ExapSat1.melody = misc_en_US_oca.Automelon
+hoMA.ExapSat1.text = da.d7_en_US_oca.daMA.Exaposteilarion1.text 
+
+hoMA.ExapSat2.mode = misc_en_US_oca.Mode3
+hoMA.ExapSat2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoMA.ExapSat2.text = da.d7_en_US_oca.daMA.Exaposteilarion2.text 
+
+hoMA.ExapSatTh.mode = misc_en_US_oca.Mode3
+hoMA.ExapSatTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoMA.ExapSatTh.text = da.d7_en_US_oca.daMA.ExapTheotokion.text 
+
+R19 = ""
+R20 = ""
+R21 = ""
+hoMA.LaudsSunTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
+
+hoMA.DoxologyGreat.title = ""
+hoMA.DoxologyGreatIntro.text = ""
+hoMA.DoxologyVerse01.text = //le.go.os_en_US_oca.leosMA.GreatDoxology.v01.text
+hoMA.DoxologyVerse02.text = ""
+hoMA.DoxologyVerse03.text = ""
+hoMA.DoxologyVerse04.text = ""
+hoMA.DoxologyVerse05.text = ""
+hoMA.DoxologyVerse06.text = ""
+hoMA.DoxologyVerse07.text = //ps_en_US_oca.psa144.v2.text
+hoMA.DoxologyVerse07e.text = ""
+hoMA.DoxologyVerse08.text = ""
+hoMA.DoxologyVerse08e.text = ""
+hoMA.DoxologyVerse08n.text = ""
+hoMA.DoxologyVerse09.text = //le.pr.os_en_US_oca.leosMA.GreatDoxology.v09.text
+hoMA.DoxologyVerse10.text = //ps_en_US_oca.psa32.v22.text
+hoMA.DoxologyVerse11a.text = //ps_en_US_oca.psa118.v12.text
+hoMA.DoxologyVerse11b.text = ""
+hoMA.DoxologyVerse11c.text = ""
+hoMA.DoxologyVerse12a.text = //ps_en_US_oca.psa89.v1.text
+hoMA.DoxologyVerse12b.text = //ps_en_US_oca.psa40.v5.text
+hoMA.DoxologyVerse13.text = //ps_en_US_oca.psa142.v10alt.text
+hoMA.DoxologyVerse14.text = //ps_en_US_oca.psa35.v10.text
+hoMA.DoxologyVerse15.text = //ps_en_US_oca.psa35.v11a.text
+hoMA.DoxologyVerse16.text = ""
+hoMA.DoxologyVerse17.text = ""
+hoMA.DoxologyVerse18.text = ""
+hoMA.DoxologyVerse19.text = ""
+R22 = ""
+hoMA.DoxologyVerse20.text = ""
+R23 = ""
+hoMA.DoxologySmallIntro.text = ""
+hoMA.DoxologySmallEnd.text = ""
+hoMA.SmallDoxology.title = ""
+hoMA.SmallDoxology1.text = ""
+hoMA.SmallDoxology1d = "" 
+hoMA.SmallDoxology1e = "" 
+hoMA.SmallDoxology2.text = ""
+hoMA.SmallDoxology2d = ""
+hoMA.SmallDoxology2e = ""
+hoMA.SmallDoxology2n = ""
+hoMA.SmallDoxology3.text = ""
+
+R24 = ""
+R25 = ""
+R26 = ""
+R27 = ""
+R28 = "" //[maybe unpack]
+hoMA.Apolytikion = oc.m6.d5_en_US_oca.ocMA.Kathisma33.text
+R29 = "" //[maybe unpack]
+R30 = ""
+R31 = ""
+R32 = ""
+R33 = ""
+R34 = ""
+R35 = ""
+R36 = ""
+hoMA.SunTroparion1.mode = misc_en_US_oca.Mode4
+hoMA.SunTroparion1.text = ""
+R37 = ""
+//Title ultimately link this to pe.d18.peMA.Kath12
+hoMA.SunTroparion2.mode = misc_en_US_oca.Mode8
+hoMA.SunTroparion2.text = ""
+R38 = "" //[maybe unpack]
+R39 = ""
+
+//Order of Matins Gospel
+hoMA.Antiphon11.text = "" //for media
+hoMA.PreGospelHymn.text = "" // for media
+
+hoMA.SunPostGospel.text = ""
+
+hoMA.PostGospelTrinity.text = ""
+hoMA.PostGospelApostle.text = ""
+hoMA.PostGospelApostles.text = ""
+hoMA.PostGospelMaleMartyr.text = ""
+hoMA.PostGospelMartyrs.text = ""
+hoMA.PostGospelWomanMartyr.text = ""
+hoMA.PostGospelTeacher.text = ""
+hoMA.PostGospelTeachers.text = ""
+hoMA.PostGospelMonastic.text = ""
+hoMA.PostGospelForerunner.text = ""
+hoMA.PostGospelTheotokos.text = ""
+hoMA.PostGospelAllPureLady.text = ""
+hoMA.PostGospelProphet.text = ""
+hoMA.PostGospelAngels.text = ""
+hoMA.PostGospelHierarch.text = ""
+
+hoMA.SunPostGospelIdiomelon.text = ""
+
+hoMA.SunExapVerse1.text = "" //for media
+
+//Triodion specific, not in Horologion
+hoMA.RtrSoS01 = ""
