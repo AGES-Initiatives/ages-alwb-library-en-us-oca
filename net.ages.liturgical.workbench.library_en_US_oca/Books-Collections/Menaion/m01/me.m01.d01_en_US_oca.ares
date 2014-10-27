@@ -1,0 +1,669 @@
+A_Resource_Whose_Name = me.m01.d01_en_US_oca
+
+meHO.Month.text = ""
+meHO.DaysHours.text = ""
+
+meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = rubrical_en_US_oca.HolidayAll
+meHO.note2 = ""
+meDismissal = dismissals_en_US_oca.dis00.circumcision
+
+meVE.Stichera01.poet = poets_en_US_oca.Anatoliou
+meVE.Stichera01.mode = misc_en_US_oca.Mode8
+meVE.Stichera01.melody = ""
+meVE.Stichera01.text = "The Savior was willing to be wrapped in swaddling clothes for the sake of mankind! * He was eight days old, on his Mother's side, * but eternal on the side of his Father! * He did not disdain the circumcision of his flesh. * Faithful, let us cry to Him: ** You are our God; have mercy on us!"
+
+meVE.Stichera02.poet = poets_en_US_oca.Anatoliou
+meVE.Stichera02.mode = misc_en_US_oca.Mode8
+meVE.Stichera02.melody = ""
+meVE.Stichera02.text = "The God of all goodness did not disdain to be circumcised! * He offered Himself as a saving sign and example for us all. * He made the law, and He obeyed his own commands. * He fulfilled the words of the prophets concerning Himself. * He holds the world in his hands, yet is bound in swaddling clothes. ** Let us glorify Him!"
+
+meVE.Stichera03.mode = misc_en_US_oca.Mode4
+meVE.Stichera03.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera03.text = "Your very name means \"the royal one.\" * You led Christ's royal people in wisdom and knowledge. * The King of kings and the Lord of all, * the Son, of one essence with the Father, * adorned you with the crown of Hs kingdom. * Pray to Him, Father Basil, ** to enlighten and save our souls!"
+
+meVE.Stichera04.mode = misc_en_US_oca.Mode4
+meVE.Stichera04.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera04.text = "Robed in the vestments of bishop, * you preached the gospel of the kingdom with gladness. * You poured out streams of true teaching for the Church, * illumined by your words, * we have learned how to glorify one Godhead: * Father almighty, divine Word, and Holy Spirit, * three Persons undivided. * Pray to Him, Father Basil, ** to enlighten and save our souls!"
+
+meVE.Stichera05.mode = misc_en_US_oca.Mode4
+meVE.Stichera05.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera05.text = "You dwell with the hosts of heaven; * you imitated their way of life on earth. * You lived with mankind like an earthly angel. * Now pray for us, who delight in your theology. * May Christ our God save us from the darkness of unbelief. ** May He enlighten and save our souls!"
+
+meVE.SticGlory.poet = poets_en_US_oca.Anatoliou
+meVE.SticGlory.mode = misc_en_US_oca.Mode8
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "You became a Lover of wisdom, righteous Father! * You preferred life with God above all earthly delights. * Contemplating death, you abandoned all your wealth. * You stripped away fleshy lusts through rigorous abstinence. * You studied God's law, and subjected your flesh to the spirit. * You were rich in virtues, a conqueror of passions. * You cast the world, the flesh and the devil away. * Now you stand before the throne of Christ. ** Entreat Him to grant us great mercy!"
+
+meVE.SticBoth.poet = poets_en_US_oca.Anatoliou
+meVE.SticBoth.mode = misc_en_US_oca.Mode8
+meVE.SticBoth.melody = ""
+meVE.SticBoth.text = meVE.Stichera01.text
+
+meVE.Lity1.poet = poets_en_US_oca.Germanou
+meVE.Lity1.mode = misc_en_US_oca.Mode3
+meVE.Lity1.melody = ""
+meVE.Lity1.text = ""
+
+meVE.Lity2.poet = poets_en_US_oca.Germanou
+meVE.Lity2.mode = misc_en_US_oca.Mode3
+meVE.Lity2.melody = ""
+meVE.Lity2.text = ""
+
+meVE.Lity3.poet = poets_en_US_oca.Vyzantos
+meVE.Lity3.mode = misc_en_US_oca.Mode3
+meVE.Lity3.melody = ""
+meVE.Lity3.text = ""
+
+meVE.LityGlory.poet = poets_en_US_oca.Vyzantiou
+meVE.LityGlory.mode = misc_en_US_oca.Mode6
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.poet = poets_en_US_oca.Anatoliou
+meVE.LityBoth.mode = misc_en_US_oca.Mode8
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = ""
+
+meVE.Aposticha1.poet = poets_en_US_oca.Vyzantos
+meVE.Aposticha1.mode = misc_en_US_oca.Mode1
+meVE.Aposticha1.melody = ""
+meVE.Aposticha1.text = "Most blessed Basil, * you served Christ's Church like a busy honeybee! * Armed with divine zeal, * you stung the blasphemers and wounded the heretics! * You stored the souls of the faithful in the hive of heaven. * Now that you rest in the green pastures of God, * remember all of us ** as you stand before the holy Trinity."
+
+meVE.ApostichaVerse2.text = ""
+
+meVE.Aposticha2.poet = poets_en_US_oca.VasileiouMonachou
+meVE.Aposticha2.mode = misc_en_US_oca.Mode1
+meVE.Aposticha2.melody = ""
+meVE.Aposticha2.text = "Holy Father Basil, * you acquired the virtues of all the saints: * the meekness of Moses, Elijah's zeal, * the faith of Peter, John's theological eloquence. * You cry with Paul the apostle: * Who is weak, and I am not weak? * Who is made to fall, and I do not burn in indignation? * Now you dwell with them all in heaven. ** Pray that our souls may be saved."
+
+meVE.ApostichaVerse3.text = ""
+
+meVE.Aposticha3.poet = poets_en_US_oca.IoannouMonachou
+meVE.Aposticha3.mode = misc_en_US_oca.Mode2
+meVE.Aposticha3.melody = ""
+meVE.Aposticha3.text = "Basil, you revealed noble truths; * you studied the nature of created things. * You understood that all things will pass away; * that God alone is eternal. * He is transcendent in essence, the Creator of all. * As your longing for Him increased, * you abandoned desire for temporal things. ** Pray that we may be filled with longing for God!"
+
+meVE.AposGlory.poet = poets_en_US_oca.Vyzantiou
+meVE.AposGlory.mode = misc_en_US_oca.Mode6
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "Most blessed Basil, * you were filled with heavenly grace. * Your theology exposes the errors of false teachers. * You are the pride of pastors, * the cornerstone of bishops, * the example of fathers. * You possess favor with Christ: ** Pray that He may save our souls!"
+
+meVE.AposBoth.poet = poets_en_US_oca.Anatoliou
+meVE.AposBoth.mode = misc_en_US_oca.Mode8
+meVE.AposBoth.melody = ""
+meVE.AposBoth.text = "The God of all goodness did not disdain to be circumcised! * He offered Himself as a saving sign and example for us all. * He made the law, and He obeyed his own commands. * He fulfilled the words of the prophets concerning Himself. * He holds the world in His hands, yet is bound in swaddling clothes. ** Let us glorify Him!"
+
+meVE.Apolytikion1.mode = misc_en_US_oca.Mode1
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = ""
+
+meVE.Apolytikion2.mode = misc_en_US_oca.Mode1
+meVE.Apolytikion2.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.name
+meVE.Apolytikion2.text = ""
+
+meMA.Kathisma11.mode = misc_en_US_oca.Mode5
+meMA.Kathisma11.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma11.text = ""
+
+meMA.Kathisma12.mode = misc_en_US_oca.Mode1
+meMA.Kathisma12.melody = he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma12.text = ""
+
+meMA.Kathisma13.mode = misc_en_US_oca.Mode1
+meMA.Kathisma13.melody = he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma13.text = ""
+
+meMA.Kathisma21.mode = misc_en_US_oca.Mode8
+meMA.Kathisma21.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma21.text = ""
+
+meMA.Kathisma22.mode = misc_en_US_oca.Mode4
+meMA.Kathisma22.melody = he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma22.text = ""
+
+meMA.Kathisma31.mode = misc_en_US_oca.Mode8
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma31.text = ""
+
+meMA.Kathisma32.mode = misc_en_US_oca.Mode8
+meMA.Kathisma32.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma32.text = ""
+
+meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
+meMA.Kathisma3T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma3T.text = ""
+
+meMA.Prokeimenon.text = "" // for media
+// From saved ages file; maybe slightly different beginning? (extra clause)
+//meMA.Gospel.name = bible_en_US_oca.John 
+//meMA.Gospel.chapverse = ""
+//meMA.Gospel.text = le.go.me.m01.d01_en_US_oca.lemeMA.Gospel.text
+
+meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelHierarch.text
+
+meMA.PostGospelBoth.mode = misc_en_US_oca.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.poet = poets_en_US_oca.Vyzantiou
+meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
+
+meMA.C1Poet = poets_en_US_oca.Stefanou
+
+meMA.C2Poet = poets_en_US_oca.IoannouTouDamaskinou
+
+meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
+meMA.Ode1C1H.mode = misc_en_US_oca.Mode2
+meMA.Ode1C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode1C1H.text = he.h.m2_en_US_oca.DefteLaoi.text
+
+meMA.Ode1C11.ode = misc_en_US_oca.Ode1
+meMA.Ode1C11.mode = misc_en_US_oca.Mode2
+meMA.Ode1C11.melody = he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_oca.Ode1
+meMA.Ode1C12.mode = misc_en_US_oca.Mode2
+meMA.Ode1C12.melody = he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C21.ode = misc_en_US_oca.Ode1
+meMA.Ode1C21.mode = misc_en_US_oca.Mode2
+meMA.Ode1C21.melody = he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = misc_en_US_oca.Ode1
+meMA.Ode1C22.mode = misc_en_US_oca.Mode2
+meMA.Ode1C22.melody = he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C22.text = ""
+
+meMA.Ode1C23.ode = misc_en_US_oca.Ode1
+meMA.Ode1C23.mode = misc_en_US_oca.Mode2
+meMA.Ode1C23.melody = he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C23.text = ""
+
+meMA.Ode1C24.ode = misc_en_US_oca.Ode1
+meMA.Ode1C24.mode = misc_en_US_oca.Mode2
+meMA.Ode1C24.melody = he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C24.text = ""
+
+meMA.Ode1C25.ode = misc_en_US_oca.Ode1
+meMA.Ode1C25.mode = misc_en_US_oca.Mode2
+meMA.Ode1C25.melody = he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C25.text = ""
+
+meMA.Ode1C2T.ode = misc_en_US_oca.Ode1
+meMA.Ode1C2T.mode = misc_en_US_oca.Mode2
+meMA.Ode1C2T.melody = he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C2T.text = ""
+
+meMA.Ode1K.ode = misc_en_US_oca.Ode1
+meMA.Ode1K.mode = misc_en_US_oca.Mode2
+meMA.Ode1K.melody = misc_en_US_oca.Heirmos
+meMA.Ode1K.text = he.h.m2_en_US_oca.VythouAnekalypse.text
+
+meMA.Ode1K2.ode = misc_en_US_oca.Ode1
+meMA.Ode1K2.mode = misc_en_US_oca.Mode2
+meMA.Ode1K2.melody = ""
+meMA.Ode1K2.text = ""
+
+meMA.Ode3C1H.ode = misc_en_US_oca.Ode3
+meMA.Ode3C1H.mode = misc_en_US_oca.Mode2
+meMA.Ode3C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode3C1H.text = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.text
+
+meMA.Ode3C11.ode = misc_en_US_oca.Ode3
+meMA.Ode3C11.mode = misc_en_US_oca.Mode2
+meMA.Ode3C11.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_oca.Ode3
+meMA.Ode3C12.mode = misc_en_US_oca.Mode2
+meMA.Ode3C12.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C21.ode = misc_en_US_oca.Ode3
+meMA.Ode3C21.mode = misc_en_US_oca.Mode2
+meMA.Ode3C21.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C21.text = ""
+
+meMA.Ode3C22.ode = misc_en_US_oca.Ode3
+meMA.Ode3C22.mode = misc_en_US_oca.Mode2
+meMA.Ode3C22.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C22.text = ""
+
+meMA.Ode3C23.ode = misc_en_US_oca.Ode3
+meMA.Ode3C23.mode = misc_en_US_oca.Mode2
+meMA.Ode3C23.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C23.text = ""
+
+meMA.Ode3C24.ode = misc_en_US_oca.Ode3
+meMA.Ode3C24.mode = misc_en_US_oca.Mode2
+meMA.Ode3C24.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C24.text = ""
+
+meMA.Ode3C2T.ode = misc_en_US_oca.Ode3
+meMA.Ode3C2T.mode = misc_en_US_oca.Mode2
+meMA.Ode3C2T.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C2T.text = ""
+
+meMA.Ode3K.ode = misc_en_US_oca.Ode3
+meMA.Ode3K.mode = misc_en_US_oca.Mode2
+meMA.Ode3K.melody = misc_en_US_oca.Heirmos
+meMA.Ode3K.text = ""
+
+meMA.Ode3K2.ode = misc_en_US_oca.Ode3
+meMA.Ode3K2.mode = misc_en_US_oca.Mode2
+meMA.Ode3K2.melody = ""
+meMA.Ode3K2.text = ""
+
+meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode3
+meMA.Ode3Kathisma2.melody = he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Ode3Kathisma2.text = ""
+
+meMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode3
+meMA.Ode3Kathisma3.melody = he.a.m3_en_US_oca.IParthenosSimeron.name
+meMA.Ode3Kathisma3.text = ""
+
+meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
+meMA.Ode4C1H.mode = misc_en_US_oca.Mode2
+meMA.Ode4C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode4C1H.text = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.text
+
+meMA.Ode4C11.ode = misc_en_US_oca.Ode4
+meMA.Ode4C11.mode = misc_en_US_oca.Mode2
+meMA.Ode4C11.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_oca.Ode4
+meMA.Ode4C12.mode = misc_en_US_oca.Mode2
+meMA.Ode4C12.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C21.ode = misc_en_US_oca.Ode4
+meMA.Ode4C21.mode = misc_en_US_oca.Mode2
+meMA.Ode4C21.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C21.text = ""
+
+meMA.Ode4C22.ode = misc_en_US_oca.Ode4
+meMA.Ode4C22.mode = misc_en_US_oca.Mode2
+meMA.Ode4C22.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C23.ode = misc_en_US_oca.Ode4
+meMA.Ode4C23.mode = misc_en_US_oca.Mode2
+meMA.Ode4C23.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C23.text = ""
+
+meMA.Ode4C24.ode = misc_en_US_oca.Ode4
+meMA.Ode4C24.mode = misc_en_US_oca.Mode2
+meMA.Ode4C24.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C24.text = ""
+
+meMA.Ode4C25.ode = misc_en_US_oca.Ode4
+meMA.Ode4C25.mode = misc_en_US_oca.Mode2
+meMA.Ode4C25.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C25.text = ""
+
+meMA.Ode4C2T.ode = misc_en_US_oca.Ode4
+meMA.Ode4C2T.mode = misc_en_US_oca.Mode2
+meMA.Ode4C2T.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C2T.text = ""
+
+meMA.Ode4K.ode = misc_en_US_oca.Ode4
+meMA.Ode4K.mode = misc_en_US_oca.Mode2
+meMA.Ode4K.melody = misc_en_US_oca.Heirmos
+meMA.Ode4K.text = ""
+
+meMA.Ode4K2.ode = misc_en_US_oca.Ode4
+meMA.Ode4K2.mode = misc_en_US_oca.Mode2
+meMA.Ode4K2.melody = ""
+meMA.Ode4K2.text = ""
+
+meMA.Ode5C1H.ode = misc_en_US_oca.Ode5
+meMA.Ode5C1H.mode = misc_en_US_oca.Mode2
+meMA.Ode5C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode5C1H.text = he.h.m2_en_US_oca.OTouFotosChorigos.text
+
+meMA.Ode5C11.ode = misc_en_US_oca.Ode5
+meMA.Ode5C11.mode = misc_en_US_oca.Mode2
+meMA.Ode5C11.melody = he.h.m2_en_US_oca.OTouFotosChorigos.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_oca.Ode5
+meMA.Ode5C12.mode = misc_en_US_oca.Mode2
+meMA.Ode5C12.melody = he.h.m2_en_US_oca.OTouFotosChorigos.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C21.ode = misc_en_US_oca.Ode5
+meMA.Ode5C21.mode = misc_en_US_oca.Mode2
+meMA.Ode5C21.melody = he.h.m2_en_US_oca.OTouFotosChorigos.name
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_US_oca.Ode5
+meMA.Ode5C22.mode = misc_en_US_oca.Mode2
+meMA.Ode5C22.melody = he.h.m2_en_US_oca.OTouFotosChorigos.name
+meMA.Ode5C22.text = ""
+
+meMA.Ode5C23.ode = misc_en_US_oca.Ode5
+meMA.Ode5C23.mode = misc_en_US_oca.Mode2
+meMA.Ode5C23.melody = he.h.m2_en_US_oca.OTouFotosChorigos.name
+meMA.Ode5C23.text = ""
+
+meMA.Ode5C24.ode = misc_en_US_oca.Ode5
+meMA.Ode5C24.mode = misc_en_US_oca.Mode2
+meMA.Ode5C24.melody = he.h.m2_en_US_oca.OTouFotosChorigos.name
+meMA.Ode5C24.text = ""
+
+meMA.Ode5C2T.ode = misc_en_US_oca.Ode5
+meMA.Ode5C2T.mode = misc_en_US_oca.Mode2
+meMA.Ode5C2T.melody = he.h.m2_en_US_oca.OTouFotosChorigos.name
+meMA.Ode5C2T.text = ""
+
+meMA.Ode5K.ode = misc_en_US_oca.Ode5
+meMA.Ode5K.mode = misc_en_US_oca.Mode2
+meMA.Ode5K.melody = misc_en_US_oca.Heirmos
+meMA.Ode5K.text = ""
+
+meMA.Ode5K2.ode = misc_en_US_oca.Ode5
+meMA.Ode5K2.mode = misc_en_US_oca.Mode2
+meMA.Ode5K2.melody = ""
+meMA.Ode5K2.text = ""
+
+meMA.Ode6C1H.ode = misc_en_US_oca.Ode6
+meMA.Ode6C1H.mode = misc_en_US_oca.Mode2
+meMA.Ode6C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode6C1H.text = he.h.m2_en_US_oca.AvyssosAmartimaton.text
+
+meMA.Ode6C11.ode = misc_en_US_oca.Ode6
+meMA.Ode6C11.mode = misc_en_US_oca.Mode2
+meMA.Ode6C11.melody = he.h.m2_en_US_oca.AvyssosAmartimaton.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_oca.Ode6
+meMA.Ode6C12.mode = misc_en_US_oca.Mode2
+meMA.Ode6C12.melody = ""
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C21.ode = misc_en_US_oca.Ode6
+meMA.Ode6C21.mode = misc_en_US_oca.Mode2
+meMA.Ode6C21.melody = he.h.m2_en_US_oca.AvyssosAmartimaton.name
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_US_oca.Ode6
+meMA.Ode6C22.mode = misc_en_US_oca.Mode2
+meMA.Ode6C22.melody = he.h.m2_en_US_oca.AvyssosAmartimaton.name
+meMA.Ode6C22.text = ""
+
+meMA.Ode6C23.ode = misc_en_US_oca.Ode6
+meMA.Ode6C23.mode = misc_en_US_oca.Mode2
+meMA.Ode6C23.melody = he.h.m2_en_US_oca.AvyssosAmartimaton.name
+meMA.Ode6C23.text = ""
+
+meMA.Ode6C24.ode = misc_en_US_oca.Ode6
+meMA.Ode6C24.mode = misc_en_US_oca.Mode2
+meMA.Ode6C24.melody = he.h.m2_en_US_oca.AvyssosAmartimaton.name
+meMA.Ode6C24.text = ""
+
+meMA.Ode6C2T.ode = misc_en_US_oca.Ode6
+meMA.Ode6C2T.mode = misc_en_US_oca.Mode2
+meMA.Ode6C2T.melody = he.h.m2_en_US_oca.AvyssosAmartimaton.name
+meMA.Ode6C2T.text = ""
+
+meMA.Ode6K.ode = misc_en_US_oca.Ode6
+meMA.Ode6K.mode = misc_en_US_oca.Mode2
+meMA.Ode6K.melody = misc_en_US_oca.Heirmos
+meMA.Ode6K.text = ""
+
+meMA.Ode6K2.ode = misc_en_US_oca.Ode6
+meMA.Ode6K2.mode = misc_en_US_oca.Mode2
+meMA.Ode6K2.melody = ""
+meMA.Ode6K2.text = ""
+
+meMA.Kontakion1.poet = poets_en_US_oca.RomanouTouMelodou
+meMA.Kontakion1.mode = misc_en_US_oca.Mode4
+meMA.Kontakion1.melody = he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kontakion1.text = ""
+
+meMA.Oikos1.text = ""
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_US_oca.Ode7
+meMA.Ode7C1H.mode = misc_en_US_oca.Mode2
+meMA.Ode7C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode7C1H.text = he.h.m2_en_US_oca.EikonosChrysis.text
+
+meMA.Ode7C11.ode = misc_en_US_oca.Ode7
+meMA.Ode7C11.mode = misc_en_US_oca.Mode2
+meMA.Ode7C11.melody = he.h.m2_en_US_oca.EikonosChrysis.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_oca.Ode7
+meMA.Ode7C12.mode = misc_en_US_oca.Mode2
+meMA.Ode7C12.melody = he.h.m2_en_US_oca.EikonosChrysis.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C21.ode = misc_en_US_oca.Ode7
+meMA.Ode7C21.mode = misc_en_US_oca.Mode2
+meMA.Ode7C21.melody = he.h.m2_en_US_oca.EikonosChrysis.name
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_US_oca.Ode7
+meMA.Ode7C22.mode = misc_en_US_oca.Mode2
+meMA.Ode7C22.melody = he.h.m2_en_US_oca.EikonosChrysis.name
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C23.ode = misc_en_US_oca.Ode7
+meMA.Ode7C23.mode = misc_en_US_oca.Mode2
+meMA.Ode7C23.melody = he.h.m2_en_US_oca.EikonosChrysis.name
+meMA.Ode7C23.text = ""
+
+meMA.Ode7C24.ode = misc_en_US_oca.Ode7
+meMA.Ode7C24.mode = misc_en_US_oca.Mode2
+meMA.Ode7C24.melody = he.h.m2_en_US_oca.EikonosChrysis.name
+meMA.Ode7C24.text = ""
+
+meMA.Ode7C25.ode = misc_en_US_oca.Ode7
+meMA.Ode7C25.mode = misc_en_US_oca.Mode2
+meMA.Ode7C25.melody = he.h.m2_en_US_oca.EikonosChrysis.name
+meMA.Ode7C25.text = ""
+
+meMA.Ode7C2T.ode = misc_en_US_oca.Ode7
+meMA.Ode7C2T.mode = misc_en_US_oca.Mode2
+meMA.Ode7C2T.melody = he.h.m2_en_US_oca.EikonosChrysis.name
+meMA.Ode7C2T.text = ""
+
+meMA.Ode7K.ode = misc_en_US_oca.Ode7
+meMA.Ode7K.mode = misc_en_US_oca.Mode2
+meMA.Ode7K.melody = misc_en_US_oca.Heirmos
+meMA.Ode7K.text = ""
+
+meMA.Ode7K2.ode = misc_en_US_oca.Ode7
+meMA.Ode7K2.mode = misc_en_US_oca.Mode2
+meMA.Ode7K2.melody = ""
+meMA.Ode7K2.text = ""
+
+meMA.Ode8C1H.ode = misc_en_US_oca.Ode8
+meMA.Ode8C1H.mode = misc_en_US_oca.Mode2
+meMA.Ode8C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode8C1H.text = he.h.m2_en_US_oca.TonArritoSofia.text
+
+meMA.Ode8C11.ode = misc_en_US_oca.Ode8
+meMA.Ode8C11.mode = misc_en_US_oca.Mode2
+meMA.Ode8C11.melody = he.h.m2_en_US_oca.TonArritoSofia.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_oca.Ode8
+meMA.Ode8C12.mode = misc_en_US_oca.Mode2
+meMA.Ode8C12.melody = he.h.m2_en_US_oca.TonArritoSofia.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C21.ode = misc_en_US_oca.Ode8
+meMA.Ode8C21.mode = misc_en_US_oca.Mode2
+meMA.Ode8C21.melody = he.h.m2_en_US_oca.TonArritoSofia.name
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_US_oca.Ode8
+meMA.Ode8C22.mode = misc_en_US_oca.Mode2
+meMA.Ode8C22.melody = he.h.m2_en_US_oca.TonArritoSofia.name
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C23.ode = misc_en_US_oca.Ode8
+meMA.Ode8C23.mode = misc_en_US_oca.Mode2
+meMA.Ode8C23.melody = he.h.m2_en_US_oca.TonArritoSofia.name
+meMA.Ode8C23.text = ""
+
+meMA.Ode8C24.ode = misc_en_US_oca.Ode8
+meMA.Ode8C24.mode = misc_en_US_oca.Mode2
+meMA.Ode8C24.melody = he.h.m2_en_US_oca.TonArritoSofia.name
+meMA.Ode8C24.text = ""
+
+meMA.Ode8C2T.ode = misc_en_US_oca.Ode8
+meMA.Ode8C2T.mode = misc_en_US_oca.Mode2
+meMA.Ode8C2T.melody = he.h.m2_en_US_oca.TonArritoSofia.name
+meMA.Ode8C2T.text = ""
+
+meMA.Ode8K.ode = misc_en_US_oca.Ode8
+meMA.Ode8K.mode = misc_en_US_oca.Mode2
+meMA.Ode8K.melody = misc_en_US_oca.Heirmos
+meMA.Ode8K.text = ""
+
+meMA.Ode8K2.ode = misc_en_US_oca.Ode8
+meMA.Ode8K2.mode = misc_en_US_oca.Mode2
+meMA.Ode8K2.melody = ""
+meMA.Ode8K2.text = ""
+
+meMA.Ode9C1M01.text = ""
+meMA.Ode9C1M02.text = ""
+meMA.Ode9C1M03.text = ""
+meMA.Ode9C1M04.text = ""
+meMA.Ode9C1M05.text = ""
+
+meMA.Ode9C2M01.text = ""
+meMA.Ode9C2M02.text = ""
+meMA.Ode9C2M03.text = ""
+meMA.Ode9C2M04.text = ""
+meMA.Ode9C2MTr.text = ""
+meMA.Ode9C2MTh.text = ""
+
+meMA.Ode9C1H.ode = misc_en_US_oca.Ode9
+meMA.Ode9C1H.mode = misc_en_US_oca.Mode2
+meMA.Ode9C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode9C1H.text = he.h.m2_en_US_oca.ITonProIliouFostira.text
+
+meMA.Ode9C11.ode = misc_en_US_oca.Ode9
+meMA.Ode9C11.mode = misc_en_US_oca.Mode2
+meMA.Ode9C11.melody = he.h.m2_en_US_oca.ITonProIliouFostira.name
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_oca.Ode9
+meMA.Ode9C12.mode = misc_en_US_oca.Mode2
+meMA.Ode9C12.melody = he.h.m2_en_US_oca.ITonProIliouFostira.name
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C21.ode = misc_en_US_oca.Ode9
+meMA.Ode9C21.mode = misc_en_US_oca.Mode2
+meMA.Ode9C21.melody = he.h.m2_en_US_oca.ITonProIliouFostira.name
+meMA.Ode9C21.text = ""
+
+meMA.Ode9C22.ode = misc_en_US_oca.Ode9
+meMA.Ode9C22.mode = misc_en_US_oca.Mode2
+meMA.Ode9C22.melody = he.h.m2_en_US_oca.ITonProIliouFostira.name
+meMA.Ode9C22.text = ""
+
+meMA.Ode9C23.ode = misc_en_US_oca.Ode9
+meMA.Ode9C23.mode = misc_en_US_oca.Mode2
+meMA.Ode9C23.melody = he.h.m2_en_US_oca.ITonProIliouFostira.name
+meMA.Ode9C23.text = ""
+
+meMA.Ode9C2T.ode = misc_en_US_oca.Ode9
+meMA.Ode9C2T.mode = misc_en_US_oca.Mode2
+meMA.Ode9C2T.melody = he.h.m2_en_US_oca.ITonProIliouFostira.name
+meMA.Ode9C2T.text = ""
+
+meMA.Ode9K.ode = misc_en_US_oca.Ode9
+meMA.Ode9K.mode = misc_en_US_oca.Mode2
+meMA.Ode9K.melody = misc_en_US_oca.Heirmos
+meMA.Ode9K.text = ""
+
+meMA.Ode9K2.ode = misc_en_US_oca.Ode9
+meMA.Ode9K2.mode = misc_en_US_oca.Mode2
+meMA.Ode9K2.melody = ""
+meMA.Ode9K2.text = ""
+
+meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.text = ""
+
+meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.name
+meMA.Exaposteilarion2.text = ""
+
+meMA.Lauds1.mode = misc_en_US_oca.Mode5
+meMA.Lauds1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds1.text = ""
+
+meMA.Lauds2.mode = misc_en_US_oca.Mode5
+meMA.Lauds2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds2.text = ""
+
+meMA.Lauds3.mode = misc_en_US_oca.Mode5
+meMA.Lauds3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds3.text = ""
+
+meMA.Lauds4.mode = misc_en_US_oca.Mode5
+meMA.Lauds4.melody = ""
+meMA.Lauds4.text = ""
+
+meMA.LaudsGlory.poet = poets_en_US_oca.Vyzantiou
+meMA.LaudsGlory.mode = misc_en_US_oca.Mode6
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = meVE.LityGlory.text
+
+meMA.LaudsBoth.poet = poets_en_US_oca.Anatoliou
+meMA.LaudsBoth.mode = misc_en_US_oca.Mode8
+meMA.LaudsBoth.melody = ""
+meMA.LaudsBoth.text = meVE.Stichera01.text
+
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+
+meLI.Antiphon2.text = ""
+
+meLI.EntranceHymn.text = ho.s07_en_US_oca.hoLI.EntranceHymn.text
+
+meLI.SeasonalKontakion.mode = misc_en_US_oca.Mode3
+meLI.SeasonalKontakion.melody = he.a.m3_en_US_oca.IParthenosSimeron.name
+meLI.SeasonalKontakion.text = meMA.Ode3Kathisma3.text
+
+meLI.TheotokosHymn.mode = ""
+meLI.TheotokosHymn.text = eu.lichrysbasil_en_US_oca.euLI.Key1328.basil.text
+
+meLI.CommunionHymn.text = ""
+
+meLI.AfterCommunion.mode = misc_en_US_oca.Mode1
+meLI.AfterCommunion.text = meVE.Apolytikion2.text
+
+meMegalynarion.text = ""
+
