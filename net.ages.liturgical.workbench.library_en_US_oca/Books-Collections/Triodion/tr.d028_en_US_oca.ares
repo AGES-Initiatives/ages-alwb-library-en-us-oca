@@ -139,7 +139,7 @@ trCA.Ode6T.text = ""
 
 trCA.Kontakion.mode = misc_en_US_oca.Mode8
 trCA.Kontakion.melody  = ""
-trCA.Kontakion.text = trMA.Kontakion.text
+trCA.Kontakion.text = trMA.Kontakion1.text
 
 trCA.Ode71.ode = misc_en_US_oca.Ode7
 trCA.Ode71.mode = misc_en_US_oca.Mode8
@@ -217,7 +217,7 @@ trCA.Troparion1.text = trVE.Apolytikion1.text
 
 trCA.Troparion2.mode = misc_en_US_oca.Mode8
 trCA.Troparion2.melody  = ""
-trCA.Troparion2.text = trMA.Kontakion.text
+trCA.Troparion2.text = trMA.Kontakion1.text
 
 trCA.Troparion3.mode = misc_en_US_oca.Mode8
 trCA.Troparion3.melody  = ""
@@ -522,11 +522,11 @@ trMA.Ode6K.mode = misc_en_US_oca.Mode4
 trMA.Ode6K.melody = misc_en_US_oca.Heirmos
 trMA.Ode6K.text = he.h.m4_en_US_oca.TinTheianTaftin.text
 
-trMA.Kontakion.mode = misc_en_US_oca.Mode8
-trMA.Kontakion.melody = misc_en_US_oca.Automelon
-trMA.Kontakion.text = ""
+trMA.Kontakion1.mode = misc_en_US_oca.Mode8
+trMA.Kontakion1.melody = misc_en_US_oca.Automelon
+trMA.Kontakion1.text = ""
 
-trMA.Oikos.text = ""
+trMA.Oikos1.text = ""
 
 trMA.Synaxarion1.Com = ""
 trMA.Synaxarion1.Ver1 = ""
