@@ -260,6 +260,10 @@ meMA.Ode9C1T.mode = misc_en_US_oca.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_oca.TonEkTheouTheonLogon.name
 meMA.Ode9C1T.text = ""
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_oca.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_oca.hoTY.Key0408.text
