@@ -33,7 +33,7 @@ trVE.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
 trVE.AposIdiomelon1.text = "Brethren, let us purify ourselves * from all stain of flesh and spirit. * Let us illumine the lights of our souls through love of poverty! * Let us not slander one another with curses! * For the time has come * when the Bridegroom renders to each according to his works. * Let us greet Christ with the Wise Virgins, * crying to him with the voice of the Thief: ** Remember us, Lord, when you come in your kingdom!"
 
 trVE.AposMartyric.mode = misc_en_US_oca.Mode2
-trVE.AposMartyric.melody  = ""
+trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = oc.m2.d3_en_US_oca.ocVE.Aposticha3.text
 
 trVE.AposGlory.mode = misc_en_US_oca.Mode8
@@ -45,11 +45,11 @@ trVE.AposTheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.name
 trVE.AposTheotokion.text = "Rejoice, treasure of purity! * Rejoice, pure abode of the immaterial light! * Rejoice, praise of the martyrs! * Rejoice, preview of our salvation! * Rejoice, preaching of the Apostles! * Rejoice, fulfillment of the Prophets! * Rejoice, beauty of monks and ascetics! ** Blameless Virgin, the salvation of the faithful!"
 
 trVE.Apolytikion1.mode = misc_en_US_oca.Mode4
-trVE.Apolytikion1.melody  = ""
+trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = he.ga_en_US_oca.OTheosTonPateronImon.text
 
 trVE.ApolTheotokion.mode = misc_en_US_oca.Mode4
-trVE.ApolTheotokion.melody  = ""
+trVE.ApolTheotokion.melody = ""
 trVE.ApolTheotokion.text = oc.m4.d1_en_US_oca.ocVE.ApolTheotokionVM.text
 
 trMA.Kathisma11.mode = misc_en_US_oca.Mode8
@@ -644,9 +644,9 @@ trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = ""
 
 trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode2
-trLI.SeasonalKontakion.melody  = ""
+trLI.SeasonalKontakion.melody = ""
 trLI.SeasonalKontakion.text = ho.s07_en_US_oca.hoTY.Key0408.text
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
 
 trMegalynarion.text = ""

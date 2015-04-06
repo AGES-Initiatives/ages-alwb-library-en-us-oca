@@ -623,23 +623,17 @@ meMA.LaudsBoth.mode = misc_en_US_oca.Mode6
 meMA.LaudsBoth.melody = he.a.m6_en_US_oca.AiAngelikai.name
 meMA.LaudsBoth.text = ""
 
-meMA.LaudsSundayVerse1.text = "" //for media
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meMA.Aposticha1.poet = poets_en_US_oca.Germanou
 meMA.Aposticha1.mode = misc_en_US_oca.Mode6
 meMA.Aposticha1.melody = ""
 meMA.Aposticha1.text = ""
 
-meMA.ApostichaVerse2.text = ""
-
 meMA.Aposticha2.poet = poets_en_US_oca.Germanou
 meMA.Aposticha2.mode = misc_en_US_oca.Mode6
 meMA.Aposticha2.melody = ""
 meMA.Aposticha2.text = ""
-
-meMA.ApostichaVerse3.text = ""
 
 meMA.Aposticha3.poet = poets_en_US_oca.Germanou
 meMA.Aposticha3.mode = misc_en_US_oca.Mode6

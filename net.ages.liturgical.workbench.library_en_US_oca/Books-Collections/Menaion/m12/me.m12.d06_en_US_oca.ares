@@ -183,11 +183,8 @@ meMA.Kathisma3T.mode = misc_en_US_oca.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_oca.TachyProkatalave.name
 meMA.Kathisma3T.text = ""
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = "" // for media
 // This is from Pat. Hem. which differs from Menaion
-//meMA.Gospel.name = "" 
-//meMA.Gospel.chapverse = ""
-//meMA.Gospel.text = ""
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -760,9 +757,9 @@ meMA.AdditionalIdiomelonGlory.text = meVE.LityGlory.text
 meMA.AdditionalIdiomelonBoth.mode = misc_en_US_oca.Mode8
 meMA.AdditionalIdiomelonBoth.melody = ""
 meMA.AdditionalIdiomelonBoth.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
-meMA.LaudsSundayVerse1.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
-meMA.LaudsSundayVerse1.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -772,7 +769,7 @@ meLI.SeasonalKontakion.mode = me.m12.d20_en_US_oca.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m12.d20_en_US_oca.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m12.d20_en_US_oca.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = ""
 
 meMegalynarion.text = ""
 

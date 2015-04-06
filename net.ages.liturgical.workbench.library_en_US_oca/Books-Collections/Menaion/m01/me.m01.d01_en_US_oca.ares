@@ -144,11 +144,8 @@ meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = ""
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = "" // for media
 // From saved ages file; maybe slightly different beginning? (extra clause)
-//meMA.Gospel.name = bible_en_US_oca.John 
-//meMA.Gospel.chapverse = ""
-//meMA.Gospel.text = le.go.me.m01.d01_en_US_oca.lemeMA.Gospel.text
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -645,13 +642,11 @@ meMA.LaudsBoth.mode = misc_en_US_oca.Mode8
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = meVE.Stichera01.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Antiphon2.text = ""
 
-meLI.EntranceHymn.text = ho.s07_en_US_oca.hoLI.EntranceHymn.text
+meLI.MM.EntranceHymn.text = ho.s07_en_US_oca.hoLI.EntranceHymn.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -664,7 +659,7 @@ meLI.SeasonalKontakion.text = meMA.Ode3Kathisma3.text
 meLI.TheotokosHymn.mode = ""
 meLI.TheotokosHymn.text = eu.lichrysbasil_en_US_oca.euLI.Key1328.basil.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = ""
 
 meLI.AfterCommunion.mode = misc_en_US_oca.Mode1
 meLI.AfterCommunion.text = meVE.Apolytikion2.text

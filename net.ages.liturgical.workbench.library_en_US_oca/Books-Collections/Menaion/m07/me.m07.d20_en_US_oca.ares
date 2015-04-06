@@ -114,7 +114,7 @@ meMA.Kathisma2T.text = oc.m1.d1_en_US_oca.ocMA.Kathisma23.text
 
 //Not in Menaion, optional Matins Gospel
 meR01 = ""
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -502,7 +502,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -512,6 +512,6 @@ meLI.SeasonalKontakion.mode = misc_en_US_oca.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_oca.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""

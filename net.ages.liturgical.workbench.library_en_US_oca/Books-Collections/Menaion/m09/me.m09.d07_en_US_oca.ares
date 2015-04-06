@@ -26,7 +26,7 @@ meVE.Stichera03.mode = misc_en_US_oca.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.name
 meVE.Stichera03.text = ""
 
-meVE.Stichera123Sunday.text = "" // for media
+meVE.MM.Stichera123Sunday.text = "" // for media
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_oca.EdokasSimeiosin.name
@@ -455,7 +455,7 @@ meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meMA.Aposticha1.mode = misc_en_US_oca.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.name
@@ -481,7 +481,7 @@ meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

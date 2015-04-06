@@ -668,14 +668,10 @@ meMA.Aposticha1.mode = misc_en_US_oca.Mode4
 meMA.Aposticha1.melody = ""
 meMA.Aposticha1.text = ""
 
-meMA.ApostichaVerse2.text = ""
-
 meMA.Aposticha2.poet = poets_en_US_oca.Anatoliou
 meMA.Aposticha2.mode = misc_en_US_oca.Mode4
 meMA.Aposticha2.melody = ""
 meMA.Aposticha2.text = ""
-
-meMA.ApostichaVerse3.text = ""
 
 meMA.Aposticha3.mode = misc_en_US_oca.Mode4
 meMA.Aposticha3.melody = ""
@@ -691,7 +687,7 @@ meMA.AposBoth.mode = misc_en_US_oca.Mode6
 meMA.AposBoth.melody = ""
 meMA.AposBoth.text = ""
 
-meMA.LaudsSundayVerse1.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

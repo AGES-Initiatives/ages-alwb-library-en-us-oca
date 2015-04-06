@@ -37,11 +37,11 @@ trVE.SticGlory.melody = misc_en_US_oca.Idiomelon
 trVE.SticGlory.text = "The devil used the Apostate as a vessel of evil * filling him with foul thoughts of polluting the food of the fasting people. * But you overcame his craftiness with wiser reasoning: * you appeared to the Archbishop in a dream, * and revealed the wicked plot to him. * For this we give thanks to you, martyr Theodore, * and honor you as a helper and deliverer. * Every year we remember this miracle at this season. * By your intercessions to God, ** may we be delivered from the reasonings of the evil one!"
 
 trVE.Apolytikion1.mode = misc_en_US_oca.Mode2
-trVE.Apolytikion1.melody  = ""
+trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = ""
 
 trVE.ApolTheotokion.mode = misc_en_US_oca.Mode2
-trVE.ApolTheotokion.melody  = ""
+trVE.ApolTheotokion.melody = ""
 trVE.ApolTheotokion.text = //oc.m2.d1_en_US_oca.ocVE.ApolTheotokionVM.text
 
 //Supplicatory Canon to St. Theodore
@@ -144,7 +144,7 @@ trCA.Ode6T.mode = misc_en_US_oca.Mode8
 trCA.Ode6T.text = ""
 
 trCA.Kontakion.mode = misc_en_US_oca.Mode8
-trCA.Kontakion.melody  = ""
+trCA.Kontakion.melody = ""
 trCA.Kontakion.text = trMA.Kontakion1.text
 
 trCA.Ode71.ode = misc_en_US_oca.Ode7
@@ -218,15 +218,15 @@ trCA.Ode9H.mode = misc_en_US_oca.Mode8
 //trCA.Ode9H.text = he.h.m8_en_US_oca.SeTinApeirogamon.text
 
 trCA.Troparion1.mode = misc_en_US_oca.Mode2
-trCA.Troparion1.melody  = ""
+trCA.Troparion1.melody = ""
 trCA.Troparion1.text = trVE.Apolytikion1.text
 
 trCA.Troparion2.mode = misc_en_US_oca.Mode8
-trCA.Troparion2.melody  = ""
+trCA.Troparion2.melody = ""
 trCA.Troparion2.text = trMA.Kontakion1.text
 
 trCA.Troparion3.mode = misc_en_US_oca.Mode8
-trCA.Troparion3.melody  = ""
+trCA.Troparion3.melody = ""
 trCA.Troparion3.text = ""
 
 trMA.Kathisma21.mode = misc_en_US_oca.Mode3
@@ -278,22 +278,22 @@ trMA.Ode1C1T.text = ""
 
 trMA.Ode1C21.ode = misc_en_US_oca.Ode1
 trMA.Ode1C21.mode = misc_en_US_oca.Mode6
-trMA.Ode1C21.melody  = ""
+trMA.Ode1C21.melody = ""
 trMA.Ode1C21.text = ""
 
 trMA.Ode1C22.ode = misc_en_US_oca.Ode1
 trMA.Ode1C22.mode = misc_en_US_oca.Mode6
-trMA.Ode1C22.melody  = ""
+trMA.Ode1C22.melody = ""
 trMA.Ode1C22.text = ""
 
 trMA.Ode1C23.ode = misc_en_US_oca.Ode1
 trMA.Ode1C23.mode = misc_en_US_oca.Mode6
-trMA.Ode1C23.melody  = ""
+trMA.Ode1C23.melody = ""
 trMA.Ode1C23.text = ""
 
 trMA.Ode1C2T.ode = misc_en_US_oca.Ode1
 trMA.Ode1C2T.mode = misc_en_US_oca.Mode6
-trMA.Ode1C2T.melody  = ""
+trMA.Ode1C2T.melody = ""
 trMA.Ode1C2T.text = ""
 
 trMA.Ode1K.ode = misc_en_US_oca.Ode1
@@ -748,14 +748,14 @@ trMA.AposGlory.melody = misc_en_US_oca.Idiomelon
 trMA.AposGlory.text = ""
 
 trMA.AposTheotokion.mode = misc_en_US_oca.Mode8
-trMA.AposTheotokion.melody  = ""
+trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.text = //oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode2
-trLI.SeasonalKontakion.melody  = ""
+trLI.SeasonalKontakion.melody = ""
 trLI.SeasonalKontakion.text = ho.s07_en_US_oca.hoTY.Key0408.text
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
 
 trMegalynarion.text = ""
 

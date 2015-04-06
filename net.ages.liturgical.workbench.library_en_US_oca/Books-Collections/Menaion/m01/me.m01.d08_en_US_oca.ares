@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,7 +41,7 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_oca.AndreouIerosolymitou
 meVE.SticGlory.mode = misc_en_US_oca.Mode1
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m01.d06_en_US_oca.meMA.Lauds5.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode6
@@ -62,11 +62,11 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_oca.Anatoliou
 meVE.AposGlory.mode = misc_en_US_oca.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m01.d06_en_US_oca.meVE.Aposticha1.text
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m01.d06_en_US_oca.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode4
@@ -297,7 +297,7 @@ meMA.Ode6H.mode = misc_en_US_oca.Mode2
 meMA.Ode6H.melody = misc_en_US_oca.Heirmos
 meMA.Ode6H.text = he.h.m2_en_US_oca.EnAvyssoPtaismaton.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_oca.Ode7
 meMA.Ode7C11.mode = misc_en_US_oca.Mode4
@@ -442,21 +442,15 @@ meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
 meMA.Exaposteilarion2.melody = misc_en_US_oca.Automelon
 meMA.Exaposteilarion2.text = he.a.m3_en_US_oca.EpefaniOSotir.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meMA.Aposticha1.mode = misc_en_US_oca.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.name
 meMA.Aposticha1.text = ""
 
-meMA.ApostichaVerse2.text = ""
-
 meMA.Aposticha2.mode = misc_en_US_oca.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.name
 meMA.Aposticha2.text = ""
-
-meMA.ApostichaVerse3.text = ""
 
 meMA.Aposticha3.mode = misc_en_US_oca.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.name

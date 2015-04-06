@@ -112,7 +112,7 @@ meMA.Kathisma32.mode = misc_en_US_oca.Mode8
 meMA.Kathisma32.melody = he.a.m8_en_US_oca.ToProstachthen.name
 meMA.Kathisma32.text = me.m11.d21_en_US_oca.meMA.Kathisma31.text
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -550,8 +550,7 @@ meMA.LaudsBoth.mode = misc_en_US_oca.Mode2
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m11.d21_en_US_oca.meMA.LaudsGlory.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
-meMA.LaudsSundayVerse2.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -565,7 +564,7 @@ meLI.TheotokosHymn.mode = ""
 meLI.TheotokosHymnVerse.text = ""
 meLI.TheotokosHymn.text = ""
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_oca.HolidayAll
 meHO.note2 = ""
@@ -17,26 +17,26 @@ meDismissal = dismissals_en_US_oca.dis00.epiphany
 
 meVE.Stichera01.poet = poets_en_US_oca.IoannouMonachou
 meVE.Stichera01.mode = misc_en_US_oca.Mode2
-meVE.Stichera01.melody  = ""
+meVE.Stichera01.melody = ""
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode2
-meVE.Stichera02.melody  = ""
+meVE.Stichera02.melody = ""
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode2
-meVE.Stichera03.melody  = ""
+meVE.Stichera03.melody = ""
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode2
-meVE.Stichera04.melody  = ""
+meVE.Stichera04.melody = ""
 meVE.Stichera04.text = ""
 
 meVE.Stichera567.text = "" //for media
 
 meVE.SticGlory.poet = poets_en_US_oca.Vyzantos
 meVE.SticGlory.mode = misc_en_US_oca.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.ProphecyTroparion1.mode = misc_en_US_oca.Mode5
@@ -47,10 +47,10 @@ meVE.ProphecyTroparion2.mode = misc_en_US_oca.Mode6
 meVE.ProphecyTroparion2.text = ""
 meVE.ProphecyTroparion2Refrain.text = ""
 
-meVE.TheotokosHymn.mode  = ""
+meVE.TheotokosHymn.mode = ""
 meVE.TheotokosHymn.text = eu.lichrysbasil_en_US_oca.euLI.Key1328.basil.text
 
-meVE.CommunionHymn.text = da.d1_en_US_oca.daLI.CommunionHymn.text
+meVE.MM.CommunionHymn.text = properties_en_US_oca.media.key
 
 //Great Water Blessing for Jan 6 Epiphany
 meGW.title = ""
@@ -120,59 +120,59 @@ meGW.R09 = ""
 
 meVE.Lity1.poet = poets_en_US_oca.KosmaMonachou
 meVE.Lity1.mode = misc_en_US_oca.Mode4
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_oca.Mode4
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_oca.Mode4
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = "Come, let us go like the wise virgins, * and meet the Master Who has appeared: * For as a bridegroom He has come forth to John. * The Jordan, seeing You, was driven back in fear; * John cried out: I dare not touch Your immortal head. * The Spirit came down in the form of a dove, hallowing the waters, * and a voice called from on high: * This is my Son Who has come into the world to save mankind. ** O Lord, glory to You!"
 
 meVE.Lity4.mode = misc_en_US_oca.Mode4
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.mode = misc_en_US_oca.Mode4
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.LityGlory.poet =poets_en_US_oca.IoannouMonachou
 meVE.LityGlory.mode = misc_en_US_oca.Mode8
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.poet = poets_en_US_oca.Anatoliou
 meVE.LityBoth.mode = misc_en_US_oca.Mode8
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.poet = poets_en_US_oca.Anatoliou
 meVE.Aposticha1.mode = misc_en_US_oca.Mode2
-meVE.Aposticha1.melody  = ""
+meVE.Aposticha1.melody = ""
 meVE.Aposticha1.text = ""
 
 meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode2
-meVE.Aposticha2.melody  = ""
+meVE.Aposticha2.melody = ""
 meVE.Aposticha2.text = ""
 
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode2
-meVE.Aposticha3.melody  = ""
+meVE.Aposticha3.melody = ""
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_oca.Theofanous
 meVE.AposGlory.mode = misc_en_US_oca.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode3
@@ -187,18 +187,18 @@ meMA.Kathisma31.mode = misc_en_US_oca.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_oca.TachyProkatalave.name
 meMA.Kathisma31.text = ""
 
-meMA.Prokeimenon.text = "" //for media
+meMA.MM.Prokeimenon.text = "" //for media
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ""
 
 meMA.PostGospelBoth.mode = misc_en_US_oca.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = meMA.PostGospelGlory.text 
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = ""
 
 meMA.C1Poet = poets_en_US_oca.Kosma
@@ -308,7 +308,7 @@ meMA.Ode3C224.text = ""
 meMA.Ode3C225.text = ""
 
 meMA.Hypakoe.mode = misc_en_US_oca.Mode5
-meMA.Hypakoe.melody  = ""
+meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -443,7 +443,7 @@ meMA.Ode6C2H5.text = he.h.m2_en_US_oca.ImertonExefine5.text
 
 meMA.Ode6C21.ode = misc_en_US_oca.Ode6
 meMA.Ode6C21.mode = misc_en_US_oca.Mode2
-meMA.Ode6C21.melody  = ""
+meMA.Ode6C21.melody = ""
 meMA.Ode6C21.text = ""
 meMA.Ode6C211.text = ""
 meMA.Ode6C212.text = ""
@@ -453,7 +453,7 @@ meMA.Ode6C215.text = ""
 
 meMA.Ode6C22.ode = misc_en_US_oca.Ode6
 meMA.Ode6C22.mode = misc_en_US_oca.Mode2
-meMA.Ode6C22.melody  = ""
+meMA.Ode6C22.melody = ""
 meMA.Ode6C22.text = ""
 meMA.Ode6C221.text = ""
 meMA.Ode6C222.text = ""
@@ -468,7 +468,7 @@ meMA.Kontakion1.text = he.a.m4_en_US_oca.EpefanisSimeron.text
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_oca.Ode7
 meMA.Ode7C1H.mode = misc_en_US_oca.Mode2
@@ -647,7 +647,7 @@ meMA.Ode9C223.text = ""
 meMA.Ode9C224.text = ""
 meMA.Ode9C225.text = ""
 
-meMA.Exaposteilarion1.poet  = ""
+meMA.Exaposteilarion1.poet = ""
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
 meMA.Exaposteilarion1.melody = misc_en_US_oca.Automelon
 meMA.Exaposteilarion1.text = he.a.m3_en_US_oca.EpefaniOSotir.text
@@ -684,13 +684,11 @@ meMA.LaudsBoth.mode = misc_en_US_oca.Mode2
 meMA.LaudsBoth.melody = misc_en_US_oca.Idiomelon
 meMA.LaudsBoth.text = ""
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Antiphon2.text = ""
 
-meLI.EntranceHymn.text = ""
+meLI.MM.EntranceHymn.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -704,7 +702,7 @@ meLI.TheotokosHymn.mode = misc_en_US_oca.Mode2
 meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
 meLI.TheotokosHymn.text = meMA.Ode9C1H.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = ""
 
 meMegalynarion.text = ""
 

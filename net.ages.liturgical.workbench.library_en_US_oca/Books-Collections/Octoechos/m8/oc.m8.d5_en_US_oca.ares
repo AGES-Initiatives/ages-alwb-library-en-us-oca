@@ -37,7 +37,7 @@ ocVE.Aposticha2.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.name
 ocVE.Aposticha2.text = ""
 
 ocVE.Aposticha3.mode = misc_en_US_oca.Mode8
-ocVE.Aposticha3.melody  = ""
+ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.text = ""
 
 ocVE.AposTheotokion.mode = misc_en_US_oca.Mode8
@@ -45,7 +45,7 @@ ocVE.AposTheotokion.melody = he.a.m8_en_US_oca.TiYmasKalesomen.name
 ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_oca.Mode8
-ocVE.ApolTheotokionVM.melody  = ""
+ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m8.d5_en_US_oca.ocMA.Kathisma33.text
 
 ocMA.Kathisma11.mode = misc_en_US_oca.Mode8
@@ -81,7 +81,7 @@ ocMA.Kathisma32.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
 ocMA.Kathisma32.text = ""
 
 ocMA.Kathisma33.mode = misc_en_US_oca.Mode8
-ocMA.Kathisma33.melody  = ""
+ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.text = ""
 
 ocMA.C1Acrostic.text = ""
@@ -453,39 +453,39 @@ ocMA.Aposticha2.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.name
 ocMA.Aposticha2.text = oc.m8.d5_en_US_oca.ocVE.Aposticha2.text
 
 ocMA.Aposticha3.mode = misc_en_US_oca.Mode8
-ocMA.Aposticha3.melody  = ""
+ocMA.Aposticha3.melody = ""
 ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_US_oca.Mode8
-ocMA.AposTheotokion.melody  = ""
+ocMA.AposTheotokion.melody = ""
 ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_oca.Mode8
-ocMA.ApolTheotokion.melody  = ""
+ocMA.ApolTheotokion.melody = ""
 ocMA.ApolTheotokion.text = oc.m8.d3_en_US_oca.ocMA.ApolTheotokion.text
 
 ocLI.Beatitudes1.mode = misc_en_US_oca.Mode8
-ocLI.Beatitudes1.melody  = ""
+ocLI.Beatitudes1.melody = ""
 ocLI.Beatitudes1.text = oc.m8.d1_en_US_oca.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_US_oca.Mode8
-ocLI.Beatitudes2.melody  = ""
+ocLI.Beatitudes2.melody = ""
 ocLI.Beatitudes2.text = ""
 
 ocLI.Beatitudes3.mode = misc_en_US_oca.Mode8
-ocLI.Beatitudes3.melody  = ""
+ocLI.Beatitudes3.melody = ""
 ocLI.Beatitudes3.text = ""
 
 ocLI.Beatitudes4.mode = misc_en_US_oca.Mode8
-ocLI.Beatitudes4.melody  = ""
+ocLI.Beatitudes4.melody = ""
 ocLI.Beatitudes4.text = ""
 
 ocLI.BeatitudesGlory.mode = misc_en_US_oca.Mode8
-ocLI.BeatitudesGlory.melody  = ""
+ocLI.BeatitudesGlory.melody = ""
 ocLI.BeatitudesGlory.text = ""
 
 ocLI.BeatitudesBoth.mode = misc_en_US_oca.Mode8
-ocLI.BeatitudesBoth.melody  = ""
+ocLI.BeatitudesBoth.melody = ""
 ocLI.BeatitudesBoth.text = ""
 
 //Octoechos in Triodion
@@ -500,19 +500,19 @@ octrMA.Triadic3.mode = misc_en_US_oca.Mode8
 octrMA.Triadic3.text = oc.m8.d2_en_US_oca.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_US_oca.Mode8
-octrMA.Kathisma11.melody  = ""
+octrMA.Kathisma11.melody = ""
 octrMA.Kathisma11.text = pe.d120_en_US_oca.peVE.Apolytikion1.text
 
 octrMA.Kathisma12.mode = misc_en_US_oca.Mode8
-octrMA.Kathisma12.melody  = he.a.m8_en_US_oca.TinSofianKaiLogon.name
+octrMA.Kathisma12.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
 octrMA.Kathisma12.text = ""
 
 octrMA.Kathisma1T.mode = misc_en_US_oca.Mode8
-octrMA.Kathisma1T.melody  = ""
+octrMA.Kathisma1T.melody = ""
 octrMA.Kathisma1T.text = ""
 
 octrMA.Ode7Martyricon.mode = misc_en_US_oca.Mode8
-octrMA.Ode7Martyricon.melody  = ""
+octrMA.Ode7Martyricon.melody = ""
 octrMA.Ode7Martyricon.text = ""
 
 octrMA.Photogogic.mode = misc_en_US_oca.Mode8
