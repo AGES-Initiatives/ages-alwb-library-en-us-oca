@@ -286,9 +286,7 @@ meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = "" // for media
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meMA.AposGlory.poet = poets_en_US_oca.GeorgiouSikeliotou
 meMA.AposGlory.mode = misc_en_US_oca.Mode8
@@ -303,7 +301,7 @@ meMA.AposStavrotheotokion.mode = misc_en_US_oca.Mode8
 meMA.AposStavrotheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.name
 meMA.AposStavrotheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -313,7 +311,7 @@ meLI.SeasonalKontakion.mode = me.m12.d20_en_US_oca.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m12.d20_en_US_oca.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m12.d20_en_US_oca.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

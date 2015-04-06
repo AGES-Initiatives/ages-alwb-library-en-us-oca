@@ -138,11 +138,8 @@ meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_oca.ToProstachthen.name
 meMA.Kathisma3T.text = ""
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = "" // for media
 //This is the Gospel reading prescribed by the Patriarchal Hemerologion
-//meMA.Gospel.name = ""
-//meMA.Gospel.chapverse = ""
-//meMA.Gospel.text = ""
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -572,7 +569,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -582,7 +579,7 @@ meLI.SeasonalKontakion.mode = me.m11.d21_en_US_oca.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = me.m11.d21_en_US_oca.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = me.m11.d21_en_US_oca.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // media
+meLI.MM.CommunionHymn.text = "" // media
 
 meMegalynarion.text = ""
 

@@ -6,11 +6,11 @@ daCommemoration.text = ""
 daVE.OnTheEveningBefore = template.titles_en_US_oca.d.onTuesdayEvening
 
 daVE.Apolytikion1.mode = misc_en_US_oca.Mode1
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = me.m09.d14_en_US_oca.meVE.Apolytikion1.text
 
 daVE.ApolTheotokion.mode = misc_en_US_oca.Mode1
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m1.d4_en_US_oca.ocVE.ApolTheotokionVM.text
 
 daMA.Triadic1Ending.text = ""

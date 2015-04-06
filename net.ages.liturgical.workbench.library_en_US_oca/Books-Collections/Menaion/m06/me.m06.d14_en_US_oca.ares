@@ -462,9 +462,7 @@ meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.name
 meMA.ExapTheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meMA.AposGlory.poet = poets_en_US_oca.FotiouPatriarchou
 meMA.AposGlory.mode = misc_en_US_oca.Mode6
@@ -487,7 +485,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_oca.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_oca.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = ""
 
 meMegalynarion.text = ""
 

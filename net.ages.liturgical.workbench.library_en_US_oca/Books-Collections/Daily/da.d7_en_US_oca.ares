@@ -7,15 +7,15 @@ daVE.OnTheAfternoonBefore = template.titles_en_US_oca.d.onFridayAfternoon
 daVE.OnTheEveningBefore = template.titles_en_US_oca.d.onFridayEvening
 
 daVE.Apolytikion1.mode = misc_en_US_oca.Mode2
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = oc.m2.d5_en_US_oca.ocMA.Kathisma32.text
 
 daVE.Apolytikion2.mode = misc_en_US_oca.Mode2
-daVE.Apolytikion2.melody  = ""
+daVE.Apolytikion2.melody = ""
 daVE.Apolytikion2.text = oc.m2.d7_en_US_oca.ocMA.Kathisma23.text
 
 daVE.ApolTheotokion.mode = misc_en_US_oca.Mode2
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m2.d2_en_US_oca.ocMA.ApolTheotokion.text
 
 daMA.Photagogic1Ending.text = prayers_en_US_oca.fePresveiaisTonAgionKaiSosonMe

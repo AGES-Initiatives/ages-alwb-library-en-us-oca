@@ -18,7 +18,7 @@ trVE.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
 trVE.AposIdiomelon1.text = "We have completed the forty days which profit our souls. * Now let us beg the Lover of man; * enable us to see the holy week of your Passion, * that we may glorify your mighty work, * your wonderful plan for our salvation, * singing with one heart and voice, ** Lord, glory to you!"
 
 trVE.AposMartyric.mode = misc_en_US_oca.Mode8
-trVE.AposMartyric.melody  = ""
+trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = "Martyrs of the Lord, * we beseech you to intercede with our God, * that he may forgive our many sins, ** and grant our souls abundant mercy."
 
 trVE.Stichera01.poet = poets_en_US_oca.LeontosTouVasileos
@@ -52,7 +52,7 @@ trVE.SticBoth.melody = misc_en_US_oca.Idiomelon
 trVE.SticBoth.text = "We have completed the Forty Days which profit our souls. * Let us sing: Rejoice, city of Bethany, home of Lazarus! * Rejoice, Mary and Martha, his sisters! * Tomorrow Christ will come and raise your dead brother to life. * Bitter and unsatisfied, hell will hear his voice. * Shaking and groaning, it will release bound Lazarus. * The assembly of Hebrews will be amazed. * They will greet him with palms and branches! * Though their priests and elders look on him with envy and malice, * the children shall praise him in song: * Blessed is he that comes in the name of the Lord, ** the King of Israel!"
 
 trVE.Apolytikion1.mode = misc_en_US_oca.Mode1
-trVE.Apolytikion1.melody  = ""
+trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = ""
 
 trCO.C1Poet = poets_en_US_oca.AndreouKritis
@@ -816,7 +816,7 @@ trMA.Ode8C23.text = ""
 
 trMA.Ode8K.ode = misc_en_US_oca.Ode8
 trMA.Ode8K.mode = misc_en_US_oca.Mode8
-trMA.Ode8K.melody  = ""
+trMA.Ode8K.melody = ""
 trMA.Ode8K.text = he.h.m8_en_US_oca.TonVasileaTonOuranon.text
 
 trMA.Ode9C1H.ode = misc_en_US_oca.Ode9
@@ -904,7 +904,7 @@ trMA.LaudsGlory.melody = misc_en_US_oca.Idiomelon
 trMA.LaudsGlory.text = ""
 
 trMA.LaudsTheotokion.mode = misc_en_US_oca.Mode2
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode2
@@ -914,7 +914,7 @@ trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 trLI.TheotokosHymn.mode = misc_en_US_oca.Mode8
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text
 
-trLI.CommunionHymn.text = "" //for media
+trLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
 
 trLI.AfterCommunion.mode = misc_en_US_oca.Mode1
 trLI.AfterCommunion.text = trVE.Apolytikion1.text

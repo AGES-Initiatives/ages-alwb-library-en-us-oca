@@ -490,8 +490,6 @@ meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
 meMA.ExapTheotokion.melody = //he.a.m3_en_US_oca.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "We, the faithful, all send you now as mediator * to Him Who was born of you, and crucified for many!** Virgin, do not cease, to intercede for us!"
 
-meMA.ApostichaVerse4.text = ""
-
 meMA.Aposticha4.mode = misc_en_US_oca.Mode2
 meMA.Aposticha4.melody = ""
 meMA.Aposticha4.text = "Come, all who love the martyrs! * Let us honor their thrice-radiant chorus: * Mennas, Victor and Vincent, * for they paid with blood to purchase eternal life! * They spoke out against the author of evil, saying: * We will not prefer corruptible things to incorruptible! * We will not do battle for an earthly and mortal king, * but we will fight for the living King Who ever cries to the faithful:** He who believes in me, even if he dies, he shall live!"
@@ -509,7 +507,7 @@ meMA.AposStavrotheotokion.mode = misc_en_US_oca.Mode1
 meMA.AposStavrotheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.name
 meMA.AposStavrotheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -519,7 +517,7 @@ meLI.SeasonalKontakion.mode = "" // me.m11.d21_en_US_oca.meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = "" // me.m11.d21_en_US_oca.meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = "" // me.m11.d21_en_US_oca.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

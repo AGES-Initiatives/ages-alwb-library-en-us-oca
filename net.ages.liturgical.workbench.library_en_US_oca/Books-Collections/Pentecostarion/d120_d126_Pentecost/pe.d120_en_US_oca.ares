@@ -83,7 +83,7 @@ peVE.AposGlory.melody = misc_en_US_oca.Idiomelon
 peVE.AposGlory.text = ""
 
 peVE.Apolytikion1.mode = misc_en_US_oca.Mode8
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = ""
 
 peMA.Kathisma11.mode = misc_en_US_oca.Mode4
@@ -98,14 +98,14 @@ peMA.Kathisma31.mode = misc_en_US_oca.Mode8
 peMA.Kathisma31.melody = he.a.m8_en_US_oca.ToProstachthen.name
 peMA.Kathisma31.text = ""
 
-peMA.Prokeimenon.text = "" //for media
+peMA.MM.Prokeimenon.text = "" //for media
 
 peMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
-peMA.PostGospelGlory.melody  = ""
+peMA.PostGospelGlory.melody = ""
 peMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelApostles.text
 
 peMA.PostGospelBoth.mode = misc_en_US_oca.Mode2
-peMA.PostGospelBoth.melody  = ""
+peMA.PostGospelBoth.melody = ""
 peMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
@@ -348,7 +348,7 @@ peMA.Ode6C224.text = ""
 peMA.Ode6C225.text = ""
 
 peMA.Kontakion1.mode = misc_en_US_oca.Mode8
-peMA.Kontakion1.melody  = ""
+peMA.Kontakion1.melody = ""
 peMA.Kontakion1.text = ""
 
 peMA.Oikos1.text = ""
@@ -524,33 +524,33 @@ peMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
 peMA.Exaposteilarion2.text = ""
 
 peMA.Lauds1.mode = misc_en_US_oca.Mode4
-peMA.Lauds1.melody  = ""
+peMA.Lauds1.melody = ""
 peMA.Lauds1.text = ""
 
 peMA.Lauds2.mode = misc_en_US_oca.Mode4
-peMA.Lauds2.melody  = ""
+peMA.Lauds2.melody = ""
 peMA.Lauds2.text = ""
 
 peMA.Lauds3.mode = misc_en_US_oca.Mode4
-peMA.Lauds3.melody  = ""
+peMA.Lauds3.melody = ""
 peMA.Lauds3.text = ""
 
 peMA.LaudsGlory.mode = misc_en_US_oca.Mode6
-peMA.LaudsGlory.melody  = ""
+peMA.LaudsGlory.melody = ""
 peMA.LaudsGlory.text = prayers_en_US_oca.VasilefOuranie.text
 
 peLI.Antiphon2.text = ""
 
-peLI.EntranceHymn.text = ""
+peLI.MM.EntranceHymn.text = properties_en_US_oca.media.key
 
 peLI.SeasonalKontakion.mode = misc_en_US_oca.Mode8
-peLI.SeasonalKontakion.melody  = ""
+peLI.SeasonalKontakion.melody = ""
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_US_oca.Mode7
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = ""
+peLI.MM.CommunionHymn.text = ""
 
 peLI.AfterCommunion.mode = misc_en_US_oca.Mode8
 peLI.AfterCommunion.text = peVE.Apolytikion1.text

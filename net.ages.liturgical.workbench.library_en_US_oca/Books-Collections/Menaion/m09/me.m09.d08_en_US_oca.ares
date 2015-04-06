@@ -146,10 +146,7 @@ meMA.Kathisma31.mode = misc_en_US_oca.Mode8
 meMA.Kathisma31.melody = he.a.m8_en_US_oca.ToProstachthen.name
 meMA.Kathisma31.text = ""
 
-meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = ""
-//meMA.Gospel.chapverse = ""
-//meMA.Gospel.text = ""
+meMA.MM.Prokeimenon.text = "" // for media
 //From goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=370andlanguage=elanddate=9/8/2012
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
@@ -669,13 +666,11 @@ meMA.LaudsGlory.mode = misc_en_US_oca.Mode6
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
-meMA.LaudsSundayVerse1.text = "" // for media
-
-meMA.LaudsSundayVerse2.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Antiphon2.text = ho.s07_en_US_oca.hoLI.Antiphon2w.text
 
-meLI.EntranceHymn.text = ho.s07_en_US_oca.hoLI.EntranceHymn.text
+meLI.MM.EntranceHymn.text = ho.s07_en_US_oca.hoLI.EntranceHymn.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -688,7 +683,7 @@ meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 meLI.TheotokosHymn.mode = misc_en_US_oca.Mode8
 meLI.TheotokosHymn.text = he.h.m8_en_US_oca.AllotrionTonMiteron.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

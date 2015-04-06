@@ -176,7 +176,7 @@ pePA.Ode6T2.melody = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.name
 pePA.Ode6T2.text = ""
 
 pePA.Kontakion.mode = misc_en_US_oca.Mode8
-pePA.Kontakion.melody  = ""
+pePA.Kontakion.melody = ""
 pePA.Kontakion.text = ""
 
 pePA.Oikos.text = ""
@@ -333,7 +333,7 @@ pePA.Antiphon2.text = ho.s07_en_US_oca.hoLI.Antiphon2s.text
 pePA.EntranceHymn.text = "" //for media
 
 pePA.SeasonalKontakion.mode = misc_en_US_oca.Mode8
-pePA.SeasonalKontakion.melody  = ""
+pePA.SeasonalKontakion.melody = ""
 pePA.SeasonalKontakion.text = pePA.Kontakion.text
 
 pePA.TheotokosHymn.mode = misc_en_US_oca.Mode1

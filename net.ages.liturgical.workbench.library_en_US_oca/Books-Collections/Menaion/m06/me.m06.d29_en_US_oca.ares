@@ -165,10 +165,7 @@ meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
 meMA.Kathisma3T.melody = misc_en_US_oca.Automelon
 meMA.Kathisma3T.text = he.a.m8_en_US_oca.TinSofianKaiLogon.text
 
-meMA.Prokeimenon.text = "" // for media
-//meMA.Gospel.name = ""
-//meMA.Gospel.chapverse = ""
-//meMA.Gospel.text = ""
+meMA.MM.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -592,7 +589,7 @@ meMA.Lauds4.mode = misc_en_US_oca.Mode4
 meMA.Lauds4.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.name
 meMA.Lauds4.text = ""
 
-meMA.Lauds456.text = "" // for media
+meMA.MM.Lauds123as456.text = "" // for media
 
 meMA.LaudsGlory.poet = poets_en_US_oca.KosmaMonachou
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode6
@@ -603,9 +600,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode6
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -615,7 +610,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_oca.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_oca.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d5_en_US_oca.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = da.d5_en_US_oca.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""
 
