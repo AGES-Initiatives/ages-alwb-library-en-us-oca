@@ -48,8 +48,7 @@ ocVE.ApolTheotokionVM.mode = misc_en_US_oca.Mode8
 ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m8.d1_en_US_oca.ocVE.ApolTheotokionVM.text
 
-ocMA.Alleluia.mode = misc_en_US_oca.Mode8 // for mode-specific media e.g. Triodion
-ocMA.Alleluia.text = prayers_en_US_oca.Allilouia3.text
+ocMA.MM.Alleluia.text = properties_en_US_oca.media.key
 
 ocMA.Kathisma11.mode = misc_en_US_oca.Mode8
 ocMA.Kathisma11.melody = ""

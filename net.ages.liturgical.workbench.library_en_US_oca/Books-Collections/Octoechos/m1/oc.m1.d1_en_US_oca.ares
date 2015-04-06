@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m1.d1_en_US_oca
 
-ocGE.GlorySticheraric.mode = misc_en_US_oca.Mode1 // for mode-specific media
-ocGE.GlorySticheraric.text = prayers_en_US_oca.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_en_US_oca.media.key
 
-ocGE.BothSticheraric.mode = misc_en_US_oca.Mode1 // for mode-specific media
-ocGE.BothSticheraric.text = prayers_en_US_oca.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_en_US_oca.media.key
 
-ocGE.GloryHeirmologic.mode = misc_en_US_oca.Mode1 // for mode-specific media
-ocGE.GloryHeirmologic.text = prayers_en_US_oca.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_en_US_oca.media.key
 
-ocGE.BothHeirmologic.mode = misc_en_US_oca.Mode1 // for mode-specific media
-ocGE.BothHeirmologic.text = prayers_en_US_oca.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_en_US_oca.media.key
 
 ocSV.Dogmatic.mode = misc_en_US_oca.Mode1
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_en_US_oca.Mode1
 ocSV.AposDogmatic.melody = misc_en_US_oca.Automelon
 ocSV.AposDogmatic.text = he.a.m1_en_US_oca.NefelinSeFotos.text
 
-ocVE.LIHC1.mode = misc_en_US_oca.Mode1
-ocVE.LIHC1.text = "" //for media //for media
+ocVE.MM.LIHC1.text = properties_en_US_oca.media.key
 
-ocVE.LIHC2.mode = misc_en_US_oca.Mode1
-ocVE.LIHC2.text = "" //for media //for media
+ocVE.MM.LIHC2.text = properties_en_US_oca.media.key
 
 ocVE.Stichera1.mode = misc_en_US_oca.Mode1
 ocVE.Stichera1.melody = ""
@@ -257,8 +251,7 @@ ocMO.Ode9T.ode = misc_en_US_oca.Ode9
 ocMO.Ode9T.melody = he.h.m1_en_US_oca.TyponTisAgnis.name
 ocMO.Ode9T.text = ""
 
-ocMA.GodIsTheLord.mode = misc_en_US_oca.Mode1
-ocMA.GodIsTheLord.text = ho.s03_en_US_oca.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_en_US_oca.media.key
 
 ocMA.Kathisma11.mode = misc_en_US_oca.Mode1
 ocMA.Kathisma11.melody = misc_en_US_oca.Automelon
@@ -324,7 +317,7 @@ ocMA.Antiphon33.mode = misc_en_US_oca.Mode1
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = ""
 
-ocMA.Prokeimenon.text = "" //for media
+ocMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
 
 ocMA.C1Poet = poets_en_US_oca.IoannouTouDamaskinou
 
@@ -742,8 +735,8 @@ ocMA.OdeS9C33.text = ""
 ocMA.Magnificat.mode = misc_en_US_oca.Mode1
 ocMA.Magnificat.text = he.h.m6_en_US_oca.TinTimioteran.text
 
-ocMA.Lauds01.text = "" //for media
-ocMA.Lauds02.text = "" //for media
+ocMA.MM.Lauds01.text = properties_en_US_oca.media.key
+ocMA.MM.Lauds02.text = properties_en_US_oca.media.key
 
 ocMA.Lauds1.mode = misc_en_US_oca.Mode1
 ocMA.Lauds1.melody = ""
