@@ -36,8 +36,6 @@ DoxaSoiOTheos1 = ""
 
 DoxaSoiOTheosImon.text = ""
 
-DoxaTiAgiaAnastasei.text = ""
-
 DoxaTiMakrothymia.text = ""
 
 DoxaTiMakrothymiaP.text = ""
@@ -72,16 +70,6 @@ EnOnomatiKyriou.text = ""
 
 EvlogisonThymiama.text = ""
 
-AgieTouTheou.text = ""
-
-AgiaTouTheou.text = ""
-
-AgioiTouTheou.text = ""
-
-ApostoleTouChristou.text = ""
-
-OsiaTouTheou.text = ""
-
 EleisonMeOTheos.text = ""
 
 AxionEstin.text = ""
@@ -115,13 +103,13 @@ PaterImon.text = ""
 
 Pistevo.text = ""
 
-SoulSaturday.text = ""
-
 StereosaiKyrios.text = ""
+
+SoulSaturday.text = ""
 
 Thymiama.text = ""
 
-TinTimioteran.text = he.h.m6_en_US_oca.TinTimioteran.text
+TinTimioteran.text = he.h.m6_en_US_oca.TinTimioteran.text // or whichever official text
 
 VasilefOuranie.text = ""
 
@@ -319,7 +307,7 @@ petCompline01 = ""
 
 petCompline02 = ""
 
-petCompline03 = "" //hierarch
+petCompline03 = ""
 
 petCompline04 = ""
 
@@ -613,9 +601,9 @@ exc28 = ""
 
 exc29 = ""
 
-epi01a = "" // leave blank in Greek
+epi01a = ""
 
-epi01b = ""
+epi01b = "" // leave blank in English
 
 epi02 = ""
 
@@ -633,6 +621,10 @@ verse_Angels.text = ""
 
 verseP_Angels.text = ""
 
+verse_Apostle.text = ""
+
+verse_Apostles.text = ""
+
 verse_ApostlesMartyrs.text = ""
 
 verseP_ApostlesMartyrs.text = ""
@@ -644,6 +636,16 @@ verseP_Baptist.text = ""
 verse_Cross.text = ""
 
 verseP_Cross.text = ""
+
+verse_Crucifixion.text = ""
+
+verse_DevoutMan.text = ""
+
+verse_DevoutMen.text = ""
+
+verse_DevoutWoman.text = ""
+
+verse_God.text = ""
 
 verse_GreatMartyrs.text = ""
 
@@ -661,9 +663,17 @@ verse_Panteleimon.text = ""
 
 verseP_Panteleimon.text = ""
 
+verse_Resurrection.text = ""
+
 verse_Righteous.text = ""
 
 verseP_Righteous.text = ""
+
+verse_SaintM.text = ""
+
+verse_SaintW.text = ""
+
+verse_SaintsM.text = ""
 
 verse_SoulSaturday.text = ""
 
