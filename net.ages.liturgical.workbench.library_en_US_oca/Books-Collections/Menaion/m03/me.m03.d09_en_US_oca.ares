@@ -29,6 +29,11 @@ meVE.Stichera03.mode = misc_en_US_oca.Mode2
 meVE.Stichera03.melody = misc_en_US_oca.Idiomelon
 meVE.Stichera03.text = "The holy martyrs accepted their torments with joy! * They hurried to the frozen lake as to a comforting bath! * They said: We will not fear the bitter cold! * Only let us escape Gehenna's flames! * Let a foot be burned, that it may rejoice eternally! * Let a hand be lost, offered to the Lord in sacrifice! * Let us not refuse death in the flesh. * Embrace death, and Christ will crown us with the laurel of victory! ** He is our God, and the Savior of our souls!"
 
+meVE.SticGlory.poet = poets_en_US_oca.IoannouMonachou
+meVE.SticGlory.mode = misc_en_US_oca.Mode2
+meVE.SticGlory.melody = misc_en_US_oca.Idiomelon
+meVE.SticGlory.text = meVE.Stichera01.text
+
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode2
 meVE.SticTheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.name
 meVE.SticTheotokion.text = ""
