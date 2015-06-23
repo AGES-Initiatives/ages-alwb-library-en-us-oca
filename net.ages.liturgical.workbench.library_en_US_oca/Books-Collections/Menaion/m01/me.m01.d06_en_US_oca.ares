@@ -172,15 +172,15 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode3
-meMA.Kathisma11.melody = he.a.m3_en_US_oca.TinOraiotita.name
+meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode4
-meMA.Kathisma31.melody = he.a.m4_en_US_oca.TachyProkatalave.name
+meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
 meMA.Kathisma31.text = ""
 
 meMA.MM.Prokeimenon.text = "" //for media
@@ -215,17 +215,17 @@ meMA.Ode1C1H.text = he.h.m2_en_US_oca.VythouAnekalypse.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode2
-meMA.Ode1C11.melody = he.h.m2_en_US_oca.VythouAnekalypse.name
+meMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.VythouAnekalypse.name
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = misc_en_US_oca.Ode1
 meMA.Ode1C12.mode = misc_en_US_oca.Mode2
-meMA.Ode1C12.melody = he.h.m2_en_US_oca.VythouAnekalypse.name
+meMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.VythouAnekalypse.name
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = misc_en_US_oca.Ode1
 meMA.Ode1C13.mode = misc_en_US_oca.Mode2
-meMA.Ode1C13.melody = he.h.m2_en_US_oca.VythouAnekalypse.name
+meMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.VythouAnekalypse.name
 meMA.Ode1C13.text = ""
 
 meMA.Ode1C2H.ode = misc_en_US_oca.Ode1
@@ -240,7 +240,7 @@ meMA.Ode1C2H5.text = he.h.m2_en_US_oca.SteiveiThalassis5.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode2
-meMA.Ode1C21.melody = he.h.m2_en_US_oca.SteiveiThalassis.name
+meMA.Ode1C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.SteiveiThalassis.name
 meMA.Ode1C21.text = ""
 meMA.Ode1C211.text = ""
 meMA.Ode1C212.text = ""
@@ -250,7 +250,7 @@ meMA.Ode1C215.text = ""
 
 meMA.Ode1C22.ode = misc_en_US_oca.Ode1
 meMA.Ode1C22.mode = misc_en_US_oca.Mode2
-meMA.Ode1C22.melody = he.h.m2_en_US_oca.SteiveiThalassis.name
+meMA.Ode1C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.SteiveiThalassis.name
 meMA.Ode1C22.text = ""
 meMA.Ode1C221.text = ""
 meMA.Ode1C222.text = ""
@@ -265,12 +265,12 @@ meMA.Ode3C1H.text = he.h.m2_en_US_oca.IschynODidous.text
 
 meMA.Ode3C11.ode = misc_en_US_oca.Ode3
 meMA.Ode3C11.mode = misc_en_US_oca.Mode2
-meMA.Ode3C11.melody = he.h.m2_en_US_oca.IschynODidous.name
+meMA.Ode3C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.IschynODidous.name
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = misc_en_US_oca.Ode3
 meMA.Ode3C12.mode = misc_en_US_oca.Mode2
-meMA.Ode3C12.melody = he.h.m2_en_US_oca.IschynODidous.name
+meMA.Ode3C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.IschynODidous.name
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C2H.ode = misc_en_US_oca.Ode3
@@ -285,7 +285,7 @@ meMA.Ode3C2H5.text = he.h.m2_en_US_oca.OsoiPalaion5.text
 
 meMA.Ode3C21.ode = misc_en_US_oca.Ode3
 meMA.Ode3C21.mode = misc_en_US_oca.Mode2
-meMA.Ode3C21.melody = he.h.m2_en_US_oca.OsoiPalaion.name
+meMA.Ode3C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.OsoiPalaion.name
 meMA.Ode3C21.text = ""
 meMA.Ode3C211.text = ""
 meMA.Ode3C212.text = ""
@@ -295,7 +295,7 @@ meMA.Ode3C215.text = ""
 
 meMA.Ode3C22.ode = misc_en_US_oca.Ode3
 meMA.Ode3C22.mode = misc_en_US_oca.Mode2
-meMA.Ode3C22.melody = he.h.m2_en_US_oca.OsoiPalaion.name
+meMA.Ode3C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.OsoiPalaion.name
 meMA.Ode3C22.text = ""
 meMA.Ode3C221.text = ""
 meMA.Ode3C222.text = ""
@@ -314,17 +314,17 @@ meMA.Ode4C1H.text = he.h.m2_en_US_oca.AkikoeKyrieFonisSou.text
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
 meMA.Ode4C11.mode = misc_en_US_oca.Mode2
-meMA.Ode4C11.melody = he.h.m2_en_US_oca.AkikoeKyrieFonisSou.name
+meMA.Ode4C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.AkikoeKyrieFonisSou.name
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = misc_en_US_oca.Ode4
 meMA.Ode4C12.mode = misc_en_US_oca.Mode2
-meMA.Ode4C12.melody = he.h.m2_en_US_oca.AkikoeKyrieFonisSou.name
+meMA.Ode4C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.AkikoeKyrieFonisSou.name
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = misc_en_US_oca.Ode4
 meMA.Ode4C13.mode = misc_en_US_oca.Mode2
-meMA.Ode4C13.melody = he.h.m2_en_US_oca.AkikoeKyrieFonisSou.name
+meMA.Ode4C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.AkikoeKyrieFonisSou.name
 meMA.Ode4C13.text = ""
 
 meMA.Ode4C2H.ode = misc_en_US_oca.Ode4
@@ -339,7 +339,7 @@ meMA.Ode4C2H5.text = he.h.m2_en_US_oca.PyrsoKathartheis5.text
 
 meMA.Ode4C21.ode = misc_en_US_oca.Ode4
 meMA.Ode4C21.mode = misc_en_US_oca.Mode2
-meMA.Ode4C21.melody = he.h.m2_en_US_oca.PyrsoKathartheis.name
+meMA.Ode4C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.PyrsoKathartheis.name
 meMA.Ode4C21.text = ""
 meMA.Ode4C211.text = ""
 meMA.Ode4C212.text = ""
@@ -349,7 +349,7 @@ meMA.Ode4C215.text = ""
 
 meMA.Ode4C22.ode = misc_en_US_oca.Ode4
 meMA.Ode4C22.mode = misc_en_US_oca.Mode2
-meMA.Ode4C22.melody = he.h.m2_en_US_oca.PyrsoKathartheis.name
+meMA.Ode4C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.PyrsoKathartheis.name
 meMA.Ode4C22.text = ""
 meMA.Ode4C221.text = ""
 meMA.Ode4C222.text = ""
@@ -359,7 +359,7 @@ meMA.Ode4C225.text = ""
 
 meMA.Ode4C23.ode = misc_en_US_oca.Ode4
 meMA.Ode4C23.mode = misc_en_US_oca.Mode2
-meMA.Ode4C23.melody = he.h.m2_en_US_oca.PyrsoKathartheis.name
+meMA.Ode4C23.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.PyrsoKathartheis.name
 meMA.Ode4C23.text = ""
 meMA.Ode4C231.text = ""
 meMA.Ode4C232.text = ""
@@ -374,12 +374,12 @@ meMA.Ode5C1H.text = he.h.m2_en_US_oca.IisousOZoisArchigos.text
 
 meMA.Ode5C11.ode = misc_en_US_oca.Ode5
 meMA.Ode5C11.mode = misc_en_US_oca.Mode2
-meMA.Ode5C11.melody = he.h.m2_en_US_oca.IisousOZoisArchigos.name
+meMA.Ode5C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.IisousOZoisArchigos.name
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = misc_en_US_oca.Ode5
 meMA.Ode5C12.mode = misc_en_US_oca.Mode2
-meMA.Ode5C12.melody = he.h.m2_en_US_oca.IisousOZoisArchigos.name
+meMA.Ode5C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.IisousOZoisArchigos.name
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C2H.ode = misc_en_US_oca.Ode5
@@ -394,7 +394,7 @@ meMA.Ode5C2H5.text = he.h.m2_en_US_oca.EchthrouZofodous5.text
 
 meMA.Ode5C21.ode = misc_en_US_oca.Ode5
 meMA.Ode5C21.mode = misc_en_US_oca.Mode2
-meMA.Ode5C21.melody = he.h.m2_en_US_oca.EchthrouZofodous.name
+meMA.Ode5C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EchthrouZofodous.name
 meMA.Ode5C21.text = ""
 meMA.Ode5C211.text = ""
 meMA.Ode5C212.text = ""
@@ -404,7 +404,7 @@ meMA.Ode5C215.text = ""
 
 meMA.Ode5C22.ode = misc_en_US_oca.Ode5
 meMA.Ode5C22.mode = misc_en_US_oca.Mode2
-meMA.Ode5C22.melody = he.h.m2_en_US_oca.EchthrouZofodous.name
+meMA.Ode5C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EchthrouZofodous.name
 meMA.Ode5C22.text = ""
 meMA.Ode5C221.text = ""
 meMA.Ode5C222.text = ""
@@ -419,12 +419,12 @@ meMA.Ode6C1H.text = he.h.m2_en_US_oca.IFoniTouLogou.text
 
 meMA.Ode6C11.ode = misc_en_US_oca.Ode6
 meMA.Ode6C11.mode = misc_en_US_oca.Mode2
-meMA.Ode6C11.melody = he.h.m2_en_US_oca.IFoniTouLogou.name
+meMA.Ode6C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.IFoniTouLogou.name
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = misc_en_US_oca.Ode6
 meMA.Ode6C12.mode = misc_en_US_oca.Mode2
-meMA.Ode6C12.melody = he.h.m2_en_US_oca.IFoniTouLogou.name
+meMA.Ode6C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.IFoniTouLogou.name
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C2H.ode = misc_en_US_oca.Ode6
@@ -473,17 +473,17 @@ meMA.Ode7C1H.text = he.h.m2_en_US_oca.NeousEfseveis.text
 
 meMA.Ode7C11.ode = misc_en_US_oca.Ode7
 meMA.Ode7C11.mode = misc_en_US_oca.Mode2
-meMA.Ode7C11.melody = he.h.m2_en_US_oca.NeousEfseveis.name
+meMA.Ode7C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.NeousEfseveis.name
 meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = misc_en_US_oca.Ode7
 meMA.Ode7C12.mode = misc_en_US_oca.Mode2
-meMA.Ode7C12.melody = he.h.m2_en_US_oca.NeousEfseveis.name
+meMA.Ode7C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.NeousEfseveis.name
 meMA.Ode7C12.text = ""
 
 meMA.Ode7C13.ode = misc_en_US_oca.Ode7
 meMA.Ode7C13.mode = misc_en_US_oca.Mode2
-meMA.Ode7C13.melody = he.h.m2_en_US_oca.NeousEfseveis.name
+meMA.Ode7C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.NeousEfseveis.name
 meMA.Ode7C13.text = ""
 
 meMA.Ode7C2H.ode = misc_en_US_oca.Ode7
@@ -498,7 +498,7 @@ meMA.Ode7C2H5.text = he.h.m2_en_US_oca.EflexeReithro5.text
 
 meMA.Ode7C21.ode = misc_en_US_oca.Ode7
 meMA.Ode7C21.mode = misc_en_US_oca.Mode2
-meMA.Ode7C21.melody = he.h.m2_en_US_oca.EflexeReithro.name
+meMA.Ode7C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EflexeReithro.name
 meMA.Ode7C21.text = ""
 meMA.Ode7C211.text = ""
 meMA.Ode7C212.text = ""
@@ -508,7 +508,7 @@ meMA.Ode7C215.text = ""
 
 meMA.Ode7C22.ode = misc_en_US_oca.Ode7
 meMA.Ode7C22.mode = misc_en_US_oca.Mode2
-meMA.Ode7C22.melody = he.h.m2_en_US_oca.EflexeReithro.name
+meMA.Ode7C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EflexeReithro.name
 meMA.Ode7C22.text = ""
 meMA.Ode7C221.text = ""
 meMA.Ode7C222.text = ""
@@ -518,7 +518,7 @@ meMA.Ode7C225.text = ""
 
 meMA.Ode7C23.ode = misc_en_US_oca.Ode7
 meMA.Ode7C23.mode = misc_en_US_oca.Mode2
-meMA.Ode7C23.melody = he.h.m2_en_US_oca.EflexeReithro.name
+meMA.Ode7C23.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EflexeReithro.name
 meMA.Ode7C23.text = ""
 meMA.Ode7C231.text = ""
 meMA.Ode7C232.text = ""
@@ -533,17 +533,17 @@ meMA.Ode8C1H.text = he.h.m2_en_US_oca.MystirionParadoxon.text
 
 meMA.Ode8C11.ode = misc_en_US_oca.Ode8
 meMA.Ode8C11.mode = misc_en_US_oca.Mode2
-meMA.Ode8C11.melody = he.h.m2_en_US_oca.MystirionParadoxon.name
+meMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.MystirionParadoxon.name
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = misc_en_US_oca.Ode8
 meMA.Ode8C12.mode = misc_en_US_oca.Mode2
-meMA.Ode8C12.melody = he.h.m2_en_US_oca.MystirionParadoxon.name
+meMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.MystirionParadoxon.name
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = misc_en_US_oca.Ode8
 meMA.Ode8C13.mode = misc_en_US_oca.Mode2
-meMA.Ode8C13.melody = he.h.m2_en_US_oca.MystirionParadoxon.name
+meMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.MystirionParadoxon.name
 meMA.Ode8C13.text = ""
 
 meMA.Ode8C2H.ode = misc_en_US_oca.Ode8
@@ -558,7 +558,7 @@ meMA.Ode8C2H5.text = he.h.m2_en_US_oca.EleftheraMenIKtisis5.text
 
 meMA.Ode8C21.ode = misc_en_US_oca.Ode8
 meMA.Ode8C21.mode = misc_en_US_oca.Mode2
-meMA.Ode8C21.melody = he.h.m2_en_US_oca.EleftheraMenIKtisis.name
+meMA.Ode8C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EleftheraMenIKtisis.name
 meMA.Ode8C21.text = ""
 meMA.Ode8C211.text = ""
 meMA.Ode8C212.text = ""
@@ -568,7 +568,7 @@ meMA.Ode8C215.text = ""
 
 meMA.Ode8C22.ode = misc_en_US_oca.Ode8
 meMA.Ode8C22.mode = misc_en_US_oca.Mode2
-meMA.Ode8C22.melody = he.h.m2_en_US_oca.EleftheraMenIKtisis.name
+meMA.Ode8C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EleftheraMenIKtisis.name
 meMA.Ode8C22.text = ""
 meMA.Ode8C221.text = ""
 meMA.Ode8C222.text = ""
@@ -600,17 +600,17 @@ meMA.Ode9C1H.text = he.h.m2_en_US_oca.AporeiPasaGlossa.text
 
 meMA.Ode9C11.ode = misc_en_US_oca.Ode9
 meMA.Ode9C11.mode = misc_en_US_oca.Mode2
-meMA.Ode9C11.melody = he.h.m2_en_US_oca.AporeiPasaGlossa.name
+meMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.AporeiPasaGlossa.name
 meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = misc_en_US_oca.Ode9
 meMA.Ode9C12.mode = misc_en_US_oca.Mode2
-meMA.Ode9C12.melody = he.h.m2_en_US_oca.AporeiPasaGlossa.name
+meMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.AporeiPasaGlossa.name
 meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = misc_en_US_oca.Ode9
 meMA.Ode9C13.mode = misc_en_US_oca.Mode2
-meMA.Ode9C13.melody = he.h.m2_en_US_oca.AporeiPasaGlossa.name
+meMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.AporeiPasaGlossa.name
 meMA.Ode9C13.text = ""
 
 meMA.Ode9C2H.ode = misc_en_US_oca.Ode9
@@ -625,7 +625,7 @@ meMA.Ode9C2H5.text = he.h.m2_en_US_oca.OTonYperNoun5.text
 
 meMA.Ode9C21.ode = misc_en_US_oca.Ode9
 meMA.Ode9C21.mode = misc_en_US_oca.Mode2
-meMA.Ode9C21.melody = he.h.m2_en_US_oca.OTonYperNoun.mode
+meMA.Ode9C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.OTonYperNoun.mode
 meMA.Ode9C21.text = ""
 meMA.Ode9C211.text = ""
 meMA.Ode9C212.text = ""
@@ -635,7 +635,7 @@ meMA.Ode9C215.text = ""
 
 meMA.Ode9C22.ode = misc_en_US_oca.Ode9
 meMA.Ode9C22.mode = misc_en_US_oca.Mode2
-meMA.Ode9C22.melody = he.h.m2_en_US_oca.OTonYperNoun.mode
+meMA.Ode9C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.OTonYperNoun.mode
 meMA.Ode9C22.text = ""
 meMA.Ode9C221.text = ""
 meMA.Ode9C222.text = ""
