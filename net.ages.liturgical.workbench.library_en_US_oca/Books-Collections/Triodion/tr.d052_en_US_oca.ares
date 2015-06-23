@@ -13,11 +13,11 @@ trHO.note1 = ""
 trHO.note2 = ""
 
 trVE.Stichera01.mode = misc_en_US_oca.Mode3
-trVE.Stichera01.melody = he.a.m3_en_US_oca.StavrofanosMoysis.name
+trVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.StavrofanosMoysis.name
 trVE.Stichera01.text = "You have given us this time of the Fast, Word of God, * so that we might turn and live; * so that no one would perish. * Enable us all to serve you in fervent compunction, * and to perform your will with myrrh and fervent tears, * as the wise and holy harlot, O Christ, ** received remission of her transgressions."
 
 trVE.Stichera02.mode = misc_en_US_oca.Mode3
-trVE.Stichera02.melody = he.a.m3_en_US_oca.StavrofanosMoysis.name
+trVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.StavrofanosMoysis.name
 trVE.Stichera02.text = "Like the blind man, I cry from my heart: * Enlighten the eyes of my heart, Son of God! * Like the faithful Canaanite woman, I cry to you: * Have mercy on me, bountiful One; * my soul is possessed by pleasure's demons. * When you have delivered it from the darkness of passions, * enable me to spend the rest of my life in purity, ** that I may glorify your great love."
 
 trVE.Stichera03.mode = misc_en_US_oca.Mode2
@@ -41,11 +41,11 @@ trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m4.d2_en_US_oca.ocMA.AposTheotokion.text
 
 trMA.Kathisma21.mode = misc_en_US_oca.Mode3
-trMA.Kathisma21.melody = he.a.m3_en_US_oca.TheiasPisteos.name
+trMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma22.mode = misc_en_US_oca.Mode3
-trMA.Kathisma22.melody = he.a.m3_en_US_oca.TheiasPisteos.name
+trMA.Kathisma22.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
 trMA.Kathisma22.text = ""
 
 trMA.Kathisma31.mode = misc_en_US_oca.Mode2
@@ -67,47 +67,47 @@ trMA.Ode2C1H.text = he.h.m3_en_US_oca.ProsecheGiKaiOurane.text
 
 trMA.Ode2C11.ode = misc_en_US_oca.Ode2
 trMA.Ode2C11.mode = misc_en_US_oca.Mode3
-trMA.Ode2C11.melody = he.h.m3_en_US_oca.ProsecheGiKaiOurane.name
+trMA.Ode2C11.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.ProsecheGiKaiOurane.name
 trMA.Ode2C11.text = ""
 
 trMA.Ode2C12.ode = misc_en_US_oca.Ode2
 trMA.Ode2C12.mode = misc_en_US_oca.Mode3
-trMA.Ode2C12.melody = he.h.m3_en_US_oca.ProsecheGiKaiOurane.name
+trMA.Ode2C12.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.ProsecheGiKaiOurane.name
 trMA.Ode2C12.text = ""
 
 trMA.Ode2C13.ode = misc_en_US_oca.Ode2
 trMA.Ode2C13.mode = misc_en_US_oca.Mode3
-trMA.Ode2C13.melody = he.h.m3_en_US_oca.ProsecheGiKaiOurane.name
+trMA.Ode2C13.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.ProsecheGiKaiOurane.name
 trMA.Ode2C13.text = ""
 
 trMA.Ode2C1T.ode = misc_en_US_oca.Ode2
 trMA.Ode2C1T.mode = misc_en_US_oca.Mode3
-trMA.Ode2C1T.melody = he.h.m3_en_US_oca.ProsecheGiKaiOurane.name
+trMA.Ode2C1T.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.ProsecheGiKaiOurane.name
 trMA.Ode2C1T.text = ""
 
 trMA.Ode2C21.ode = misc_en_US_oca.Ode2
 trMA.Ode2C21.mode = misc_en_US_oca.Mode2
-trMA.Ode2C21.melody = he.h.m2_en_US_oca.ProsecheteLaoi.name
+trMA.Ode2C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ProsecheteLaoi.name
 trMA.Ode2C21.text = ""
 
 trMA.Ode2C22.ode = misc_en_US_oca.Ode2
 trMA.Ode2C22.mode = misc_en_US_oca.Mode2
-trMA.Ode2C22.melody = he.h.m2_en_US_oca.ProsecheteLaoi.name
+trMA.Ode2C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ProsecheteLaoi.name
 trMA.Ode2C22.text = ""
 
 trMA.Ode2C2Tr.ode = misc_en_US_oca.Ode2
 trMA.Ode2C2Tr.mode = misc_en_US_oca.Mode2
-trMA.Ode2C2Tr.melody = he.h.m2_en_US_oca.ProsecheteLaoi.name
+trMA.Ode2C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ProsecheteLaoi.name
 trMA.Ode2C2Tr.text = ""
 
 trMA.Ode2C2T.ode = misc_en_US_oca.Ode2
 trMA.Ode2C2T.mode = misc_en_US_oca.Mode2
-trMA.Ode2C2T.melody = he.h.m2_en_US_oca.ProsecheteLaoi.name
+trMA.Ode2C2T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ProsecheteLaoi.name
 trMA.Ode2C2T.text = ""
 
 trMA.Ode2C2A1.ode = misc_en_US_oca.Ode2
 trMA.Ode2C2A1.mode = misc_en_US_oca.Mode2
-trMA.Ode2C2A1.melody = he.h.m2_en_US_oca.ProsecheteLaoi.name
+trMA.Ode2C2A1.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ProsecheteLaoi.name
 trMA.Ode2C2A1.text = ""
 
 trMA.Ode2C2H.ode = misc_en_US_oca.Ode2
@@ -117,47 +117,47 @@ trMA.Ode2C2H.text = he.h.m2_en_US_oca.ProsecheteLaoi.text
 
 trMA.Ode8C11.ode = misc_en_US_oca.Ode8
 trMA.Ode8C11.mode = misc_en_US_oca.Mode3
-trMA.Ode8C11.melody = he.h.m3_en_US_oca.TonYpAngelon.name
+trMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.TonYpAngelon.name
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = misc_en_US_oca.Ode8
 trMA.Ode8C12.mode = misc_en_US_oca.Mode3
-trMA.Ode8C12.melody = he.h.m3_en_US_oca.TonYpAngelon.name
+trMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.TonYpAngelon.name
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = misc_en_US_oca.Ode8
 trMA.Ode8C13.mode = misc_en_US_oca.Mode3
-trMA.Ode8C13.melody = he.h.m3_en_US_oca.TonYpAngelon.name
+trMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.TonYpAngelon.name
 trMA.Ode8C13.text = ""
 
 trMA.Ode8C1T.ode = misc_en_US_oca.Ode8
 trMA.Ode8C1T.mode = misc_en_US_oca.Mode3
-trMA.Ode8C1T.melody = he.h.m3_en_US_oca.TonYpAngelon.name
+trMA.Ode8C1T.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.TonYpAngelon.name
 trMA.Ode8C1T.text = ""
 
 trMA.Ode8C21.ode = misc_en_US_oca.Ode8
 trMA.Ode8C21.mode = misc_en_US_oca.Mode2
-trMA.Ode8C21.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
 trMA.Ode8C21.text = ""
 
 trMA.Ode8C22.ode = misc_en_US_oca.Ode8
 trMA.Ode8C22.mode = misc_en_US_oca.Mode2
-trMA.Ode8C22.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
 trMA.Ode8C22.text = ""
 
 trMA.Ode8C2Tr.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2Tr.mode = misc_en_US_oca.Mode2
-trMA.Ode8C2Tr.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
 trMA.Ode8C2Tr.text = ""
 
 trMA.Ode8C2T.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2T.mode = misc_en_US_oca.Mode2
-trMA.Ode8C2T.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C2T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
 trMA.Ode8C2T.text = ""
 
 trMA.Ode8C2A1.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2A1.mode = misc_en_US_oca.Mode2
-trMA.Ode8C2A1.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C2A1.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
 trMA.Ode8C2A1.text = ""
 
 trMA.Ode8C2H.ode = misc_en_US_oca.Ode8
@@ -167,47 +167,47 @@ trMA.Ode8C2H.text = he.h.m2_en_US_oca.TonPalaiDrosisanta.text
 
 trMA.Ode9C11.ode = misc_en_US_oca.Ode9
 trMA.Ode9C11.mode = misc_en_US_oca.Mode3
-trMA.Ode9C11.melody = he.h.m3_en_US_oca.SeTinAkataflekton.name
+trMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.SeTinAkataflekton.name
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = misc_en_US_oca.Ode9
 trMA.Ode9C12.mode = misc_en_US_oca.Mode3
-trMA.Ode9C12.melody = he.h.m3_en_US_oca.SeTinAkataflekton.name
+trMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.SeTinAkataflekton.name
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = misc_en_US_oca.Ode9
 trMA.Ode9C13.mode = misc_en_US_oca.Mode3
-trMA.Ode9C13.melody = he.h.m3_en_US_oca.SeTinAkataflekton.name
+trMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.SeTinAkataflekton.name
 trMA.Ode9C13.text = ""
 
 trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
 trMA.Ode9C1T.mode = misc_en_US_oca.Mode3
-trMA.Ode9C1T.melody = he.h.m3_en_US_oca.SeTinAkataflekton.name
+trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.SeTinAkataflekton.name
 trMA.Ode9C1T.text = ""
 
 trMA.Ode9C21.ode = misc_en_US_oca.Ode9
 trMA.Ode9C21.mode = misc_en_US_oca.Mode2
-trMA.Ode9C21.melody = he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
 trMA.Ode9C21.text = ""
 
 trMA.Ode9C22.ode = misc_en_US_oca.Ode9
 trMA.Ode9C22.mode = misc_en_US_oca.Mode2
-trMA.Ode9C22.melody = he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
 trMA.Ode9C22.text = ""
 
 trMA.Ode9C2Tr.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2Tr.mode = misc_en_US_oca.Mode2
-trMA.Ode9C2Tr.melody = he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
 trMA.Ode9C2Tr.text = ""
 
 trMA.Ode9C2T.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2T.mode = misc_en_US_oca.Mode2
-trMA.Ode9C2T.melody = he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
 trMA.Ode9C2T.text = ""
 
 trMA.Ode9C2A1.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2A1.mode = misc_en_US_oca.Mode2
-trMA.Ode9C2A1.melody = he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C2A1.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
 trMA.Ode9C2A1.text = ""
 
 trMA.Ode9C2H.ode = misc_en_US_oca.Ode9

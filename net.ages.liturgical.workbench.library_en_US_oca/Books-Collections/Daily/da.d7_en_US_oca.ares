@@ -29,11 +29,11 @@ daMA.Exaposteilarion1.melody = misc_en_US_oca.Automelon
 daMA.Exaposteilarion1.text = he.a.m3_en_US_oca.OOuranonToisAstrois.text
 
 daMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-daMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+daMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
 daMA.Exaposteilarion2.text = ""
 
 daMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-daMA.ExapTheotokion.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+daMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
 daMA.ExapTheotokion.text = ""
 
 daLI.CommunionHymn.text = "" //for media

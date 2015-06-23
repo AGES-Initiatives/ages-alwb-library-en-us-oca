@@ -198,11 +198,11 @@ hoMA.ExapSat1.melody = misc_en_US_oca.Automelon
 hoMA.ExapSat1.text = da.d7_en_US_oca.daMA.Exaposteilarion1.text 
 
 hoMA.ExapSat2.mode = misc_en_US_oca.Mode3
-hoMA.ExapSat2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoMA.ExapSat2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
 hoMA.ExapSat2.text = da.d7_en_US_oca.daMA.Exaposteilarion2.text 
 
 hoMA.ExapSatTh.mode = misc_en_US_oca.Mode3
-hoMA.ExapSatTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoMA.ExapSatTh.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
 hoMA.ExapSatTh.text = da.d7_en_US_oca.daMA.ExapTheotokion.text 
 
 R19 = ""
