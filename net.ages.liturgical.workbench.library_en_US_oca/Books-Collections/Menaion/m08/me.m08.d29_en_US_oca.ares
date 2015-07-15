@@ -128,22 +128,22 @@ meMA.C1Poet = poets_en_US_oca.IoannouMonachou
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode8
 meMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
-meMA.Ode1C11.text = ""
+meMA.Ode1C11.text = "Let us sing the praises of the holy Forerunner who appeared from a barren womb, conceived as a prophet from fruitless loins."
 
 meMA.Ode1C12.ode = misc_en_US_oca.Ode1
 meMA.Ode1C12.mode = misc_en_US_oca.Mode8
 meMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
-meMA.Ode1C12.text = ""
+meMA.Ode1C12.text = "You surpassed the bounds of nature, keeping the laws of righteousness, rebuking lawless intercourse without fearing the bold pride of the king."
 
 meMA.Ode1C13.ode = misc_en_US_oca.Ode1
 meMA.Ode1C13.mode = misc_en_US_oca.Mode8
 meMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
-meMA.Ode1C13.text = ""
+meMA.Ode1C13.text = "You fed on the milk of the Law, and as its seal you upheld the place of lawful marriage, standing against abhorrent adultery."
 
 meMA.Ode1C1T.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
-meMA.Ode1C1T.text = ""
+meMA.Ode1C1T.text = "The ranks of angels and mankind praise you in song, unwedded Mother, for you carried their Creator in your arms as a child."
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode8
@@ -165,30 +165,25 @@ meMA.Ode1C2T.mode = misc_en_US_oca.Mode8
 meMA.Ode1C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonIsrailEkDouleias.name
 meMA.Ode1C2T.text = ""
 
-meMA.Ode1K.ode = misc_en_US_oca.Ode1
-meMA.Ode1K.mode = misc_en_US_oca.Mode8
-meMA.Ode1K.melody = misc_en_US_oca.Heirmos
-meMA.Ode1K.text = he.h.m8_en_US_oca.StavronCharaxasMosis.text
-
 meMA.Ode3C11.ode = misc_en_US_oca.Ode3
 meMA.Ode3C11.mode = misc_en_US_oca.Mode8
 meMA.Ode3C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.text = "When Herod was filled with strong drink, the infamous girl said to him: Herod, give me now the head of John on a platter."
 
 meMA.Ode3C12.ode = misc_en_US_oca.Ode3
 meMA.Ode3C12.mode = misc_en_US_oca.Mode8
 meMA.Ode3C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.text = "The girl danced and pleased sinful Herod. She drew him to have the Forerunner and Preacher killed."
 
 meMA.Ode3C13.ode = misc_en_US_oca.Ode3
 meMA.Ode3C13.mode = misc_en_US_oca.Mode8
 meMA.Ode3C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
-meMA.Ode3C13.text = ""
+meMA.Ode3C13.text = "Foolish and miserable transgressor Herod, what boldness from a wanton girl made you commit unjust murder?"
 
 meMA.Ode3C1T.ode = misc_en_US_oca.Ode3
 meMA.Ode3C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
-meMA.Ode3C1T.text = ""
+meMA.Ode3C1T.text = "Give us help by your prayers, all-pure Virgin, and drive away the assaults of adversity."
 
 meMA.Ode3C21.ode = misc_en_US_oca.Ode3
 meMA.Ode3C21.mode = misc_en_US_oca.Mode8
@@ -210,42 +205,37 @@ meMA.Ode3C2T.mode = misc_en_US_oca.Mode8
 meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OuraniasApsidos.name
 meMA.Ode3C2T.text = ""
 
-meMA.Ode3K.ode = misc_en_US_oca.Ode3
-meMA.Ode3K.mode = misc_en_US_oca.Mode8
-meMA.Ode3K.melody = misc_en_US_oca.Heirmos
-meMA.Ode3K.text = he.h.m8_en_US_oca.RavdosEisTypon.text
-
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
 meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.text = "Come, faithful, and with a pure conscience * let us honor the Forerunner, Baptist and prophet of Christ, * for as a glorious preacher and teacher of repentance * and wholly true witness of the Savior * he rebuked the folly of Herod ** and was murdered by being beheaded."
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
 meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
-meMA.Ode3Kathisma2.text = ""
+meMA.Ode3Kathisma2.text = "The Baptist of the Savior now appears to us, * bringing spiritual rejoicing to the minds of the faithful. * He is the adornment of the wilderness and seal of the prophets, * revealed to be the Forerunner of Christ and true witness of His coming. * Let us with one accord cry out to John in spiritual songs: ** Prophet and preacher of the truth, intercede for our salvation!"
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode4
 meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.text = "All the choirs of angels wonder, pure Virgin, * at the mystery of your awesome childbearing. * How He, Who by a single movement of His hand holds fast the universe, * was held in your arms, and as the pre-eternal One, began to be! * How He, Who in His ineffable goodness feeds every breathing creature * is fed on milk! ** They praise you and glorify you as the true Theotokos!"
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
 meMA.Ode4C11.mode = misc_en_US_oca.Mode8
 meMA.Ode4C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyMouIschys.name
-meMA.Ode4C11.text = ""
+meMA.Ode4C11.text = "A man subject to the penalties of the Law, * unable to endure its severity or divine boldness, * disfigured by the wantonness of lust, * kept and bound John, who before his end * was already united spiritually to the choirs on high."
 
 meMA.Ode4C12.ode = misc_en_US_oca.Ode4
 meMA.Ode4C12.mode = misc_en_US_oca.Mode8
 meMA.Ode4C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyMouIschys.name
-meMA.Ode4C12.text = ""
+meMA.Ode4C12.text = "Sick with drink and unbridled passion, * the wretched betrayer, bound by the song and dance of a girl, * became the murderer of the Prophet. * For conceiving drunkenness, the mother of lust, * he brought forth a deep sin."
 
 meMA.Ode4C13.ode = misc_en_US_oca.Ode4
 meMA.Ode4C13.mode = misc_en_US_oca.Mode8
 meMA.Ode4C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyMouIschys.name
-meMA.Ode4C13.text = ""
+meMA.Ode4C13.text = "Truly, the divine voice has not lied in you! For, most outstanding dove among prophets, * you were counted worthy of prophecies from the very womb, * in a body not yet completed: * you prophesied of God the Word, * Whom you saw and baptized in the flesh."
 
 meMA.Ode4C1T.ode = misc_en_US_oca.Ode4
 meMA.Ode4C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode4C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyMouIschys.name
-meMA.Ode4C1T.text = ""
+meMA.Ode4C1T.text = "You are the boast of the faithful, unwedded dove: * the advocate, refuge, rampart and haven of Christians, * for you carry prayer for all to your Son, spotless Virgin, * and save from danger those who acknowledge you with faith and love * to be the Theotokos."
 
 meMA.Ode4C21.ode = misc_en_US_oca.Ode4
 meMA.Ode4C21.mode = misc_en_US_oca.Mode8
@@ -267,30 +257,25 @@ meMA.Ode4C2T.mode = misc_en_US_oca.Mode8
 meMA.Ode4C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ExOrousKataskiou.name
 meMA.Ode4C2T.text = ""
 
-meMA.Ode4K.ode = misc_en_US_oca.Ode4
-meMA.Ode4K.mode = misc_en_US_oca.Mode8
-meMA.Ode4K.melody = misc_en_US_oca.Heirmos
-meMA.Ode4K.text = he.h.m8_en_US_oca.EisakikoaKyrie.text
-
 meMA.Ode5C11.ode = misc_en_US_oca.Ode5
 meMA.Ode5C11.mode = misc_en_US_oca.Mode8
 meMA.Ode5C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
-meMA.Ode5C11.text = ""
+meMA.Ode5C11.text = "At a mother's instructions, * the most cruel whelp of the grasping lioness * begged as prize for her devilish and evil dancing * the head of the Forerunner and preacher * honored by all the wild beasts of the wilderness!"
 
 meMA.Ode5C12.ode = misc_en_US_oca.Ode5
 meMA.Ode5C12.mode = misc_en_US_oca.Mode8
 meMA.Ode5C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
-meMA.Ode5C12.text = ""
+meMA.Ode5C12.text = "How beyond reach and understanding * are Your judgments, Lover of mankind! * By her dancing, the wanton girl * has won him who was revealed as the receiver of the Spirit * while still in his mother's womb, * and who grew up in wisdom and purity."
 
 meMA.Ode5C13.ode = misc_en_US_oca.Ode5
 meMA.Ode5C13.mode = misc_en_US_oca.Mode8
 meMA.Ode5C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
-meMA.Ode5C13.text = ""
+meMA.Ode5C13.text = "Loving your own dear and disgraceful union, * you added the destruction of the prophet * to drinking on your birthday. * With love of lust you mingled a cup filled with prophetic and holy blood."
 
 meMA.Ode5C1T.ode = misc_en_US_oca.Ode5
 meMA.Ode5C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode5C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
-meMA.Ode5C1T.text = ""
+meMA.Ode5C1T.text = "Since you have the boldness of a Mother towards your Son, * we entreat you, all-pure Virgin, * do not turn from the thought of your kindred, * for we Christians place you as an advocate in whom He is well pleased * before the Master!"
 
 meMA.Ode5C21.ode = misc_en_US_oca.Ode5
 meMA.Ode5C21.mode = misc_en_US_oca.Mode8
@@ -312,30 +297,25 @@ meMA.Ode5C2T.mode = misc_en_US_oca.Mode8
 meMA.Ode5C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OrthrizontesVoomenSoi.name
 meMA.Ode5C2T.text = ""
 
-meMA.Ode5K.ode = misc_en_US_oca.Ode5
-meMA.Ode5K.mode = misc_en_US_oca.Mode8
-meMA.Ode5K.melody = misc_en_US_oca.Heirmos
-meMA.Ode5K.text = he.h.m8_en_US_oca.OTrismakaristonXylon.text
-
 meMA.Ode6C11.ode = misc_en_US_oca.Ode6
 meMA.Ode6C11.mode = misc_en_US_oca.Mode8
 meMA.Ode6C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.text = "You brought yourself into danger, blessed John, * for the commandments of the Law, * teaching the transgressor by rebukes. * He was shown to be a reed shaken by the wind of contrary spirits."
 
 meMA.Ode6C12.ode = misc_en_US_oca.Ode6
 meMA.Ode6C12.mode = misc_en_US_oca.Mode8
 meMA.Ode6C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.text = "Even after the end, * your head, offered as a prize in a lustful contest, * reproached Herod for having a vile nature."
 
 meMA.Ode6C13.ode = misc_en_US_oca.Ode6
 meMA.Ode6C13.mode = misc_en_US_oca.Mode8
 meMA.Ode6C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.text = "Walking in the wilderness covered with camel's hair, * you lived there as a king, shining with light. * you wore beauty there, and reigned over the passions."
 
 meMA.Ode6C1T.ode = misc_en_US_oca.Ode6
 meMA.Ode6C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.text = "Pure Theotokos, * let our serious offences be destroyed. * May we obtain divine illumination from the Son of God * Who was ineffably made flesh of you, pure Virgin."
 
 meMA.Ode6C21.ode = misc_en_US_oca.Ode6
 meMA.Ode6C21.mode = misc_en_US_oca.Mode8
@@ -357,38 +337,33 @@ meMA.Ode6C2T.mode = misc_en_US_oca.Mode8
 meMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ChitonaMoiParaschou.name
 meMA.Ode6C2T.text = ""
 
-meMA.Ode6K.ode = misc_en_US_oca.Ode6
-meMA.Ode6K.mode = misc_en_US_oca.Mode8
-meMA.Ode6K.melody = misc_en_US_oca.Heirmos
-meMA.Ode6K.text = he.h.m8_en_US_oca.NotiouThiros.text
-
 meMA.Kontakion1.mode = misc_en_US_oca.Mode5
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "The glorious beheading of the Forerunner * is part of a certain divine dispensation, * for he preached in hell the coming of the Savior! * Then Herodias lamented, * for she loved not the law of God, nor the living age, * and had asked for him to be unjustly put to death, ** for she loved that which is false and temporal."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Herod's birthday appears ungodly to everyone, for in the midst of the reveling, the head of the Faster was proposed as meat. Joy was united to sorrow, and laughter turned to bitter tears, for the girl entered in front of everyone carrying the head of the Baptist on a platter as she had said. In the face of strong desire, sadness fell on all those lying there with the king, for she did not make them happy, nor Herod, yet their grief was not true sorrow ** But that which is false and temporal."
 
 meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_oca.Ode7
 meMA.Ode7C11.mode = misc_en_US_oca.Mode8
 meMA.Ode7C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TheouSynkatavasin.name
-meMA.Ode7C11.text = ""
+meMA.Ode7C11.text = "While you were fully armed with wanton desire and heavy drunkenness, wicked Herod * you came up against the Baptist of Christ: * the unshaken tower of abstinence and prudence destroyed you * for he was a city that could not be taken."
 
 meMA.Ode7C12.ode = misc_en_US_oca.Ode7
 meMA.Ode7C12.mode = misc_en_US_oca.Mode8
 meMA.Ode7C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TheouSynkatavasin.name
-meMA.Ode7C12.text = ""
+meMA.Ode7C12.text = "You shone forth as a heralding light; as an angel. * As prophet you preached the Lamb of God who appeared as Christ. * As martyr, you were beheaded by the sword, * and you went before to announce Him to those in hell."
 
 meMA.Ode7C13.ode = misc_en_US_oca.Ode7
 meMA.Ode7C13.mode = misc_en_US_oca.Mode8
 meMA.Ode7C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TheouSynkatavasin.name
-meMA.Ode7C13.text = ""
+meMA.Ode7C13.text = "The girl taught by the devil did not fear or weaken, * nor was she numb as she carried your precious head on a platter, * her mind beguiled by her mother's advances."
 
 meMA.Ode7C1T.ode = misc_en_US_oca.Ode7
 meMA.Ode7C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode7C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TheouSynkatavasin.name
-meMA.Ode7C1T.text = ""
+meMA.Ode7C1T.text = "We are delivered from the condemnation of the ancient fall * by your childbearing, Virgin Mother, * and together with your Son who gave you to us as a means of deliverance * we ever glorify you as the manifest cause of our freedom."
 
 meMA.Ode7C21.ode = misc_en_US_oca.Ode7
 meMA.Ode7C21.mode = misc_en_US_oca.Mode8
@@ -410,30 +385,25 @@ meMA.Ode7C2T.mode = misc_en_US_oca.Mode8
 meMA.Ode7C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.PaidesEvraion.name
 meMA.Ode7C2T.text = ""
 
-meMA.Ode7K.ode = misc_en_US_oca.Ode7
-meMA.Ode7K.mode = misc_en_US_oca.Mode8
-meMA.Ode7K.melody = misc_en_US_oca.Heirmos
-meMA.Ode7K.text = he.h.m8_en_US_oca.EknoonProstagma.text
-
 meMA.Ode8C11.ode = misc_en_US_oca.Ode8
 meMA.Ode8C11.mode = misc_en_US_oca.Mode8
 meMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EptaplasiosKaminon.name
-meMA.Ode8C11.text = ""
+meMA.Ode8C11.text = "The one who came before Your birth and divine Passion, * is by a sword, in the depths of the earth. * The Prophet and Messenger of Your descent to there, * John cries as the Voice of the Word: * Dead, exalt the Giver of Life; blind, the Giver of light! * Prisoners, exalt Christ as the Deliverer above all forever!"
 
 meMA.Ode8C12.ode = misc_en_US_oca.Ode8
 meMA.Ode8C12.mode = misc_en_US_oca.Mode8
 meMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EptaplasiosKaminon.name
-meMA.Ode8C12.text = ""
+meMA.Ode8C12.text = "You, who came from a barren mother as forerunner to the virgin birth, * now, by your beheading, have become the precursor * of the voluntary crucifixion of the Creator of all. * And to those in Hades you cry out: * Dead, exalt the Giver of Life; blind, the Giver of light! * Prisoners, exalt Christ as the Deliverer above all forever!" //This was missing and added by Seraphim Dedes in 2015
 
 meMA.Ode8C13.ode = misc_en_US_oca.Ode8
 meMA.Ode8C13.mode = misc_en_US_oca.Mode8
 meMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EptaplasiosKaminon.name
-meMA.Ode8C13.text = ""
+meMA.Ode8C13.text = "Your head, Forerunner, was cut from your body, * and your soul which had led it, was parted from it. * But the divine nature never parted from the flesh of Emmanuel; * not one bone of the God and Master was broken. * Therefore we exalt Him above all forever!"
 
 meMA.Ode8C1T.ode = misc_en_US_oca.Ode8
 meMA.Ode8C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode8C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EptaplasiosKaminon.name
-meMA.Ode8C1T.text = ""
+meMA.Ode8C1T.text = "Most pure Lady, the Mother of the Lord, * by your compassionate intercessions, * purify the open wounds and sores of my soul. * Raise me up and save me, fallen as the Prodigal, spotless Virgin. * for you are my advocate and only defence, * pure and ever-blessed One!"
 
 meMA.Ode8C21.ode = misc_en_US_oca.Ode8
 meMA.Ode8C21.mode = misc_en_US_oca.Mode8
@@ -455,30 +425,25 @@ meMA.Ode8C2T.mode = misc_en_US_oca.Mode8
 meMA.Ode8C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EptaplasiosKaminon.name
 meMA.Ode8C2T.text = ""
 
-meMA.Ode8K.ode = misc_en_US_oca.Ode8
-meMA.Ode8K.mode = misc_en_US_oca.Mode8
-meMA.Ode8K.melody = misc_en_US_oca.Heirmos
-meMA.Ode8K.text = he.h.m8_en_US_oca.EvlogeitePaides.text
-
 meMA.Ode9C11.ode = misc_en_US_oca.Ode9
 meMA.Ode9C11.mode = misc_en_US_oca.Mode8
 meMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EfrixePasaAkoi.name
-meMA.Ode9C11.text = ""
+meMA.Ode9C11.text = "The gathering of evil men, and their advocate the devil * feared your tongue that spoke of God and proclaimed Christ, Prophet, * and through the wanton girl, Herod submitted and beheaded you: * but we faithful magnify you!"
 
 meMA.Ode9C12.ode = misc_en_US_oca.Ode9
 meMA.Ode9C12.mode = misc_en_US_oca.Mode8
 meMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EfrixePasaAkoi.name
-meMA.Ode9C12.text = ""
+meMA.Ode9C12.text = "The valleys of humble nature were exalted, * and the hills brought low through the arrogance of death, * for the Voice that had cried in the wilderness * called to light those who were dwelling in hell: * Open wide, you gates, for the King of Glory shall enter!"
 
 meMA.Ode9C13.ode = misc_en_US_oca.Ode9
 meMA.Ode9C13.mode = misc_en_US_oca.Mode8
 meMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EfrixePasaAkoi.name
-meMA.Ode9C13.text = ""
+meMA.Ode9C13.text = "Mankind's passions tremble, and demons run in fear * at the overshadowing of grace given you by God, * but, Forerunner of the Lord, from both of those temptations * deliver the flock that ever magnifies you!"
 
 meMA.Ode9C1T.ode = misc_en_US_oca.Ode9
 meMA.Ode9C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EfrixePasaAkoi.name
-meMA.Ode9C1T.text = ""
+meMA.Ode9C1T.text = "Son of the Theotokos: * go forth, ride prosperously and reign. * Place the forces of Ishmael that fight against us, beneath our feet, * and grant victory to the Orthodox Christians over their adversaries * by the intercessions of her who bore You, Word of God."
 
 meMA.Ode9C21.ode = misc_en_US_oca.Ode9
 meMA.Ode9C21.mode = misc_en_US_oca.Mode8
@@ -499,16 +464,6 @@ meMA.Ode9C2T.ode = misc_en_US_oca.Ode9
 meMA.Ode9C2T.mode = misc_en_US_oca.Mode8
 meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ExestiEpiTouto.name
 meMA.Ode9C2T.text = ""
-
-meMA.Ode9K.ode = misc_en_US_oca.Ode9
-meMA.Ode9K.mode = misc_en_US_oca.Mode8
-meMA.Ode9K.melody = misc_en_US_oca.Heirmos
-meMA.Ode9K.text = he.h.m8_en_US_oca.MystikosEiTheotoke.text
-
-meMA.Ode9K2.ode = misc_en_US_oca.Ode9
-meMA.Ode9K2.mode = misc_en_US_oca.Mode8
-meMA.Ode9K2.melody = misc_en_US_oca.Heirmos
-meMA.Ode9K2.text = he.h.m8_en_US_oca.ODiaVroseos.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
 meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TonMathitonOrontonSe.name
