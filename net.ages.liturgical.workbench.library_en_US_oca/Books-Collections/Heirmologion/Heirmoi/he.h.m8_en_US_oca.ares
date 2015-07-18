@@ -1,13 +1,15 @@
 A_Resource_Whose_Name = he.h.m8_en_US_oca
 
-AkikoaKyrieTinAkoin.name = ""
+AkikoaKyrieTinAkoin.name = "I have heard tidings of you."
 AkikoaKyrieTinAkoin.mode = misc_en_US_oca.Mode8
 AkikoaKyrieTinAkoin.ode = misc_en_US_oca.Ode4
-AkikoaKyrieTinAkoin.text = ""
-AllotrionTonMiteron.name = ""
+AkikoaKyrieTinAkoin.text = "I have heard tidings of you, Lord, and was afraid: * That you, the eternal God, have taken flesh in your ineffable counsel * and gone forth from the Virgin. * Glory to You, O Christ; glory to Your power!"
+
+AllotrionTonMiteron.name = "Virginity is foreign to mothers."
 AllotrionTonMiteron.mode = misc_en_US_oca.Mode8
 AllotrionTonMiteron.ode = misc_en_US_oca.Ode9
-AllotrionTonMiteron.text = ""
+AllotrionTonMiteron.text = "Virginity is foreign to mothers; * childbearing is strange for virgins. * But in you, Theotokos, both were accomplished! * For this, all the earthly nations unceasingly magnify you!"
+
 AngeloiKaiOuranoi.name = ""
 AngeloiKaiOuranoi.mode = misc_en_US_oca.Mode8
 AngeloiKaiOuranoi.ode = misc_en_US_oca.Ode8
@@ -85,10 +87,11 @@ EptaplasiosKaminon.name = ""
 EptaplasiosKaminon.mode = misc_en_US_oca.Mode8
 EptaplasiosKaminon.ode = misc_en_US_oca.Ode8
 EptaplasiosKaminon.text = ""
-EstereothiIKardiaMouEnKyrio.name = ""
+
+EstereothiIKardiaMouEnKyrio.name = "My heart exults in the Lord."
 EstereothiIKardiaMouEnKyrio.mode = misc_en_US_oca.Mode8
 EstereothiIKardiaMouEnKyrio.ode = misc_en_US_oca.Ode3
-EstereothiIKardiaMouEnKyrio.text = ""
+EstereothiIKardiaMouEnKyrio.text = "My heart exults in the Lord; * my strength is exalted in the Lord. * My mouth derides my enemies, * because I rejoice in Your salvation!"
 
 EvlogeitePaides.name = "Children, equal in number."
 EvlogeitePaides.mode = misc_en_US_oca.Mode8
@@ -139,10 +142,12 @@ InaTiMeAposo.name = ""
 InaTiMeAposo.mode = misc_en_US_oca.Mode8
 InaTiMeAposo.ode = misc_en_US_oca.Ode5
 InaTiMeAposo.text = ""
-KyrieOTheosImon.name = ""
+
+KyrieOTheosImon.name = "Grant us peace."
 KyrieOTheosImon.mode = misc_en_US_oca.Mode8
 KyrieOTheosImon.ode = misc_en_US_oca.Ode5
-KyrieOTheosImon.text = ""
+KyrieOTheosImon.text = "Grant us peace, Lord our God: * Lord, You are our God, and we know no other than You: * We call on Your name!"
+
 KyriosTheotokon.name = ""
 KyriosTheotokon.mode = misc_en_US_oca.Mode8
 KyriosTheotokon.ode = misc_en_US_oca.Ode9
@@ -205,10 +210,12 @@ OProfitisAvvakoum.name = ""
 OProfitisAvvakoum.mode = misc_en_US_oca.Mode8
 OProfitisAvvakoum.ode = misc_en_US_oca.Ode4
 OProfitisAvvakoum.text = ""
-OStegazonEnYdasi.name = ""
+
+OStegazonEnYdasi.name = "You cover Your high places."
 OStegazonEnYdasi.mode = misc_en_US_oca.Mode8
 OStegazonEnYdasi.ode = misc_en_US_oca.Ode8
-OStegazonEnYdasi.text = ""
+OStegazonEnYdasi.text = "You cover Your high places with the waters, * and set the sand as a bound to the sea; * You encompass all things; * the sun sings Your praises; the moon gives You glory, * and every creature offers his hymn to You, his Author and Creator, forever!"
+
 OStereosasEnTiCheiriSou.name = ""
 OStereosasEnTiCheiriSou.mode = misc_en_US_oca.Mode8
 OStereosasEnTiCheiriSou.ode = misc_en_US_oca.Ode3
@@ -259,10 +266,12 @@ OsTonProfitinErryso.name = ""
 OsTonProfitinErryso.mode = misc_en_US_oca.Mode8
 OsTonProfitinErryso.ode = misc_en_US_oca.Ode6
 OsTonProfitinErryso.text = ""
-OsYdataThalassis.name = ""
+
+OsYdataThalassis.name = "The waves of life."
 OsYdataThalassis.mode = misc_en_US_oca.Mode8
 OsYdataThalassis.ode = misc_en_US_oca.Ode6
-OsYdataThalassis.text = ""
+OsYdataThalassis.text = "The waves of life toss me as the waters of the sea, * Lover of mankind, * but as You brought Jonah from the whale, compassionate Lord, * so bring my life from corruption!"
+
 OukEstinAgios.name = ""
 OukEstinAgios.mode = misc_en_US_oca.Mode8
 OukEstinAgios.ode = misc_en_US_oca.Ode3
@@ -351,10 +360,11 @@ ToEktinaxanti.name = ""
 ToEktinaxanti.mode = misc_en_US_oca.Mode8
 ToEktinaxanti.ode = misc_en_US_oca.Ode1
 ToEktinaxanti.text = ""
-ToSyntripsantiPolemous.name = ""
+
+ToSyntripsantiPolemous.name = "Let us sing the praises."
 ToSyntripsantiPolemous.mode = misc_en_US_oca.Mode8
 ToSyntripsantiPolemous.ode = misc_en_US_oca.Ode1
-ToSyntripsantiPolemous.text = ""
+ToSyntripsantiPolemous.text = "Let us sing the praises of our Deliverer and God, * Who shattered the enemy with His mighty arm * and made Israel pass through the Red Sea, * for He has been glorified!"
 TonAnarchonVasilea.name = ""
 TonAnarchonVasilea.mode = misc_en_US_oca.Mode8
 TonAnarchonVasilea.ode = misc_en_US_oca.Ode8
@@ -363,10 +373,12 @@ TonAoratonMorfi.name = ""
 TonAoratonMorfi.mode = misc_en_US_oca.Mode8
 TonAoratonMorfi.ode = misc_en_US_oca.Ode9
 TonAoratonMorfi.text = ""
-TonChaldaionIKaminos.name = ""
+
+TonChaldaionIKaminos.name = "The furnace of the Chaldeans."
 TonChaldaionIKaminos.mode = misc_en_US_oca.Mode8
 TonChaldaionIKaminos.ode = misc_en_US_oca.Ode7
-TonChaldaionIKaminos.text = ""
+TonChaldaionIKaminos.text = "The furnace of the Chaldeans, flaming with fire, * was sprinkled with dew by the presence of the Spirit of God, * and the children sang aloud: * Blessed are You, the God of our fathers!"
+
 TonEkNyktosAgnosias.name = ""
 TonEkNyktosAgnosias.mode = misc_en_US_oca.Mode8
 TonEkNyktosAgnosias.ode = misc_en_US_oca.Ode5
