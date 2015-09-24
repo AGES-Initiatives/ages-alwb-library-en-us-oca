@@ -44,7 +44,7 @@ pePA.CanonT.Acrostic = ""
 
 pePA.Ode1H.ode = misc_en_US_oca.Ode1
 pePA.Ode1H.mode = misc_en_US_oca.Mode1
-pePA.Ode1H.melody = misc_en_US_oca.Heirmos
+pePA.Ode1H.melody = misc_en_US_oca.HeirmosNotMetered
 pePA.Ode1H.text = he.h.m1_en_US_oca.AnastaseosImera.text
 
 pePA.Ode11.ode = misc_en_US_oca.Ode1
@@ -69,7 +69,7 @@ pePA.Ode1T2.text = ""
 
 pePA.Ode3H.ode = misc_en_US_oca.Ode3
 pePA.Ode3H.mode = misc_en_US_oca.Mode1
-pePA.Ode3H.melody = misc_en_US_oca.Heirmos
+pePA.Ode3H.melody = misc_en_US_oca.HeirmosNotMetered
 pePA.Ode3H.text = he.h.m1_en_US_oca.DeftePomaPiomen.text
 
 pePA.Ode31.ode = misc_en_US_oca.Ode3
@@ -97,7 +97,7 @@ pePA.Hypakoe.text = ""
 
 pePA.Ode4H.ode = misc_en_US_oca.Ode4
 pePA.Ode4H.mode = misc_en_US_oca.Mode1
-pePA.Ode4H.melody = misc_en_US_oca.Heirmos
+pePA.Ode4H.melody = misc_en_US_oca.HeirmosNotMetered
 pePA.Ode4H.text = he.h.m1_en_US_oca.EpiTisTheiasFylakis.text
 
 pePA.Ode41.ode = misc_en_US_oca.Ode4
@@ -127,7 +127,7 @@ pePA.Ode4T2.text = ""
 
 pePA.Ode5H.ode = misc_en_US_oca.Ode5
 pePA.Ode5H.mode = misc_en_US_oca.Mode1
-pePA.Ode5H.melody = misc_en_US_oca.Heirmos
+pePA.Ode5H.melody = misc_en_US_oca.HeirmosNotMetered
 pePA.Ode5H.text = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.text
 
 pePA.Ode51.ode = misc_en_US_oca.Ode5
@@ -152,7 +152,7 @@ pePA.Ode5T2.text = ""
 
 pePA.Ode6H.ode = misc_en_US_oca.Ode6
 pePA.Ode6H.mode = misc_en_US_oca.Mode1
-pePA.Ode6H.melody = misc_en_US_oca.Heirmos
+pePA.Ode6H.melody = misc_en_US_oca.HeirmosNotMetered
 pePA.Ode6H.text = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.text
 
 pePA.Ode61.ode = misc_en_US_oca.Ode6
@@ -183,7 +183,7 @@ pePA.Oikos.text = ""
 
 pePA.Ode7H.ode = misc_en_US_oca.Ode7
 pePA.Ode7H.mode = misc_en_US_oca.Mode1
-pePA.Ode7H.melody = misc_en_US_oca.Heirmos
+pePA.Ode7H.melody = misc_en_US_oca.HeirmosNotMetered
 pePA.Ode7H.text = he.h.m1_en_US_oca.OPaidasEkKaminou.text
 
 pePA.Ode71.ode = misc_en_US_oca.Ode7
@@ -213,7 +213,7 @@ pePA.Ode7T2.text = ""
 
 pePA.Ode8H.ode = misc_en_US_oca.Ode8
 pePA.Ode8H.mode = misc_en_US_oca.Mode1
-pePA.Ode8H.melody = misc_en_US_oca.Heirmos
+pePA.Ode8H.melody = misc_en_US_oca.HeirmosNotMetered
 pePA.Ode8H.text = he.h.m1_en_US_oca.AftiIKliti.text
 
 pePA.Ode81.ode = misc_en_US_oca.Ode8
@@ -267,7 +267,7 @@ pePA.Ode9MKa.text = ""
 
 pePA.Ode9H.ode = misc_en_US_oca.Ode9
 pePA.Ode9H.mode = misc_en_US_oca.Mode1
-pePA.Ode9H.melody = misc_en_US_oca.Heirmos
+pePA.Ode9H.melody = misc_en_US_oca.HeirmosNotMetered
 pePA.Ode9H.text = he.h.m1_en_US_oca.FotizouFotizou.text
 
 pePA.Ode91.ode = misc_en_US_oca.Ode9

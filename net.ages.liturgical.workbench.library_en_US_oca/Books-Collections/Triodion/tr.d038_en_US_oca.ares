@@ -60,7 +60,7 @@ trMA.C2Poet = poets_en_US_oca.Theodorou
 
 trMA.Ode2C1H.ode = misc_en_US_oca.Ode2
 trMA.Ode2C1H.mode = misc_en_US_oca.Mode1
-trMA.Ode2C1H.melody = misc_en_US_oca.Heirmos
+trMA.Ode2C1H.melody = misc_en_US_oca.HeirmosNotMetered
 trMA.Ode2C1H.text = he.h.m1_en_US_oca.IdeteIdete.text
 
 trMA.Ode2C11.ode = misc_en_US_oca.Ode2
@@ -110,7 +110,7 @@ trMA.Ode2C2A1.text = ""
 
 trMA.Ode2C2H.ode = misc_en_US_oca.Ode2
 trMA.Ode2C2H.mode = misc_en_US_oca.Mode3
-trMA.Ode2C2H.melody = misc_en_US_oca.Heirmos
+trMA.Ode2C2H.melody = misc_en_US_oca.HeirmosNotMetered
 trMA.Ode2C2H.text = he.h.m3_en_US_oca.IdeteIdete.text
 
 trMA.Ode8C11.ode = misc_en_US_oca.Ode8
@@ -160,7 +160,7 @@ trMA.Ode8C2A1.text = ""
 
 trMA.Ode8C2H.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2H.mode = misc_en_US_oca.Mode3
-trMA.Ode8C2H.melody = misc_en_US_oca.Heirmos
+trMA.Ode8C2H.melody = misc_en_US_oca.HeirmosNotMetered
 trMA.Ode8C2H.text = he.h.m3_en_US_oca.TonEnFlogi.text
 
 trMA.Ode9C11.ode = misc_en_US_oca.Ode9
@@ -210,7 +210,7 @@ trMA.Ode9C2A1.text = ""
 
 trMA.Ode9C2H.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2H.mode = misc_en_US_oca.Mode3
-trMA.Ode9C2H.melody = misc_en_US_oca.Heirmos
+trMA.Ode9C2H.melody = misc_en_US_oca.HeirmosNotMetered
 trMA.Ode9C2H.text = he.h.m3_en_US_oca.EnSinaioToOrei.text
 
 trMA.AposIdiomelon1.mode = misc_en_US_oca.Mode7

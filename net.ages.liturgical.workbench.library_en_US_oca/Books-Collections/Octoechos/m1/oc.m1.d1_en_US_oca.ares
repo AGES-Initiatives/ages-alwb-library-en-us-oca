@@ -275,7 +275,7 @@ ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_US_oca.Mode1
 ocMA.Kathisma23.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
-ocMA.Kathisma23.text = ""
+ocMA.Kathisma23.text = "Holy Mary, as you received the Master, * raise us up, for we have fallen into an abyss of deep despair, failure and affliction. * For you are the salvation, help and strong advocate of sinners ** and you save your servants!"
 
 ocMA.Hypakoe.mode = misc_en_US_oca.Mode1
 ocMA.Hypakoe.melody = ""
@@ -327,7 +327,7 @@ ocMA.C3Poet = poets_en_US_oca.IoannouTouDamaskinou
 
 ocMA.OdeS1C1H.mode = misc_en_US_oca.Mode1
 ocMA.OdeS1C1H.ode = misc_en_US_oca.Ode1
-ocMA.OdeS1C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS1C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS1C1H.text = he.h.m1_en_US_oca.SouITropaiouchos.text
 
 ocMA.OdeS1C11.mode = misc_en_US_oca.Mode1
@@ -377,7 +377,7 @@ ocMA.OdeS1C33.text = ""
 
 ocMA.OdeS3C1H.mode = misc_en_US_oca.Mode1
 ocMA.OdeS3C1H.ode = misc_en_US_oca.Ode3
-ocMA.OdeS3C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS3C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS3C1H.text = he.h.m1_en_US_oca.OMonosEidos.text
 
 ocMA.OdeS3C11.mode = misc_en_US_oca.Mode1
@@ -427,7 +427,7 @@ ocMA.OdeS3C33.text = ""
 
 ocMA.OdeS4C1H.mode = misc_en_US_oca.Mode1
 ocMA.OdeS4C1H.ode = misc_en_US_oca.Ode4
-ocMA.OdeS4C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS4C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS4C1H.text = he.h.m1_en_US_oca.OrosSeTiChariti.text
 
 ocMA.OdeS4C11.mode = misc_en_US_oca.Mode1
@@ -477,7 +477,7 @@ ocMA.OdeS4C33.text = ""
 
 ocMA.OdeS5C1H.mode = misc_en_US_oca.Mode1
 ocMA.OdeS5C1H.ode = misc_en_US_oca.Ode5
-ocMA.OdeS5C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS5C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS5C1H.text = he.h.m1_en_US_oca.OFotisasTiEllampsei.text
 
 ocMA.OdeS5C11.mode = misc_en_US_oca.Mode1
@@ -527,7 +527,7 @@ ocMA.OdeS5C33.text = ""
 
 ocMA.OdeS6C1H.mode = misc_en_US_oca.Mode1
 ocMA.OdeS6C1H.ode = misc_en_US_oca.Ode6
-ocMA.OdeS6C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS6C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS6C1H.text = he.h.m1_en_US_oca.EkyklosenImas.text
 
 ocMA.OdeS6C11.mode = misc_en_US_oca.Mode1
@@ -584,7 +584,7 @@ ocMA.Oikos.text = ""
 
 ocMA.OdeS7C1H.mode = misc_en_US_oca.Mode1
 ocMA.OdeS7C1H.ode = misc_en_US_oca.Ode7
-ocMA.OdeS7C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS7C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS7C1H.text = he.h.m1_en_US_oca.SeNoitin.text
 
 ocMA.OdeS7C11.mode = misc_en_US_oca.Mode1
@@ -634,7 +634,7 @@ ocMA.OdeS7C33.text = ""
 
 ocMA.OdeS8C1H.mode = misc_en_US_oca.Mode1
 ocMA.OdeS8C1H.ode = misc_en_US_oca.Ode8
-ocMA.OdeS8C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS8C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS8C1H.text = he.h.m1_en_US_oca.EnKaminoPaides.text
 
 ocMA.OdeS8C11.mode = misc_en_US_oca.Mode1
@@ -684,7 +684,7 @@ ocMA.OdeS8C33.text = ""
 
 ocMA.OdeS9C1H.mode = misc_en_US_oca.Mode1
 ocMA.OdeS9C1H.ode = misc_en_US_oca.Ode9
-ocMA.OdeS9C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS9C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS9C1H.text = he.h.m1_en_US_oca.TyponTisAgnis.text
 
 ocMA.OdeS9C11.mode = misc_en_US_oca.Mode1

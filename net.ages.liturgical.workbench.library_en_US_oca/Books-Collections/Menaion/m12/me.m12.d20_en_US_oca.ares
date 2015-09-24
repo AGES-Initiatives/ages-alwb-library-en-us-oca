@@ -88,7 +88,7 @@ meCO.C1Acrostic.text = ""
 
 meCO.Ode1C1H.ode = misc_en_US_oca.Ode1
 meCO.Ode1C1H.mode = misc_en_US_oca.Mode2
-meCO.Ode1C1H.melody = misc_en_US_oca.Heirmos
+meCO.Ode1C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meCO.Ode1C1H.text = he.h.m2_en_US_oca.ToTinAvaton.text
 
 meCO.Ode1C11.ode = misc_en_US_oca.Ode1
@@ -103,7 +103,7 @@ meCO.Ode1C12.text = ""
 
 meCO.Ode8C1H.ode = misc_en_US_oca.Ode8
 meCO.Ode8C1H.mode = misc_en_US_oca.Mode2
-meCO.Ode8C1H.melody = misc_en_US_oca.Heirmos
+meCO.Ode8C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meCO.Ode8C1H.text = he.h.m2_en_US_oca.EfrixePaidonEvagon.text
 
 meCO.Ode8C11.ode = misc_en_US_oca.Ode8
@@ -118,7 +118,7 @@ meCO.Ode8C12.text = ""
 
 meCO.Ode9C1H.ode = misc_en_US_oca.Ode9
 meCO.Ode9C1H.mode = misc_en_US_oca.Mode2
-meCO.Ode9C1H.melody = misc_en_US_oca.Heirmos
+meCO.Ode9C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meCO.Ode9C1H.text = he.h.m2_en_US_oca.EmegalynasChriste.text
 
 meCO.Ode9C11.ode = misc_en_US_oca.Ode9
@@ -145,7 +145,7 @@ meMA.C2Poet = poets_en_US_oca.AndreouKritis
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode1
-meMA.Ode1C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode1C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode1C1H.text = he.h.m1_en_US_oca.OdinEpinikion.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
@@ -200,7 +200,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C1H.ode = misc_en_US_oca.Ode3
 meMA.Ode3C1H.mode = misc_en_US_oca.Mode1
-meMA.Ode3C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode3C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode3C1H.text = he.h.m1_en_US_oca.LithonOnApedokimasan.text
 
 meMA.Ode3C11.ode = misc_en_US_oca.Ode3
@@ -278,7 +278,7 @@ meMA.Ode3Kathisma3.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
 meMA.Ode4C1H.mode = misc_en_US_oca.Mode1
-meMA.Ode4C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode4C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode4C1H.text = he.h.m1_en_US_oca.EnPnevmatiProvlepon.text
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -333,7 +333,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C1H.ode = misc_en_US_oca.Ode5
 meMA.Ode5C1H.mode = misc_en_US_oca.Mode1
-meMA.Ode5C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode5C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode5C1H.text = he.h.m1_en_US_oca.TinSinEirinin.text
 
 meMA.Ode5C11.ode = misc_en_US_oca.Ode5
@@ -388,7 +388,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C1H.ode = misc_en_US_oca.Ode6
 meMA.Ode6C1H.mode = misc_en_US_oca.Mode1
-meMA.Ode6C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode6C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode6C1H.text = he.h.m1_en_US_oca.TonProfitinIonan.text
 
 meMA.Ode6C11.ode = misc_en_US_oca.Ode6
@@ -451,7 +451,7 @@ meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_oca.Ode7
 meMA.Ode7C1H.mode = misc_en_US_oca.Mode1
-meMA.Ode7C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode7C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode7C1H.text = he.h.m1_en_US_oca.TousEnKaminoPaidas.text
 
 meMA.Ode7C11.ode = misc_en_US_oca.Ode7
@@ -501,7 +501,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C1H.ode = misc_en_US_oca.Ode8
 meMA.Ode8C1H.mode = misc_en_US_oca.Mode1
-meMA.Ode8C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode8C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode8C1H.text = he.h.m1_en_US_oca.OnFrittousinAngeloi.text
 
 meMA.Ode8C11.ode = misc_en_US_oca.Ode8
@@ -551,7 +551,7 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode9C1H.ode = misc_en_US_oca.Ode9
 meMA.Ode9C1H.mode = misc_en_US_oca.Mode1
-meMA.Ode9C1H.melody = misc_en_US_oca.Heirmos
+meMA.Ode9C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode9C1H.text = he.h.m1_en_US_oca.TinZoodochonPigin.text
 
 meMA.Ode9C11.ode = misc_en_US_oca.Ode9

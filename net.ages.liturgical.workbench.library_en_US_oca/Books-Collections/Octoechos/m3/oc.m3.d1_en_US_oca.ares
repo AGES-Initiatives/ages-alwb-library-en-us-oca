@@ -82,7 +82,7 @@ ocVE.Aposticha4.text = ""
 
 ocVE.AposTheotokion.mode = misc_en_US_oca.Mode3
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = "By the will of the Father, * without seed, of the Holy Spirit you conceived the Son of God! * He was born of the Father before eternity without a Mother, * but now for our sake He came from you without a Father! ** Do not cease entreating Him to deliver our souls from harm."
 
 ocVE.Apolytikion.mode = misc_en_US_oca.Mode3
 ocVE.Apolytikion.melody = ""
@@ -320,9 +320,9 @@ ocMA.C2Acrostic.text = ""
 
 ocMA.C3Acrostic.text = ""
 
-ocMA.OdeS1C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS1C1H.mode = misc_en_US_oca.Mode3
 ocMA.OdeS1C1H.ode = misc_en_US_oca.Ode1
-ocMA.OdeS1C1H.melody = ""
+ocMA.OdeS1C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS1C1H.text = he.h.m3_en_US_oca.OTaYdata.text
 
 ocMA.OdeS1C11.mode = misc_en_US_oca.Mode3
@@ -362,7 +362,7 @@ ocMA.OdeS1C32.text = ""
 
 ocMA.OdeS3C1H.mode = misc_en_US_oca.Mode3
 ocMA.OdeS3C1H.ode = misc_en_US_oca.Ode3
-ocMA.OdeS3C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS3C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS3C1H.text = he.h.m3_en_US_oca.OEkMiOnton.text
 
 ocMA.OdeS3C11.mode = misc_en_US_oca.Mode3
@@ -402,7 +402,7 @@ ocMA.OdeS3C32.text = ""
 
 ocMA.OdeS4C1H.mode = misc_en_US_oca.Mode3
 ocMA.OdeS4C1H.ode = misc_en_US_oca.Ode4
-ocMA.OdeS4C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS4C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS4C1H.text = he.h.m3_en_US_oca.EthouProsImas.text
 
 ocMA.OdeS4C11.mode = misc_en_US_oca.Mode3
@@ -447,7 +447,7 @@ ocMA.OdeS4C33.text = ""
 
 ocMA.OdeS5C1H.mode = misc_en_US_oca.Mode3
 ocMA.OdeS5C1H.ode = misc_en_US_oca.Ode5
-ocMA.OdeS5C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS5C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS5C1H.text = he.h.m3_en_US_oca.ProsSeOrthrizo.text
 
 ocMA.OdeS5C11.mode = misc_en_US_oca.Mode3
@@ -487,7 +487,7 @@ ocMA.OdeS5C32.text = ""
 
 ocMA.OdeS6C1H.mode = misc_en_US_oca.Mode3
 ocMA.OdeS6C1H.ode = misc_en_US_oca.Ode6
-ocMA.OdeS6C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS6C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS6C1H.text = he.h.m3_en_US_oca.AvyssosEschati.text
 
 ocMA.OdeS6C11.mode = misc_en_US_oca.Mode3
@@ -535,7 +535,7 @@ ocMA.Oikos.text = ""
 
 ocMA.OdeS7C1H.mode = misc_en_US_oca.Mode3
 ocMA.OdeS7C1H.ode = misc_en_US_oca.Ode7
-ocMA.OdeS7C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS7C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS7C1H.text = he.h.m3_en_US_oca.OsPalaiTousEfseveis.text
 
 ocMA.OdeS7C11.mode = misc_en_US_oca.Mode3
@@ -585,7 +585,7 @@ ocMA.OdeS7C33.text = ""
 
 ocMA.OdeS8C1H.mode = misc_en_US_oca.Mode3
 ocMA.OdeS8C1H.ode = misc_en_US_oca.Ode8
-ocMA.OdeS8C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS8C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS8C1H.text = he.h.m3_en_US_oca.AstektoPyri.text
 
 ocMA.OdeS8C11.mode = misc_en_US_oca.Mode3
@@ -630,7 +630,7 @@ ocMA.OdeS8C32.text = ""
 
 ocMA.OdeS9C1H.mode = misc_en_US_oca.Mode3
 ocMA.OdeS9C1H.ode = misc_en_US_oca.Ode9
-ocMA.OdeS9C1H.melody = misc_en_US_oca.Heirmos
+ocMA.OdeS9C1H.melody = misc_en_US_oca.HeirmosNotMetered
 ocMA.OdeS9C1H.text = he.h.m3_en_US_oca.KainonToThavma.text
 
 ocMA.OdeS9C11.mode = misc_en_US_oca.Mode3
