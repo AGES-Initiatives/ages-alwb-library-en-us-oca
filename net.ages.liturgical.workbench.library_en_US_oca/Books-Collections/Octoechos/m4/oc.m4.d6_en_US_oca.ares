@@ -53,7 +53,7 @@ ocMA.Kathisma11.melody = ""
 ocMA.Kathisma11.text = oc.m4.d4_en_US_oca.ocMA.Kathisma11.text
 
 ocMA.Kathisma12.mode = misc_en_US_oca.Mode4
-ocMA.Kathisma12.melody = misc_en_US_oca.Automelon
+ocMA.Kathisma12.melody = misc_en_US_oca.AutomelonNotMetered
 ocMA.Kathisma12.text = he.a.m4_en_US_oca.OYpsotheisEnToStavro.text
 
 ocMA.Kathisma13.mode = misc_en_US_oca.Mode4
@@ -61,7 +61,7 @@ ocMA.Kathisma13.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsothei
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_oca.Mode4
-ocMA.Kathisma21.melody = misc_en_US_oca.Automelon
+ocMA.Kathisma21.melody = misc_en_US_oca.AutomelonNotMetered
 ocMA.Kathisma21.text = he.a.m4_en_US_oca.TachyProkatalave.text
 
 ocMA.Kathisma22.mode = misc_en_US_oca.Mode4
@@ -473,7 +473,7 @@ ocMA.Aposticha1.melody = ""
 ocMA.Aposticha1.text = oc.m4.d4_en_US_oca.ocMA.Aposticha1.text
 
 ocMA.Aposticha2.mode = misc_en_US_oca.Mode4
-ocMA.Aposticha2.melody = misc_en_US_oca.Automelon
+ocMA.Aposticha2.melody = misc_en_US_oca.AutomelonNotMetered
 ocMA.Aposticha2.text = he.a.m4_en_US_oca.EdokasSimeiosin.text
 
 ocMA.Aposticha3.mode = misc_en_US_oca.Mode4

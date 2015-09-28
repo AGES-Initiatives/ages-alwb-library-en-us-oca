@@ -263,7 +263,7 @@ meMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.SplanchnonIo
 meMA.Ode6C2T.text = "The Existing One, eternally with the Father and the Spirit, * is known as a little child on earth. * He Who was revealed clothing the earth with clouds * is wrapped in swaddling clothes and laid in a manger of dumb beasts. * Now let us rejoice in the prefeast ** as we celebrate His seedless Nativity!"
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
-meMA.Kontakion1.melody = misc_en_US_oca.Automelon
+meMA.Kontakion1.melody = misc_en_US_oca.AutomelonNotMetered
 meMA.Kontakion1.text = "O thrice-blessed ones, * you did not worship the image made by man, * but armed with the invisible power of god, * you were glorified in a trial by fire. * from the midst of unbearable flames you called on god, * crying: hasten, compassionate one! * speedily come to our defense, ** for you are merciful and able to accomplish everything that you will."
 
 meMA.Oikos1.text = "Stretch forth Your hand, which both the pursuing Egyptians and the persecuted Hebrews knew in days of old! Do not forsake us, lest death which thirsts for us, and Satan who hates us, swallow us up, but come near to us, and be merciful to us, as once You showed mercy to the children in Babylon, who ever sang hymns to You, and for Your sake were cast into the furnace, from where they cried to You: Hasten, compassionate one! speedily come to our defense, ** for You are merciful and able to accomplish everything that You will!"
@@ -436,7 +436,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_oca.Mode3
-meLI.SeasonalKontakion.melody = misc_en_US_oca.Automelon
+meLI.SeasonalKontakion.melody = misc_en_US_oca.AutomelonNotMetered
 meLI.SeasonalKontakion.text = me.m12.d20_en_US_oca.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

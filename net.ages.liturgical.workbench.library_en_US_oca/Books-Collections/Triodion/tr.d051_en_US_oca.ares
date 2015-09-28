@@ -46,7 +46,7 @@ trMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiot
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma22.mode = misc_en_US_oca.Mode3
-trMA.Kathisma22.melody = misc_en_US_oca.Automelon
+trMA.Kathisma22.melody = misc_en_US_oca.AutomelonNotMetered
 trMA.Kathisma22.text = he.a.m3_en_US_oca.TinOraiotita.text
 
 trMA.Kathisma31.mode = misc_en_US_oca.Mode7
@@ -216,7 +216,7 @@ trMA.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
 trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = misc_en_US_oca.Mode8
-trMA.AposMartyric.melody = misc_en_US_oca.Automelon
+trMA.AposMartyric.melody = misc_en_US_oca.AutomelonNotMetered
 trMA.AposMartyric.text = he.a.m8_en_US_oca.TiYmasKalesomen.text
 
 trMA.AposTheotokion.mode = misc_en_US_oca.Mode8

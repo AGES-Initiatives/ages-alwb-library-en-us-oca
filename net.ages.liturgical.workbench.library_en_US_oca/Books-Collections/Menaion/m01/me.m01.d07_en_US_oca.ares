@@ -285,7 +285,7 @@ meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.Gyn
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion2.melody = misc_en_US_oca.Automelon
+meMA.Exaposteilarion2.melody = misc_en_US_oca.AutomelonNotMetered
 meMA.Exaposteilarion2.text = he.a.m3_en_US_oca.EpefaniOSotir.text
 
 meMA.Lauds1.poet = poets_en_US_oca.GermanouPatriarchou
@@ -329,7 +329,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_oca.Mode4
-meLI.SeasonalKontakion.melody = misc_en_US_oca.Automelon
+meLI.SeasonalKontakion.melody = misc_en_US_oca.AutomelonNotMetered
 meLI.SeasonalKontakion.text = me.m01.d06_en_US_oca.meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = misc_en_US_oca.Mode2

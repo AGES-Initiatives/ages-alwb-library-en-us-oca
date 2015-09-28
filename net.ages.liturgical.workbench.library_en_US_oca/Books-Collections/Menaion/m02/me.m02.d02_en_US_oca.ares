@@ -141,7 +141,7 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = misc_en_US_oca.Automelon
+meMA.Kathisma11.melody = misc_en_US_oca.AutomelonNotMetered
 meMA.Kathisma11.text = he.a.m1_en_US_oca.ChorosAngelikos.text
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode1
@@ -360,7 +360,7 @@ meMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.EnNomoSkia.n
 meMA.Ode9C13.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.Automelon
+meMA.Exaposteilarion1.melody = misc_en_US_oca.AutomelonNotMetered
 meMA.Exaposteilarion1.text = he.a.m3_en_US_oca.EnPnevmatiToIero.text
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode4

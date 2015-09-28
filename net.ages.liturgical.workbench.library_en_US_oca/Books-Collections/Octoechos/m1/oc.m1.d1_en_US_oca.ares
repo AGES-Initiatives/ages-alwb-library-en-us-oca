@@ -25,7 +25,7 @@ ocSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOurani
 ocSV.Aposticha3.text = ""
 
 ocSV.AposDogmatic.mode = misc_en_US_oca.Mode1
-ocSV.AposDogmatic.melody = misc_en_US_oca.Automelon
+ocSV.AposDogmatic.melody = misc_en_US_oca.AutomelonNotMetered
 ocSV.AposDogmatic.text = he.a.m1_en_US_oca.NefelinSeFotos.text
 
 ocVE.MM.LIHC1.text = properties_en_US_oca.media.key
@@ -85,7 +85,7 @@ ocVE.AposTheotokion.melody = ""
 ocVE.AposTheotokion.text = ""
 
 ocVE.Apolytikion.mode = misc_en_US_oca.Mode1
-ocVE.Apolytikion.melody = misc_en_US_oca.Automelon
+ocVE.Apolytikion.melody = misc_en_US_oca.AutomelonNotMetered
 ocVE.Apolytikion.text = he.a.m1_en_US_oca.TouLithouSfragisthentos.text
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_oca.Mode1
@@ -254,7 +254,7 @@ ocMO.Ode9T.text = ""
 ocMA.MM.GodIsTheLord.text = properties_en_US_oca.media.key
 
 ocMA.Kathisma11.mode = misc_en_US_oca.Mode1
-ocMA.Kathisma11.melody = misc_en_US_oca.Automelon
+ocMA.Kathisma11.melody = misc_en_US_oca.AutomelonNotMetered
 ocMA.Kathisma11.text = he.a.m1_en_US_oca.TonTafonSouSotir.text
 
 ocMA.Kathisma12.mode = misc_en_US_oca.Mode1

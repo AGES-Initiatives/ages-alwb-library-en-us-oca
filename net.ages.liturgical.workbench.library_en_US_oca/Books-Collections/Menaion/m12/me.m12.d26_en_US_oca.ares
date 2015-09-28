@@ -67,7 +67,7 @@ meMA.Oikos1.text = ""
 meMA.Synaxarion.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.Automelon
+meMA.Exaposteilarion1.melody = misc_en_US_oca.AutomelonNotMetered
 meMA.Exaposteilarion1.text = he.a.m3_en_US_oca.EpeskepsatoImas.text
 
 meMA.Lauds1.poet = poets_en_US_oca.AndreouIerosolymitou
@@ -102,7 +102,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_oca.Mode3
-meLI.SeasonalKontakion.melody = misc_en_US_oca.Automelon
+meLI.SeasonalKontakion.melody = misc_en_US_oca.AutomelonNotMetered
 meLI.SeasonalKontakion.text = me.m12.d25_en_US_oca.meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = me.m12.d25_en_US_oca.meMA.Ode9C2H.mode
