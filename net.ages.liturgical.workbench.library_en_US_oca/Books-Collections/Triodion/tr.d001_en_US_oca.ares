@@ -1,0 +1,371 @@
+A_Resource_Whose_Name = tr.d001_en_US_oca 
+
+trCommemoration.text = ""
+trShortCommemoration1.text = ""
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trDismissal = dismissals_en_US_oca.dis00.resurrection
+
+trVE.Stichera01.mode = misc_en_US_oca.Mode1
+trVE.Stichera01.melody = misc_en_US_oca.Idiomelon
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_US_oca.Mode1
+trVE.Stichera02.melody = misc_en_US_oca.Idiomelon
+trVE.Stichera02.text = ""
+
+trVE.MM.Stichera123as567.text = properties_en_US_oca.media.key
+
+trVE.SticGlory.mode = misc_en_US_oca.Mode8
+trVE.SticGlory.melody = misc_en_US_oca.Idiomelon
+trVE.SticGlory.text = ""
+
+trVE.AposGlory.mode = misc_en_US_oca.Mode5
+trVE.AposGlory.melody = misc_en_US_oca.Idiomelon
+trVE.AposGlory.text = ""
+
+trVE.AposTheotokion.mode = oc.m5.d1_en_US_oca.ocVE.AposTheotokion.mode
+trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.text = oc.m5.d1_en_US_oca.ocVE.AposTheotokion.text
+
+trMA.PostGospelGlory.mode = misc_en_US_oca.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = ""
+
+trMA.PostGospelBoth.mode = misc_en_US_oca.Mode8
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.text = ""
+
+trMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
+trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.text = ""
+
+trMA.C1Poet = poets_en_US_oca.Georgiou
+trMA.C1Acrostic.text = ""
+
+trMA.Ode1C11.ode = misc_en_US_oca.Ode1
+trMA.Ode1C11.mode = misc_en_US_oca.Mode6
+trMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C11.text = "Through parables leading all mankind * to seek amendment of life, * Christ raises up the Publican from his abasement * and humbles the Pharisee in his pride."
+
+trMA.Ode1C12.ode = misc_en_US_oca.Ode1
+trMA.Ode1C12.mode = misc_en_US_oca.Mode6
+trMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C12.text = "We see the exalted honor that comes through humility, * and the grievous fall that comes through pride. * Let us, then, emulate the good actions of the Publican * and hate the evil sin of the Pharisee!"
+
+trMA.Ode1C13.ode = misc_en_US_oca.Ode1
+trMA.Ode1C13.mode = misc_en_US_oca.Mode6
+trMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C13.text = "Every good deed is made of no effect through foolish pride, * while every evil is cleansed by humility. * In faith let us embrace humility * and utterly abhor the ways of vainglory."
+
+trMA.Ode1C14.ode = misc_en_US_oca.Ode1
+trMA.Ode1C14.mode = misc_en_US_oca.Mode6
+trMA.Ode1C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C14.text = "The King of all, in His desire * that His own disciples be humble in mind, * taught them to emulate the groaning of the Publican * together with his humility."
+
+trMA.Ode1C15.ode = misc_en_US_oca.Ode1
+trMA.Ode1C15.mode = misc_en_US_oca.Mode6
+trMA.Ode1C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C15.text = "I groan as the Publican, * and with unceasing lamentations I now draw near to Your compassion, Lord. * Be merciful also to me, * for now I live out my days in humility."
+
+trMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+trMA.Ode1C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C1T.text = "I dedicate my understanding and my counsel to you, Lady, * my expectation, my body, soul and spirit. * Deliver and save me from dangerous adversaries and temptations, * and from every threat that lies before me!"
+
+trMA.Ode3C11.ode = misc_en_US_oca.Ode3
+trMA.Ode3C11.mode = misc_en_US_oca.Mode6
+trMA.Ode3C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C11.text = "The humble is lifted up on high * from the dung-hill of the passions, * while the proudhearted suffers a great: fall from the height of the virtues. * Let us flee from his evil ways."
+
+trMA.Ode3C12.ode = misc_en_US_oca.Ode3
+trMA.Ode3C12.mode = misc_en_US_oca.Mode6
+trMA.Ode3C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C12.text = "Vainglory disperses the treasures of righteousness, * but humility scatters the multitude of passions. * Then grant that we may seek humility, O Savior, * and bestow on us the portion of the Publican."
+
+trMA.Ode3C13.ode = misc_en_US_oca.Ode3
+trMA.Ode3C13.mode = misc_en_US_oca.Mode6
+trMA.Ode3C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C13.text = "As the Publican, let us beat our breasts, * crying out in compunction: * O God, be merciful to us sinners, * that like him, we may receive forgiveness."
+
+trMA.Ode3C14.ode = misc_en_US_oca.Ode3
+trMA.Ode3C14.mode = misc_en_US_oca.Mode6
+trMA.Ode3C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C14.text = "Faithful, let us increase in zeal and meekness, * passing our days in humility, * with cries of sorrow from our heart, weeping and prayer, * that we may receive forgiveness from God."
+
+trMA.Ode3C15.ode = misc_en_US_oca.Ode3
+trMA.Ode3C15.mode = misc_en_US_oca.Mode6
+trMA.Ode3C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C15.text = "Faithful, let us cast away * the swollen boasting and evil folly of the Pharisee, * his loathsome pride and wicked cruelty, * and all that is hateful to God."
+
+trMA.Ode3C1T.ode = misc_en_US_oca.Ode3
+trMA.Ode3C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C1T.text = "I have set my trust in you, my only refuge: * Do not let me fall away from my good hope, * but grant me your protection, pure Virgin, * and deliver me from every assault by my enemies!"
+
+trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
+trMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+trMA.Ode3Kathisma1.text = "Overcome with shame and sorrow at his evil deeds, * humility exalted the Publican: * he cried out to the Creator: Be merciful! * But the unhappy Pharisee who spoke in pride * was brought down from righteousness by his exaltation! * Therefore let us earnestly desire what is good, ** and avoid all that is evil."
+
+trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
+trMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+trMA.Ode3Kathisma2.text = "In days of old, humility exalted the Publican, * who cried out, lamenting: Be merciful!  And was justified. * Let us all follow his example, * for we have fallen to the depths of evil. * Let us cry to the Savior from the depths of our hearts: * We have sinned; be merciful, ** as the only Lover of mankind!"
+
+trMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode4
+trMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+trMA.Ode3Kathisma3.text = "Hasten to receive our prayers, Lady, * and bring them before your Son and God, all-blameless Queen. * Deliver those who run to you from tribulation, * crushing the assaults of the ungodly ** casting down the impudence of those who attack your servants!"
+
+trMA.Ode4C11.ode = misc_en_US_oca.Ode4
+trMA.Ode4C11.mode = misc_en_US_oca.Mode6
+trMA.Ode4C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C11.text = "The Word humbled Himself to the form of a servant, * showing that humility is the path to exaltation. * Every man, then, who humbles himself after the Lord's example, * is exalted on high."
+
+trMA.Ode4C12.ode = misc_en_US_oca.Ode4
+trMA.Ode4C12.mode = misc_en_US_oca.Mode6
+trMA.Ode4C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C12.text = "The Pharisee fell, exalted in his righteousness, * while the Publican was abased, defiled by many sins; * yet against all expectation, he was exalted, * and so was justified."
+
+trMA.Ode4C13.ode = misc_en_US_oca.Ode4
+trMA.Ode4C13.mode = misc_en_US_oca.Mode6
+trMA.Ode4C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C13.text = "Though he was rich in virtues, * foolish pride brought the Pharisee to poverty, * but in his great need the Publican was justified through humility. * Let us also gain this humility."
+
+trMA.Ode4C14.ode = misc_en_US_oca.Ode4
+trMA.Ode4C14.mode = misc_en_US_oca.Mode6
+trMA.Ode4C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C14.text = "You have warned us that You resist the proud, Master and Savior, * but give grace to the humble. * We pray You to send Your grace upon us now, * for we have humbled ourselves."
+
+trMA.Ode4C15.ode = misc_en_US_oca.Ode4
+trMA.Ode4C15.mode = misc_en_US_oca.Mode6
+trMA.Ode4C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C15.text = "Ever leading us to divine exaltation, * our Savior and Master, by His own deeds * revealed to us the humility that exalts us, * with His own hands, washing the feet of the disciples."
+
+trMA.Ode4C1T.ode = misc_en_US_oca.Ode4
+trMA.Ode4C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode4C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C1T.text = "You have borne the Light unapproachable, Virgin; * disperse the darkness of my soul with your light-giving radiance: * Take me by the hand, * and guide my life to the paths of salvation!"
+
+trMA.Ode5C11.ode = misc_en_US_oca.Ode5
+trMA.Ode5C11.mode = misc_en_US_oca.Mode6
+trMA.Ode5C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C11.text = "Let us hasten to follow the Pharisee in his virtues * and to emulate the Publican in his humility. * Let us hate what is wrong in each of them: * foolish pride and the defilement of transgressions."
+
+trMA.Ode5C12.ode = misc_en_US_oca.Ode5
+trMA.Ode5C12.mode = misc_en_US_oca.Mode6
+trMA.Ode5C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C12.text = "The righteousness of the Pharisee proved to be vanity, * and was condemned, for it was yoked to pride; * but the Publican gained humility, * which goes with the virtue exalting men on high."
+
+trMA.Ode5C13.ode = misc_en_US_oca.Ode5
+trMA.Ode5C13.mode = misc_en_US_oca.Mode6
+trMA.Ode5C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C13.text = "The Pharisee thought to drive swiftly * in the chariot of the virtues; * but the Publican on foot outran him, * for he yoked humility with compassion."
+
+trMA.Ode5C14.ode = misc_en_US_oca.Ode5
+trMA.Ode5C14.mode = misc_en_US_oca.Mode6
+trMA.Ode5C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C14.text = "Pondering with our minds the parable of the Publican, * let us all emulate him with tears, * offering God a contrite spirit * and seeking the remission of our sins."
+
+trMA.Ode5C15.ode = misc_en_US_oca.Ode5
+trMA.Ode5C15.mode = misc_en_US_oca.Mode6
+trMA.Ode5C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C15.text = "Let us in all wisdom * cast far away from ourselves * the wicked arrogance and boasting of the Pharisee, * that we may not be stripped of divine grace!"
+
+trMA.Ode5C1T.ode = misc_en_US_oca.Ode5
+trMA.Ode5C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode5C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C1T.text = "Give a staff of strength, loving Virgin, * to all of us who run to you for refuge: * Give us victory in the midst of all our enemies, * and deliver us from all harm."
+
+trMA.Ode6C11.ode = misc_en_US_oca.Ode6
+trMA.Ode6C11.mode = misc_en_US_oca.Mode6
+trMA.Ode6C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C11.text = "The Publican and Pharisee both ran in the race of life, * but the one was overcome by foolish pride: * He was brought to a shameful shipwreck, * while the other was saved by humility."
+
+trMA.Ode6C12.ode = misc_en_US_oca.Ode6
+trMA.Ode6C12.mode = misc_en_US_oca.Mode6
+trMA.Ode6C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C12.text = "Changing to a righteous course of life, * let us emulate the wisdom of the Publican: * Let us run from the hateful conceit of the Pharisee, * so letting ourselves attain to life."
+
+trMA.Ode6C13.ode = misc_en_US_oca.Ode6
+trMA.Ode6C13.mode = misc_en_US_oca.Mode6
+trMA.Ode6C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C13.text = "Let us eagerly follow the ways of Jesus the Savior, * and His humility, * in our desire to attain the eternal dwelling of joy, * and to find rest in the land of the living."
+
+trMA.Ode6C14.ode = misc_en_US_oca.Ode6
+trMA.Ode6C14.mode = misc_en_US_oca.Mode6
+trMA.Ode6C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C14.text = "You have shown Your disciples, Master, * the humility that raises men on high: * girding Your loins with a towel, You washed their feet, * preparing them to follow Your example."
+
+trMA.Ode6C15.ode = misc_en_US_oca.Ode6
+trMA.Ode6C15.mode = misc_en_US_oca.Mode6
+trMA.Ode6C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C15.text = "The Pharisee spent his life in virtue, and the Publican in sin; * but the one was foolishly brought low through his pride, * while the other in his humility of mind * was raised up to the heights."
+
+trMA.Ode6C1T.ode = misc_en_US_oca.Ode6
+trMA.Ode6C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C1T.text = "I was created naked in innocence and simplicity; * then the enemy clothed me with the garment of sin and passionate flesh. * But now I am saved, Maiden, through your intercession."
+
+trMA.Kontakion0.mode = misc_en_US_oca.Mode4 
+trMA.Kontakion0.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+trMA.Kontakion0.text = "Let us flee from the pride of the Pharisee! * And learn humility from the publican's tears! * Let us cry to our Savior, * Have mercy on us, ** only merciful One!"
+
+trMA.Kontakion1.mode = misc_en_US_oca.Mode3
+trMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+trMA.Kontakion1.text = "As the Publican, let us bring tears of repentance to the Lord, * falling before him as sinners before the feet of our Master. * For he desires the salvation of all men, * granting forgiveness to all who repent and taking flesh for our sake ** though he is God, co-eternal with the Father!"
+
+trMA.Oikos1.text = "Let us all humble ourselves, brethren; groaning and lamenting and beating our conscience, that at the eternal Judgment we may receive forgiveness, and be  numbered with the faithful and righteous.  Let us pray to see the true peace of the age to come, where there is no more sorrow or sighing, in the glorious Eden fashioned by Christ, ** For he is God, co-eternal with the Father!"
+
+trMA.Synaxarion.commemoration.text = ""
+trMA.Synaxarion.couplet1.title = titles_en_US_oca.Stichoi
+trMA.Synaxarion.couplet1.verse1 = ""
+trMA.Synaxarion.couplet1.verse2 = ""
+trMA.Synaxarion.couplet2.title = ""
+trMA.Synaxarion.couplet2.verse1 = ""
+trMA.Synaxarion.couplet2.verse2 = ""
+trMA.Synaxarion.couplet2.verse3 = ""
+trMA.Synaxarion.lastline.text = ""
+
+trMA.Ode7C11.ode = misc_en_US_oca.Ode7
+trMA.Ode7C11.mode = misc_en_US_oca.Mode6
+trMA.Ode7C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C11.text = "Exalted by the works of justification and great boasting, * the Pharisee was deeply entangled in the nets of pride; * but the Publican was lifted on the rising wing of humility * and thus he drew near to God."
+
+trMA.Ode7C12.ode = misc_en_US_oca.Ode7
+trMA.Ode7C12.mode = misc_en_US_oca.Mode6
+trMA.Ode7C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C12.text = "The Publican used humility as a ladder * and was raised to the height of heaven; * but the wretched Pharisee was lifted by pride onto rotten emptiness, * and fell into the trap of hell."
+
+trMA.Ode7C13.ode = misc_en_US_oca.Ode7
+trMA.Ode7C13.mode = misc_en_US_oca.Mode6
+trMA.Ode7C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C13.text = "The crafty enemy lies in wait for the righteous, * despoiling them through pride, * while binding sinners fast with the ropes of despair, * but let us emulate the Publican, * and with haste, escape both these evils!"
+
+trMA.Ode7C14.ode = misc_en_US_oca.Ode7
+trMA.Ode7C14.mode = misc_en_US_oca.Mode6
+trMA.Ode7C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C14.text = "Let us fall before God in prayer with fervent tears of repentance, * emulating the Publican in the humility which raised him on high, * and let us sing in faith: * Blessed are You, O God of our fathers!"
+
+trMA.Ode7C15.ode = misc_en_US_oca.Ode7
+trMA.Ode7C15.mode = misc_en_US_oca.Mode6
+trMA.Ode7C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C15.text = "You have warned Your disciples, Master, * teaching them not to think proud thoughts but to be numbered with the humble. * Therefore, Savior, we cry aloud to You in faith: * Blessed are You, O God of our fathers!"
+
+trMA.Ode7C1T.ode = misc_en_US_oca.Ode7
+trMA.Ode7C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode7C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C1T.text = "You are the beauty of Jacob, holy Virgin; * the divine ladder he saw in days of old, stretching from earth to heaven, * for you bring down the Incarnate God from on high, * and bring mortal men up to heaven."
+
+trMA.Ode8C11.ode = misc_en_US_oca.Ode8
+trMA.Ode8C11.mode = misc_en_US_oca.Mode6
+trMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C11.text = "The Publican groaned aloud, and was saved, * for he found the Lord merciful to him in his humility, * but the Pharisee fell from righteousness * by his evil boasting."
+
+trMA.Ode8C12.ode = misc_en_US_oca.Ode8
+trMA.Ode8C12.mode = misc_en_US_oca.Mode6
+trMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C12.text = "Faithful, let us avoid the pride of the Pharisee: * Let us not say:  We are pure!  as he did; * but let us rightly follow the Publican in his humble thoughts * which gained for him God's mercy."
+
+trMA.Ode8C13.ode = misc_en_US_oca.Ode8
+trMA.Ode8C13.mode = misc_en_US_oca.Mode6
+trMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C13.text = "Faithful, let us speak the words of the Publican in the holy temple: * God, be merciful to me! * That with him we may obtain forgiveness * and be delivered from the evil boasting of the Pharisee."
+
+trMA.Ode8C14.ode = misc_en_US_oca.Ode8
+trMA.Ode8C14.mode = misc_en_US_oca.Mode6
+trMA.Ode8C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C14.text = "Let us all emulate the groaning of the Publican, * and cry out to God with fervent tears: * We have sinned, Lover of mankind. * In Your compassion, be merciful to us and save us!"
+
+trMA.Ode8C15.ode = misc_en_US_oca.Ode8
+trMA.Ode8C15.mode = misc_en_US_oca.Mode6
+trMA.Ode8C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C15.text = "God accepted the groaning of the Publican, * justifying him, and showing us all * that He is turned to mercy by the groans and tears * of those who beg forgiveness of sins."
+
+trMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+trMA.Ode8C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode8C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C1T.text = "I offer you, pure and blameless Virgin, * as my intercessor and mediator with Him whom you bore, * for I have no other help but you! * Set me free from all tribulation."
+
+trMA.Ode9C11.ode = misc_en_US_oca.Ode9
+trMA.Ode9C11.mode = misc_en_US_oca.Mode6
+trMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C11.text = "Christ has set before us the abasement of the Publican * as a path to exaltation and a pattern of salvation: * Let us follow his example and reject disdainful pride, * and gain God's mercy through our humility."
+
+trMA.Ode9C12.ode = misc_en_US_oca.Ode9
+trMA.Ode9C12.mode = misc_en_US_oca.Mode6
+trMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C12.text = "Let us cast foolish pride from our souls, * learning to think with truth and humility; * let us not try to justify ourselves, but to hate pride's delusion, * and so with the Publican, obtain God's mercy."
+
+trMA.Ode9C13.ode = misc_en_US_oca.Ode9
+trMA.Ode9C13.mode = misc_en_US_oca.Mode6
+trMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C13.text = "As the Publican, let us offer the Creator prayers for mercy. * Let us avoid the ungrateful prayers of the Pharisee * and the boasting words with which he judged his neighbor, * that we may gain God's mercy and enlightenment."
+
+trMA.Ode9C14.ode = misc_en_US_oca.Ode9
+trMA.Ode9C14.mode = misc_en_US_oca.Mode6
+trMA.Ode9C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C14.text = "Weighed down by the great number of my sins, * I have surpassed the Publican in an excess of evil, * I have also made the boasting delusion of the Pharisee my own: * I utterly lack all good things:  O Lord, spare me!"
+
+trMA.Ode9C15.ode = misc_en_US_oca.Ode9
+trMA.Ode9C15.mode = misc_en_US_oca.Mode6
+trMA.Ode9C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C15.text = "Bestow Your blessedness on those who are poor in spirit for Your sake! * We offer You a contrite spirit in obedience to Your command: * Accept out sacrifice, O Savior, * and save those who worship You."
+
+trMA.Ode9C16.ode = misc_en_US_oca.Ode9
+trMA.Ode9C16.mode = misc_en_US_oca.Mode6
+trMA.Ode9C16.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C16.text = "A Publican once went up into the temple with faith, * and was justified as he prayed to God. * For he drew near in contrition of heart, with tears and cries of sorrow, * and obtaining mercy, he laid aside all the burden of his sin."
+
+trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+trMA.Ode9C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C1T.text = "We honor you, all-pure Virgin, and magnify your child-bearing! * Grant us to praise, bless, and glorify you worthily, * for you alone are blessed. * You are the boast of Christians, and an acceptable intercessor before God!"
+
+trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
+trMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion1.text = ""
+
+trMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
+trMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+trMA.ExapTheotokion.text = ""
+
+trMA.Lauds1.mode = misc_en_US_oca.Mode1
+trMA.Lauds1.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds1.text = trVE.Stichera01.text
+
+trMA.Lauds2.mode = misc_en_US_oca.Mode1
+trMA.Lauds2.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds2.text = trVE.Stichera02.text
+
+trMA.Lauds3.mode = misc_en_US_oca.Mode3
+trMA.Lauds3.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds3.text = ""
+
+trMA.Lauds4.mode = misc_en_US_oca.Mode3
+trMA.Lauds4.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds4.text = ""
+
+trMA.MM.LaudsSunday_i_12as56.text = properties_en_US_oca.media.key
+
+trMA.LaudsGlory.mode = misc_en_US_oca.Mode8
+trMA.LaudsGlory.melody = misc_en_US_oca.Idiomelon
+trMA.LaudsGlory.text = ""
+
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
+
+trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode4
+trLI.SeasonalKontakion.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+trLI.SeasonalKontakion.text = trMA.Kontakion0.text
+
+trLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
+
+trMegalynarion.text = ""
+
