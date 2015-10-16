@@ -1,0 +1,737 @@
+A_Resource_Whose_Name = tr.d029_en_US_oca
+
+trCommemoration.text = "" //full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitionsd dismissal
+trNote.text = ""
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trDismissal = dismissals_en_US_oca.dis00.resurrection
+
+trSV.poet = poets_en_US_oca.Nikolaou
+
+trSV.Stichera1.mode = misc_en_US_oca.Mode1
+trSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trSV.Stichera1.text = ""
+
+trSV.Stichera2.mode = misc_en_US_oca.Mode1
+trSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trSV.Stichera2.text = ""
+
+trSV.Stichera3.mode = misc_en_US_oca.Mode1
+trSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trSV.Stichera3.text = ""
+
+trSV.Stichera4.mode = misc_en_US_oca.Mode1
+trSV.Stichera4.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trSV.Stichera4.text = ""
+
+trSV.SticGlory.mode = misc_en_US_oca.Mode1
+trSV.SticGlory.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trSV.SticGlory.text = ""
+
+trSV.Aposticha1.mode = misc_en_US_oca.Mode2
+trSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+trSV.Aposticha1.text = ""
+
+trSV.Aposticha2.mode = misc_en_US_oca.Mode2
+trSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+trSV.Aposticha2.text = ""
+
+trSV.Aposticha3.mode = misc_en_US_oca.Mode2
+trSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+trSV.Aposticha3.text = ""
+
+trSV.AposGlory.mode = misc_en_US_oca.Mode2
+trSV.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+trSV.AposGlory.text = ""
+
+trVE.Stichera01.mode = misc_en_US_oca.Mode6
+trVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_US_oca.Mode6
+trVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = misc_en_US_oca.Mode6
+trVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera03.text = ""
+
+trVE.Stichera04.mode = misc_en_US_oca.Mode6
+trVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera04.text = ""
+
+trVE.SticGlory.mode = misc_en_US_oca.Mode2
+trVE.SticGlory.melody = misc_en_US_oca.Idiomelon
+trVE.SticGlory.text = ""
+
+trVE.LityGlory.mode = misc_en_US_oca.Mode2
+trVE.LityGlory.melody = misc_en_US_oca.Idiomelon
+trVE.LityGlory.text = ""
+
+trVE.LityBoth.mode = misc_en_US_oca.Mode2
+trVE.LityBoth.melody = ""
+trVE.LityBoth.text = ho.s23_en_US_oca.hoCA.Troparion7.text
+
+trVE.AposGlory.mode = misc_en_US_oca.Mode2
+trVE.AposGlory.melody = misc_en_US_oca.Idiomelon
+trVE.AposGlory.text = ""
+
+trVE.AposTheotokion.mode = misc_en_US_oca.Mode2
+trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.text = oc.m2.d1_en_US_oca.ocVE.AposTheotokion.text
+
+trVE.Apolytikion1.mode = misc_en_US_oca.Mode2
+trVE.Apolytikion1.melody = ""
+trVE.Apolytikion1.text = oc.m2.d4_en_US_oca.ocMA.Kathisma21.text
+
+trVE.ApolTheotokion.mode = misc_en_US_oca.Mode2
+trVE.ApolTheotokion.melody = ""
+trVE.ApolTheotokion.text = oc.m2.d1_en_US_oca.ocVE.ApolTheotokionVM.text
+
+trMA.PostGospelGlory.mode = misc_en_US_oca.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = tr.d001_en_US_oca.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_en_US_oca.Mode8
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.text = tr.d001_en_US_oca.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
+trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.text = tr.d001_en_US_oca.trMA.PostGospelIdiomelon.text
+
+trMA.C1Poet = poets_en_US_oca.KyriouTheofanous
+trMA.C1Acrostic.text = ""
+
+trMA.Ode1C11.ode = misc_en_US_oca.Ode1
+trMA.Ode1C11.mode = misc_en_US_oca.Mode4
+trMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThalassisToErythraion.name
+trMA.Ode1C11.text = "Let us and all the faithful cry aloud and leap with joy today: * How marvelous are Your works, O Christ! * How great is Your might! * For You have made us of one mind * and brought about our agreement!"
+
+trMA.Ode1C12.ode = misc_en_US_oca.Ode1
+trMA.Ode1C12.mode = misc_en_US_oca.Mode4
+trMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThalassisToErythraion.name
+trMA.Ode1C12.text = "People of God, come and let us celebrate a day of joy: * Now heaven makes glad! * Earth with all the hosts of angels * and the companies of mortal men, * each in their varied orders, keep the feast."
+
+trMA.Ode1C13.ode = misc_en_US_oca.Ode1
+trMA.Ode1C13.mode = misc_en_US_oca.Mode4
+trMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThalassisToErythraion.name
+trMA.Ode1C13.text = "Seeing the great blessing we have received: * how the divided members of Christ have been brought to unity, * let us clap our hands for joy * and praise God who has granted us peace!"
+
+trMA.Ode1C14.ode = misc_en_US_oca.Ode1
+trMA.Ode1C14.mode = misc_en_US_oca.Mode4
+trMA.Ode1C14.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThalassisToErythraion.name
+trMA.Ode1C14.text = "Today a festival of victory is given to the Church * through the divinely-inspired intention and will of Michael and Theodora, * the rulers who in piety upheld the true Faith."
+
+trMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+trMA.Ode1C1T.mode = misc_en_US_oca.Mode4
+trMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThalassisToErythraion.name
+trMA.Ode1C1T.text = "The swords of impious heresies have failed: * for in deep reverence, pure and holy Virgin, * we now behold your temple, * made beautiful with icons, * and we rejoice with holy joy!"
+
+trMA.Ode3C11.ode = misc_en_US_oca.Ode3
+trMA.Ode3C11.mode = misc_en_US_oca.Mode4
+trMA.Ode3C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EffrainetaiEpiSoi.name
+trMA.Ode3C11.text = "The impious heretics * are no longer exalted in their pride, * for the power of God has firmly established Orthodoxy!"
+
+trMA.Ode3C12.ode = misc_en_US_oca.Ode3
+trMA.Ode3C12.mode = misc_en_US_oca.Mode4
+trMA.Ode3C12.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EffrainetaiEpiSoi.name
+trMA.Ode3C12.text = "Today let the prophets * at the restoration of the Faith, * drop on us life-giving dew from heaven!"
+
+trMA.Ode3C13.ode = misc_en_US_oca.Ode3
+trMA.Ode3C13.mode = misc_en_US_oca.Mode4
+trMA.Ode3C13.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EffrainetaiEpiSoi.name
+trMA.Ode3C13.text = "Let the mystical trumpets of Christ's apostles * sound in God-given harmony, * proclaiming the re-establishment of the precious icons."
+
+trMA.Ode3C14.ode = misc_en_US_oca.Ode3
+trMA.Ode3C14.mode = misc_en_US_oca.Mode4
+trMA.Ode3C14.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EffrainetaiEpiSoi.name
+trMA.Ode3C14.text = "Let us sing in praise of Christ, * Who appointed a devout and pious empress to rule over His people, * together with her son, who was crowned by God."
+
+trMA.Ode3C1T.ode = misc_en_US_oca.Ode3
+trMA.Ode3C1T.mode = misc_en_US_oca.Mode4
+trMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EffrainetaiEpiSoi.name
+trMA.Ode3C1T.text = "We pray you, most pure Lady, * shine now with the light of grace upon the faithful * who have gathered in your holy house."
+
+trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
+trMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.ChorosAngelikos.name
+trMA.Ode3Kathisma1.text = "Depicting your divine form in icons, O Christ, * we openly proclaim your nativity, * your ineffable miracles, and your voluntary crucifixion! * So the devils are driven out in fear, * and the heretics, their fellow-workers, ** lament in shame and sorrow!"
+
+trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode1
+trMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.ChorosAngelikos.name
+trMA.Ode3Kathisma2.text = "The heavenly Zion, our mother, is made beautiful * with the holy icons of the prophets and apostles, * of the martyrs and all the saints, ** brightly adorned with the glory of the spiritual bridegroom and bride!"
+
+trMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode1
+trMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.ChorosAngelikos.name
+trMA.Ode3Kathisma3.text = "We venerate your holy icon with love, honored Virgin, * proclaiming you with one accord as the true Theotokos! * In faith, we bow before you: * Since you have power to do all things, * be our guardian and our strong protection, ** driving far from us every tribulation!"
+
+trMA.Ode4C11.ode = misc_en_US_oca.Ode4
+trMA.Ode4C11.mode = misc_en_US_oca.Mode4
+trMA.Ode4C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EparthentaSeIdousa.name
+trMA.Ode4C11.text = "Sanctify Your temple, most merciful Word of God * through the divine descent of the Comforter, * and by His coming banish the error of heresy!"
+
+trMA.Ode4C12.ode = misc_en_US_oca.Ode4
+trMA.Ode4C12.mode = misc_en_US_oca.Mode4
+trMA.Ode4C12.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EparthentaSeIdousa.name
+trMA.Ode4C12.text = "Deliver Your people from the violence of impiety, * kindling them with zeal for Orthodoxy * as they cry out to You in faith: * Glory to Your power, O Lord!"
+
+trMA.Ode4C13.ode = misc_en_US_oca.Ode4
+trMA.Ode4C13.mode = misc_en_US_oca.Mode4
+trMA.Ode4C13.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EparthentaSeIdousa.name
+trMA.Ode4C13.text = "We rejoice with holy joy, * seeing the churches of God bright with the sacred icons * of Christ and the Theotokos."
+
+trMA.Ode4C14.ode = misc_en_US_oca.Ode4
+trMA.Ode4C14.mode = misc_en_US_oca.Mode4
+trMA.Ode4C14.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EparthentaSeIdousa.name
+trMA.Ode4C14.text = "The royally crowned Empress, in love for the true Kingdom of Christ, * restored in all the churches * His most pure icon and the pictures of the saints."
+
+trMA.Ode4C1T.ode = misc_en_US_oca.Ode4
+trMA.Ode4C1T.mode = misc_en_US_oca.Mode4
+trMA.Ode4C1T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EparthentaSeIdousa.name
+trMA.Ode4C1T.text = "You were sanctified as the holy temple of God, * full of grace who bore God the incarnate Word: * therefore we consecrate your shrine, newly adorned with glory."
+
+trMA.Ode5C11.ode = misc_en_US_oca.Ode5
+trMA.Ode5C11.mode = misc_en_US_oca.Mode4
+trMA.Ode5C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.SyKyrieMouFos.name
+trMA.Ode5C11.text = "Firmly establish Your Church, Lord, * that she may stand unshaken by the storm of heresy * unto ages of ages!"
+
+trMA.Ode5C12.ode = misc_en_US_oca.Ode5
+trMA.Ode5C12.mode = misc_en_US_oca.Mode4
+trMA.Ode5C12.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.SyKyrieMouFos.name
+trMA.Ode5C12.text = "The rejoicing granted to the faithful from on high * and the help they have received from God * shines with glory over all the earth."
+
+trMA.Ode5C13.ode = misc_en_US_oca.Ode5
+trMA.Ode5C13.mode = misc_en_US_oca.Mode4
+trMA.Ode5C13.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.SyKyrieMouFos.name
+trMA.Ode5C13.text = "O only good One, and source of goodness,
+exalt the horn of Orthodox monarchs,
+who honor your icon." //added by Seraphim Dedes
+
+trMA.Ode5C14.ode = misc_en_US_oca.Ode5
+trMA.Ode5C14.mode = misc_en_US_oca.Mode4
+trMA.Ode5C14.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.SyKyrieMouFos.name
+trMA.Ode5C14.text = "The light of the true Faith that knows no evening * has shone forth upon us * at the divinely-inspired decree of our faithful monarchs."
+
+trMA.Ode5C1T.ode = misc_en_US_oca.Ode5
+trMA.Ode5C1T.mode = misc_en_US_oca.Mode4
+trMA.Ode5C1T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.SyKyrieMouFos.name
+trMA.Ode5C1T.text = "Renew the ancient splendors for us,  * most pure Mother of God, * and sanctify your dwelling with grace."
+
+trMA.Ode6C11.ode = misc_en_US_oca.Ode6
+trMA.Ode6C11.mode = misc_en_US_oca.Mode4
+trMA.Ode6C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThysoSoiMetaFonis.name
+trMA.Ode6C11.text = "Once more the Master's countenance is depicted, * venerated and honored with faith; * once more the Church regains * her boldness of approach to God, * reverently glorifying the Savior!"
+
+trMA.Ode6C12.ode = misc_en_US_oca.Ode6
+trMA.Ode6C12.mode = misc_en_US_oca.Mode4
+trMA.Ode6C12.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThysoSoiMetaFonis.name
+trMA.Ode6C12.text = "The Church of Christ is delivered from the dark despondency of heresy: * she puts on a robe of gladness, * and is clothed in the light of divine grace."
+
+trMA.Ode6C13.ode = misc_en_US_oca.Ode6
+trMA.Ode6C13.mode = misc_en_US_oca.Mode4
+trMA.Ode6C13.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThysoSoiMetaFonis.name
+trMA.Ode6C13.text = "Through the decision of the Empress Theodora * and her pious son the Emperor Michael, * the Orthodox people regained the light and glory which it had of old."
+
+trMA.Ode6C1T.ode = misc_en_US_oca.Ode6
+trMA.Ode6C1T.mode = misc_en_US_oca.Mode4
+trMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThysoSoiMetaFonis.name
+trMA.Ode6C1T.text = "He who of old commanded Moses * to set up the ark of the testimony, * came to dwell in you, Virgin, as in a spiritual ark: * He alone is glorified, * and He makes your temple glorious with miracles."
+
+trMA.Kontakion1.mode = misc_en_US_oca.Mode8
+trMA.Kontakion1.melody = misc_en_US_oca.Automelon
+trMA.Kontakion1.text = "No one could describe the Word of the Father; * but when he took flesh from you, Theotokos, he accepted to be described, * and restored the fallen image to its former state by uniting it to divine beauty. ** We confess and proclaim our salvation in word and images!"
+
+trMA.Oikos1.text = "Enlightened by this mystery of God's providence, the divinely-inspired prophets foretold it of old for our sakes, who now see the fulfillment of the ages.  Receiving divine knowledge through this mystery, we know one Lord and God, glorified in three Persons, and Him alone we worship; we have one faith, one baptism, and we are clothed in Christ. ** We confess and proclaim our salvation in word and images!"
+
+trMA.Synaxarion.commemoration.text = ""
+trMA.Synaxarion.couplet1.title = titles_en_US_oca.Stichoi
+trMA.Synaxarion.couplet1.verse1 = ""
+trMA.Synaxarion.couplet1.verse2 = ""
+trMA.Synaxarion.lastline.text = ""
+
+trMA.Ode7C11.ode = misc_en_US_oca.Ode7
+trMA.Ode7C11.mode = misc_en_US_oca.Mode4
+trMA.Ode7C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.name
+trMA.Ode7C11.text = "Let the hosts of angels share in the joy of the Church, * and filled with the love of God, let them cry aloud: * Blessed are You, Lord, in the temple of Your glory!"
+
+trMA.Ode7C12.ode = misc_en_US_oca.Ode7
+trMA.Ode7C12.mode = misc_en_US_oca.Mode4
+trMA.Ode7C12.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.name
+trMA.Ode7C12.text = "The triumphant assembly and Church of the firstborn rejoices * beholding the people of God who cry aloud with one accord: * Blessed are You, Lord, in the temple of Your glory!"
+
+trMA.Ode7C13.ode = misc_en_US_oca.Ode7
+trMA.Ode7C13.mode = misc_en_US_oca.Mode4
+trMA.Ode7C13.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.name
+trMA.Ode7C13.text = "Delivered from the dark heresies of the past * through the decision of the honored Empress Theodora, we cry aloud: * Blessed are You, Lord, in the temple of Your glory!"
+
+trMA.Ode7C1T.ode = misc_en_US_oca.Ode7
+trMA.Ode7C1T.mode = misc_en_US_oca.Mode4
+trMA.Ode7C1T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.name
+trMA.Ode7C1T.text = "Most pure Virgin, you are exalted above the choirs on high, * for alone among women, * you became Mother of the Creator of all. * And so in joy we shout aloud: * Blessed are you among women, undefiled Lady!"
+
+trMA.Ode8C11.ode = misc_en_US_oca.Ode8
+trMA.Ode8C11.mode = misc_en_US_oca.Mode4
+trMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.CheirasEkpetasasDaniil.name
+trMA.Ode8C11.text = "Keeping the laws of the Church we received from the Fathers, * we paint icons of Christ and His saints, * and with our lips and heart and will * we venerate them as we cry aloud: * All works of the Lord, bless the Lord!"
+
+trMA.Ode8C12.ode = misc_en_US_oca.Ode8
+trMA.Ode8C12.mode = misc_en_US_oca.Mode4
+trMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.CheirasEkpetasasDaniil.name
+trMA.Ode8C12.text = "The honor and veneration we show to the icon * we ascribe to the prototype it represents, * following the teaching of the saints inspired by God, * and with faith we cry aloud to Christ: * All works of the Lord, bless the Lord!"
+
+trMA.Ode8C13.ode = misc_en_US_oca.Ode8
+trMA.Ode8C13.mode = misc_en_US_oca.Mode4
+trMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.CheirasEkpetasasDaniil.name
+trMA.Ode8C13.text = "Her mind enlightened by the illumination of the Holy Spirit * and filled with the wisdom of God, * the honored Empress * loved the beauty and splendor of the Church of Christ, * and with all the faithful * she blesses Jesus, the God-Man."
+
+trMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+trMA.Ode8C1T.mode = misc_en_US_oca.Mode4
+trMA.Ode8C1T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.CheirasEkpetasasDaniil.name
+trMA.Ode8C1T.text = "Illumined by rays of spiritual light, * your holy house overshadows us all with the cloud of the Spirit * and sanctifies the faithful who sing with one accord: * All works of the Lord, bless the Lord!"
+
+trMA.Ode9C11.ode = misc_en_US_oca.Ode9
+trMA.Ode9C11.mode = misc_en_US_oca.Mode4
+trMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.LithosAcheirotmitos.name
+trMA.Ode9C11.text = "Seeing the Holy Church adorned with icons once more, * let us make haste and cry aloud to Christ with reverence: * We magnify You, Thrice Holy One!"
+
+trMA.Ode9C12.ode = misc_en_US_oca.Ode9
+trMA.Ode9C12.mode = misc_en_US_oca.Mode4
+trMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.LithosAcheirotmitos.name
+trMA.Ode9C12.text = "As a mark of glory and honor, * the Church possesses Your Cross, * and the holy icons of the saints, Master, * and with joy and gladness she magnifies You!"
+
+trMA.Ode9C13.ode = misc_en_US_oca.Ode9
+trMA.Ode9C13.mode = misc_en_US_oca.Mode4
+trMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.LithosAcheirotmitos.name
+trMA.Ode9C13.text = "Shine on those in authority with Your divine glory, * compassionate Master, * and fence them around with the protection of the angelic hosts, * subjecting the proud powers of evil beneath their feet!"
+
+trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+trMA.Ode9C1T.mode = misc_en_US_oca.Mode4
+trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.LithosAcheirotmitos.name
+trMA.Ode9C1T.text = "Since you, pure Theotokos, ineffably gave birth to the Master of all, * the condemnation of our first mother Eve has been abolished, * and now we kiss His likeness in icons!"
+
+trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
+trMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.text = ""
+
+trMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
+trMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+trMA.ExapTheotokion.text = ""
+
+trMA.Lauds1.mode = misc_en_US_oca.Mode4
+trMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+trMA.Lauds1.text = ""
+
+trMA.Lauds2.mode = misc_en_US_oca.Mode4
+trMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+trMA.Lauds2.text = ""
+
+trMA.Lauds3.mode = misc_en_US_oca.Mode4
+trMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+trMA.Lauds3.text = ""
+
+trMA.LaudsGlory.mode = misc_en_US_oca.Mode6
+trMA.LaudsGlory.melody = ""
+trMA.LaudsGlory.text = ""
+
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
+
+trLI.Antiphon2.text = ""
+
+trLI.MM.EntranceHymn.text = properties_en_US_oca.media.key
+
+trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode8
+trLI.SeasonalKontakion.melody = misc_en_US_oca.Automelon
+trLI.SeasonalKontakion.text = he.a.m8_en_US_oca.TiYpermacho.text
+
+trLI.TheotokosHymn.mode = misc_en_US_oca.Mode8
+trLI.TheotokosHymn.text = oc.m8.d1_en_US_oca.ocMA.Kathisma23.text
+
+trLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
+
+trMegalynarion.text = ""
+
+//Canon for procession
+
+trCA.poet = ""
+
+trCA.Ode11.ode = ""
+trCA.Ode11.mode = ""
+trCA.Ode11.melody = ""
+trCA.Ode11.text = ""
+
+trCA.Ode12.ode = ""
+trCA.Ode12.mode = ""
+trCA.Ode12.melody = ""
+trCA.Ode12.text = ""
+
+trCA.Ode13.ode = ""
+trCA.Ode13.mode = ""
+trCA.Ode13.melody = ""
+trCA.Ode13.text = ""
+
+trCA.Ode14.ode = ""
+trCA.Ode14.mode = ""
+trCA.Ode14.melody = ""
+trCA.Ode14.text = ""
+
+trCA.Ode15.ode = ""
+trCA.Ode15.mode = ""
+trCA.Ode15.melody = ""
+trCA.Ode15.text = ""
+
+trCA.Ode16.ode = ""
+trCA.Ode16.mode = ""
+trCA.Ode16.melody = ""
+trCA.Ode16.text = ""
+
+trCA.Ode17.ode = ""
+trCA.Ode17.mode = ""
+trCA.Ode17.melody = ""
+trCA.Ode17.text = ""
+
+trCA.Ode1Tr.ode = ""
+trCA.Ode1Tr.mode = ""
+trCA.Ode1Tr.melody = ""
+trCA.Ode1Tr.text = ""
+
+trCA.Ode1T.ode = ""
+trCA.Ode1T.mode = ""
+trCA.Ode1T.melody = ""
+trCA.Ode1T.text = ""
+
+trCA.Ode31.ode = ""
+trCA.Ode31.mode = ""
+trCA.Ode31.melody = ""
+trCA.Ode31.text = ""
+
+trCA.Ode32.ode = ""
+trCA.Ode32.mode = ""
+trCA.Ode32.melody = ""
+trCA.Ode32.text = ""
+
+trCA.Ode33.ode = ""
+trCA.Ode33.mode = ""
+trCA.Ode33.melody = ""
+trCA.Ode33.text = ""
+
+trCA.Ode34.ode = ""
+trCA.Ode34.mode = ""
+trCA.Ode34.melody = ""
+trCA.Ode34.text = ""
+
+trCA.Ode35.ode = ""
+trCA.Ode35.mode = ""
+trCA.Ode35.melody = ""
+trCA.Ode35.text = ""
+
+trCA.Ode36.ode = ""
+trCA.Ode36.mode = ""
+trCA.Ode36.melody = ""
+trCA.Ode36.text = ""
+
+trCA.Ode37.ode = ""
+trCA.Ode37.mode = ""
+trCA.Ode37.melody = ""
+trCA.Ode37.text = ""
+
+trCA.Ode3Tr.ode = ""
+trCA.Ode3Tr.mode = ""
+trCA.Ode3Tr.melody = ""
+trCA.Ode3Tr.text = ""
+
+trCA.Ode3T.ode = ""
+trCA.Ode3T.mode = ""
+trCA.Ode3T.melody = ""
+trCA.Ode3T.text = ""
+
+trCA.Ode41.ode = ""
+trCA.Ode41.mode = ""
+trCA.Ode41.melody = ""
+trCA.Ode41.text = ""
+
+trCA.Ode42.ode = ""
+trCA.Ode42.mode = ""
+trCA.Ode42.melody = ""
+trCA.Ode42.text = ""
+
+trCA.Ode43.ode = ""
+trCA.Ode43.mode = ""
+trCA.Ode43.melody = ""
+trCA.Ode43.text = ""
+
+trCA.Ode44.ode = ""
+trCA.Ode44.mode = ""
+trCA.Ode44.melody = ""
+trCA.Ode44.text = ""
+
+trCA.Ode45.ode = ""
+trCA.Ode45.mode = ""
+trCA.Ode45.melody = ""
+trCA.Ode45.text = ""
+
+trCA.Ode46.ode = ""
+trCA.Ode46.mode = ""
+trCA.Ode46.melody = ""
+trCA.Ode46.text = ""
+
+trCA.Ode47.ode = ""
+trCA.Ode47.mode = ""
+trCA.Ode47.melody = ""
+trCA.Ode47.text = ""
+
+trCA.Ode4Tr.ode = ""
+trCA.Ode4Tr.mode = ""
+trCA.Ode4Tr.melody = ""
+trCA.Ode4Tr.text = ""
+
+trCA.Ode4T.ode = ""
+trCA.Ode4T.mode = ""
+trCA.Ode4T.melody = ""
+trCA.Ode4T.text = ""
+
+trCA.Ode51.ode = ""
+trCA.Ode51.mode = ""
+trCA.Ode51.melody = ""
+trCA.Ode51.text = ""
+
+trCA.Ode52.ode = ""
+trCA.Ode52.mode = ""
+trCA.Ode52.melody = ""
+trCA.Ode52.text = ""
+
+trCA.Ode53.ode = ""
+trCA.Ode53.mode = ""
+trCA.Ode53.melody = ""
+trCA.Ode53.text = ""
+
+trCA.Ode54.ode = ""
+trCA.Ode54.mode = ""
+trCA.Ode54.melody = ""
+trCA.Ode54.text = ""
+
+trCA.Ode55.ode = ""
+trCA.Ode55.mode = ""
+trCA.Ode55.melody = ""
+trCA.Ode55.text = ""
+
+trCA.Ode56.ode = ""
+trCA.Ode56.mode = ""
+trCA.Ode56.melody = ""
+trCA.Ode56.text = ""
+
+trCA.Ode57.ode = ""
+trCA.Ode57.mode = ""
+trCA.Ode57.melody = ""
+trCA.Ode57.text = ""
+
+trCA.Ode5Tr.ode = ""
+trCA.Ode5Tr.mode = ""
+trCA.Ode5Tr.melody = ""
+trCA.Ode5Tr.text = ""
+
+trCA.Ode5T.ode = ""
+trCA.Ode5T.mode = ""
+trCA.Ode5T.melody = ""
+trCA.Ode5T.text = ""
+
+trCA.Ode61.ode = ""
+trCA.Ode61.mode = ""
+trCA.Ode61.melody = ""
+trCA.Ode61.text = ""
+
+trCA.Ode62.ode = ""
+trCA.Ode62.mode = ""
+trCA.Ode62.melody = ""
+trCA.Ode62.text = ""
+
+trCA.Ode63.ode = ""
+trCA.Ode63.mode = ""
+trCA.Ode63.melody = ""
+trCA.Ode63.text = ""
+
+trCA.Ode64.ode = ""
+trCA.Ode64.mode = ""
+trCA.Ode64.melody = ""
+trCA.Ode64.text = ""
+
+trCA.Ode65.ode = ""
+trCA.Ode65.mode = ""
+trCA.Ode65.melody = ""
+trCA.Ode65.text = ""
+
+trCA.Ode66.ode = ""
+trCA.Ode66.mode = ""
+trCA.Ode66.melody = ""
+trCA.Ode66.text = ""
+
+trCA.Ode67.ode = ""
+trCA.Ode67.mode = ""
+trCA.Ode67.melody = ""
+trCA.Ode67.text = ""
+
+trCA.Ode6Tr.ode = ""
+trCA.Ode6Tr.mode = ""
+trCA.Ode6Tr.melody = ""
+trCA.Ode6Tr.text = ""
+
+trCA.Ode6T.ode = ""
+trCA.Ode6T.mode = ""
+trCA.Ode6T.melody = ""
+trCA.Ode6T.text = ""
+
+trCA.Ode71.ode = ""
+trCA.Ode71.mode = ""
+trCA.Ode71.melody = ""
+trCA.Ode71.text = ""
+
+trCA.Ode72.ode = ""
+trCA.Ode72.mode = ""
+trCA.Ode72.melody = ""
+trCA.Ode72.text = ""
+
+trCA.Ode73.ode = ""
+trCA.Ode73.mode = ""
+trCA.Ode73.melody = ""
+trCA.Ode73.text = ""
+
+trCA.Ode74.ode = ""
+trCA.Ode74.mode = ""
+trCA.Ode74.melody = ""
+trCA.Ode74.text = ""
+
+trCA.Ode75.ode = ""
+trCA.Ode75.mode = ""
+trCA.Ode75.melody = ""
+trCA.Ode75.text = ""
+
+trCA.Ode76.ode = ""
+trCA.Ode76.mode = ""
+trCA.Ode76.melody = ""
+trCA.Ode76.text = ""
+
+trCA.Ode77.ode = ""
+trCA.Ode77.mode = ""
+trCA.Ode77.melody = ""
+trCA.Ode77.text = ""
+
+trCA.Ode7Tr.ode = ""
+trCA.Ode7Tr.mode = ""
+trCA.Ode7Tr.melody = ""
+trCA.Ode7Tr.text = ""
+
+trCA.Ode7T.ode = ""
+trCA.Ode7T.mode = ""
+trCA.Ode7T.melody = ""
+trCA.Ode7T.text = ""
+
+trCA.Ode81.ode = ""
+trCA.Ode81.mode = ""
+trCA.Ode81.melody = ""
+trCA.Ode81.text = ""
+
+trCA.Ode82.ode = ""
+trCA.Ode82.mode = ""
+trCA.Ode82.melody = ""
+trCA.Ode82.text = ""
+
+trCA.Ode83.ode = ""
+trCA.Ode83.mode = ""
+trCA.Ode83.melody = ""
+trCA.Ode83.text = ""
+
+trCA.Ode84.ode = ""
+trCA.Ode84.mode = ""
+trCA.Ode84.melody = ""
+trCA.Ode84.text = ""
+
+trCA.Ode85.ode = ""
+trCA.Ode85.mode = ""
+trCA.Ode85.melody = ""
+trCA.Ode85.text = ""
+
+trCA.Ode86.ode = ""
+trCA.Ode86.mode = ""
+trCA.Ode86.melody = ""
+trCA.Ode86.text = ""
+
+trCA.Ode8Tr.ode = ""
+trCA.Ode8Tr.mode = ""
+trCA.Ode8Tr.melody = ""
+trCA.Ode8Tr.text = ""
+
+trCA.Ode8T.ode = ""
+trCA.Ode8T.mode = ""
+trCA.Ode8T.melody = ""
+trCA.Ode8T.text = ""
+
+trCA.Ode91.ode = ""
+trCA.Ode91.mode = ""
+trCA.Ode91.melody = ""
+trCA.Ode91.text = ""
+
+trCA.Ode92.ode = ""
+trCA.Ode92.mode = ""
+trCA.Ode92.melody = ""
+trCA.Ode92.text = ""
+
+trCA.Ode93.ode = ""
+trCA.Ode93.mode = ""
+trCA.Ode93.melody = ""
+trCA.Ode93.text = ""
+
+trCA.Ode94.ode = ""
+trCA.Ode94.mode = ""
+trCA.Ode94.melody = ""
+trCA.Ode94.text = ""
+
+trCA.Ode95.ode = ""
+trCA.Ode95.mode = ""
+trCA.Ode95.melody = ""
+trCA.Ode95.text = ""
+
+trCA.Ode96.ode = ""
+trCA.Ode96.mode = ""
+trCA.Ode96.melody = ""
+trCA.Ode96.text = ""
+
+trCA.Ode97.ode = ""
+trCA.Ode97.mode = ""
+trCA.Ode97.melody = ""
+trCA.Ode97.text = ""
+
+trCA.Ode9Tr.ode = ""
+trCA.Ode9Tr.mode = ""
+trCA.Ode9Tr.melody = ""
+trCA.Ode9Tr.text = ""
+
+trCA.Ode9T.ode = ""
+trCA.Ode9T.mode = ""
+trCA.Ode9T.melody = ""
+trCA.Ode9T.text = ""
+
+trCA.Troparion1.mode = ""
+trCA.Troparion1.melody = ""
+trCA.Troparion1.text = ""
+
+trCA.Troparion2.mode = ""
+trCA.Troparion2.melody = ""
+trCA.Troparion2.text = ""
+
+tr.IconsProcession.title = ""
+tr.Synodikon.title = ""
+tr.Synodikon1.text = ""
+tr.Synodikon2.text = ""
+tr.Synodikon3.text = ""
+tr.Synodikon4.text = ""
+tr.Synodikon5.text = ""
+tr.Synodikon6.text = ""
+
