@@ -1,0 +1,304 @@
+A_Resource_Whose_Name = tr.d022_en_US_oca
+
+trCommemoration.text = "" //full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trDismissal = dismissals_en_US_oca.dis00.resurrection
+
+trVE.Stichera01.mode = misc_en_US_oca.Mode6
+trVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_US_oca.Mode6
+trVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = misc_en_US_oca.Mode6
+trVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera03.text = ""
+
+trVE.Stichera04.mode = misc_en_US_oca.Mode6
+trVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera04.text = ""
+
+trVE.MM.Stichera123as567.text = properties_en_US_oca.media.key
+
+trVE.SticGlory.mode = misc_en_US_oca.Mode6
+trVE.SticGlory.melody = misc_en_US_oca.Idiomelon
+trVE.SticGlory.text = ""
+
+trVE.LityGlory.mode = misc_en_US_oca.Mode6
+trVE.LityGlory.melody = misc_en_US_oca.Idiomelon
+trVE.LityGlory.text = ""
+
+trVE.LityBoth.mode = misc_en_US_oca.Mode6
+trVE.LityBoth.melody = ""
+trVE.LityBoth.text = ""
+
+trVE.AposGlory.mode = misc_en_US_oca.Mode6
+trVE.AposGlory.melody = misc_en_US_oca.Idiomelon
+trVE.AposGlory.text = ""
+
+trVE.AposTheotokion.mode = misc_en_US_oca.Mode6
+trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.text = oc.m6.d1_en_US_oca.ocVE.AposTheotokion.text
+
+trMA.PostGospelGlory.mode = misc_en_US_oca.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = tr.d001_en_US_oca.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_en_US_oca.Mode8
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.text = tr.d001_en_US_oca.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
+trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.text = tr.d001_en_US_oca.trMA.PostGospelIdiomelon.text
+
+trMA.C1Poet = poets_en_US_oca.ChristoforouTouProtasikritou
+
+trMA.Ode1C11.ode = misc_en_US_oca.Ode1
+trMA.Ode1C11.mode = misc_en_US_oca.Mode6
+trMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C11.text = "Come today, my wretched soul; weep over your deeds, * remembering how once you were stripped naked in Eden * and cast out from delight and unending joy."
+
+trMA.Ode1C12.ode = misc_en_US_oca.Ode1
+trMA.Ode1C12.mode = misc_en_US_oca.Mode6
+trMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C12.text = "In Your abundant compassion and mercy, * Fashioner of the creation and Maker of all, * You took me from the dust and gave me life, * commanding me to sing Your praises with Your angels!"
+
+trMA.Ode1C13.ode = misc_en_US_oca.Ode1
+trMA.Ode1C13.mode = misc_en_US_oca.Mode6
+trMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C13.text = "In the wealth of Your goodness, Creator and Lord, * You planted in Eden the sweetness of Paradise, * and bade me take my delight * in fair and pleasant fruits that never pass away."
+
+trMA.Ode1C14.ode = misc_en_US_oca.Ode1
+trMA.Ode1C14.mode = misc_en_US_oca.Mode6
+trMA.Ode1C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C14.text = "Woe to you, my wretched soul! * You received authority from God * to take your pleasure in the joys of Eden, * but He commanded you not to eat the fruit of knowledge. * Why have you transgressed the law of God?"
+
+trMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+trMA.Ode1C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
+trMA.Ode1C1T.text = "You are a daughter of Adam by descent, Virgin Theotokos, * but by grace the Mother of Christ our God. * I am an exile from Eden: * Call me back again."
+
+trMA.Ode3C11.ode = misc_en_US_oca.Ode3
+trMA.Ode3C11.mode = misc_en_US_oca.Mode6
+trMA.Ode3C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C11.text = "Long ago the crafty serpent envied my honor * and whispered deceit in the ear of Eve. * Woe is me!  I was led astray * and banished by her from the dance of life."
+
+trMA.Ode3C12.ode = misc_en_US_oca.Ode3
+trMA.Ode3C12.mode = misc_en_US_oca.Mode6
+trMA.Ode3C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C12.text = "I stretched out my hand in rashness * and tasted from the tree of knowledge * although God had ordered me on no account to eat from it * and I was bitterly cast out from the divine glory."
+
+trMA.Ode3C13.ode = misc_en_US_oca.Ode3
+trMA.Ode3C13.mode = misc_en_US_oca.Mode6
+trMA.Ode3C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C13.text = "Woe to you, my wretched soul! * How did you not recognize the craftiness of the enemy? * How did you not perceive his deceit and envy? * But you were darkened in mind * and transgressed the commandment of your Maker."
+
+trMA.Ode3C1T.ode = misc_en_US_oca.Ode3
+trMA.Ode3C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgios.name
+trMA.Ode3C1T.text = "You are my hope and protection, holy Virgin, * for you alone have covered fallen Adam's nakedness: * By your childbearing, Lady, * clothe me once more with incorruption!"
+
+trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
+trMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+trMA.Ode3Kathisma1.text = "Adam was cast out from the delight of Paradise: * when he broke the commandment of the Master in uncontrolled desire, * his taking of food became bitter, * and he was condemned to work the earth * from which he himself was taken. * He ate his bread in toil and sweat: * therefore let us love abstinence, * that we may enter through the gate, ** and not weep as he did outside of Paradise."
+
+trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
+trMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma2.text = "Now the season of virtues has come, * and the Judge is at the door. * Let us not hold back with a darkened face, * but offering tears, contrition and giving of alms * let us keep the fast, and let us cry: * Our sins are more in number than the sands of the sea, ** but forgive each of us, that we may receive an incorruptible crown, Savior of all!"
+
+trMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode4
+trMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma3.text = ho.s23_en_US_oca.hoCA.Apolytikion2.text
+
+trMA.Ode4C11.ode = misc_en_US_oca.Ode4
+trMA.Ode4C11.mode = misc_en_US_oca.Mode6
+trMA.Ode4C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C11.text = "Master, You counted me worthy of honor in Eden, * but alas, in my wretchedness, * I was deceived by the envy of the devil * and cast out from before Your face."
+
+trMA.Ode4C12.ode = misc_en_US_oca.Ode4
+trMA.Ode4C12.mode = misc_en_US_oca.Mode6
+trMA.Ode4C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C12.text = "Ranks of angels, * beauty of Paradise and all the glory of the garden: * weep for me, for I was led astray in my misery * and rebelled against God."
+
+trMA.Ode4C13.ode = misc_en_US_oca.Ode4
+trMA.Ode4C13.mode = misc_en_US_oca.Mode6
+trMA.Ode4C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C13.text = "Blessed meadow, trees and flowers planted by God, * O sweetness of Paradise: * let your leaves, like eyes, shed tears on my behalf, * for I am naked and a stranger to God's glory."
+
+trMA.Ode4C14.ode = misc_en_US_oca.Ode4
+trMA.Ode4C14.mode = misc_en_US_oca.Mode6
+trMA.Ode4C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C14.text = "Precious Paradise, * I no longer see you, nor delight in your joy and splendor, * for I have angered my Creator, * and have been driven out naked into the world."
+
+trMA.Ode4C1T.ode = misc_en_US_oca.Ode4
+trMA.Ode4C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode4C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ChristosMouDynamis.name
+trMA.Ode4C1T.text = "Holy Lady, * you opened to all the faithful the gates of paradise * which Adam closed of old through his transgression: * Open to me the gates of mercy!"
+
+trMA.Ode5C11.ode = misc_en_US_oca.Ode5
+trMA.Ode5C11.mode = misc_en_US_oca.Mode6
+trMA.Ode5C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C11.text = "Of old, the enemy who hates mankind * envied me the life of happiness I had in Paradise. * Taking the form of a serpent, he caused me to stumble * and made me a stranger to eternal glory."
+
+trMA.Ode5C12.ode = misc_en_US_oca.Ode5
+trMA.Ode5C12.mode = misc_en_US_oca.Mode6
+trMA.Ode5C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C12.text = "I weep and lament in soul, * shedding abundant tears with my eyes, * when I reflect upon the nakedness * that is mine through the transgression."
+
+trMA.Ode5C13.ode = misc_en_US_oca.Ode5
+trMA.Ode5C13.mode = misc_en_US_oca.Mode6
+trMA.Ode5C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C13.text = "I was fashioned out of the earth by the hand of God * and told in my wretchedness that to the earth I should return again. * Who would not weep for me! * I am cast out from God's presence, exchanging Eden for hell."
+
+trMA.Ode5C1T.ode = misc_en_US_oca.Ode5
+trMA.Ode5C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode5C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ToTheioFengeiSou.name
+trMA.Ode5C1T.text = "Undefiled Mother of God, * we all proclaim you in faith as the mystical bridal chamber of glory. * Therefore I entreat you: Raise me up, for I am fallen, * and make me dwell in the bridal chamber of Paradise."
+
+trMA.Ode6C11.ode = misc_en_US_oca.Ode6
+trMA.Ode6C11.mode = misc_en_US_oca.Mode6
+trMA.Ode6C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C11.text = "In Your compassion, Savior, * You clothed me in Eden with a divinely woven garment; * but persuaded by the devil, I neglected Your commandment * and was stripped naked in my wretchedness."
+
+trMA.Ode6C12.ode = misc_en_US_oca.Ode6
+trMA.Ode6C12.mode = misc_en_US_oca.Mode6
+trMA.Ode6C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C12.text = "You have departed far from God * through your carelessness, miserable soul; * you have been deprived of the delight of Paradise * and parted from the angels; * you have been led down into corruption. * How you are fallen!"
+
+trMA.Ode6C13.ode = misc_en_US_oca.Ode6
+trMA.Ode6C13.mode = misc_en_US_oca.Mode6
+trMA.Ode6C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C13.text = "Have mercy, Almighty God, * and take pity on the work of Your hands. * I have cut myself off from the choir of Your angels; * but I entreat You, loving Lord:  Do not reject me."
+
+trMA.Ode6C1T.ode = misc_en_US_oca.Ode6
+trMA.Ode6C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThalassan.name
+trMA.Ode6C1T.text = "Mary chosen by God, and Queen of the world, * you have borne the Lord who is King and Redeemer of all. * I am a prisoner and an exile from the glory of Paradise: * Call me back, I entreat you!"
+
+trMA.Kontakion1.mode = misc_en_US_oca.Mode6
+trMA.Kontakion1.melody = misc_en_US_oca.Automelon
+trMA.Kontakion1.text = "Master, teacher of wisdom, * bestower of virtue, * you teach the thoughtless and protect the poor: * strengthen me and enlighten my heart. * Word of the Father, * let me not restrain my mouth from crying to you: * Have mercy on me, a transgressor, ** O merciful Lord."
+
+trMA.Oikos1.text = "Banished from the joys of Paradise, A.dam sat outside and wept, and beating his hands upon his face he said: Have mercy on me, a transgressor, O merciful Lord."
+trMA.Oikos12.text = "When Adam saw the angel drive him out. and shut the door of the divine garden, he groaned aloud and said: Have mercy on me, a transgressor, O merciful Lord."
+trMA.Oikos13.text = "Paradise, share in the sorrow of your master who is brought to
+poverty, and with the sound of your leaves pray to the Creator that He may not keep your gate closed forever. Have mercy on me, a transgressor, O merciful Lord."
+trMA.Oikos14.text = "Paradise, perfect, all-holy and blessed, planted for Adam's sake and shut because of Eve, pray to God for the fallen: Have mercy on me, a transgressor, O merciful Lord."
+
+trMA.Synaxarion.commemoration.text = ""
+trMA.Synaxarion.couplet1.title = titles_en_US_oca.Stichoi
+trMA.Synaxarion.couplet1.verse1 = ""
+trMA.Synaxarion.couplet1.verse2 = ""
+trMA.Synaxarion.lastline.text = ""
+
+trMA.Ode7C11.ode = misc_en_US_oca.Ode7
+trMA.Ode7C11.mode = misc_en_US_oca.Mode6
+trMA.Ode7C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C11.text = "Lord, Ruler over all the ages, * by Your will You created me: * I was beguiled of old * through the envy of the crafty serpent and angered You: * Do not despise me, O God my Savior, but call me back."
+
+trMA.Ode7C12.ode = misc_en_US_oca.Ode7
+trMA.Ode7C12.mode = misc_en_US_oca.Mode6
+trMA.Ode7C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C12.text = "Woe is me, for in place of a robe of light, * I am clothed in shameful garments. * I weep for my loss, O Savior, * and cry to You with faith: * Do not despise me, O God of love, * but call me back."
+
+trMA.Ode7C13.ode = misc_en_US_oca.Ode7
+trMA.Ode7C13.mode = misc_en_US_oca.Mode6
+trMA.Ode7C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C13.text = "The evil serpent in his envy * wounded my entire soul. * He caused me to be banished from the delight of Paradise. * Do not despise me, O God my Savior, * but in Your loving compassion, call me back."
+
+trMA.Ode7C1T.ode = misc_en_US_oca.Ode7
+trMA.Ode7C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode7C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.DrosovolonMenTinKaminon.name
+trMA.Ode7C1T.text = "Accept my entreaty in your loving compassion, * pure and blameless Lady. * Grant me forgiveness of my offenses, * for I cry aloud fervently with tears: * Do not despise me, good Virgin, but call me back."
+
+trMA.Ode8C11.ode = misc_en_US_oca.Ode8
+trMA.Ode8C11.mode = misc_en_US_oca.Mode6
+trMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C11.text = "Lord, the only Lover of mankind, * At the beginning You honored the work of Your hands * with every kind of gift: * But alas!  With his hissing the hateful serpent deceived us, * and stripped us of the blessings we had received."
+
+trMA.Ode8C12.ode = misc_en_US_oca.Ode8
+trMA.Ode8C12.mode = misc_en_US_oca.Mode6
+trMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C12.text = "Why did you listen to bitter counsel, * and disobey the divine command? * You have grieved God, O miserable soul:  Woe to you! * Yet you were created to glorify Him with the angels forever."
+
+trMA.Ode8C13.ode = misc_en_US_oca.Ode8
+trMA.Ode8C13.mode = misc_en_US_oca.Mode6
+trMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C13.text = "You were appointed ruler over the wild beasts and creeping things: * then why did you speak with a creature * that crept on the earth, destroying souls? * And why did you take the destroying enemy as your counselor? * My wretched soul, how you have been deceived!"
+
+trMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+trMA.Ode8C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode8C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkFlogosToisOsiois.name
+trMA.Ode8C1T.text = "We sing your praises, Mary, full of divine grace, * tabernacle of the Light and dwelling place of God incarnate. * Hope of the hopeless, shine on me with the light of mercy, * for I am greatly darkened by the passions."
+
+trMA.Ode9C11.ode = misc_en_US_oca.Ode9
+trMA.Ode9C11.mode = misc_en_US_oca.Mode6
+trMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C11.text = "When I took my fill of eating, * the taste of the fruit of knowledge in Eden seemed sweet, * but its end was gall. * Woe to you, wretched soul! * See how uncontrolled desire has made you an exile from Paradise!"
+
+trMA.Ode9C12.ode = misc_en_US_oca.Ode9
+trMA.Ode9C12.mode = misc_en_US_oca.Mode6
+trMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C12.text = "God of all and Lord of mercy: * Look in compassion on my lowliness * and do not send me far away from Eden; * but may I see the glory from which I fell."
+
+trMA.Ode9C13.ode = misc_en_US_oca.Ode9
+trMA.Ode9C13.mode = misc_en_US_oca.Mode6
+trMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C13.text = "I weep, groan and lament * as I look upon the cherubim with the sword of flame * set to guard the gate of Eden against all transgressors. * Woe is me!  I cannot enter, * unless You grant me freedom to approach, O Savior."
+
+trMA.Ode9C14.ode = misc_en_US_oca.Ode9
+trMA.Ode9C14.mode = misc_en_US_oca.Mode6
+trMA.Ode9C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C14.text = "I boldly put my trust * in the abundance of Your mercies, Christ my Savior, * and in the Blood that flowed from Your divine side; * for through Your Blood, loving Lord, * You have sanctified the nature of mortal man, * and have opened to those who worship You, the gates of Paradise * that were closed of old to Adam."
+
+trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+trMA.Ode9C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthropois.name
+trMA.Ode9C1T.text = "Virgin Theotokos, you did not know man. * You are the spiritual gate of life through which none may pass: * By your prayers, open to me the gates of Paradise that were closed long ago * that I may glorify you, * for after God, you are my helper and strong refuge!"
+
+trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
+trMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.text = ""
+
+trMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
+trMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion2.text = ""
+
+trMA.Lauds1.mode = misc_en_US_oca.Mode5
+trMA.Lauds1.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds1.text = ""
+
+trMA.Lauds2.mode = misc_en_US_oca.Mode5
+trMA.Lauds2.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds2.text = ""
+
+trMA.Lauds3.mode = misc_en_US_oca.Mode6
+trMA.Lauds3.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds3.text = ""
+
+trMA.LaudsGlory.mode = misc_en_US_oca.Mode6
+trMA.LaudsGlory.melody = misc_en_US_oca.Idiomelon
+trMA.LaudsGlory.text = ""
+
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
+
+trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode6
+trLI.SeasonalKontakion.melody = ""
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+
+trMegalynarion.text = ""
+

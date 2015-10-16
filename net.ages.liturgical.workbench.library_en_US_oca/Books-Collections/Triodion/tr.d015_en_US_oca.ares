@@ -1,0 +1,470 @@
+A_Resource_Whose_Name = tr.d015_en_US_oca
+
+trCommemoration.text = "" //full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trDismissal = dismissals_en_US_oca.dis00.resurrection
+
+trVE.Stichera01.mode = misc_en_US_oca.Mode6
+trVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_US_oca.Mode6
+trVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = misc_en_US_oca.Mode6
+trVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera03.text = ""
+
+trVE.Stichera04.mode = misc_en_US_oca.Mode6
+trVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera04.text = ""
+
+trVE.MM.Stichera123as567.text = properties_en_US_oca.media.key
+
+trVE.SticGlory.mode = misc_en_US_oca.Mode8
+trVE.SticGlory.melody = ""
+trVE.SticGlory.text = ""
+
+trVE.LityGlory.mode = misc_en_US_oca.Mode7
+trVE.LityGlory.melody = ""
+trVE.LityGlory.text = ""
+
+trVE.LityBoth.mode = misc_en_US_oca.Mode7
+trVE.LityBoth.melody = ""
+trVE.LityBoth.text = ""
+
+trVE.AposGlory.mode = misc_en_US_oca.Mode8
+trVE.AposGlory.melody = ""
+trVE.AposGlory.text = ""
+
+trVE.AposTheotokion.mode = misc_en_US_oca.Mode8
+trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.text = oc.m8.d1_en_US_oca.ocVE.AposTheotokion.text
+
+trMA.PostGospelGlory.mode = misc_en_US_oca.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = tr.d001_en_US_oca.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_en_US_oca.Mode8
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.text = tr.d001_en_US_oca.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
+trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.text = tr.d001_en_US_oca.trMA.PostGospelIdiomelon.text
+
+trMA.C1Poet = poets_en_US_oca.TheodorouTouStouditou
+
+trMA.Ode1C11.ode = misc_en_US_oca.Ode1
+trMA.Ode1C11.mode = misc_en_US_oca.Mode6
+trMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.VoithosKaiSkepastis.name
+trMA.Ode1C11.text = "As I ponder and look towards the dread day of Your ineffable coming, * I tremble with fear. * Then You will sit and judge the living and the dead, * my all-powerful God."
+
+trMA.Ode1C12.ode = misc_en_US_oca.Ode1
+trMA.Ode1C12.mode = misc_en_US_oca.Mode6
+trMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.VoithosKaiSkepastis.name
+trMA.Ode1C12.text = "When You will come, O God, * with the thousands and ten thousands of the heavenly ranks of angels, * count me worthy in my wretchedness, O Christ, * to meet You in the clouds."
+
+trMA.Ode1C13.ode = misc_en_US_oca.Ode1
+trMA.Ode1C13.mode = misc_en_US_oca.Mode6
+trMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.VoithosKaiSkepastis.name
+trMA.Ode1C13.text = "Come, my soul, and call to mind the very day and hour * when God shall stand before you visibly; * then weep and lament, * and so you shall be found pure in the hour of trial."
+
+trMA.Ode1C14.ode = misc_en_US_oca.Ode1
+trMA.Ode1C14.mode = misc_en_US_oca.Mode6
+trMA.Ode1C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.VoithosKaiSkepastis.name
+trMA.Ode1C14.text = "Terror and amazement seize me * when I think of the unquenchable fire of Gehenna, * of the bitter worm and gnashing teeth. * But release me and forgive me, O Christ, * and set me in the ranks of Your elect."
+
+trMA.Ode1C15.ode = misc_en_US_oca.Ode1
+trMA.Ode1C15.mode = misc_en_US_oca.Mode6
+trMA.Ode1C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.VoithosKaiSkepastis.name
+trMA.Ode1C15.text = "Unworthy though I be, * may I also hear Your voice * that so greatly desired, calls Your saints to joy, * and may I attain the ineffable blessings of the Kingdom of heaven."
+
+trMA.Ode1C16.ode = misc_en_US_oca.Ode1
+trMA.Ode1C16.mode = misc_en_US_oca.Mode6
+trMA.Ode1C16.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.VoithosKaiSkepastis.name
+trMA.Ode1C16.text = "Do not enter into judgement with me, * bringing before me the things I should have done, * examining my words and correcting my impulses. * But in Your mercy overlook my sins and save me, Lord Almighty."
+
+trMA.Ode1C1Tr.ode = misc_en_US_oca.Ode1
+trMA.Ode1C1Tr.mode = misc_en_US_oca.Mode6
+trMA.Ode1C1Tr.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.VoithosKaiSkepastis.name
+trMA.Ode1C1Tr.text = "Unity in Three Persons, sovereign Lord of all, * Source of Perfection, God without beginning, * Father, Son and all-holy Spirit, * be Yourself our salvation."
+
+trMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+trMA.Ode1C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.VoithosKaiSkepastis.name
+trMA.Ode1C1T.text = "Who has ever begotten a son * not sown by a father according to the law of nature? * Yet the Father begets such a Son without a mother! * Most strange and marvelous wonder! * For you, pure Virgin, have at the same time borne both God and Man!"
+
+trMA.Ode3C11.ode = misc_en_US_oca.Ode3
+trMA.Ode3C11.mode = misc_en_US_oca.Mode6
+trMA.Ode3C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.StereosonKyrie.name
+trMA.Ode3C11.text = "Behold the coming of the Lord, * and who shall endure the fear when He comes? * Who shall dare to appear before His face? * But prepare yourself to meet Him, my soul."
+
+trMA.Ode3C12.ode = misc_en_US_oca.Ode3
+trMA.Ode3C12.mode = misc_en_US_oca.Mode6
+trMA.Ode3C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.StereosonKyrie.name
+trMA.Ode3C12.text = "Let us go quickly while there is still time; * let us lament, let us be reconciled to God before the end comes. * For the judgement is fearful * in which all of us shall stand naked."
+
+trMA.Ode3C13.ode = misc_en_US_oca.Ode3
+trMA.Ode3C13.mode = misc_en_US_oca.Mode6
+trMA.Ode3C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.StereosonKyrie.name
+trMA.Ode3C13.text = "I cry to You, O Lord: * Have mercy, Have mercy on me, * when You come with Your angels * to give every man the due reward for his deeds."
+
+trMA.Ode3C14.ode = misc_en_US_oca.Ode3
+trMA.Ode3C14.mode = misc_en_US_oca.Mode6
+trMA.Ode3C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.StereosonKyrie.name
+trMA.Ode3C14.text = "How shall I endure the naked wrath of Your judgement, * for I have disobeyed Your commandment? * But in the hour of judgement, * spare me, O spare me!"
+
+trMA.Ode3C15.ode = misc_en_US_oca.Ode3
+trMA.Ode3C15.mode = misc_en_US_oca.Mode6
+trMA.Ode3C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.StereosonKyrie.name
+trMA.Ode3C15.text = "Turn back and lament, wretched soul, * before the fair ground of life comes to an end, * before the Lord shuts the door of the bridal chamber."
+
+trMA.Ode3C16.ode = misc_en_US_oca.Ode3
+trMA.Ode3C16.mode = misc_en_US_oca.Mode6
+trMA.Ode3C16.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.StereosonKyrie.name
+trMA.Ode3C16.text = "I have sinned as no other man before, * I have transgressed more than any man, O Lord: * Before the day of judgement comes, * be merciful to me, Lover of mankind!"
+
+trMA.Ode3C1Tr.ode = misc_en_US_oca.Ode3
+trMA.Ode3C1Tr.mode = misc_en_US_oca.Mode6
+trMA.Ode3C1Tr.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.StereosonKyrie.name
+trMA.Ode3C1Tr.text = "Simple Unity praised in Trinity of Persons, * uncreated Nature without beginning, * save us, as in faith we worship Your power."
+
+trMA.Ode3C1T.ode = misc_en_US_oca.Ode3
+trMA.Ode3C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.StereosonKyrie.name
+trMA.Ode3C1T.text = "Undefiled Virgin, * you gave birth without seed to the living Word, * Who took flesh in your womb yet was not changed. * Glory to your child-bearing, Mother of God!"
+
+trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
+trMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+trMA.Ode3Kathisma1.text = ""
+
+trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode1
+trMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+trMA.Ode3Kathisma2.text = ""
+
+trMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode6
+trMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+trMA.Ode3Kathisma3.text = "I think upon the fearful day and lament my evil acts. * What answer shall I give to the immortal King? * And what boldness could I have as prodigal to gaze upon the Judge? ** Compassionate Father, only-begotten Son and Holy Spirit, have mercy on me!"
+
+trMA.Ode3Kathisma4.mode = misc_en_US_oca.Mode6
+trMA.Ode3Kathisma4.melody = ""
+trMA.Ode3Kathisma4.text = "In the valley of lamentation, the place you have appointed, * when you shall sit, merciful Lord, to execute just judgement, * do not publish my secret sins, or put me to shame before the angels, ** but spare me, O God, and have mercy on me."
+
+trMA.Ode3Kathisma5.mode = misc_en_US_oca.Mode6
+trMA.Ode3Kathisma5.melody = misc_en_US_oca.Automelon
+trMA.Ode3Kathisma5.text = he.a.m6_en_US_oca.ElpisTouKosmouAgathi.text
+
+trMA.Ode4C11.ode = misc_en_US_oca.Ode4
+trMA.Ode4C11.mode = misc_en_US_oca.Mode6
+trMA.Ode4C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AkikoenOProfitis.name
+trMA.Ode4C11.text = "The day is upon us; the judgement is now at the door. * Be vigilant, my soul. * Kings and princes, the rich and poor are gathering, * and each shall receive the due reward for what he has done."
+
+trMA.Ode4C12.ode = misc_en_US_oca.Ode4
+trMA.Ode4C12.mode = misc_en_US_oca.Mode6
+trMA.Ode4C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AkikoenOProfitis.name
+trMA.Ode4C12.text = "Monk and hierarch, old and young, slave and master: * each shall be examined in his own order; * Widow and virgin shall be corrected. * And woe to all whose lives are sinful!"
+
+trMA.Ode4C13.ode = misc_en_US_oca.Ode4
+trMA.Ode4C13.mode = misc_en_US_oca.Mode6
+trMA.Ode4C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AkikoenOProfitis.name
+trMA.Ode4C13.text = "Your judgement is without respect of persons; * no cunning argument or skill in speech * can deceive Your judgement seat; * false witnesses cannot pervert Your sentence. * For every secret stands revealed in Your sight, O God."
+
+trMA.Ode4C14.ode = misc_en_US_oca.Ode4
+trMA.Ode4C14.mode = misc_en_US_oca.Mode6
+trMA.Ode4C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AkikoenOProfitis.name
+trMA.Ode4C14.text = "Do not let me come into the valley of lamentation, my Christ and Word; * do not let me see the place of darkness; * do not let me be bound hand and foot, * cast out from Your bridal chamber, * because in my complete wretchedness * I have defiled the garment of incorruption."
+
+trMA.Ode4C15.ode = misc_en_US_oca.Ode4
+trMA.Ode4C15.mode = misc_en_US_oca.Mode6
+trMA.Ode4C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AkikoenOProfitis.name
+trMA.Ode4C15.text = "When at the judgement of the world * You will separate the sinners from the righteous, * count me as one of Your sheep * and do not place me with the goats, loving Lord, * but may I hear Your words of blessing."
+
+trMA.Ode4C16.ode = misc_en_US_oca.Ode4
+trMA.Ode4C16.mode = misc_en_US_oca.Mode6
+trMA.Ode4C16.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AkikoenOProfitis.name
+trMA.Ode4C16.text = "When the trial takes place and books recording all our acts are opened * what shall you do, miserable soul? * What answer shall you make before the judgement seat, * for you have no fruits of righteousness to offer Christ, your Creator."
+
+trMA.Ode4C17.ode = misc_en_US_oca.Ode4
+trMA.Ode4C17.mode = misc_en_US_oca.Mode6
+trMA.Ode4C17.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AkikoenOProfitis.name
+trMA.Ode4C17.text = "I hear the lamentation of the rich man in the flames of torment, * and in my misery, deserving the same condemnation, I weep and wail. * Therefore I entreat You: * Savior of the world, have mercy on me at the time of judgement."
+
+trMA.Ode4C1Tr.ode = misc_en_US_oca.Ode4
+trMA.Ode4C1Tr.mode = misc_en_US_oca.Mode6
+trMA.Ode4C1Tr.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AkikoenOProfitis.name
+trMA.Ode4C1Tr.text = "I glorify the Son and Spirit who come from the Father * as light and ray from the sun: * the One begotten, the Other proceeding and sent forth; * divine and co-eternal Trinity, * adored by all creation."
+
+trMA.Ode4C1T.ode = misc_en_US_oca.Ode4
+trMA.Ode4C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode4C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AkikoenOProfitis.name
+trMA.Ode4C1T.text = "Every ear and mind are filled with wonder, Virgin Mother * at your miracle, honored Virgin, * for you gave birth, yet kept your purity, * bringing forth both God and man, a single Person with twofold nature."
+
+trMA.Ode5C11.ode = misc_en_US_oca.Ode5
+trMA.Ode5C11.mode = misc_en_US_oca.Mode6
+trMA.Ode5C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkNyktosOrthrizonta.name
+trMA.Ode5C11.text = "Indescribable fear and trembling are there, * for the Lord will come trying the work of every man, * and who will not mourn for himself?"
+
+trMA.Ode5C12.ode = misc_en_US_oca.Ode5
+trMA.Ode5C12.mode = misc_en_US_oca.Mode6
+trMA.Ode5C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkNyktosOrthrizonta.name
+trMA.Ode5C12.text = "The river of fire devours and torments me; * the gnashing of teeth grinds me to dust. * The darkness of the abyss fills my heart with dismay, * and what can I do to gain God's mercy?"
+
+trMA.Ode5C13.ode = misc_en_US_oca.Ode5
+trMA.Ode5C13.mode = misc_en_US_oca.Mode6
+trMA.Ode5C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkNyktosOrthrizonta.name
+trMA.Ode5C13.text = "Spare, Lord, spare Your servant; * do not deliver me to the bitter tormentors, * to the cruel angels of hell, * who will never let me be at rest."
+
+trMA.Ode5C14.ode = misc_en_US_oca.Ode5
+trMA.Ode5C14.mode = misc_en_US_oca.Mode6
+trMA.Ode5C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkNyktosOrthrizonta.name
+trMA.Ode5C14.text = "Prince and governor together, * rich and humble, great and small, * all alike are tried: * Woe to him who is not prepared!"
+
+trMA.Ode5C15.ode = misc_en_US_oca.Ode5
+trMA.Ode5C15.mode = misc_en_US_oca.Mode6
+trMA.Ode5C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkNyktosOrthrizonta.name
+trMA.Ode5C15.text = "Lord, Pardon, remit and forgive all my sins against You; * do not condemn me there, in the presence of the angels, * to the punishment of fire and to unending shame."
+
+trMA.Ode5C16.ode = misc_en_US_oca.Ode5
+trMA.Ode5C16.mode = misc_en_US_oca.Mode6
+trMA.Ode5C16.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkNyktosOrthrizonta.name
+trMA.Ode5C16.text = "Spare, spare the work of Your hands, Lord. * I have sinned: forgive me, * for You alone are pure by nature, * and none but You is free from defilement."
+
+trMA.Ode5C1Tr.ode = misc_en_US_oca.Ode5
+trMA.Ode5C1Tr.mode = misc_en_US_oca.Mode6
+trMA.Ode5C1Tr.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkNyktosOrthrizonta.name
+trMA.Ode5C1Tr.text = "Trinity, I praise You as Unity by nature * without beginning, incomprehensible, supreme in sovereignty, * God and Light and Life, beyond perfection, * the creator of the world!"
+
+trMA.Ode5C1T.ode = misc_en_US_oca.Ode5
+trMA.Ode5C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode5C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkNyktosOrthrizonta.name
+trMA.Ode5C1T.text = "The laws of nature, holy Virgin, * are clearly voided by your childbearing surpassing nature, * for you gave birth to God without seed, * begotten before all ages from the Father."
+
+trMA.Ode6C11.ode = misc_en_US_oca.Ode6
+trMA.Ode6C11.mode = misc_en_US_oca.Mode6
+trMA.Ode6C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EvoisaEnOliKardiaMou.name
+trMA.Ode6C11.text = "At Your fearful coming, O Christ, * when You appear from heaven, * when the thrones are set up and the books are opened, * then spare, Savior, spare Your creature."
+
+trMA.Ode6C12.ode = misc_en_US_oca.Ode6
+trMA.Ode6C12.mode = misc_en_US_oca.Mode6
+trMA.Ode6C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EvoisaEnOliKardiaMou.name
+trMA.Ode6C12.text = "Since God is the Judge, nothing can help you there, * no zeal, no skill, no glory, no friendship, * but only what you have gained in strength from your works, my soul."
+
+trMA.Ode6C13.ode = misc_en_US_oca.Ode6
+trMA.Ode6C13.mode = misc_en_US_oca.Mode6
+trMA.Ode6C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EvoisaEnOliKardiaMou.name
+trMA.Ode6C13.text = "Prince and governor will be there together, * rich and poor, my soul; * no father or mother will be able to help us, * no brother will redeem us from the condemnation."
+
+trMA.Ode6C14.ode = misc_en_US_oca.Ode6
+trMA.Ode6C14.mode = misc_en_US_oca.Mode6
+trMA.Ode6C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EvoisaEnOliKardiaMou.name
+trMA.Ode6C14.text = "Think, my soul of the fearful examination before the Judge; * in trembling, prepare your defense! * Lest you be condemned to the eternal bonds."
+
+trMA.Ode6C15.ode = misc_en_US_oca.Ode6
+trMA.Ode6C15.mode = misc_en_US_oca.Mode6
+trMA.Ode6C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EvoisaEnOliKardiaMou.name
+trMA.Ode6C15.text = "Do not let me hear You say: Take what is your due! Lord, * as You send me from Your presence; * Do not let me hear You say: * Depart from Me into the fire of the accursed! * But may I hear Your words of blessing to the righteous."
+
+trMA.Ode6C16.ode = misc_en_US_oca.Ode6
+trMA.Ode6C16.mode = misc_en_US_oca.Mode6
+trMA.Ode6C16.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EvoisaEnOliKardiaMou.name
+trMA.Ode6C16.text = "Deliver me, Lord, from the gates of hell, * from chaos and darkness without light, * from the lowest depths of the earth and the unquenchable fire, * and from all the other everlasting punishments."
+
+trMA.Ode6C1Tr.ode = misc_en_US_oca.Ode6
+trMA.Ode6C1Tr.mode = misc_en_US_oca.Mode6
+trMA.Ode6C1Tr.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EvoisaEnOliKardiaMou.name
+trMA.Ode6C1Tr.text = "I sing the praises of the Triune Godhead: * Father, Son and divine Spirit, * one sovereign Principle * divided in three Persons."
+
+trMA.Ode6C1T.ode = misc_en_US_oca.Ode6
+trMA.Ode6C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EvoisaEnOliKardiaMou.name
+trMA.Ode6C1T.text = "You are the gate, pure Lady, * through which One alone has passed, * entering in and leaving, yet not breaking the seal of your virginity: * Jesus, the Creator of Adam, and your Son."
+
+trMA.Kontakion1.mode = misc_en_US_oca.Mode1
+trMA.Kontakion1.melody = ""
+trMA.Kontakion1.text = "When you, O God, shall come to earth with glory, * all things shall tremble * and the river of fire shall flow before your judgement seat; * the books shall be opened and the hidden things disclosed; * then deliver me from the unquenchable fire, ** and make me worthy to stand at your right hand, righteous Judge!"
+
+trMA.Oikos1.text = "Lord of supreme love, as I think upon Your fearful judgement seat and the day of Judgement, I tremble and am filled with fear, accused by my own conscience.  When You sit on Your throne and bring all to trial then no one will be able to deny his sins, for the truth will accuse him and terror will hold him fast.  The flames of Gehenna will roar and the sinners will gnash their teeth.  Therefore have mercy upon me before the end, ** and spare me, righteous Judge!"
+
+trMA.Synaxarion.commemoration.text = ""
+trMA.Synaxarion.couplet1.title = titles_en_US_oca.Stichoi
+trMA.Synaxarion.couplet1.verse1 = ""
+trMA.Synaxarion.couplet1.verse2 = ""
+trMA.Synaxarion.lastline.text = ""
+
+trMA.Ode7C11.ode = misc_en_US_oca.Ode7
+trMA.Ode7C11.mode = misc_en_US_oca.Mode6
+trMA.Ode7C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ImartomenInomisamen.name
+trMA.Ode7C11.text = "Let us, faithful, fall down and lament * before that day of judgment comes, * when the heavens shall be destroyed, * the stars fall and all the earth shall be shaken, * that at the end we may receive mercy from the God of our fathers."
+
+trMA.Ode7C12.ode = misc_en_US_oca.Ode7
+trMA.Ode7C12.mode = misc_en_US_oca.Mode6
+trMA.Ode7C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ImartomenInomisamen.name
+trMA.Ode7C12.text = "The trial is without respect of persons, * and fearful is the judgement on that day; * nothing escapes the Judge, no favor can be won with bribes. * But spare me, Master, and deliver me from all Your fearful wrath."
+
+trMA.Ode7C13.ode = misc_en_US_oca.Ode7
+trMA.Ode7C13.mode = misc_en_US_oca.Mode6
+trMA.Ode7C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ImartomenInomisamen.name
+trMA.Ode7C13.text = "The Lord comes to judge: who can endure the sight of Him? * Tremble, my wretched soul! * Tremble and prepare for your wretched departure, * that you may gain mercy and compassion from the God of your fathers."
+
+trMA.Ode7C14.ode = misc_en_US_oca.Ode7
+trMA.Ode7C14.mode = misc_en_US_oca.Mode6
+trMA.Ode7C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ImartomenInomisamen.name
+trMA.Ode7C14.text = "Terror seizes me when I think of the unquenchable fire, * of the bitter worm, the gnashing of teeth, and soul-destroying hell; * yet I do not turn to true compunction. * Lord, Lord, before the end, strengthen Your fear within me."
+
+trMA.Ode7C15.ode = misc_en_US_oca.Ode7
+trMA.Ode7C15.mode = misc_en_US_oca.Mode6
+trMA.Ode7C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ImartomenInomisamen.name
+trMA.Ode7C15.text = "I fall down before You and offer You my words as tears: * I have sinned as the Harlot never sinned, * and I have transgressed as no other man on earth. * But take pity on Your creature, O Master, and call me back."
+
+trMA.Ode7C16.ode = misc_en_US_oca.Ode7
+trMA.Ode7C16.mode = misc_en_US_oca.Mode6
+trMA.Ode7C16.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ImartomenInomisamen.name
+trMA.Ode7C16.text = "Turn back, repent, uncover all that you have hidden! * Say to God, to whom all things are known: * You alone know all my secrets, Savior; * have mercy on me, as David says, according to Your mercy."
+
+trMA.Ode7C1Tr.ode = misc_en_US_oca.Ode7
+trMA.Ode7C1Tr.mode = misc_en_US_oca.Mode6
+trMA.Ode7C1Tr.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ImartomenInomisamen.name
+trMA.Ode7C1Tr.text = "I sing the praises of the Three that are one in Essence, * of the One that is three in Persons: * Father, Son and Holy Spirit, * one power, one will, one energy, one thrice holy God, * one sovereign Kingdom."
+
+trMA.Ode7C1T.ode = misc_en_US_oca.Ode7
+trMA.Ode7C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode7C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.ImartomenInomisamen.name
+trMA.Ode7C1T.text = "Virgin, God comes forth in beauty from the chamber of your womb; * He is clothed as a King in the divinely-woven robe * dyed mystically in your all-pure blood, * and He reigns over all the earth."
+
+trMA.Ode8C11.ode = misc_en_US_oca.Ode8
+trMA.Ode8C11.mode = misc_en_US_oca.Mode6
+trMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OnStratiaiOuranon.name
+trMA.Ode8C11.text = "Lord, when I think how I must meet You at Your fearful second coming, * I tremble at Your menace, I fear Your wrath. * In that hour deliver me, I Cry, * and save me forever."
+
+trMA.Ode8C12.ode = misc_en_US_oca.Ode8
+trMA.Ode8C12.mode = misc_en_US_oca.Mode6
+trMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OnStratiaiOuranon.name
+trMA.Ode8C12.text = "When You, O God, shall judge all things, * who among us earthborn, beset by passions, * shall dare to stand before You? * Then the unquenchable fire and the destroying worm * shall seize the condemned and hold them fast forever."
+
+trMA.Ode8C13.ode = misc_en_US_oca.Ode8
+trMA.Ode8C13.mode = misc_en_US_oca.Mode6
+trMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OnStratiaiOuranon.name
+trMA.Ode8C13.text = "All that has breath, O Christ, * You shall assemble to be judged together. * Then great shall be the fear and anguish; * and only our good actions shall help us forever."
+
+trMA.Ode8C14.ode = misc_en_US_oca.Ode8
+trMA.Ode8C14.mode = misc_en_US_oca.Mode6
+trMA.Ode8C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OnStratiaiOuranon.name
+trMA.Ode8C14.text = "Judge of all, my God and Lord, * on that day may I hear Your words of blessing, * may I see Your mighty light, may I look upon Your tabernacles, * may I behold Your glory and rejoice forever."
+
+trMA.Ode8C15.ode = misc_en_US_oca.Ode8
+trMA.Ode8C15.mode = misc_en_US_oca.Mode6
+trMA.Ode8C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OnStratiaiOuranon.name
+trMA.Ode8C15.text = "Righteous Judge and Savior, have mercy on me, * and deliver me from the fire that threatens me, * from the punishment that I deserve to suffer at the Judgement. * Grant me remission through virtue and repentance before the end!"
+
+trMA.Ode8C16.ode = misc_en_US_oca.Ode8
+trMA.Ode8C16.mode = misc_en_US_oca.Mode6
+trMA.Ode8C16.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OnStratiaiOuranon.name
+trMA.Ode8C16.text = "When You sit on Your throne, merciful Judge, * what fear will there be then, * when You reveal Your dread glory, O Christ! * When the furnace burns with fire, * and all shrink back in terror before Your judgement seat."
+
+trMA.Ode8C1Tr.ode = misc_en_US_oca.Ode8
+trMA.Ode8C1Tr.mode = misc_en_US_oca.Mode6
+trMA.Ode8C1Tr.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OnStratiaiOuranon.name
+trMA.Ode8C1Tr.text = "I honor God one in Essence, * I sing the praises of the three Persons, * distinct, yet not differing in nature, * for there is one Godhead in the three: * Father, Son and Holy Spirit."
+
+trMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+trMA.Ode8C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode8C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OnStratiaiOuranon.name
+trMA.Ode8C1T.text = "Christ has come forth from your radiant womb * as a bridegroom from His chamber, * and as a great light He has illumined those in darkness. * The Sun of righteousness has shone forth as lightning, * giving light to the world, pure Virgin."
+
+trMA.Ode9C11.ode = misc_en_US_oca.Ode9
+trMA.Ode9C11.mode = misc_en_US_oca.Mode6
+trMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AsporouSyllipseos.name
+trMA.Ode9C11.text = "The Lord comes to punish sinners and to save the righteous. * Let us tremble and lament, * and call to mind that day when our hidden secrets will be disclosed * and He will pay us what is due."
+
+trMA.Ode9C12.ode = misc_en_US_oca.Ode9
+trMA.Ode9C12.mode = misc_en_US_oca.Mode6
+trMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AsporouSyllipseos.name
+trMA.Ode9C12.text = "Moses was filled with fear and trembling when he saw You from behind. * Then how, in my wretchedness, * shall I endure to behold Your face when You shall come from heaven? * But spare me, compassionate Lord, * and look on me in mercy."
+
+trMA.Ode9C13.ode = misc_en_US_oca.Ode9
+trMA.Ode9C13.mode = misc_en_US_oca.Mode6
+trMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AsporouSyllipseos.name
+trMA.Ode9C13.text = "Daniel was afraid of the hour of trial, * and what shall I, unhappy one, feel * when I come to that terrible day, Lord? * But grant me before the end * to worship You acceptably and to gain Your Kingdom."
+
+trMA.Ode9C14.ode = misc_en_US_oca.Ode9
+trMA.Ode9C14.mode = misc_en_US_oca.Mode6
+trMA.Ode9C14.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AsporouSyllipseos.name
+trMA.Ode9C14.text = "The fire is prepared, the worm is ready; * yet ready also is the glory of rejoicing, the eternal rest, * the light without evening, the gladness of the righteous! * and who is he that shall be blessed * to escape the torment and inherit the Joy?"
+
+trMA.Ode9C15.ode = misc_en_US_oca.Ode9
+trMA.Ode9C15.mode = misc_en_US_oca.Mode6
+trMA.Ode9C15.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AsporouSyllipseos.name
+trMA.Ode9C15.text = "Do not reject me from Your presence, in anger, Lord; * do not let me hear You sending me away accursed to the fire. * But let me then enter with Your saints * into the joy of Your eternal bridal-chamber."
+
+trMA.Ode9C16.ode = misc_en_US_oca.Ode9
+trMA.Ode9C16.mode = misc_en_US_oca.Mode6
+trMA.Ode9C16.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AsporouSyllipseos.name
+trMA.Ode9C16.text = "My mind is wounded, my body has grown feeble, * my spirit is sick, my speech has lost its power, my life is dead. * The end is at the door, and what shall you do then, miserable soul, * when the Judge comes to examine your deeds?"
+
+trMA.Ode9C1Tr.ode = misc_en_US_oca.Ode9
+trMA.Ode9C1Tr.mode = misc_en_US_oca.Mode6
+trMA.Ode9C1Tr.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AsporouSyllipseos.name
+trMA.Ode9C1Tr.text = "Father, the single Source of the only-begotten Son; * only Light and Brightness from the one and only Light; * and You, one only Holy Spirit from the one God, * true Lord from the Lord: * Holy Three in One, save me as I tell of Your divinity."
+
+trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+trMA.Ode9C1T.mode = misc_en_US_oca.Mode6
+trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AsporouSyllipseos.name
+trMA.Ode9C1T.text = "The marvel of your childbearing fills me with wonder, * all blameless Lady. * How did you conceive without seed Him whom none can comprehend? * How did you remain a Virgin and yet become a Mother? * \"Accept the miracle with faith! * Worship the Child that is born: * For all that He wills, He has the power to do!\""
+
+trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
+trMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion1.text = ""
+
+trMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
+trMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+trMA.Exaposteilarion2.text = ""
+
+trMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
+trMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+trMA.ExapTheotokion.text = ""
+
+trMA.Lauds1.mode = misc_en_US_oca.Mode6
+trMA.Lauds1.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds1.text = ""
+
+trMA.Lauds2.mode = misc_en_US_oca.Mode6
+trMA.Lauds2.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds2.text = ""
+
+trMA.Lauds3.mode = misc_en_US_oca.Mode8
+trMA.Lauds3.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds3.text = ""
+
+trMA.LaudsGlory.mode = misc_en_US_oca.Mode1
+trMA.LaudsGlory.melody = misc_en_US_oca.Idiomelon
+trMA.LaudsGlory.text = ""
+
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
+
+trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode1
+trLI.SeasonalKontakion.melody = ""
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+
+trLI.Alleluia.mode = misc_en_US_oca.Mode8
+
+trLI.AlleluiaVerse1.text = ""
+
+trLI.AlleluiaVerse2.text = ""
+
+trLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
+
+trMegalynarion.text = ""
+
