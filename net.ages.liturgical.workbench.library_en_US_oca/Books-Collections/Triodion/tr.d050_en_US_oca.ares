@@ -1,0 +1,620 @@
+A_Resource_Whose_Name = tr.d050_en_US_oca
+
+trCommemoration.text = "" //full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trDismissal = dismissals_en_US_oca.dis00.resurrection
+
+trVE.Stichera01.mode = misc_en_US_oca.Mode8
+trVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_US_oca.Mode8
+trVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = misc_en_US_oca.Mode8
+trVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+trVE.Stichera03.text = ""
+
+trVE.SticGlory.mode = misc_en_US_oca.Mode5
+trVE.SticGlory.melody = misc_en_US_oca.Idiomelon
+trVE.SticGlory.text = ""
+
+trVE.AposGlory.mode = misc_en_US_oca.Mode2
+trVE.AposGlory.melody = misc_en_US_oca.Idiomelon
+trVE.AposGlory.text = ""
+
+trVE.AposTheotokion.mode = misc_en_US_oca.Mode2
+trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.text = oc.m2.d1_en_US_oca.ocVE.AposTheotokion.text
+
+trVE.Apolytikion1.mode = misc_en_US_oca.Mode8
+trVE.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.ga_en_US_oca.TaisTonDakryonSou.name
+trVE.GeneralApolytikion1.name = ""
+trVE.Apolytikion1.text = properties_en_US_oca.media.key
+
+trVE.ApolTheotokion.mode = misc_en_US_oca.Mode8
+trVE.ApolTheotokion.melody = ""
+trVE.ApolTheotokion.text = oc.m8.d1_en_US_oca.ocVE.ApolTheotokionVM.text
+
+trMA.PostGospelGlory.mode = misc_en_US_oca.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = tr.d001_en_US_oca.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_en_US_oca.Mode8
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.text = tr.d001_en_US_oca.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
+trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.text = tr.d001_en_US_oca.trMA.PostGospelIdiomelon.text
+
+trMA.C2Poet = ""
+
+trMA.Ode1C11.ode = misc_en_US_oca.Ode1
+trMA.Ode1C11.mode = misc_en_US_oca.Mode5
+trMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.ToSotiriTheo.name
+trMA.Ode1C11.text = "I have become like the man who fell among thieves,
+Christ my Savior,
+wounded and left half dead.
+For through my sins, I have wounds more grevious than his."
+
+trMA.Ode1C12.ode = misc_en_US_oca.Ode1
+trMA.Ode1C12.mode = misc_en_US_oca.Mode5
+trMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.ToSotiriTheo.name
+trMA.Ode1C12.text = "The man stripped of all Your wealth, cried out lamenting:
+Savior, I am gravely wounded!
+Do not leave me to thieves and robbers!
+So also I pray to You:
+Save me, Merciful Lord!"
+
+trMA.Ode1C13.ode = misc_en_US_oca.Ode1
+trMA.Ode1C13.mode = misc_en_US_oca.Mode5
+trMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.ToSotiriTheo.name
+trMA.Ode1C13.text = "My mind has been scourged with the whips of sin:
+wicked thieves and evil thoughts.
+Heal me, Christ my Savior,
+and save me, for You are rich in mercy."
+
+trMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+trMA.Ode1C1T.mode = misc_en_US_oca.Mode5
+trMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.ToSotiriTheo.name
+trMA.Ode1C1T.text = "Christ took flesh from you, undefiled Mother of God,
+while always remaining in the bosom of the Father.
+Pray to Him without ceasing that He may save from all harm
+the creatures He has formed."
+
+trMA.Ode1C21.ode = misc_en_US_oca.Ode1
+trMA.Ode1C21.mode = misc_en_US_oca.Mode8
+trMA.Ode1C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
+trMA.Ode1C21.text = "You ascended from the darkness and sorrow of material things,
+and went to dwell in spiritual light, holy John:
+Give me light through your intercessions to the Lord."
+
+trMA.Ode1C22.ode = misc_en_US_oca.Ode1
+trMA.Ode1C22.mode = misc_en_US_oca.Mode8
+trMA.Ode1C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
+trMA.Ode1C22.text = "You were suckled on the sweetness of abstinence,
+and cast away the bitterness of sensual indulgence.
+Therefore, Father, you give us pleasure sweeter than honey and the honeycomb!"
+
+trMA.Ode1C23.ode = misc_en_US_oca.Ode1
+trMA.Ode1C23.mode = misc_en_US_oca.Mode8
+trMA.Ode1C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
+trMA.Ode1C23.text = "You rejected the pleasures that creep in the dust,
+and ascended to the height of virtues, holy Father.
+Thus you became the sweetness of salvation to your flock."
+
+trMA.Ode1C2T.ode = misc_en_US_oca.Ode1
+trMA.Ode1C2T.mode = misc_en_US_oca.Mode8
+trMA.Ode1C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
+trMA.Ode1C2T.text = "You ineffably bore the Word and Wisdom of the Father:
+Heal the harsh wounds of my soul and still the anguish of my heart!"
+
+trMA.Ode3C11.ode = misc_en_US_oca.Ode3
+trMA.Ode3C11.mode = misc_en_US_oca.Mode5
+trMA.Ode3C11.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.StereosonImasOTheos.name
+trMA.Ode3C11.text = "Christ, as I walk on the path of life,
+I am gravely wounded by thieves through my passions:
+I pray that You will raise me up."
+
+trMA.Ode3C12.ode = misc_en_US_oca.Ode3
+trMA.Ode3C12.mode = misc_en_US_oca.Mode5
+trMA.Ode3C12.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.StereosonImasOTheos.name
+trMA.Ode3C12.text = "Thieves have robbed my mind and left me half dead.
+I am wounded by my sins, but heal me, Lord."
+
+trMA.Ode3C13.ode = misc_en_US_oca.Ode3
+trMA.Ode3C13.mode = misc_en_US_oca.Mode5
+trMA.Ode3C13.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.StereosonImasOTheos.name
+trMA.Ode3C13.text = "My passions have stripped me bare of Your commandments, Christ,
+and I have been scourged by sensual pleasures,
+but pour oil on my wounds, O Savior."
+
+trMA.Ode3C1T.ode = misc_en_US_oca.Ode3
+trMA.Ode3C1T.mode = misc_en_US_oca.Mode5
+trMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.StereosonImasOTheos.name
+trMA.Ode3C1T.text = "Pray without ceasing, pure Bride of God,
+to the One who came forth from your womb,
+that those who sing your praises may be delivered from the deceit of the devil."
+
+trMA.Ode3C21.ode = misc_en_US_oca.Ode3
+trMA.Ode3C21.mode = misc_en_US_oca.Mode8
+trMA.Ode3C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
+trMA.Ode3C21.text = "You burnt up the thorns of the passions
+with the fiery coal of your ascetic warfare, holy one,
+giving warmth with your fervor to all who follow the monastic life."
+
+trMA.Ode3C22.ode = misc_en_US_oca.Ode3
+trMA.Ode3C22.mode = misc_en_US_oca.Mode8
+trMA.Ode3C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
+trMA.Ode3C22.text = "You became the myrrh of sanctification
+through your ascetic labors, holy one.
+You were offered up as a sweet smelling incense to God."
+
+trMA.Ode3C23.ode = misc_en_US_oca.Ode3
+trMA.Ode3C23.mode = misc_en_US_oca.Mode8
+trMA.Ode3C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
+trMA.Ode3C23.text = "You drowned the waters of the passions through your tears
+as you gave heed to the laws of the ascetic life,
+as the soldiers of Pharaoh were once drowned in the Red Sea."
+
+trMA.Ode3C2T.ode = misc_en_US_oca.Ode3
+trMA.Ode3C2T.mode = misc_en_US_oca.Mode8
+trMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
+trMA.Ode3C2T.text = "Check the restless tumult of my thoughts,
+and guide me to your Son, pure Mother of God!"
+
+trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode5
+trMA.Ode3Kathisma1.melody = ""
+trMA.Ode3Kathisma1.text = "With your holy Cross as our weapon of salvation,
+we cry aloud to you, our Savior:
+You have willingly suffered for our sake://
+save us in your great mercy, O God of all!"
+
+trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
+trMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma2.text = "You went to dwell in the heights of heaven,
+shining with the glory of the virtues.
+You entered the boundless depths of contemplation;
+you exposed to mockery all the snares of the demons,
+protecting mankind from their cruel violence,
+and now, John, ladder of the virtues,//
+you intercede for the salvation of your servants."
+
+trMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode4
+trMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma3.text = "He who is enthroned upon the cherubim
+and dwells in the bosom of the Father,
+rests incarnate on your bosom, O Lady,
+as upon his holy throne!
+As God he is the Ruler of all nations,
+and with understanding we now sing to him.//
+Pray to him for the salvation of your servants!"
+
+trMA.Ode4C11.ode = misc_en_US_oca.Ode4
+trMA.Ode4C11.mode = misc_en_US_oca.Mode5
+trMA.Ode4C11.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.AkikoaKyrieTinEkTouTafou.name
+trMA.Ode4C11.text = "Thieves have taken from me my godly deeds,
+leaving me chastised and in agony."
+
+trMA.Ode4C12.ode = misc_en_US_oca.Ode4
+trMA.Ode4C12.mode = misc_en_US_oca.Mode5
+trMA.Ode4C12.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.AkikoaKyrieTinEkTouTafou.name
+trMA.Ode4C12.text = "My unstable thoughts have stripped me bare of Your commandments, O Savior,
+and I have been scourged by my transgressions."
+
+trMA.Ode4C13.ode = misc_en_US_oca.Ode4
+trMA.Ode4C13.mode = misc_en_US_oca.Mode5
+trMA.Ode4C13.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.AkikoaKyrieTinEkTouTafou.name
+trMA.Ode4C13.text = "The Levite, when he saw me wounded,
+passed by on the other side,
+but save me, O Savior!"
+
+trMA.Ode4C1T.ode = misc_en_US_oca.Ode4
+trMA.Ode4C1T.mode = misc_en_US_oca.Mode5
+trMA.Ode4C1T.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.AkikoaKyrieTinEkTouTafou.name
+trMA.Ode4C1T.text = "We rightly glorify you, O Theotokos,
+taking refuge with all the faithful beneath your protection."
+
+trMA.Ode4C21.ode = misc_en_US_oca.Ode4
+trMA.Ode4C21.mode = misc_en_US_oca.Mode8
+trMA.Ode4C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EisakikoaKyrie.name
+trMA.Ode4C21.text = "You are a fragrant meadow and a living paradise of the virtues,
+producing abundantly the fruit of abstinence
+which gives nourishment to all who honor you."
+
+trMA.Ode4C22.ode = misc_en_US_oca.Ode4
+trMA.Ode4C22.mode = misc_en_US_oca.Mode8
+trMA.Ode4C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EisakikoaKyrie.name
+trMA.Ode4C22.text = "You are truly a giver of the law like Moses,
+a meek and gentle ruler like David
+for all who follow the ascetic and monastic life.
+Therefore we bless you, Father John."
+
+trMA.Ode4C23.ode = misc_en_US_oca.Ode4
+trMA.Ode4C23.mode = misc_en_US_oca.Mode8
+trMA.Ode4C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EisakikoaKyrie.name
+trMA.Ode4C23.text = "Planted by the waters of abstinence, blessed father,
+you have become a fruitful vine, bearing the grapes of true sanctity."
+
+trMA.Ode4C2T.ode = misc_en_US_oca.Ode4
+trMA.Ode4C2T.mode = misc_en_US_oca.Mode8
+trMA.Ode4C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EisakikoaKyrie.name
+trMA.Ode4C2T.text = "Mother of God, you bore for us in time
+the One who shone forth timelessly from the Father.
+Entreat Him to save those who sing your praises!"
+
+trMA.Ode5C11.ode = misc_en_US_oca.Ode5
+trMA.Ode5C11.mode = misc_en_US_oca.Mode5
+trMA.Ode5C11.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.EkNyktosOrthrizontes.name
+trMA.Ode5C11.text = "Jesus, bind up the wounds of my soul,
+as the Samaritan bound the wounds of the man who fell among thieves,
+and heal my pain, I pray, O Christ."
+
+trMA.Ode5C12.ode = misc_en_US_oca.Ode5
+trMA.Ode5C12.mode = misc_en_US_oca.Mode5
+trMA.Ode5C12.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.EkNyktosOrthrizontes.name
+trMA.Ode5C12.text = "My soul is sick and in agony,
+scourged by my transgressions, O Christ.
+I lie naked and bereft of the divine virtues;
+but I beseech You, save me."
+
+trMA.Ode5C13.ode = misc_en_US_oca.Ode5
+trMA.Ode5C13.mode = misc_en_US_oca.Mode5
+trMA.Ode5C13.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.EkNyktosOrthrizontes.name
+trMA.Ode5C13.text = "When the priest and the Levite saw me,
+they could not help me,
+but passed me by on the other side.
+But in Your compassion
+You have given me salvation and kept me from harm."
+
+trMA.Ode5C1T.ode = misc_en_US_oca.Ode5
+trMA.Ode5C1T.mode = misc_en_US_oca.Mode5
+trMA.Ode5C1T.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.EkNyktosOrthrizontes.name
+trMA.Ode5C1T.text = "My mind has been painfully scourged by thieves,
+but I entreat You, O Master,
+do not despise me in my wretchedness,
+but take pity on me, O Savior,
+at the intercessions of Your Mother."
+
+trMA.Ode5C21.ode = misc_en_US_oca.Ode5
+trMA.Ode5C21.mode = misc_en_US_oca.Mode8
+trMA.Ode5C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
+trMA.Ode5C21.text = "You quenched all the passions with the dew of your ascetic struggles,
+kindling the lamp of abstinence
+with the fire of love and faith, father.
+You are a dispassionate light and a child of the day!"
+
+trMA.Ode5C22.ode = misc_en_US_oca.Ode5
+trMA.Ode5C22.mode = misc_en_US_oca.Mode8
+trMA.Ode5C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
+trMA.Ode5C22.text = "With divine husbandry, Father, you tended the grapes of faith,
+you gathered them into the winepress and pressed them out,
+by the labors of ascetic warfare.
+Filling the spiritual cup of abstinence,
+you rejoice the heart of your flock!"
+
+trMA.Ode5C23.ode = misc_en_US_oca.Ode5
+trMA.Ode5C23.mode = misc_en_US_oca.Mode8
+trMA.Ode5C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
+trMA.Ode5C23.text = "You courageously endured the assaults and wounds of the enemy:
+You are a firm pillar, supporting your flock, blessed father,
+guiding your sheep with the staff of God,
+feeding them in green pastures beside the waters of abstinence."
+
+trMA.Ode5C2T.ode = misc_en_US_oca.Ode5
+trMA.Ode5C2T.mode = misc_en_US_oca.Mode8
+trMA.Ode5C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
+trMA.Ode5C2T.text = "Virgin, as you foretold, we call you blessed,
+for the Lord has truly done great things for you and magnified you!
+He who was born from your womb has made you the true Mother of God!"
+
+trMA.Ode6C11.ode = misc_en_US_oca.Ode6
+trMA.Ode6C11.mode = misc_en_US_oca.Mode5
+trMA.Ode6C11.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.EkykloseMeAvyssos.name
+trMA.Ode6C11.text = "Master, I have wasted my God-given life on the passions,
+and I am fiercely scourged in every member by my transgressions;
+but I turn to You for refuge and pray:
+Have compassion on me."
+
+trMA.Ode6C12.ode = misc_en_US_oca.Ode6
+trMA.Ode6C12.mode = misc_en_US_oca.Mode5
+trMA.Ode6C12.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.EkykloseMeAvyssos.name
+trMA.Ode6C12.text = "Scourging my mind with the passions,
+thieves have seized my wealth and left me as dead.
+But have compassion on me, and save me, O Lord."
+
+trMA.Ode6C13.ode = misc_en_US_oca.Ode6
+trMA.Ode6C13.mode = misc_en_US_oca.Mode5
+trMA.Ode6C13.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.EkykloseMeAvyssos.name
+trMA.Ode6C13.text = "When the Levite saw how painfully I was scourged,
+he was unable to endure the sight of my wounds
+and he passed me by on the other side.
+But in Your love You have poured out Your rich mercy on me."
+
+trMA.Ode6C1T.ode = misc_en_US_oca.Ode6
+trMA.Ode6C1T.mode = misc_en_US_oca.Mode5
+trMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.EkykloseMeAvyssos.name
+trMA.Ode6C1T.text = "We rightly glorify you as the Bush unconsumed by fire,
+the Fountain, the living Ladder and the Gate of Heaven,
+glorious Mary, the pride of the Orthodox!"
+
+trMA.Ode6C21.ode = misc_en_US_oca.Ode6
+trMA.Ode6C21.mode = misc_en_US_oca.Mode8
+trMA.Ode6C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
+trMA.Ode6C21.text = "You received the divine wealth of the Spirit in your soul:
+blameless prayer, chastity and purity
+with unceasing watchfulness and the labors of abstinence.
+Through these you became a dwelling place of God."
+
+trMA.Ode6C22.ode = misc_en_US_oca.Ode6
+trMA.Ode6C22.mode = misc_en_US_oca.Mode8
+trMA.Ode6C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
+trMA.Ode6C22.text = "You passed by the worthless joys of this material world, wise father,
+raising your mind on the wings of immaterial prayer.
+Through the perfection of your life
+you received an inheritance on high."
+
+trMA.Ode6C23.ode = misc_en_US_oca.Ode6
+trMA.Ode6C23.mode = misc_en_US_oca.Mode8
+trMA.Ode6C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
+trMA.Ode6C23.text = "You quenched the fiery darts of the enemy
+with the sweat of your ascetic toil;
+kindling the fire of faith,
+you burnt up the proud insolence of unbelief and heresy!"
+
+trMA.Ode6C2T.ode = misc_en_US_oca.Ode6
+trMA.Ode6C2T.mode = misc_en_US_oca.Mode8
+trMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
+trMA.Ode6C2T.text = "The majesty of the Most High has shone forth from Zion!
+He has put on flesh from you O Virgin, in an ineffable union,
+and has brought light to the world."
+
+trMA.Kontakion1.mode = misc_en_US_oca.Mode4
+trMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+trMA.Kontakion1.text = "The Lord truly set you on the heights of abstinence,
+to be a guiding star,//
+showing the way to the universe, our Father and Teacher John."
+
+trMA.Oikos1.text = "You truly made yourself a house of God, O father, adorned with faith,
+hope and true love through your divine virtues, shining from a
+distance as with gold. You explained the laws of God, and practiced
+abstinence as though you were bodiless.  You gained wisdom, courage,
+chastity and humility, and were raised to the heights.  Illumined with
+unceasing prayer, you attained the dwelling places of heaven,// our Father and Teacher John."
+
+trMA.Synaxarion.commemoration.text = ""
+trMA.Synaxarion.couplet1.title = titles_en_US_oca.Stichoi
+trMA.Synaxarion.couplet1.verse1 = ""
+trMA.Synaxarion.couplet1.verse2 = ""
+trMA.Synaxarion.couplet2.verse1 = ""
+trMA.Synaxarion.couplet2.verse2 = ""
+trMA.Synaxarion.lastline.text = ""
+
+trMA.Ode7C11.ode = misc_en_US_oca.Ode7
+trMA.Ode7C11.mode = misc_en_US_oca.Mode5
+trMA.Ode7C11.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.OYperypsoumenos.name
+trMA.Ode7C11.text = "Thieves fell upon me, a poor wretch,
+and scourging me, left me a lifeless corpse.
+Therefore I pray to You: Come to my help."
+
+trMA.Ode7C12.ode = misc_en_US_oca.Ode7
+trMA.Ode7C12.mode = misc_en_US_oca.Mode5
+trMA.Ode7C12.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.OYperypsoumenos.name
+trMA.Ode7C12.text = "My restless thoughts have robbed my mind,
+and scourging me through the passions, have left me dead,
+because of the multitude of my transgressions.
+But heal me, O Savior."
+
+trMA.Ode7C13.ode = misc_en_US_oca.Ode7
+trMA.Ode7C13.mode = misc_en_US_oca.Mode5
+trMA.Ode7C13.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.OYperypsoumenos.name
+trMA.Ode7C13.text = "When the Levite saw me, injured and in pain,
+he thought my wounds incurable
+and unable to endure the sight of them,
+he passed by on the other side.
+But heal me, my Savior."
+
+trMA.Ode7C1T.ode = misc_en_US_oca.Ode7
+trMA.Ode7C1T.mode = misc_en_US_oca.Mode5
+trMA.Ode7C1T.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.OYperypsoumenos.name
+trMA.Ode7C1T.text = "Taking flesh from the Virgin, O Christ,
+You saved me, pouring the oil of Your rich mercy on my wounds.
+Therefore I glorify You."
+
+trMA.Ode7C21.ode = misc_en_US_oca.Ode7
+trMA.Ode7C21.mode = misc_en_US_oca.Mode8
+trMA.Ode7C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OiEkTisIoudaias.name
+trMA.Ode7C21.text = "You led your flock to pasture, father,
+in the green meadows of the heavenly kingdom:
+with the rod of true dogma you drove away the beasts of heresy
+singing aloud: Blessed are You, O God of our fathers!"
+
+trMA.Ode7C22.ode = misc_en_US_oca.Ode7
+trMA.Ode7C22.mode = misc_en_US_oca.Mode8
+trMA.Ode7C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OiEkTisIoudaias.name
+trMA.Ode7C22.text = "You entered into the joy of the heavenly bridal chamber of Christ the King,
+clothed in a garment worthy of Him who called you to the feast.
+As you are seated beside Him you cry aloud:
+Blessed are You, O God of our fathers!"
+
+trMA.Ode7C23.ode = misc_en_US_oca.Ode7
+trMA.Ode7C23.mode = misc_en_US_oca.Mode8
+trMA.Ode7C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OiEkTisIoudaias.name
+trMA.Ode7C23.text = "You are a river of abstinence, father, free from the pollution of sin,
+washing clean the thoughts and purging away the filth of those who cry out in faith:
+Blessed are You, O God of our fathers!"
+
+trMA.Ode7C2T.ode = misc_en_US_oca.Ode7
+trMA.Ode7C2T.mode = misc_en_US_oca.Mode8
+trMA.Ode7C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OiEkTisIoudaias.name
+trMA.Ode7C2T.text = "The Lord of all came forth from your womb,
+taking flesh from you, O Virgin.
+Therefore with true Orthodox faith we honor you as the Theotokos,
+and we cry to your Son:  Blessed are You, O God of our fathers!"
+
+trMA.Ode8C11.ode = misc_en_US_oca.Ode8
+trMA.Ode8C11.mode = misc_en_US_oca.Mode5
+trMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.SoiToPantourgo.name
+trMA.Ode8C11.text = "Robbed by my thoughts, scourged by my transgressions,
+I have ruined my life, O Savior,
+and I have been stripped of Your divine image.
+But take pity on me, O God, the Lover of mankind."
+
+trMA.Ode8C12.ode = misc_en_US_oca.Ode8
+trMA.Ode8C12.mode = misc_en_US_oca.Mode5
+trMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.SoiToPantourgo.name
+trMA.Ode8C12.text = "You came down on the earth from on high, O Savior,
+taking pity on me,
+for I was wounded in every member by my many offences,
+and there was none to heal me,
+but You have saved me in Your mercy."
+
+trMA.Ode8C13.ode = misc_en_US_oca.Ode8
+trMA.Ode8C13.mode = misc_en_US_oca.Mode5
+trMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.SoiToPantourgo.name
+trMA.Ode8C13.text = "Master, You gave Your body and soul as a ransom for me
+when I was wounded in every member by the scourging of sin,
+pouring out the oil of Your mercy on me, O compassionate Christ."
+
+trMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+trMA.Ode8C1T.mode = misc_en_US_oca.Mode5
+trMA.Ode8C1T.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.SoiToPantourgo.name
+trMA.Ode8C1T.text = "Virgin, at the word of the God-Man,
+you bore the Lord in ways past understanding yet remained inviolate.
+With all His works we bless you and exalt you above all forever!"
+
+trMA.Ode8C21.ode = misc_en_US_oca.Ode8
+trMA.Ode8C21.mode = misc_en_US_oca.Mode8
+trMA.Ode8C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonVasileaTonOuranon.name
+trMA.Ode8C21.text = "We have a true living pillar and image of abstinence in you,
+and we all honor your memory, Father John."
+
+trMA.Ode8C22.ode = misc_en_US_oca.Ode8
+trMA.Ode8C22.mode = misc_en_US_oca.Mode8
+trMA.Ode8C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonVasileaTonOuranon.name
+trMA.Ode8C22.text = "The assembly of monks rejoices,
+while the gathering of saints and the righteous dance with gladness:
+for you have received a crown with them as your just reward."
+
+trMA.Ode8C23.ode = misc_en_US_oca.Ode8
+trMA.Ode8C23.mode = misc_en_US_oca.Mode8
+trMA.Ode8C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonVasileaTonOuranon.name
+trMA.Ode8C23.text = "Adorned with the virtues,
+you have entered the bridal chamber of ineffable glory,
+singing the praises of Christ for ever."
+
+trMA.Ode8C2T.ode = misc_en_US_oca.Ode8
+trMA.Ode8C2T.mode = misc_en_US_oca.Mode8
+trMA.Ode8C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonVasileaTonOuranon.name
+trMA.Ode8C2T.text = "Do not reject us, Virgin maiden, for we need your aid,
+and we sing in praise of you and exalt you above all for ever."
+
+trMA.Ode9C11.ode = misc_en_US_oca.Ode9
+trMA.Ode9C11.mode = misc_en_US_oca.Mode5
+trMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.IsaiaChoreve.name
+trMA.Ode9C11.text = "Yielding by my own free choice to the passions of sensual pleasure,
+I have not kept Your commandments, Master;
+I have been stripped of grace, and I lie wounded and naked.
+Therefore I pray to You: Save me, O Savior!"
+
+trMA.Ode9C12.ode = misc_en_US_oca.Ode9
+trMA.Ode9C12.mode = misc_en_US_oca.Mode5
+trMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.IsaiaChoreve.name
+trMA.Ode9C12.text = "The Levite could not cleanse my wounds,
+but You came to me in Your compassion, loving Savior,
+and poured out on me the oil of Your mercies.
+As the best of all physicians, You have healed me."
+
+trMA.Ode9C13.ode = misc_en_US_oca.Ode9
+trMA.Ode9C13.mode = misc_en_US_oca.Mode5
+trMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.IsaiaChoreve.name
+trMA.Ode9C13.text = "You took pity on me and saved me,
+my Savior and compassionate Christ,
+when I was painfully scourged by thieves.
+And for the two pieces of silver,
+You gave Your soul and body as a ransom for me."
+
+trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+trMA.Ode9C1T.mode = misc_en_US_oca.Mode5
+trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m5_en_US_oca.IsaiaChoreve.name
+trMA.Ode9C1T.text = "Your childbearing is past our understanding, Mother of God.
+for you conceived without man,
+and gave birth in virginity.
+The Child you bore is God
+and magnifying Him, we call you blessed!"
+
+trMA.Ode9C21.ode = misc_en_US_oca.Ode9
+trMA.Ode9C21.mode = misc_en_US_oca.Mode8
+trMA.Ode9C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TinAgninEndoxos.name
+trMA.Ode9C21.text = "Blessed one of God,
+you are a physician to those who are sick through sin,
+you are an expeller of evil spirits,
+and therefore we also call you blessed."
+
+trMA.Ode9C22.ode = misc_en_US_oca.Ode9
+trMA.Ode9C22.mode = misc_en_US_oca.Mode8
+trMA.Ode9C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TinAgninEndoxos.name
+trMA.Ode9C22.text = "You have left the earth, the dwelling place of corruption,
+going to live in the land of the meek and gentle, Father,
+and rejoicing with them in the blessings of God."
+
+trMA.Ode9C23.ode = misc_en_US_oca.Ode9
+trMA.Ode9C23.mode = misc_en_US_oca.Mode8
+trMA.Ode9C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TinAgninEndoxos.name
+trMA.Ode9C23.text = "Today is a festival calling together all of the monastic flock,
+inviting us all to share in a feast of spiritual rejoicing
+with the food of a sinless life."
+
+trMA.Ode9C2T.ode = misc_en_US_oca.Ode9
+trMA.Ode9C2T.mode = misc_en_US_oca.Mode8
+trMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TinAgninEndoxos.name
+trMA.Ode9C2T.text = "He who took up his dwelling in you, all-blameless Lady,
+has overthrown the murderer
+who maliciously brought down our first parents.
+Christ has been born, and has saved us all!"
+
+trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
+trMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.text = ""
+
+trMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
+trMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+trMA.ExapTheotokion.text = ""
+
+trMA.Lauds1.mode = misc_en_US_oca.Mode8
+trMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+trMA.Lauds1.text = trVE.Stichera01.text
+
+trMA.LaudsSundayVerse1.text = ""
+
+trMA.Lauds2.mode = misc_en_US_oca.Mode8
+trMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+trMA.Lauds2.text = trVE.Stichera02.text
+
+trMA.LaudsSundayVerse2.text = ""
+
+trMA.Lauds3.mode = misc_en_US_oca.Mode8
+trMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+trMA.Lauds3.text = trVE.Stichera03.text
+
+trMA.LaudsGlory.mode = misc_en_US_oca.Mode1
+trMA.LaudsGlory.melody = misc_en_US_oca.Idiomelon
+trMA.LaudsGlory.text = ""
+
+trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode8
+trLI.SeasonalKontakion.melody = misc_en_US_oca.Automelon
+trLI.SeasonalKontakion.text = he.a.m8_en_US_oca.TiYpermacho.text
+
+trMegalynarion.text = ""
+
