@@ -59,7 +59,7 @@ meVE.AposTheotokion.text = ""
 meVE.GeneralApolytikion1.mode = misc_en_US_oca.Mode3
 meVE.GeneralApolytikion1.melody = misc_en_US_oca.NotMetered //he.ga_en_US_oca.ApostoleAgie.name
 meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
-meVE.GeneralApolytikion1.text = "" // for media
+meVE.MM.GeneralApolytikion1.text = "" // for media
 
 meVE.Apolytikion2.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode3
