@@ -214,6 +214,9 @@ d.onFridayEvening = ""
 d.onSaturdayMorning = ""
 d.onSaturdayEvening = ""
 
+me.m01.d06.onEpiphanyEve = ""
+me.m12.d25.onChristmasEve = ""
+
 m.month = "" // I will programatically determine whether to look up the m.month vs m.mode key
 m.mode = ""
 
