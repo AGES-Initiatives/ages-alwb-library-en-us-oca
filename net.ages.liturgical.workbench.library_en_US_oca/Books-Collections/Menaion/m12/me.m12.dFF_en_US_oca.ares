@@ -52,6 +52,8 @@ meMA.C1Acrostic.text = ""
 
 meMA.C2Acrostic.text = ""
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode8
 meMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
@@ -71,6 +73,8 @@ meMA.Ode1C1T.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
 meMA.Ode1C1T.text = "By bearing the Redeemer, * the Maiden who came forth from David * cures us of the serpent's poison ** which bitterly entered in through Eve's disobedience."
+
+meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode1

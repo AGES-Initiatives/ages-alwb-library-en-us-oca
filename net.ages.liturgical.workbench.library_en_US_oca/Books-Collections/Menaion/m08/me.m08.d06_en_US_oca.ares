@@ -148,6 +148,8 @@ meMA.Ode1C1H.mode = misc_en_US_oca.Mode4
 meMA.Ode1C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode1C1H.text = he.h.m4_en_US_oca.ChoroiIsrail.text
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode4
 meMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ChoroiIsrail.name
@@ -162,6 +164,8 @@ meMA.Ode1C13.ode = misc_en_US_oca.Ode1
 meMA.Ode1C13.mode = misc_en_US_oca.Mode4
 meMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ChoroiIsrail.name
 meMA.Ode1C13.text = "Today as He shines on Mount Tabor, Christ reveals to His disciples as He promised the image and dim reflection of divine brightness, and filled with divine and light-bearing splendor, they cry out for joy: Let us sing to our God, for He has been glorified!"
+
+meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode8

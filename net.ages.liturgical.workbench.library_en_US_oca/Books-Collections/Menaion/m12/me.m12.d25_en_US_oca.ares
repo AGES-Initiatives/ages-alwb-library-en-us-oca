@@ -153,6 +153,8 @@ meMA.Ode1C1H.mode = misc_en_US_oca.Mode1
 meMA.Ode1C1H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode1C1H.text = he.h.m1_en_US_oca.ChristosGennatai.text
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode1
 meMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.ChristosGennatai.name
@@ -177,6 +179,8 @@ meMA.Ode1C2H2.text = he.h.m1_en_US_oca.EsoseLaon2.text
 meMA.Ode1C2H3.text = he.h.m1_en_US_oca.EsoseLaon3.text
 meMA.Ode1C2H4.text = he.h.m1_en_US_oca.EsoseLaon4.text
 meMA.Ode1C2H5.text = he.h.m1_en_US_oca.EsoseLaon5.text
+
+meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode1

@@ -186,6 +186,8 @@ meMA.C1Acrostic.text = ""
 
 meMA.C2Poet = ""
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode1
 meMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.ChristosGennatai.name
@@ -210,6 +212,8 @@ meMA.Ode1C2H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C2H.mode = misc_en_US_oca.Mode1
 meMA.Ode1C2H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode1C2H.text = he.h.m1_en_US_oca.EpainonOTheoptis.text
+
+meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode1

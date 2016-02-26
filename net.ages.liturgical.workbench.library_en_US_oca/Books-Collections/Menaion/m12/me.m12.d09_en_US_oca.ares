@@ -97,6 +97,8 @@ meMA.C2Poet = poets_en_US_oca.AndreouKritis
 
 meMA.C3Acrostic.text = ""
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode4
 meMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThalassisToErythraion.name
@@ -117,6 +119,8 @@ meMA.Ode1C1T.mode = misc_en_US_oca.Mode4
 meMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ThalassisToErythraion.name
 meMA.Ode1C1T.text = ""
 
+meMA.C2.verse = ""
+
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode1
 meMA.Ode1C21.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.OdinEpinikion.name
@@ -136,6 +140,8 @@ meMA.Ode1C2T.ode = misc_en_US_oca.Ode1
 meMA.Ode1C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode1C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.OdinEpinikion.name
 meMA.Ode1C2T.text = ""
+
+meMA.C3.verse = ""
 
 meMA.Ode1C31.ode = misc_en_US_oca.Ode1
 meMA.Ode1C31.mode = misc_en_US_oca.Mode2
