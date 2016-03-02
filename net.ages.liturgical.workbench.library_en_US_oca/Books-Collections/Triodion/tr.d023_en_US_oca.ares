@@ -1,0 +1,237 @@
+A_Resource_Whose_Name = tr.d023_en_US_oca
+
+trCommemoration.text = "" // full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" // for use in petitions and dismissal
+trInsert2 = "" // for use in petitions and dismissal
+trNote.text = ""
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+
+trVE.Stichera01.poet = poets_en_US_oca.KyriouIosif
+trVE.Stichera01.mode = misc_en_US_oca.Mode2
+trVE.Stichera01.melody = ""
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_US_oca.Mode2
+trVE.Stichera02.melody = ""
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = misc_en_US_oca.Mode2
+trVE.Stichera03.melody = ""
+trVE.Stichera03.text = ""
+
+trVE.AposIdiomelon1.mode = misc_en_US_oca.Mode4
+trVE.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
+trVE.AposIdiomelon1.text = ""
+
+trVE.AposMartyric.mode = misc_en_US_oca.Mode4
+trVE.AposMartyric.melody = ""
+trVE.AposMartyric.text = ""
+
+trVE.AposTheotokion.mode = misc_en_US_oca.Mode4
+trVE.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+trVE.AposTheotokion.text = ""
+
+trMA.Kathisma21.mode = misc_en_US_oca.Mode2
+trMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.EfsplagchniasYparchousa.name
+trMA.Kathisma21.text = "Let us acquire compunction of soul * as God-given first-fruits of the fast. * Let us cry: Accept our prayer as pure incense, O Christ our Master. * Deliver us, we entreat you, from the stench of corruption * and from fearful torment. ** for you alone are ready to forgive!"
+
+trMA.Kathisma22.mode = misc_en_US_oca.Mode2
+trMA.Kathisma22.melody = misc_en_US_oca.Automelon
+trMA.Kathisma22.text = he.a.m2_en_US_oca.EfsplagchniasYparchousa.text
+
+trMA.Kathisma31.mode = misc_en_US_oca.Mode2
+trMA.Kathisma31.melody = ""
+trMA.Kathisma31.text = "Let us begin the all-holy season of fasting with joy; * let us shine with the bright radiance of the holy commandments of Christ our God: * with the brightness of love and the splendor of prayer, * the strength of good courage and the purity of holiness! * So, clothed in garments of light, * let us hasten to the holy resurrection on the third day, ** that shines on the world with the glory of eternal life!"
+
+trMA.Kathisma32.mode = misc_en_US_oca.Mode2
+trMA.Kathisma32.melody = ""
+trMA.Kathisma32.text = "Beyond all hope, I am wondrously set free, Mother of God, * from all that troubles me, * for I have obtained in my distress your invincible intercession! * You are always swift to help those who beseech you in faith, * dispelling the darkness of their many sins. * Therefore, with thanksgiving, I cry to you: * Accept, Lady, this small offering of grateful praise, ** and be my help in all things!"
+
+trMA.C1Poet = poets_en_US_oca.KyriouIosif
+
+trMA.C2Poet = poets_en_US_oca.KyriouTheodorou
+
+trMA.Ode1C11.ode = misc_en_US_oca.Ode1
+trMA.Ode1C11.mode = misc_en_US_oca.Mode2
+trMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C11.text = "How shall I begin to weep for my failures? * Where can I make a start for salvation? * I have lived as a Prodigal. * Save me by the ways that are Your, Bountiful One."
+
+trMA.Ode1C12.ode = misc_en_US_oca.Ode1
+trMA.Ode1C12.mode = misc_en_US_oca.Mode2
+trMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C12.text = "This is the time of repentance. * This is the day of salvation. * This is the beginning of the fast. * Be vigilant, my soul! * Close the door of your passions, and seek the Lord."
+
+trMA.Ode1C13.ode = misc_en_US_oca.Ode1
+trMA.Ode1C13.mode = misc_en_US_oca.Mode2
+trMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C13.text = "The tempest of my sins has drawn me to the depths of despair. * But I flee to the sea of Your mercy: * O Lord, save me!"
+
+trMA.Ode1C14.ode = misc_en_US_oca.Ode1
+trMA.Ode1C14.mode = misc_en_US_oca.Mode2
+trMA.Ode1C14.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C14.text = "I have become a slave to sin. * I alone have opened the doors to passion, O Word, * but convert me by Your compassion, Savior!"
+
+trMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+trMA.Ode1C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C1T.text = ""
+
+trMA.Ode1C21.ode = misc_en_US_oca.Ode1
+trMA.Ode1C21.mode = misc_en_US_oca.Mode2
+trMA.Ode1C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C21.text = ""
+
+trMA.Ode1C22.ode = misc_en_US_oca.Ode1
+trMA.Ode1C22.mode = misc_en_US_oca.Mode2
+trMA.Ode1C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C22.text = "This is the time of great spiritual efforts, * The course of the Fast. * Let us all begin with sincerity, * Bearing good works to the Lord as gifts."
+
+trMA.Ode1C2Tr.ode = misc_en_US_oca.Ode1
+trMA.Ode1C2Tr.mode = misc_en_US_oca.Mode2
+trMA.Ode1C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C2Tr.text = "Let us praise the simple unity of three Lights, * The most powerful and ever-existing and ever-acting Lord and God: * The Father Almighty, the Son and the Spirit!"
+
+trMA.Ode1C2T.ode = misc_en_US_oca.Ode1
+trMA.Ode1C2T.mode = misc_en_US_oca.Mode2
+trMA.Ode1C2T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C2T.text = "Let us sing of the holy mount of God, * of the immaculate Mary, * From whom the Sun of Righteousness arose, * And shone light on those who were in darkness: * Christ the life of all."
+
+trMA.Ode1C2A1.ode = misc_en_US_oca.Ode1
+trMA.Ode1C2A1.mode = misc_en_US_oca.Mode2
+trMA.Ode1C2A1.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C2A1.text = "The fiery chariot received Elijah * who was strengthened by fasting. * By Fasting, Moses was a seer of ineffable things, * and by it, we shall see Christ."
+
+trMA.Ode1C2A2.ode = misc_en_US_oca.Ode1
+trMA.Ode1C2A2.mode = misc_en_US_oca.Mode2
+trMA.Ode1C2A2.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+trMA.Ode1C2A2.text = "Adam ate the food * and was cast out of paradise for his indulgence. * But we receive the fast with joy, Lord: * Show us worthy of perfect repentance, Lover of mankind."
+
+trMA.Ode1C2H.ode = misc_en_US_oca.Ode1
+trMA.Ode1C2H.mode = misc_en_US_oca.Mode2
+trMA.Ode1C2H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode1C2H.text = he.h.m2_en_US_oca.DefteLaoi.text
+
+trMA.Ode8C11.ode = misc_en_US_oca.Ode8
+trMA.Ode8C11.mode = misc_en_US_oca.Mode2
+trMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonEnKaminoTouPyros.name
+trMA.Ode8C11.text = "Christ, by the light of the fear of You, * renew my soul, * which is in darkness and burning with bitterness; * show me the light of salvation so that I may glorify You forever."
+
+trMA.Ode8C12.ode = misc_en_US_oca.Ode8
+trMA.Ode8C12.mode = misc_en_US_oca.Mode2
+trMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonEnKaminoTouPyros.name
+trMA.Ode8C12.text = "Having despised the fullness of passions, my humble soul, * be nourished by food of good deeds. * Take joy in the sweetness of fasting, * avoiding the woe of sweetness,
+and be enriched forever."
+
+trMA.Ode8C13.ode = misc_en_US_oca.Ode8
+trMA.Ode8C13.mode = misc_en_US_oca.Mode2
+trMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonEnKaminoTouPyros.name
+trMA.Ode8C13.text = "My soul was blinded, darkened by the drunkenness of passions. * In no way can I look to You, O God. * Therefore, be bountiful to me and enlighten me * and open to me the gates of true repentance."
+
+trMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+trMA.Ode8C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode8C1T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonEnKaminoTouPyros.name
+trMA.Ode8C1T.text = "Pure Virgin, * you have transformed our earthly and corruptible existence * into a spiritual heaven. * By your prayers, direct our entreaties and supplications to your Son, * the God and King of all."
+
+trMA.Ode8C21.ode = misc_en_US_oca.Ode8
+trMA.Ode8C21.mode = misc_en_US_oca.Mode2
+trMA.Ode8C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C21.text = "Faithful, Let us enter the fast with joy! * Let us not be sad, * but let us clean our faces with the waters of passionlessness, * blessing and exalting Christ forever!"
+
+trMA.Ode8C22.ode = misc_en_US_oca.Ode8
+trMA.Ode8C22.mode = misc_en_US_oca.Mode2
+trMA.Ode8C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C22.text = "Anointing our heads with the oil of mercy, * let us not use many words * praying to our Father who is in heaven, * but let us bless and exalt Christ forever!"
+
+trMA.Ode8C2Tr.ode = misc_en_US_oca.Ode8
+trMA.Ode8C2Tr.mode = misc_en_US_oca.Mode2
+trMA.Ode8C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C2Tr.text = "Faithful, let us hymn the Father, * ever-existing from before eternity; * the Son, who is equally without beginning * and the Spirit, shining forth from the Father: * the three consubstantial persons, * one aIl-powerful principle and Authority."
+
+trMA.Ode8C2T.ode = misc_en_US_oca.Ode8
+trMA.Ode8C2T.mode = misc_en_US_oca.Mode2
+trMA.Ode8C2T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C2T.text = "Mary, the chosen of God, * the true purification of the faithful: * from you, forgiveness is given to all in abundance. * Do not cease to intercede before your Son and Lord * for all who sing and magnify you!"
+
+trMA.Ode8C2A1.ode = misc_en_US_oca.Ode8
+trMA.Ode8C2A1.mode = misc_en_US_oca.Mode2
+trMA.Ode8C2A1.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonPalaiDrosisanta.name
+trMA.Ode8C2A1.text = "The Lord consecrated and sanctified these Forty Days of the Fast * by fasting Himself for forty days. * Having entered into them, brethren, let us cry aloud: * Blessing and exalting Christ forever!"
+
+trMA.Ode8C2H.ode = misc_en_US_oca.Ode8
+trMA.Ode8C2H.mode = misc_en_US_oca.Mode2
+trMA.Ode8C2H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode8C2H.text = he.h.m2_en_US_oca.TonPalaiDrosisanta.text
+
+trMA.Ode9C11.ode = misc_en_US_oca.Ode9
+trMA.Ode9C11.mode = misc_en_US_oca.Mode2
+trMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonEkTheouTheonLogon.name
+trMA.Ode9C11.text = "This is the first day of the Fast. * For you, soul, let it be the setting aside of sin, * the return to God; to life with Him. * Flee from the abyss of evil. * Love only those ways which lead to peace, * resting before and within God."
+
+trMA.Ode9C12.ode = misc_en_US_oca.Ode9
+trMA.Ode9C12.mode = misc_en_US_oca.Mode2
+trMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonEkTheouTheonLogon.name
+trMA.Ode9C12.text = "Having been tempted by foul thoughts, * I have sinned in the flesh, * but yet I cry out: Save me, Lord; * save me, only gracious One. * Do not condemn me to the fires of Gehenna, * though I am fully worthy of such condemnation."
+
+trMA.Ode9C13.ode = misc_en_US_oca.Ode9
+trMA.Ode9C13.mode = misc_en_US_oca.Mode2
+trMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonEkTheouTheonLogon.name
+trMA.Ode9C13.text = "Clothed with the radiant garments of the Fast, * let us shed the dark and grevious garments of debauchery, * so that, illumined by divine good works, * we may behold in faith the radiant Passion of the Savior."
+
+trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+trMA.Ode9C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TonEkTheouTheonLogon.name
+trMA.Ode9C1T.text = "Heal my wretched soul, * made weak by the attacks of the most evil devil, * most pure Queen, who gave birth to the healer, Christ, * the Redemption of us who know you, * undefiled Virgin and Handmaiden."
+
+trMA.Ode9C21.ode = misc_en_US_oca.Ode9
+trMA.Ode9C21.mode = misc_en_US_oca.Mode2
+trMA.Ode9C21.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C21.text = "Now the time of the holy Fast has come. * Let us begin it with a return to good actions, * for it is written, In quarrels and fights, you shall not fast."
+
+trMA.Ode9C22.ode = misc_en_US_oca.Ode9
+trMA.Ode9C22.mode = misc_en_US_oca.Mode2
+trMA.Ode9C22.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C22.text = "Cleansed by fasting on Mount Horeb, * Elijah saw God. * Let us also cleanse our hearts with fasting, * and we shall see Christ."
+
+trMA.Ode9C2Tr.ode = misc_en_US_oca.Ode9
+trMA.Ode9C2Tr.mode = misc_en_US_oca.Mode2
+trMA.Ode9C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C2Tr.text = "I bow down to the one Essence; * I sing to the three Persons: * the One God of all, Father, Son and Holy Spirit, * the ever-existing Life."
+
+trMA.Ode9C2T.ode = misc_en_US_oca.Ode9
+trMA.Ode9C2T.mode = misc_en_US_oca.Mode2
+trMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C2T.text = "The pure One bears a Child; * the Virgin gives milk. How can this be? * The Virgin has borne; God has done it! * Do not ask me how this can be!"
+
+trMA.Ode9C2A1.ode = misc_en_US_oca.Ode9
+trMA.Ode9C2A1.mode = misc_en_US_oca.Mode2
+trMA.Ode9C2A1.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.TinYperfyosSarki.name
+trMA.Ode9C2A1.text = "Only one day, he said, * is the life of those on earth. * For those who make the effort in love, * there are Forty Days of the Fast * for us to accomplish with joy!"
+
+trMA.Ode9C2H.ode = misc_en_US_oca.Ode9
+trMA.Ode9C2H.mode = misc_en_US_oca.Mode2
+trMA.Ode9C2H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode9C2H.text = he.h.m2_en_US_oca.TinYperfyosSarki.text
+
+trMA.AposIdiomelon1.mode = misc_en_US_oca.Mode5
+trMA.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
+trMA.AposIdiomelon1.text = "The Fast is here, the mother of chastity, * the accuser of sins, the advocate of repentance * the life of angels and the salvation of men, * faithful, let us cry: ** O God, have mercy on us."
+
+trMA.AposMartyric.mode = misc_en_US_oca.Mode5
+trMA.AposMartyric.melody = ""
+trMA.AposMartyric.text = "Blessed is the army of the heavenly King! * Though on earth they endured great sufferings, * they achieved the rank of angels. * They did not care for the flesh * and became equals to the bodiless hosts. ** By their prayers, Lord, save our souls."
+
+trMA.AposTheotokion.mode = misc_en_US_oca.Mode5
+trMA.AposTheotokion.melody = ""
+trMA.AposTheotokion.text = "We magnify you in song, Mother of God: * pure Virgin, more holy than the Cherubim, * for with souls and bodies we confess you to be the Theotokos * who truly gave birth to the incarnate God. ** Pure one, intercede for our souls."
+
+trTE.Troparion.mode = misc_en_US_oca.Mode5
+trTE.Troparion.melody = ""
+trTE.Troparion.text = "Lord, Lord, all things fear and tremble * at the presence of your power! * We fall down before you, immortal One, * and we pray to you, holy One: ** At the intercessions of your saints, save our souls."
+
+trTE.Troparion2.text = ""
