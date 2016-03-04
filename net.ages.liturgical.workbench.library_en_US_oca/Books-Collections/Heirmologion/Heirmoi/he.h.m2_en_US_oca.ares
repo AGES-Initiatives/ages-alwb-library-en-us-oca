@@ -287,7 +287,7 @@ SteirothentaMouTonNoun.text = ""
 StereosonImasEnSoiKyrie.name = "Establish us in Yourself."
 StereosonImasEnSoiKyrie.mode = misc_en_US_oca.Mode2
 StereosonImasEnSoiKyrie.ode = misc_en_US_oca.Ode3
-StereosonImasEnSoiKyrie.text = "Establish us in Yourself, O Lord; * the wood of the Cross put sin to death, * and implanted the fear of You in our hearts * as we sing praises to You."
+StereosonImasEnSoiKyrie.text = "Establish us in Yourself, O Lord; * the wood of the Cross put sin to death, * and implanted the fear of You in our hearts * as we sing praises to You." //Lord, by the wood of the cross, you put sin to death: be our strength and support! Graft your fear in our hearts as we sing in praise of you!
 
 SteiveiThalassis.name = "Israel passed through."
 SteiveiThalassis.mode = misc_en_US_oca.Mode2
@@ -311,10 +311,12 @@ TinAchlynTisPsychisMou.name = ""
 TinAchlynTisPsychisMou.mode = misc_en_US_oca.Mode2
 TinAchlynTisPsychisMou.ode = misc_en_US_oca.Ode5
 TinAchlynTisPsychisMou.text = ""
-TinAgninKaiAchranton.name = ""
+
+TinAgninKaiAchranton.name = "Pure and undefiled Virgin Mother."
 TinAgninKaiAchranton.mode = misc_en_US_oca.Mode2
 TinAgninKaiAchranton.ode = misc_en_US_oca.Ode9
-TinAgninKaiAchranton.text = ""
+TinAgninKaiAchranton.text = "Pure and undefiled Virgin Mother, * in faith and true devotion * we magnify you in song as the Theotokos!"
+
 TinEkParthenou.name = ""
 TinEkParthenou.mode = misc_en_US_oca.Mode2
 TinEkParthenou.ode = misc_en_US_oca.Ode4
@@ -365,10 +367,10 @@ TonEnKaminoTouPyros.name = ""
 TonEnKaminoTouPyros.mode = misc_en_US_oca.Mode2
 TonEnKaminoTouPyros.ode = misc_en_US_oca.Ode8
 TonEnKaminoTouPyros.text = ""
-TonEnTiVatoMosi.name = ""
+TonEnTiVatoMosi.name = "Let us praise him, who of old."
 TonEnTiVatoMosi.mode = misc_en_US_oca.Mode2
 TonEnTiVatoMosi.ode = misc_en_US_oca.Ode8
-TonEnTiVatoMosi.text = ""
+TonEnTiVatoMosi.text = "Let us praise him, who of old in the burning bush * prefigured the miracle of the Virgin to Moses on Sinai: * let us bless and exalt him above all forever!"
 TonGigenonTisIkouse.name = ""
 TonGigenonTisIkouse.mode = misc_en_US_oca.Mode2
 TonGigenonTisIkouse.ode = misc_en_US_oca.Ode9
@@ -376,10 +378,7 @@ TonGigenonTisIkouse.text = ""
 TonPalaiDrosisanta.name = "Let us sing with joy."
 TonPalaiDrosisanta.mode = misc_en_US_oca.Mode2
 TonPalaiDrosisanta.ode = misc_en_US_oca.Ode8
-TonPalaiDrosisanta.text = "Let us sing with joy to the Lord
-who sprinkled dew upon the Hebrew Youths of old
-and marvelously burned the Chaldeans in the furnace:
-bless and exalt him forever!"
+TonPalaiDrosisanta.text = "Let us sing with joy to the Lord * who sprinkled dew upon the Hebrew Youths of old * and marvelously burned the Chaldeans in the furnace: * bless and exalt him forever!"
 ToxonSynetriviDynaston.name = ""
 ToxonSynetriviDynaston.mode = misc_en_US_oca.Mode2
 ToxonSynetriviDynaston.ode = misc_en_US_oca.Ode3
