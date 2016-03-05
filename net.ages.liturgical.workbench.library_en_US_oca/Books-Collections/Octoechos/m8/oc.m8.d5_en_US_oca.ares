@@ -50,7 +50,7 @@ ocVE.ApolTheotokionVM.text = oc.m8.d5_en_US_oca.ocMA.Kathisma33.text
 
 ocMA.Kathisma11.mode = misc_en_US_oca.Mode8
 ocMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
-ocMA.Kathisma11.text = ""
+ocMA.Kathisma11.text = "Let us sing the praises of the holy disciples of our God. * They are burning torches, guides to all the world, * the first-fruits of our salvation. * They have caused the light to shine on us in darkness * and have made known to all the Sun of glory. * They have destroyed the error of idolatry, * preaching the Trinity in one Godhead. * Therefore we entreat them: O Apostles of Christ our God, * intercede for the forgiveness of our sins, ** as we celebrate your holy memory with love."
 
 ocMA.Kathisma12.mode = misc_en_US_oca.Mode8
 ocMA.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
@@ -505,11 +505,11 @@ octrMA.Kathisma11.text = pe.d120_en_US_oca.peVE.Apolytikion1.text
 
 octrMA.Kathisma12.mode = misc_en_US_oca.Mode8
 octrMA.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
-octrMA.Kathisma12.text = ""
+octrMA.Kathisma12.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma1T.mode = misc_en_US_oca.Mode8
 octrMA.Kathisma1T.melody = ""
-octrMA.Kathisma1T.text = ""
+octrMA.Kathisma1T.text = "Rejoice, for you accepted from the Angel the joy of the world. * Rejoice, for you have borne the Creator and Lord. ** Rejoice, for you were deemed worthy to be the Mother of God."
 
 octrMA.Ode7Martyricon.mode = misc_en_US_oca.Mode8
 octrMA.Ode7Martyricon.melody = ""
