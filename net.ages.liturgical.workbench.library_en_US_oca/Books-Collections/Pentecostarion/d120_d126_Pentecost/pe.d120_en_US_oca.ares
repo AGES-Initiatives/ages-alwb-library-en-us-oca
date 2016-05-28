@@ -128,6 +128,9 @@ peMA.Ode1C1H.mode = misc_en_US_oca.Mode7
 peMA.Ode1C1H.melody = misc_en_US_oca.HeirmosNotMetered
 peMA.Ode1C1H.text = he.h.m7_en_US_oca.PontoEkalypse.text
 
+peMA.C1.title = ""
+peMA.C1.verse = ""
+
 peMA.Ode1C11.ode = misc_en_US_oca.Ode1
 peMA.Ode1C11.mode = misc_en_US_oca.Mode7
 peMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m7_en_US_oca.PontoEkalypse.name 
@@ -147,6 +150,9 @@ peMA.Ode1C2H2.text = he.h.m4_en_US_oca.TheioKalyftheis2.text
 peMA.Ode1C2H3.text = he.h.m4_en_US_oca.TheioKalyftheis3.text
 peMA.Ode1C2H4.text = he.h.m4_en_US_oca.TheioKalyftheis4.text
 peMA.Ode1C2H5.text = he.h.m4_en_US_oca.TheioKalyftheis5.text
+
+peMA.C2.title = ""
+peMA.C2.verse = ""
 
 peMA.Ode1C21.ode = misc_en_US_oca.Ode1
 peMA.Ode1C21.mode = misc_en_US_oca.Mode4

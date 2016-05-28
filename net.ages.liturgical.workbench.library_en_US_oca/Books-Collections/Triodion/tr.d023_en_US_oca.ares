@@ -57,6 +57,9 @@ trMA.C1Poet = poets_en_US_oca.KyriouIosif
 
 trMA.C2Poet = poets_en_US_oca.KyriouTheodorou
 
+trMA.C1.title = ""
+trMA.C1.verse = ""
+
 trMA.Ode1C11.ode = misc_en_US_oca.Ode1
 trMA.Ode1C11.mode = misc_en_US_oca.Mode2
 trMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
@@ -81,6 +84,9 @@ trMA.Ode1C1T.ode = misc_en_US_oca.Ode1
 trMA.Ode1C1T.mode = misc_en_US_oca.Mode2
 trMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
 trMA.Ode1C1T.text = ""
+
+trMA.C2.title = ""
+trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = misc_en_US_oca.Ode1
 trMA.Ode1C21.mode = misc_en_US_oca.Mode2
