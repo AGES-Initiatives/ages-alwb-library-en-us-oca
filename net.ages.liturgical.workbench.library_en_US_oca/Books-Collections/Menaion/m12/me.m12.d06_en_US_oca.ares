@@ -697,6 +697,8 @@ meMA.Lauds4.mode = misc_en_US_oca.Mode1
 meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
 meMA.Lauds4.text = "O Father, you appeared as in a dream to the pious emperor, * to pluck from death those who were held in bonds. * Intercede also for those who praise you worthily, ** that we may be delivered from distress, trials, and dangers!"
 
+meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
+
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode5
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Let us sound the trumpet of joy! * Let us keep feast, dancing and rejoicing! * Rejoicing in the yearly memorial of our God-bearing father! * Let emperors and princes run together * with the king who by his dread appearing, * was persuaded in a dream to let go three soldiers held without cause! * Pastors and teachers of the good shepherd, assemble! * Let us come and praise the pastor who was your equal in zeal! * Glorify the great bishop, the physician of those in sickness, * the deliverer of those in danger, * the advocate of sinners, * the treasure of the poor, * the comforter of those in affliction, * the companion of travelers, * the pilot of those on the seas, * the great bishop who always warmly came and took his part in every place, * and praising him, let us say: * All-holy Nicholas, * come and save us from present necessities, ** and save your flock by your prayers!"
@@ -721,9 +723,6 @@ meMA.AdditionalIdiomelonGlory.text = meVE.LityGlory.text
 meMA.AdditionalIdiomelonBoth.mode = misc_en_US_oca.Mode8
 meMA.AdditionalIdiomelonBoth.melody = ""
 meMA.AdditionalIdiomelonBoth.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
-meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
-
-meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
