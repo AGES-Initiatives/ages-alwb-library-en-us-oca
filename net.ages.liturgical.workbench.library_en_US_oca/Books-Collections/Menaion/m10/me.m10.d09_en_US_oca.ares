@@ -89,8 +89,8 @@ meMA.C1Acrostic.text = ""
 
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_oca.KanonTouApostolou
+meMA.C1.verse = prayers_en_US_oca.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode6
@@ -112,8 +112,8 @@ meMA.Ode1C1T.mode = misc_en_US_oca.Mode6
 meMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_oca.KanonTonAgion
+meMA.C2.verse = prayers_en_US_oca.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode8
