@@ -81,7 +81,7 @@ meVE.Apolytikion1.text = ""
 meVE.GeneralApolytikion2.mode = misc_en_US_oca.Mode8
 meVE.GeneralApolytikion2.melody = misc_en_US_oca.NotMetered //he.ga_en_US_oca.OrthodoxiasOdigeM.name
 meVE.GeneralApolytikion2.name = ""
-meVE.GeneralApolytikion2.text = "" // for media
+meVE.MM.GeneralApolytikion2.text = properties_en_US_oca.media.key
 
 meVE.Apolytikion3.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion3.mode = misc_en_US_oca.Mode1
