@@ -45,11 +45,11 @@ meVE.SticGlory.text = "Venerable hierarch, most blessed Father Abercius, * You a
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode3
 meVE.SticTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.MegaliTouStavrouSou.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = oc.m3.d5_en_US_oca.ocVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode3
 meVE.SticStavrotheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.MegaliTouStavrouSou.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = oc.m3.d6_en_US_oca.ocVE.SticTheotokion.text
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode8
 meVE.AposGlory.melody = ""
@@ -473,15 +473,15 @@ meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode3
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = meVE.SticGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode3
 meMA.LaudsTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.MegaliTouStavrouSou.name
-meMA.LaudsTheotokion.text = ""
+meMA.LaudsTheotokion.text = oc.m3.d5_en_US_oca.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_oca.Mode3
 meMA.LaudsStavrotheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.MegaliTouStavrouSou.name
-meMA.LaudsStavrotheotokion.text = ""
+meMA.LaudsStavrotheotokion.text = oc.m3.d6_en_US_oca.ocVE.SticTheotokion.text
 
 meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
