@@ -38,7 +38,7 @@ trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m2.d1_en_US_oca.ocVE.AposTheotokion.text
 
 trVE.Apolytikion1.mode = misc_en_US_oca.Mode8
-trVE.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.ga_en_US_oca.EnSoiMiterAkrivos.name
+trVE.Apolytikion1.melody = he.ga_en_US_oca.EnSoiMiterAkrivos.name
 trVE.GeneralApolytikion1.name = ""
 trVE.Apolytikion1.text = properties_en_US_oca.media.key
 
@@ -63,7 +63,7 @@ trMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_oca.Ode1
 trMA.Ode1C11.mode = misc_en_US_oca.Mode8
-trMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
+trMA.Ode1C11.melody = he.h.m8_en_US_oca.YgranDiodefsas.name
 trMA.Ode1C11.text = "The excess of my lusts has made me like the rich man
 who lived each day in luxury.
 Therefore I pray to You, Savior:
@@ -71,21 +71,21 @@ Deliver me from the fire as You delivered Lazarus."
 
 trMA.Ode1C12.ode = misc_en_US_oca.Ode1
 trMA.Ode1C12.mode = misc_en_US_oca.Mode8
-trMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
+trMA.Ode1C12.melody = he.h.m8_en_US_oca.YgranDiodefsas.name
 trMA.Ode1C12.text = "I am clothed in sensual pleasures, Savior,
 Like the rich man who was clothed in fine linen, gold and purple.
 But do not send me, like him, into the fire!"
 
 trMA.Ode1C13.ode = misc_en_US_oca.Ode1
 trMA.Ode1C13.mode = misc_en_US_oca.Mode8
-trMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
+trMA.Ode1C13.melody = he.h.m8_en_US_oca.YgranDiodefsas.name
 trMA.Ode1C13.text = "The rich man once rejoiced in the wealth and luxury of this corruptible life,
 And so he was condemned to torment;
 But Lazarus the poor man gained rest and refreshment!"
 
 trMA.Ode1C1T.ode = misc_en_US_oca.Ode1
 trMA.Ode1C1T.mode = misc_en_US_oca.Mode8
-trMA.Ode1C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.YgranDiodefsas.name
+trMA.Ode1C1T.melody = he.h.m8_en_US_oca.YgranDiodefsas.name
 trMA.Ode1C1T.text = "The hosts of angels and mortal men praise you, Virgin Mother,
 For you carried their Creator as a child in your arms!"
 
@@ -94,7 +94,7 @@ trMA.C2.verse = prayers_en_US_oca.verse_DevoutWoman.text
 
 trMA.Ode1C21.ode = misc_en_US_oca.Ode1
 trMA.Ode1C21.mode = misc_en_US_oca.Mode6
-trMA.Ode1C21.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.KymatiThalassis.name
+trMA.Ode1C21.melody = he.h.m6_en_US_oca.KymatiThalassis.name
 trMA.Ode1C21.text = "Saint, as you stand before Christ, the unapproachable Light,
 send light down on me,
 for I celebrate your light-giving and holy memory with love!
@@ -102,7 +102,7 @@ Keep me safe from the many temptations of life."
 
 trMA.Ode1C22.ode = misc_en_US_oca.Ode1
 trMA.Ode1C22.mode = misc_en_US_oca.Mode6
-trMA.Ode1C22.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.KymatiThalassis.name
+trMA.Ode1C22.melody = he.h.m6_en_US_oca.KymatiThalassis.name
 trMA.Ode1C22.text = "The uncircumscribed and pre-eternal Lord
 Who after His incarnation dwelt among the people of Egypt,
 Who knows all things before they come to be,
@@ -110,7 +110,7 @@ brought you as a shining star from Egypt."
 
 trMA.Ode1C23.ode = misc_en_US_oca.Ode1
 trMA.Ode1C23.mode = misc_en_US_oca.Mode6
-trMA.Ode1C23.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.KymatiThalassis.name
+trMA.Ode1C23.melody = he.h.m6_en_US_oca.KymatiThalassis.name
 trMA.Ode1C23.text = "Not knowing the divine commandments,
 you defiled the image of God within yourself,
 but through His providence you cleansed it again, all-praised saint,
@@ -118,7 +118,7 @@ becoming divine through your holy deeds!"
 
 trMA.Ode1C2T.ode = misc_en_US_oca.Ode1
 trMA.Ode1C2T.mode = misc_en_US_oca.Mode6
-trMA.Ode1C2T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.KymatiThalassis.name
+trMA.Ode1C2T.melody = he.h.m6_en_US_oca.KymatiThalassis.name
 trMA.Ode1C2T.text = "How great is Your tender mercy, O my God,
 and Your ineffable condescension!
 For at the intercessions of Your Mother,
@@ -126,31 +126,31 @@ You made the former harlot pure and spotless as the angels."
 
 trMA.Ode3C11.ode = misc_en_US_oca.Ode3
 trMA.Ode3C11.mode = misc_en_US_oca.Mode8
-trMA.Ode3C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
+trMA.Ode3C11.melody = he.h.m8_en_US_oca.SyEiToStereoma.name
 trMA.Ode3C11.text = "Christ, as You saved Lazarus from the flame,
 deliver me, Your unworthy servant, from the fire of hell."
 
 trMA.Ode3C12.ode = misc_en_US_oca.Ode3
 trMA.Ode3C12.mode = misc_en_US_oca.Mode8
-trMA.Ode3C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
+trMA.Ode3C12.melody = he.h.m8_en_US_oca.SyEiToStereoma.name
 trMA.Ode3C12.text = "Lord, I am as wealthy as the rich man in passions and lusts,
 yet in my lack of virtues I am as poor as Lazarus! But save me!"
 
 trMA.Ode3C13.ode = misc_en_US_oca.Ode3
 trMA.Ode3C13.mode = misc_en_US_oca.Mode8
-trMA.Ode3C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
+trMA.Ode3C13.melody = he.h.m8_en_US_oca.SyEiToStereoma.name
 trMA.Ode3C13.text = "Through his sins the rich man was clothed in scarlet and fine linen,
 and so he burns in the flames."
 
 trMA.Ode3C1T.ode = misc_en_US_oca.Ode3
 trMA.Ode3C1T.mode = misc_en_US_oca.Mode8
-trMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SyEiToStereoma.name
+trMA.Ode3C1T.melody = he.h.m8_en_US_oca.SyEiToStereoma.name
 trMA.Ode3C1T.text = "All-pure Lady, you drive off the assaults of harsh calamity.
 Give us help through your intercessions!"
 
 trMA.Ode3C21.ode = misc_en_US_oca.Ode3
 trMA.Ode3C21.mode = misc_en_US_oca.Mode6
-trMA.Ode3C21.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.SeTonEpiYdaton.name
+trMA.Ode3C21.melody = he.h.m6_en_US_oca.SeTonEpiYdaton.name
 trMA.Ode3C21.text = "Through your sinful deeds,
 you drew near to the gates of destruction,
 but He who of old broke in pieces the gates of hell
@@ -160,7 +160,7 @@ for He Himself is the Gate of life."
 
 trMA.Ode3C22.ode = misc_en_US_oca.Ode3
 trMA.Ode3C22.mode = misc_en_US_oca.Mode6
-trMA.Ode3C22.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.SeTonEpiYdaton.name
+trMA.Ode3C22.melody = he.h.m6_en_US_oca.SeTonEpiYdaton.name
 trMA.Ode3C22.text = "You converted the woman who had become the weapon of sin
 by the weapon of Your Holy Cross, forbearing and compassionate Lord;
 for by venerating the Cross,
@@ -168,7 +168,7 @@ she overthrew all the weapons and cunning of the demons."
 
 trMA.Ode3C23.ode = misc_en_US_oca.Ode3
 trMA.Ode3C23.mode = misc_en_US_oca.Mode6
-trMA.Ode3C23.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.SeTonEpiYdaton.name
+trMA.Ode3C23.melody = he.h.m6_en_US_oca.SeTonEpiYdaton.name
 trMA.Ode3C23.text = "He who causes all things to be,
 and who shed His own blood as a ransom for all,
 cleansed you through the water of your tears,
@@ -176,7 +176,7 @@ when you were sick with the dread leprosy of sin."
 
 trMA.Ode3C2T.ode = misc_en_US_oca.Ode3
 trMA.Ode3C2T.mode = misc_en_US_oca.Mode6
-trMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.SeTonEpiYdaton.name
+trMA.Ode3C2T.melody = he.h.m6_en_US_oca.SeTonEpiYdaton.name
 trMA.Ode3C2T.text = "Virgin, that which has come to pass in you is ineffable,
 for in a divine manner, the Word of the Father came to dwell in you,
 granting by His Word alone
@@ -205,25 +205,25 @@ may be given absolution for their sins."
 
 trMA.Ode4C11.ode = misc_en_US_oca.Ode4
 trMA.Ode4C11.mode = misc_en_US_oca.Mode8
-trMA.Ode4C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EisakikoaKyrie.name
+trMA.Ode4C11.melody = he.h.m8_en_US_oca.EisakikoaKyrie.name
 trMA.Ode4C11.text = "The rich man delighted in sumptuous food and clothing,
 while Lazarus longed to be fed with the crumbs from his table."
 
 trMA.Ode4C12.ode = misc_en_US_oca.Ode4
 trMA.Ode4C12.mode = misc_en_US_oca.Mode8
-trMA.Ode4C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EisakikoaKyrie.name
+trMA.Ode4C12.melody = he.h.m8_en_US_oca.EisakikoaKyrie.name
 trMA.Ode4C12.text = "With their tongues the dogs licked the sores of the beggar Lazarus
 showing a compassion to him in his need that the rich man never felt."
 
 trMA.Ode4C13.ode = misc_en_US_oca.Ode4
 trMA.Ode4C13.mode = misc_en_US_oca.Mode8
-trMA.Ode4C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EisakikoaKyrie.name
+trMA.Ode4C13.melody = he.h.m8_en_US_oca.EisakikoaKyrie.name
 trMA.Ode4C13.text = "Lazarus once lay an outcast in poverty and distress
 outside the gate of the rich man; but now he is glorified."
 
 trMA.Ode4C1T.ode = misc_en_US_oca.Ode4
 trMA.Ode4C1T.mode = misc_en_US_oca.Mode8
-trMA.Ode4C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EisakikoaKyrie.name
+trMA.Ode4C1T.melody = he.h.m8_en_US_oca.EisakikoaKyrie.name
 trMA.Ode4C1T.text = "Undefiled one, pray to Him whom you bore,
 that we who sing your praises
 may be saved from the bondage of the avenger,
@@ -231,7 +231,7 @@ For you alone are our protection."
 
 trMA.Ode4C21.ode = misc_en_US_oca.Ode4
 trMA.Ode4C21.mode = misc_en_US_oca.Mode6
-trMA.Ode4C21.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TinEnStavroSou.name
+trMA.Ode4C21.melody = he.h.m6_en_US_oca.TinEnStavroSou.name
 trMA.Ode4C21.text = "Creator of our mortal nature,
 the Fount of mercy and Wealth of compassion,
 You took pity on her who fled to you for refuge,
@@ -239,7 +239,7 @@ snatching her from the destroying beast as the Lover of mankind."
 
 trMA.Ode4C22.ode = misc_en_US_oca.Ode4
 trMA.Ode4C22.mode = misc_en_US_oca.Mode6
-trMA.Ode4C22.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TinEnStavroSou.name
+trMA.Ode4C22.melody = he.h.m6_en_US_oca.TinEnStavroSou.name
 trMA.Ode4C22.text = "Mary, as you hastened to see the Cross,
 through the divine providence of the Crucified Lord
 you were illumined by its light.
@@ -248,14 +248,14 @@ saint most worthy of our wonder."
 
 trMA.Ode4C23.ode = misc_en_US_oca.Ode4
 trMA.Ode4C23.mode = misc_en_US_oca.Mode6
-trMA.Ode4C23.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TinEnStavroSou.name
+trMA.Ode4C23.melody = he.h.m6_en_US_oca.TinEnStavroSou.name
 trMA.Ode4C23.text = "She who once through evil lust led many into wickedness,
 shines now in her sanctity as the sun,
 and has become a heavenly guide for all who sin."
 
 trMA.Ode4C2T.ode = misc_en_US_oca.Ode4
 trMA.Ode4C2T.mode = misc_en_US_oca.Mode6
-trMA.Ode4C2T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TinEnStavroSou.name
+trMA.Ode4C2T.melody = he.h.m6_en_US_oca.TinEnStavroSou.name
 trMA.Ode4C2T.text = "Spiritual heaven of the King of all,
 you surpassed even the heavenly powers in understanding,
 for beyond the laws of nature, pure Virgin,
@@ -263,7 +263,7 @@ you conceived the Lawgiver and Maker of all things!"
 
 trMA.Ode5C11.ode = misc_en_US_oca.Ode5
 trMA.Ode5C11.mode = misc_en_US_oca.Mode8
-trMA.Ode5C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
+trMA.Ode5C11.melody = he.h.m8_en_US_oca.InaTiMeAposo.name
 trMA.Ode5C11.text = "When the rich man saw Lazarus resting in Abraham's bosom,
 rejoicing in light and glory, he cried out:
 Father Abraham, take pity on me, for I am condemned to the fire,
@@ -271,7 +271,7 @@ and my tongue burns in bitter torment."
 
 trMA.Ode5C12.ode = misc_en_US_oca.Ode5
 trMA.Ode5C12.mode = misc_en_US_oca.Mode8
-trMA.Ode5C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
+trMA.Ode5C12.melody = he.h.m8_en_US_oca.InaTiMeAposo.name
 trMA.Ode5C12.text = "During your life, said Abraham to the rich man:
 you lived in wealth and luxury.
 So now you are tormented in the fire eternally,
@@ -279,7 +279,7 @@ while Lazarus the poor man rejoices in unending gladness!"
 
 trMA.Ode5C13.ode = misc_en_US_oca.Ode5
 trMA.Ode5C13.mode = misc_en_US_oca.Mode8
-trMA.Ode5C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
+trMA.Ode5C13.melody = he.h.m8_en_US_oca.InaTiMeAposo.name
 trMA.Ode5C13.text = "Like the rich man who spent all his days in pleasure,
 I am rich in the deceptive joys of this life,
 but I pray You, Loving Lord, in Your compassion
@@ -287,7 +287,7 @@ deliver me from the fire as You saved Lazarus."
 
 trMA.Ode5C1T.ode = misc_en_US_oca.Ode5
 trMA.Ode5C1T.mode = misc_en_US_oca.Mode8
-trMA.Ode5C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.InaTiMeAposo.name
+trMA.Ode5C1T.melody = he.h.m8_en_US_oca.InaTiMeAposo.name
 trMA.Ode5C1T.text = "Since you have motherly boldness before your Son, all-pure Virgin,
 do not forget us and our needs, we pray, for we are your people.
 We Christians bring you alone as intercessor
@@ -295,7 +295,7 @@ to win the gracious mercy of the Master."
 
 trMA.Ode5C21.ode = misc_en_US_oca.Ode5
 trMA.Ode5C21.mode = misc_en_US_oca.Mode6
-trMA.Ode5C21.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheofaneiasSouChriste.name
+trMA.Ode5C21.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste.name
 trMA.Ode5C21.text = "When in a mystical vision on Sinai
 Moses beheld the back of God,
 he shone with glory, manifesting dimly the strange mystery he had seen,
@@ -305,7 +305,7 @@ and she chose the angelic life."
 
 trMA.Ode5C22.ode = misc_en_US_oca.Ode5
 trMA.Ode5C22.mode = misc_en_US_oca.Mode6
-trMA.Ode5C22.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheofaneiasSouChriste.name
+trMA.Ode5C22.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste.name
 trMA.Ode5C22.text = "Longing, like the Psalmist, to behold the majesty of Your temple,
 and the spiritual tabernacle of Your glory,
 she who had profaned Your temple cried:
@@ -315,7 +315,7 @@ make me a temple of the all-creating Spirit."
 
 trMA.Ode5C23.ode = misc_en_US_oca.Ode5
 trMA.Ode5C23.mode = misc_en_US_oca.Mode6
-trMA.Ode5C23.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheofaneiasSouChriste.name
+trMA.Ode5C23.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste.name
 trMA.Ode5C23.text = "She took many men prisoner
 through the baited hook of the flesh and the lust of the eyes,
 making them food for the devil by short-lived sensual pleasure,
@@ -325,7 +325,7 @@ she has been brought as a sweet spiritual offering to Christ."
 
 trMA.Ode5C2T.ode = misc_en_US_oca.Ode5
 trMA.Ode5C2T.mode = misc_en_US_oca.Mode6
-trMA.Ode5C2T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheofaneiasSouChriste.name
+trMA.Ode5C2T.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste.name
 trMA.Ode5C2T.text = "The company of the prophets,
 in hidden words inspired by God,
 were initiates in the mystery concerning you,
@@ -337,7 +337,7 @@ and she becomes a pledge before God for sinners."
 
 trMA.Ode6C11.ode = misc_en_US_oca.Ode6
 trMA.Ode6C11.mode = misc_en_US_oca.Mode8
-trMA.Ode6C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
+trMA.Ode6C11.melody = he.h.m8_en_US_oca.IlasthitiMoiSotir.name
 trMA.Ode6C11.text = "The rich man condemned himself to the flames of fire
 by his life of pleasure,
 but Lazarus the poor man chose for this present life, poverty,
@@ -345,7 +345,7 @@ and so he was counted worthy of unending joy."
 
 trMA.Ode6C12.ode = misc_en_US_oca.Ode6
 trMA.Ode6C12.mode = misc_en_US_oca.Mode8
-trMA.Ode6C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
+trMA.Ode6C12.melody = he.h.m8_en_US_oca.IlasthitiMoiSotir.name
 trMA.Ode6C12.text = "Lazarus was counted worthy to dwell with Abraham,
 and he received eternal life, O Christ,
 but the rich man was condemned to the fire,
@@ -353,7 +353,7 @@ there to be tormented in both soul and body."
 
 trMA.Ode6C13.ode = misc_en_US_oca.Ode6
 trMA.Ode6C13.mode = misc_en_US_oca.Mode8
-trMA.Ode6C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
+trMA.Ode6C13.melody = he.h.m8_en_US_oca.IlasthitiMoiSotir.name
 trMA.Ode6C13.text = "The rich man was condemned to the fire because of Lazarus.
 Do not condemn me in my wretchedness, I pray,
 Lord and Lover of mankind,
@@ -361,7 +361,7 @@ but count me, like Lazarus, worthy of Your light."
 
 trMA.Ode6C1T.ode = misc_en_US_oca.Ode6
 trMA.Ode6C1T.mode = misc_en_US_oca.Mode8
-trMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSotir.name
+trMA.Ode6C1T.melody = he.h.m8_en_US_oca.IlasthitiMoiSotir.name
 trMA.Ode6C1T.text = "May we be delivered from our great transgressions
 by your prayers, pure Mother of God,
 and may we dwell in the divine glory of the Son of God
@@ -369,7 +369,7 @@ Who took flesh ineffably from you."
 
 trMA.Ode6C21.ode = misc_en_US_oca.Ode6
 trMA.Ode6C21.mode = misc_en_US_oca.Mode6
-trMA.Ode6C21.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AvyssosEschati.name
+trMA.Ode6C21.melody = he.h.m6_en_US_oca.AvyssosEschati.name
 trMA.Ode6C21.text = "The armies of the angels rejoice,
 seeing a life equal to theirs in you,
 and they cry out, holy Mary,
@@ -377,7 +377,7 @@ giving glory to the Lord."
 
 trMA.Ode6C22.ode = misc_en_US_oca.Ode6
 trMA.Ode6C22.mode = misc_en_US_oca.Mode6
-trMA.Ode6C22.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AvyssosEschati.name
+trMA.Ode6C22.melody = he.h.m6_en_US_oca.AvyssosEschati.name
 trMA.Ode6C22.text = "The hosts of demons tremble
 at the strength of your endurance!
 How you, a naked and solitary woman,
@@ -385,7 +385,7 @@ in a wonderful way, put them to shame."
 
 trMA.Ode6C23.ode = misc_en_US_oca.Ode6
 trMA.Ode6C23.mode = misc_en_US_oca.Mode6
-trMA.Ode6C23.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AvyssosEschati.name
+trMA.Ode6C23.melody = he.h.m6_en_US_oca.AvyssosEschati.name
 trMA.Ode6C23.text = "Mary worthy of all praise,
 you shone like the sun and illumined the desert with your brightness
 Shine on me also,
@@ -393,7 +393,7 @@ that I may be glorious with your light."
 
 trMA.Ode6C2T.ode = misc_en_US_oca.Ode6
 trMA.Ode6C2T.mode = misc_en_US_oca.Mode6
-trMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.AvyssosEschati.name
+trMA.Ode6C2T.melody = he.h.m6_en_US_oca.AvyssosEschati.name
 trMA.Ode6C2T.text = "Virgin, illumined by the glory of your Child,
 the angels proclaim to us all peace on earth
 and good will towards the human race."
@@ -421,14 +421,14 @@ trMA.Synaxarion.lastline.text = ""
 
 trMA.Ode7C11.ode = misc_en_US_oca.Ode7
 trMA.Ode7C11.mode = misc_en_US_oca.Mode8
-trMA.Ode7C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OiEkTisIoudaias.name
+trMA.Ode7C11.melody = he.h.m8_en_US_oca.OiEkTisIoudaias.name
 trMA.Ode7C11.text = "Lazarus lay before the gates of the rich man
 like Job of old, who sat on a dung heap of rottenness and worries,
 and he cried out:  Blessed are You, O God of our fathers!"
 
 trMA.Ode7C12.ode = misc_en_US_oca.Ode7
 trMA.Ode7C12.mode = misc_en_US_oca.Mode8
-trMA.Ode7C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OiEkTisIoudaias.name
+trMA.Ode7C12.melody = he.h.m8_en_US_oca.OiEkTisIoudaias.name
 trMA.Ode7C12.text = "An outcast at the gate of the rich man who lacked all compassion,
 Lazarus longed for the crumbs that fell from his table,
 yet no man gave them to him!
@@ -436,7 +436,7 @@ But in return he received a dwelling place with Abraham."
 
 trMA.Ode7C13.ode = misc_en_US_oca.Ode7
 trMA.Ode7C13.mode = misc_en_US_oca.Mode8
-trMA.Ode7C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OiEkTisIoudaias.name
+trMA.Ode7C13.melody = he.h.m8_en_US_oca.OiEkTisIoudaias.name
 trMA.Ode7C13.text = "Deliver me, I pray You, O my Christ
 from the punishment of the rich man who showed no compassion;
 but place me with Lazarus the poor man
@@ -445,14 +445,14 @@ Blessed are You, O God of our fathers!"
 
 trMA.Ode7C1T.ode = misc_en_US_oca.Ode7
 trMA.Ode7C1T.mode = misc_en_US_oca.Mode8
-trMA.Ode7C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OiEkTisIoudaias.name
+trMA.Ode7C1T.melody = he.h.m8_en_US_oca.OiEkTisIoudaias.name
 trMA.Ode7C1T.text = "You manifested Yourself incarnate from a Virgin's womb for our sake;
 therefore we confess Your Mother as the Theotokos
 and we cry in thanksgiving:  Blessed are You, O God of our fathers!"
 
 trMA.Ode7C21.ode = misc_en_US_oca.Ode7
 trMA.Ode7C21.mode = misc_en_US_oca.Mode6
-trMA.Ode7C21.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OiPaidesEnVavyloni.name
+trMA.Ode7C21.melody = he.h.m6_en_US_oca.OiPaidesEnVavyloni.name
 trMA.Ode7C21.text = "Wise Zosimas, greatest of the fathers,
 as he wandered in the wilderness,
 was counted worthy to see the saint,
@@ -460,7 +460,7 @@ and he cried: Blessed are You, O God of our fathers!"
 
 trMA.Ode7C22.ode = misc_en_US_oca.Ode7
 trMA.Ode7C22.mode = misc_en_US_oca.Mode6
-trMA.Ode7C22.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OiPaidesEnVavyloni.name
+trMA.Ode7C22.melody = he.h.m6_en_US_oca.OiPaidesEnVavyloni.name
 trMA.Ode7C22.text = "Father, said the saint to the elder,
 why did you come to see a poor woman?
 A stranger to every virtuous action?
@@ -468,21 +468,21 @@ And she cried:  Blessed are You, O God of our fathers!"
 
 trMA.Ode7C23.ode = misc_en_US_oca.Ode7
 trMA.Ode7C23.mode = misc_en_US_oca.Mode6
-trMA.Ode7C23.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OiPaidesEnVavyloni.name
+trMA.Ode7C23.melody = he.h.m6_en_US_oca.OiPaidesEnVavyloni.name
 trMA.Ode7C23.text = "All-blessed Mary, you put to death your rebellious passions,
 and now you have found anchorage in the harbor of passionlessness,
 crying:  Blessed are You, Lord God of our fathers!"
 
 trMA.Ode7C2T.ode = misc_en_US_oca.Ode7
 trMA.Ode7C2T.mode = misc_en_US_oca.Mode6
-trMA.Ode7C2T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OiPaidesEnVavyloni.name
+trMA.Ode7C2T.melody = he.h.m6_en_US_oca.OiPaidesEnVavyloni.name
 trMA.Ode7C2T.text = "You conceived ineffably, undefiled one, and yet remained a virgin,
 and brought forth to the world its salvation, Christ our God;
 therefore we, and all the faithful magnify you in our songs."
 
 trMA.Ode8C11.ode = misc_en_US_oca.Ode8
 trMA.Ode8C11.mode = misc_en_US_oca.Mode8
-trMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EptaplasiosKaminon.name
+trMA.Ode8C11.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.name
 trMA.Ode8C11.text = "Once the contemptible rich man was splendidly clothed
 in garments of scarlet, fine linen and purple,
 while the poor man Lazarus lay a pitiable outcast at his gate,
@@ -492,7 +492,7 @@ Now he reigns with Christ in glory!"
 
 trMA.Ode8C12.ode = misc_en_US_oca.Ode8
 trMA.Ode8C12.mode = misc_en_US_oca.Mode8
-trMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EptaplasiosKaminon.name
+trMA.Ode8C12.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.name
 trMA.Ode8C12.text = "Lazarus lay at the gates of the rich man,
 his body rotting with sores.
 He longed to eat and no one gave him food,
@@ -502,7 +502,7 @@ Now he has been counted worthy of joy in paradise!"
 
 trMA.Ode8C13.ode = misc_en_US_oca.Ode8
 trMA.Ode8C13.mode = misc_en_US_oca.Mode8
-trMA.Ode8C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EptaplasiosKaminon.name
+trMA.Ode8C13.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.name
 trMA.Ode8C13.text = "I have grown rich in sensual pleasures,
 like the rich man of old who clothed himself daily in scarlet.
 Delighting in the good things of this 11fe,
@@ -512,7 +512,7 @@ deliver me forever from the eternal fire."
 
 trMA.Ode8C1Tr.ode = misc_en_US_oca.Ode8
 trMA.Ode8C1Tr.mode = misc_en_US_oca.Mode8
-trMA.Ode8C1Tr.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EptaplasiosKaminon.name
+trMA.Ode8C1Tr.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.name
 trMA.Ode8C1Tr.text = "The three-fold Light of the Godhead shines with a single radiance
 from the one Nature in three Persons:
 Father without beginning; Word of the Father sharing the same nature;
@@ -522,7 +522,7 @@ Priests praise Him; people, exalt Him above all forever!"
 
 trMA.Ode8C21.ode = misc_en_US_oca.Ode8
 trMA.Ode8C21.mode = misc_en_US_oca.Mode6
-trMA.Ode8C21.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkstithiFrittonOurane.name
+trMA.Ode8C21.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane.name
 trMA.Ode8C21.text = "You search the depths of our hearts,
 foreseeing all that concerns us before it has come to be.
 You delivered from a life of bondage
@@ -532,7 +532,7 @@ Priests bless Him; people, exalt Him above all forever!"
 
 trMA.Ode8C22.ode = misc_en_US_oca.Ode8
 trMA.Ode8C22.mode = misc_en_US_oca.Mode6
-trMA.Ode8C22.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkstithiFrittonOurane.name
+trMA.Ode8C22.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane.name
 trMA.Ode8C22.text = "Holy transformation,
 that brought you to a better way of life!
 Godlike love that hated carnal pleasures!
@@ -542,7 +542,7 @@ and we exalt you above all forever!"
 
 trMA.Ode8C23.ode = misc_en_US_oca.Ode8
 trMA.Ode8C23.mode = misc_en_US_oca.Mode6
-trMA.Ode8C23.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkstithiFrittonOurane.name
+trMA.Ode8C23.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane.name
 trMA.Ode8C23.text = "Holy Mary, you have received payment for your toil,
 and the due reward for all the labors
 by which you cast down the vengeful enemy.
@@ -552,7 +552,7 @@ and exalting Christ above all forever!"
 
 trMA.Ode8C2T.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2T.mode = misc_en_US_oca.Mode6
-trMA.Ode8C2T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.EkstithiFrittonOurane.name
+trMA.Ode8C2T.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane.name
 trMA.Ode8C2T.text = "In His love the Lord of all the ages
 wholly recreated me within your womb, pure Virgin,
 without confusing the marks of either human or divine nature!
@@ -561,7 +561,7 @@ we praise you in hymns forever!"
 
 trMA.Ode9C11.ode = misc_en_US_oca.Ode9
 trMA.Ode9C11.mode = misc_en_US_oca.Mode8
-trMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SeTinApeirogamon.name
+trMA.Ode9C11.melody = he.h.m8_en_US_oca.SeTinApeirogamon.name
 trMA.Ode9C11.text = "Since You are God by nature, I pray to You, O Christ:
 make me poor like Lazarus and banish my sensual desires,
 but make me as wealthy as the rich man in virtues,
@@ -569,7 +569,7 @@ that with faith I may magnify You in hymns."
 
 trMA.Ode9C12.ode = misc_en_US_oca.Ode9
 trMA.Ode9C12.mode = misc_en_US_oca.Mode8
-trMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SeTinApeirogamon.name
+trMA.Ode9C12.melody = he.h.m8_en_US_oca.SeTinApeirogamon.name
 trMA.Ode9C12.text = "Rich and unmerciful, I have despised my mind;
 cast out in wretchedness it lies with faith
 before the gates of Your commandments, O Lord and Lover of man.
@@ -579,14 +579,14 @@ who was already four days dead."
 
 trMA.Ode9C13.ode = misc_en_US_oca.Ode9
 trMA.Ode9C13.mode = misc_en_US_oca.Mode8
-trMA.Ode9C13.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SeTinApeirogamon.name
+trMA.Ode9C13.melody = he.h.m8_en_US_oca.SeTinApeirogamon.name
 trMA.Ode9C13.text = "We have all learned the meaning of this parable from the Lord.
 Let us all, then, hate the rich man's lack of compassion,
 that we may escape punishment and rejoice forever with Abraham."
 
 trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
 trMA.Ode9C1T.mode = misc_en_US_oca.Mode8
-trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.SeTinApeirogamon.name
+trMA.Ode9C1T.melody = he.h.m8_en_US_oca.SeTinApeirogamon.name
 trMA.Ode9C1T.text = "You carried in your arms the invisible God,
 Who is praised in the heavens by all creation.
 At all times He grants us salvation through you
@@ -594,7 +594,7 @@ and we magnify you in faith!"
 
 trMA.Ode9C21.ode = misc_en_US_oca.Ode9
 trMA.Ode9C21.mode = misc_en_US_oca.Mode6
-trMA.Ode9C21.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.MiEpodyrouMouMiter.name
+trMA.Ode9C21.melody = he.h.m6_en_US_oca.MiEpodyrouMouMiter.name
 trMA.Ode9C21.text = "Mother, strengthened by the might of Christ,
 you more easily endured your sufferings in the wilderness.
 With streams of God-given tears
@@ -603,7 +603,7 @@ greatest of ascetics and glory of the saints!"
 
 trMA.Ode9C22.ode = misc_en_US_oca.Ode9
 trMA.Ode9C22.mode = misc_en_US_oca.Mode6
-trMA.Ode9C22.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.MiEpodyrouMouMiter.name
+trMA.Ode9C22.melody = he.h.m6_en_US_oca.MiEpodyrouMouMiter.name
 trMA.Ode9C22.text = "The pure Virgin, the only Mother of Christ the Light,
 shone upon you with rays of surpassing brightness,
 making you terrible to the enemy,
@@ -612,7 +612,7 @@ as the beauty of ascetics and pillar of the saints."
 
 trMA.Ode9C23.ode = misc_en_US_oca.Ode9
 trMA.Ode9C23.mode = misc_en_US_oca.Mode6
-trMA.Ode9C23.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.MiEpodyrouMouMiter.name
+trMA.Ode9C23.melody = he.h.m6_en_US_oca.MiEpodyrouMouMiter.name
 trMA.Ode9C23.text = "You wisely forsook all the things of this earth,
 and became a hallowed dwelling-place of the Spirit.
 Pray to Christ, our only Deliverer,
@@ -621,7 +621,7 @@ may be set free from the perils of this world!"
 
 trMA.Ode9C2T.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2T.mode = misc_en_US_oca.Mode6
-trMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.MiEpodyrouMouMiter.name
+trMA.Ode9C2T.melody = he.h.m6_en_US_oca.MiEpodyrouMouMiter.name
 trMA.Ode9C2T.text = "In a manner surpassing nature, pure Maiden,
 you escaped the laws of nature,
 bringing forth on earth a newborn Child,

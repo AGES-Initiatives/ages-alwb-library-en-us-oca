@@ -168,17 +168,17 @@ meMA.C1.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode2
-meMA.Ode1C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C11.melody = he.h.m2_en_US_oca.DefteLaoi.name
 meMA.Ode1C11.text = "Come, faithful, rejoicing in the divine Spirit, * let us honor the ever-Virgin Maiden in hymns * for she came forth today from a barren woman * for the salvation of mortal men."
 
 meMA.Ode1C12.ode = misc_en_US_oca.Ode1
 meMA.Ode1C12.mode = misc_en_US_oca.Mode2
-meMA.Ode1C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C12.melody = he.h.m2_en_US_oca.DefteLaoi.name
 meMA.Ode1C12.text = "Rejoice, holy Mother and Handmaiden of Christ our God, * for you have restored original blessedness to mankind! * We rightly glorify you in song."
 
 meMA.Ode1C13.ode = misc_en_US_oca.Ode1
 meMA.Ode1C13.mode = misc_en_US_oca.Mode2
-meMA.Ode1C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.DefteLaoi.name
+meMA.Ode1C13.melody = he.h.m2_en_US_oca.DefteLaoi.name
 meMA.Ode1C13.text = "Today the Bridge of Life is born. * Through her, mortals who have fallen into hell * find their way back up again * and with song, they glorify Christ, the Giver of life."
 
 meMA.Ode1C2H.ode = misc_en_US_oca.Ode1
@@ -191,32 +191,32 @@ meMA.C2.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode8
-meMA.Ode1C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
+meMA.Ode1C21.melody = he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
 meMA.Ode1C21.text = "Let all creation dance for joy, * and let David also celebrate: * for a rod has come forth from his tribe and seed, * blossoming the Lord and Deliverer of all."
 
 meMA.Ode1C22.ode = misc_en_US_oca.Ode1
 meMA.Ode1C22.mode = misc_en_US_oca.Mode8
-meMA.Ode1C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
+meMA.Ode1C22.melody = he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
 meMA.Ode1C22.text = "The Holy of Holies * is placed as an infant in the ho1y sanctuary * to be reared by the hands of an angel. * Let us all feast in faith on the day of her birth."
 
 meMA.Ode1C23.ode = misc_en_US_oca.Ode1
 meMA.Ode1C23.mode = misc_en_US_oca.Mode8
-meMA.Ode1C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
+meMA.Ode1C23.melody = he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
 meMA.Ode1C23.text = "The barren and sterile Anna was not childless before God, * for she was foreordained from many generations * to become the mother of the pure Virgin * from whom the Maker of all creation * sprang forth in the form of a servant."
 
 meMA.Ode1C24.ode = misc_en_US_oca.Ode1
 meMA.Ode1C24.mode = misc_en_US_oca.Mode8
-meMA.Ode1C24.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
+meMA.Ode1C24.melody = he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
 meMA.Ode1C24.text = "You alone, sheep without blemish, * offered our substance from your womb * to Christ, the Lamb of God, for His fleece. * Therefore in our hymns we honor you on this day of your birth from Anna."
 
 meMA.Ode1C2Tr.ode = misc_en_US_oca.Ode1
 meMA.Ode1C2Tr.mode = misc_en_US_oca.Mode8
-meMA.Ode1C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
+meMA.Ode1C2Tr.melody = he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
 meMA.Ode1C2Tr.text = "I glorify the Three without beginning; * I sing the praises of the Holy Trinity; * I proclaim the Three co-eternal in one essence: * For a single God is glorified in the Father, Son and Holy Spirit."
 
 meMA.Ode1C2T.ode = misc_en_US_oca.Ode1
 meMA.Ode1C2T.mode = misc_en_US_oca.Mode8
-meMA.Ode1C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
+meMA.Ode1C2T.melody = he.h.m8_en_US_oca.ToSyntripsantiPolemous.name
 meMA.Ode1C2T.text = "Who has ever beheld a child unbegotten by a Father, * reared on His Mother's milk? * Or where has a Virgin Mother ever been seen? * Truly, pure Theotokos, * you fulfilled both these wonders in a manner past understanding!"
 
 meMA.Ode3C1H.ode = misc_en_US_oca.Ode3
@@ -226,17 +226,17 @@ meMA.Ode3C1H.text = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = misc_en_US_oca.Ode3
 meMA.Ode3C11.mode = misc_en_US_oca.Mode2
-meMA.Ode3C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C11.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
 meMA.Ode3C11.text = "The holy parents, who had lived before the Lord without reproach * brought forth the salvation of all, * giving birth to the one who bore our Creator and our God."
 
 meMA.Ode3C12.ode = misc_en_US_oca.Ode3
 meMA.Ode3C12.mode = misc_en_US_oca.Mode2
-meMA.Ode3C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C12.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
 meMA.Ode3C12.text = "The Lord, Who is a spring of life to all, * led forth the Virgin from a barren womb. * He was well pleased to enter into her, * preserving her virginity inviolate after childbirth."
 
 meMA.Ode3C13.ode = misc_en_US_oca.Ode3
 meMA.Ode3C13.mode = misc_en_US_oca.Mode2
-meMA.Ode3C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
+meMA.Ode3C13.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.name
 meMA.Ode3C13.text = "Let us exalt Mary today: * the fruit of Anna who brought forth the Life-giving cluster. * Let us sing her praises as the Theotokos, * protector and helper of us all."
 
 meMA.Ode3C2H.ode = misc_en_US_oca.Ode3
@@ -246,32 +246,32 @@ meMA.Ode3C2H.text = he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.text
 
 meMA.Ode3C21.ode = misc_en_US_oca.Ode3
 meMA.Ode3C21.mode = misc_en_US_oca.Mode8
-meMA.Ode3C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
+meMA.Ode3C21.melody = he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C21.text = "Blessed is your womb, Anna of sober spirit, * for it brought forth the fruit of virginity: * she who bore Jesus without seed, * the Food and Deliverance of all creation."
 
 meMA.Ode3C22.ode = misc_en_US_oca.Ode3
 meMA.Ode3C22.mode = misc_en_US_oca.Mode8
-meMA.Ode3C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
+meMA.Ode3C22.melody = he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C22.text = "The whole creation calls you blessed, * ever-Virgin, born today of Anna: * the spotless branch of the root of Jesse, * who brought forth Christ as a flower."
 
 meMA.Ode3C23.ode = misc_en_US_oca.Ode3
 meMA.Ode3C23.mode = misc_en_US_oca.Mode8
-meMA.Ode3C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
+meMA.Ode3C23.melody = he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C23.text = "Undefiled Theotokos, * your Son has exalted you above all creation; * He magnifies your birth from Anna, * filling all with gladness on this day."
 
 meMA.Ode3C24.ode = misc_en_US_oca.Ode3
 meMA.Ode3C24.mode = misc_en_US_oca.Mode8
-meMA.Ode3C24.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
+meMA.Ode3C24.melody = he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C24.text = "You were brought up in the Holy of Holies, O immaculate Virgin Theotokos, and you were shown to be higher than creation, for you gave birth in the flesh to the Creator." //added by Fr. Seraphim Dedes, 2015
 
 meMA.Ode3C2Tr.ode = misc_en_US_oca.Ode3
 meMA.Ode3C2Tr.mode = misc_en_US_oca.Mode8
-meMA.Ode3C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
+meMA.Ode3C2Tr.melody = he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C2Tr.text = "We worship You, Father, in essence without beginning. * We sing the praises of Your everlasting Son, * and we venerate the co-eternal Spirit: * for the Three are by nature One God."
 
 meMA.Ode3C2T.ode = misc_en_US_oca.Ode3
 meMA.Ode3C2T.mode = misc_en_US_oca.Mode8
-meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
+meMA.Ode3C2T.melody = he.h.m8_en_US_oca.EstereothiIKardiaMouEnKyrio.name
 meMA.Ode3C2T.text = "Undefiled Theotokos, * you bore the Light-giver and Cause of the life of mankind; * You are revealed as the treasure of our Life, * and the unapproachable gateway of the Light."
 
 meMA.Hypakoe.mode = misc_en_US_oca.Mode2
@@ -289,17 +289,17 @@ meMA.Ode4C1H.text = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.text
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
 meMA.Ode4C11.mode = misc_en_US_oca.Mode2
-meMA.Ode4C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C11.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
 meMA.Ode4C11.text = "We sing Your praises, Lord, * for You have given her who bore You * to all the faithful as a haven of salvation."
 
 meMA.Ode4C12.ode = misc_en_US_oca.Ode4
 meMA.Ode4C12.mode = misc_en_US_oca.Mode2
-meMA.Ode4C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C12.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
 meMA.Ode4C12.text = "Christ revealed you to all, Bride of God, * as the boast and strength of those who sing the praises * of your mystery with faith."
 
 meMA.Ode4C13.ode = misc_en_US_oca.Ode4
 meMA.Ode4C13.mode = misc_en_US_oca.Mode2
-meMA.Ode4C13.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C13.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.name
 meMA.Ode4C13.text = "Gratefully we call you blessed, unwedded Lady, * absolved from sin by your supplication."
 
 meMA.Ode4C2H.ode = misc_en_US_oca.Ode4
@@ -309,32 +309,32 @@ meMA.Ode4C2H.text = he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.text
 
 meMA.Ode4C21.ode = misc_en_US_oca.Ode4
 meMA.Ode4C21.mode = misc_en_US_oca.Mode8
-meMA.Ode4C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
+meMA.Ode4C21.melody = he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
 meMA.Ode4C21.text = "Let us, the faithful, in songs and hymns * glorify the all-holy birth of the Theotokos! * Let us worship with faith the God Who never lies, * and Who swore of old to David to give him the fruit of his body."
 
 meMA.Ode4C22.ode = misc_en_US_oca.Ode4
 meMA.Ode4C22.mode = misc_en_US_oca.Mode8
-meMA.Ode4C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
+meMA.Ode4C22.melody = he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
 meMA.Ode4C22.text = "Lord, You opened the womb of Sarah, * Giving her Isaac as fruit in her old age. * Today, Savior, You also gave Anna fruit born from her womb: * Your own spotless Mother."
 
 meMA.Ode4C23.ode = misc_en_US_oca.Ode4
 meMA.Ode4C23.mode = misc_en_US_oca.Mode8
-meMA.Ode4C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
+meMA.Ode4C23.melody = he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
 meMA.Ode4C23.text = "Lord, You have heard my prayer, * let Anna exclaim. * Today You have granted me the fruit of promise: * the one who was foreordained from all generations and women * to be Your pure and undefiled Mother."
 
 meMA.Ode4C24.ode = misc_en_US_oca.Ode4
 meMA.Ode4C24.mode = misc_en_US_oca.Mode8
-meMA.Ode4C24.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
+meMA.Ode4C24.melody = he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
 meMA.Ode4C24.text = "Today the inhabited earth rejoices with you, holy Anna, * for you have borne the Mother of its Redeemer as a blossom: * she who brought forth the rod of our strength from the root of Jesse, * and who bore Christ as a flower."
 
 meMA.Ode4C2Tr.ode = misc_en_US_oca.Ode4
 meMA.Ode4C2Tr.mode = misc_en_US_oca.Mode8
-meMA.Ode4C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
+meMA.Ode4C2Tr.melody = he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
 meMA.Ode4C2Tr.text = "I glorify You, unoriginate Trinity, * undivided in essence, * and with my tongue of clay I cry aloud as the cherubim: * Holy, Holy, Holy is the Existing One * Who ever remains the One Eternal God!"
 
 meMA.Ode4C2T.ode = misc_en_US_oca.Ode4
 meMA.Ode4C2T.mode = misc_en_US_oca.Mode8
-meMA.Ode4C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
+meMA.Ode4C2T.melody = he.h.m8_en_US_oca.AkikoaKyrieTinAkoin.name
 meMA.Ode4C2T.text = "The prophesies of those inspired by God * are now fulfilled in your birth, undefiled One: * those who in their faith called you the tabernacle and Gate, * spiritual mountain, bush, and the rod of Aaron * sprung from the root of David!"
 
 meMA.Ode5C1H.ode = misc_en_US_oca.Ode5
@@ -344,12 +344,12 @@ meMA.Ode5C1H.text = he.h.m2_en_US_oca.OSkiografonAchlyn.text
 
 meMA.Ode5C11.ode = misc_en_US_oca.Ode5
 meMA.Ode5C11.mode = misc_en_US_oca.Mode2
-meMA.Ode5C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.OSkiografonAchlyn.name
+meMA.Ode5C11.melody = he.h.m2_en_US_oca.OSkiografonAchlyn.name
 meMA.Ode5C11.text = "Come, people, let us sing the praises of the Author of all, * Who caused Himself to become like us. * The prophets rejoiced, counted worthy to behold the images that prefigured Him, * and now as fruit, they enjoy His manifest salvation."
 
 meMA.Ode5C12.ode = misc_en_US_oca.Ode5
 meMA.Ode5C12.mode = misc_en_US_oca.Mode2
-meMA.Ode5C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.OSkiografonAchlyn.name
+meMA.Ode5C12.melody = he.h.m2_en_US_oca.OSkiografonAchlyn.name
 meMA.Ode5C12.text = "The shoot of the sapless rod * revealed the chosen priest to Israel, * and now in a marvelous fashion * the all-glorious offspring from a barren womb * manifests the shining glory of her parents."
 
 meMA.Ode5C2H.ode = misc_en_US_oca.Ode5
@@ -359,32 +359,32 @@ meMA.Ode5C2H.text = he.h.m8_en_US_oca.KyrieOTheosImon.text
 
 meMA.Ode5C21.ode = misc_en_US_oca.Ode5
 meMA.Ode5C21.mode = misc_en_US_oca.Mode8
-meMA.Ode5C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.KyrieOTheosImon.name
+meMA.Ode5C21.melody = he.h.m8_en_US_oca.KyrieOTheosImon.name
 meMA.Ode5C21.text = "Your nativity was undefiled, Virgin: * your conception and travail were ineffable. * your child-bearing was past speech, unwedded Bride, * for it was God, Who has entirely clothed Himself in me."
 
 meMA.Ode5C22.ode = misc_en_US_oca.Ode5
 meMA.Ode5C22.mode = misc_en_US_oca.Mode8
-meMA.Ode5C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.KyrieOTheosImon.name
+meMA.Ode5C22.melody = he.h.m8_en_US_oca.KyrieOTheosImon.name
 meMA.Ode5C22.text = "Let the ranks of angels rejoice today; * let the children of Adam dance and sing. * For the rod is born, from whom Christ sprang forth as a flower, * the only Deliverer of Adam."
 
 meMA.Ode5C23.ode = misc_en_US_oca.Ode5
 meMA.Ode5C23.mode = misc_en_US_oca.Mode8
-meMA.Ode5C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.KyrieOTheosImon.name
+meMA.Ode5C23.melody = he.h.m8_en_US_oca.KyrieOTheosImon.name
 meMA.Ode5C23.text = "Today at your birth Eve is loosed from her condemnation; * Adam also is loosed from the ancient curse. * He cries out to you, undefiled Maiden: * Through you we have been delivered from corruption!"
 
 meMA.Ode5C24.ode = misc_en_US_oca.Ode5
 meMA.Ode5C24.mode = misc_en_US_oca.Mode8
-meMA.Ode5C24.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.KyrieOTheosImon.name
+meMA.Ode5C24.melody = he.h.m8_en_US_oca.KyrieOTheosImon.name
 meMA.Ode5C24.text = "Glory to You, for today You glorify the barren one! * For she has borne, according to the promise, * the ever-green Rod from which Christ, the flower of our life, sprang forth."
 
 meMA.Ode5C2Tr.ode = misc_en_US_oca.Ode5
 meMA.Ode5C2Tr.mode = misc_en_US_oca.Mode8
-meMA.Ode5C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.KyrieOTheosImon.name
+meMA.Ode5C2Tr.melody = he.h.m8_en_US_oca.KyrieOTheosImon.name
 meMA.Ode5C2Tr.text = "We worship You, undivided Trinity, * unoriginate, uncreated, co-eternal, one in nature, * wondrously proclaimed to all eternity * in one essence and three Persons."
 
 meMA.Ode5C2T.ode = misc_en_US_oca.Ode5
 meMA.Ode5C2T.mode = misc_en_US_oca.Mode8
-meMA.Ode5C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.KyrieOTheosImon.name
+meMA.Ode5C2T.melody = he.h.m8_en_US_oca.KyrieOTheosImon.name
 meMA.Ode5C2T.text = "Your womb has become a holy table; * your purity has remained undefiled, Virgin. * Christ the Sun has come forth from you * as a Bridegroom out of His chamber!"
 
 meMA.Ode6C1H.ode = misc_en_US_oca.Ode6
@@ -394,12 +394,12 @@ meMA.Ode6C1H.text = he.h.m2_en_US_oca.ProsKyrionEkKitous.text
 
 meMA.Ode6C11.ode = misc_en_US_oca.Ode6
 meMA.Ode6C11.mode = misc_en_US_oca.Mode2
-meMA.Ode6C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ProsKyrionEkKitous.name
+meMA.Ode6C11.melody = he.h.m2_en_US_oca.ProsKyrionEkKitous.name
 meMA.Ode6C11.text = "In their barren affliction * the holy parents of the Theotokos cried aloud to the Lord, * and they brought her forth * for the common salvation and glory of all generations."
 
 meMA.Ode6C12.ode = misc_en_US_oca.Ode6
 meMA.Ode6C12.mode = misc_en_US_oca.Mode2
-meMA.Ode6C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ProsKyrionEkKitous.name
+meMA.Ode6C12.melody = he.h.m2_en_US_oca.ProsKyrionEkKitous.name
 meMA.Ode6C12.text = "The holy parents of the Theotokos * received from heaven a gift worthy of God, * a throne higher than the very cherubim: * she who in childbirth bore the Word and Creator."
 
 meMA.Ode6C2H.ode = misc_en_US_oca.Ode6
@@ -409,32 +409,32 @@ meMA.Ode6C2H.text = he.h.m8_en_US_oca.OsYdataThalassis.text
 
 meMA.Ode6C21.ode = misc_en_US_oca.Ode6
 meMA.Ode6C21.mode = misc_en_US_oca.Mode8
-meMA.Ode6C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OsYdataThalassis.name
+meMA.Ode6C21.melody = he.h.m8_en_US_oca.OsYdataThalassis.name
 meMA.Ode6C21.text = "We sing the praises of your holy birth, Virgin and Bride of God, * and venerate your conceiving without seed, Maiden; * and with us the ranks of angels and the souls of the saints dance for joy!"
 
 meMA.Ode6C22.ode = misc_en_US_oca.Ode6
 meMA.Ode6C22.mode = misc_en_US_oca.Mode8
-meMA.Ode6C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OsYdataThalassis.name
+meMA.Ode6C22.melody = he.h.m8_en_US_oca.OsYdataThalassis.name
 meMA.Ode6C22.text = "Your wise parents, undefiled One, * brought you, the Holy of Holies, * as an offering to the House of the Lord, * there to be reared in holiness * and made ready to become His Mother."
 
 meMA.Ode6C23.ode = misc_en_US_oca.Ode6
 meMA.Ode6C23.mode = misc_en_US_oca.Mode8
-meMA.Ode6C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OsYdataThalassis.name
+meMA.Ode6C23.melody = he.h.m8_en_US_oca.OsYdataThalassis.name
 meMA.Ode6C23.text = "Let both mothers and barren women dance for joy! * Be bold and skip in gladness, childless ones! * For the barren and childless woman brings forth the Theotokos * who is to deliver Eve from her pains in travail * and Adam from the curse!"
 
 meMA.Ode6C24.ode = misc_en_US_oca.Ode6
 meMA.Ode6C24.mode = misc_en_US_oca.Mode8
-meMA.Ode6C24.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OsYdataThalassis.name
+meMA.Ode6C24.melody = he.h.m8_en_US_oca.OsYdataThalassis.name
 meMA.Ode6C24.text = "I hear David singing to you: * Virgins shall be brought after you; * they shall be brought into the temple of the King. * and with him I also sing your praises, daughter of the King."
 
 meMA.Ode6C2Tr.ode = misc_en_US_oca.Ode6
 meMA.Ode6C2Tr.mode = misc_en_US_oca.Mode8
-meMA.Ode6C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OsYdataThalassis.name
+meMA.Ode6C2Tr.melody = he.h.m8_en_US_oca.OsYdataThalassis.name
 meMA.Ode6C2Tr.text = "In you, undefiled One, * the mystery of the Trinity is praised and glorified: * for the Father was well-pleased with you, * and in you the Word made His dwelling among us, * and the Holy Spirit overshadowed you."
 
 meMA.Ode6C2T.ode = misc_en_US_oca.Ode6
 meMA.Ode6C2T.mode = misc_en_US_oca.Mode8
-meMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OsYdataThalassis.name
+meMA.Ode6C2T.melody = he.h.m8_en_US_oca.OsYdataThalassis.name
 meMA.Ode6C2T.text = "You became a golden censer, * for the Fire made His tabernacle in your womb: * the Word from the Holy Spirit, * and He was seen in the form of a man, pure Theotokos."
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode4
@@ -452,12 +452,12 @@ meMA.Ode7C1H.text = he.h.m2_en_US_oca.VatosEnOrei.text
 
 meMA.Ode7C11.ode = misc_en_US_oca.Ode7
 meMA.Ode7C11.mode = misc_en_US_oca.Mode2
-meMA.Ode7C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.VatosEnOrei.name
+meMA.Ode7C11.melody = he.h.m2_en_US_oca.VatosEnOrei.name
 meMA.Ode7C11.text = "Of old, the giver of the Law, all-holy Lady, * was unable to understand the invisible manifestation of your great mystery, * though he was taught through symbols * not to think earthly thoughts: * therefore, astonished at this wonder, he said: * Blessed are You, the God of our fathers!"
 
 meMA.Ode7C12.ode = misc_en_US_oca.Ode7
 meMA.Ode7C12.mode = misc_en_US_oca.Mode2
-meMA.Ode7C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.VatosEnOrei.name
+meMA.Ode7C12.melody = he.h.m2_en_US_oca.VatosEnOrei.name
 meMA.Ode7C12.text = "Inspired by God, * the divine choir spoke of you in prophecy * as the mountain, the gate of heaven, and the spiritual ladder; * for a stone was hewn from you, not cut by hand of man, * and you are the gate through which has passed the Lord of wonders, * the God of our fathers."
 
 meMA.Ode7C2H.ode = misc_en_US_oca.Ode7
@@ -467,32 +467,32 @@ meMA.Ode7C2H.text = he.h.m8_en_US_oca.TonChaldaionIKaminos.text
 
 meMA.Ode7C21.ode = misc_en_US_oca.Ode7
 meMA.Ode7C21.mode = misc_en_US_oca.Mode8
-meMA.Ode7C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonChaldaionIKaminos.name
+meMA.Ode7C21.melody = he.h.m8_en_US_oca.TonChaldaionIKaminos.name
 meMA.Ode7C21.text = "We honor and celebrate your holy birth * according to the promise, undefiled One, * for by it, through Christ's appearance, * we have been delivered from Adam's ancient curse."
 
 meMA.Ode7C22.ode = misc_en_US_oca.Ode7
 meMA.Ode7C22.mode = misc_en_US_oca.Mode8
-meMA.Ode7C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonChaldaionIKaminos.name
+meMA.Ode7C22.melody = he.h.m8_en_US_oca.TonChaldaionIKaminos.name
 meMA.Ode7C22.text = "Now Anna rejoices and cries aloud exulting: * though barren, I have given birth to the Mother of God, * through whom the condemnation of Eve has been remitted, * with all her pains in travail!"
 
 meMA.Ode7C23.ode = misc_en_US_oca.Ode7
 meMA.Ode7C23.mode = misc_en_US_oca.Mode8
-meMA.Ode7C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonChaldaionIKaminos.name
+meMA.Ode7C23.melody = he.h.m8_en_US_oca.TonChaldaionIKaminos.name
 meMA.Ode7C23.text = "Adam is freed and Eve dances for joy, * and in Spirit they cry aloud to you, Theotokos: * by you, through Christ's appearance, * we have been delivered from Adam's ancient curse."
 
 meMA.Ode7C24.ode = misc_en_US_oca.Ode7
 meMA.Ode7C24.mode = misc_en_US_oca.Mode8
-meMA.Ode7C24.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonChaldaionIKaminos.name
+meMA.Ode7C24.melody = he.h.m8_en_US_oca.TonChaldaionIKaminos.name
 meMA.Ode7C24.text = "Barren ones without posterity; * make haste, unfruitful souls! * For Anna has many children now * and she is full of joy. * Mothers, dance and exult with the Mother of God!"
 
 meMA.Ode7C2Tr.ode = misc_en_US_oca.Ode7
 meMA.Ode7C2Tr.mode = misc_en_US_oca.Mode8
-meMA.Ode7C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonChaldaionIKaminos.name
+meMA.Ode7C2Tr.melody = he.h.m8_en_US_oca.TonChaldaionIKaminos.name
 meMA.Ode7C2Tr.text = "Let us glorify the Father, Son and Spirit * in unity of Godhead: * the most Holy Trinity, * undivided, uncreated, co-eternal * and one in essence."
 
 meMA.Ode7C2T.ode = misc_en_US_oca.Ode7
 meMA.Ode7C2T.mode = misc_en_US_oca.Mode8
-meMA.Ode7C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.TonChaldaionIKaminos.name
+meMA.Ode7C2T.melody = he.h.m8_en_US_oca.TonChaldaionIKaminos.name
 meMA.Ode7C2T.text = "You alone Virgin after childbirth, have brought forth God; * you have renewed our nature by your bearing, Mary. * You have released Eve from the ancestral curse, * pure Theotokos."
 
 meMA.Ode8C1H.ode = misc_en_US_oca.Ode8
@@ -502,12 +502,12 @@ meMA.Ode8C1H.text = he.h.m2_en_US_oca.EnTiKamino.text
 
 meMA.Ode8C11.ode = misc_en_US_oca.Ode8
 meMA.Ode8C11.mode = misc_en_US_oca.Mode2
-meMA.Ode8C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EnTiKamino.name
+meMA.Ode8C11.melody = he.h.m2_en_US_oca.EnTiKamino.name
 meMA.Ode8C11.text = "The preordained tabernacle of our reconciliation with God * now comes into being. * She is the one who will bear the Word for us * appearing in the material substance of the flesh. * He has brought us from non-existence into being! * We sing His praises, and exalt Him above all forever!"
 
 meMA.Ode8C12.ode = misc_en_US_oca.Ode8
 meMA.Ode8C12.mode = misc_en_US_oca.Mode2
-meMA.Ode8C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EnTiKamino.name
+meMA.Ode8C12.melody = he.h.m2_en_US_oca.EnTiKamino.name
 meMA.Ode8C12.text = "Anna's barrenness was transformed, * destroying the world's barrenness of good things. * This wonder plainly foreshadowed Christ's coming to dwell with mortals. * He has brought us from non-existence into being! * We sing His praises, and exalt Him above all forever!"
 
 meMA.Ode8C2H.ode = misc_en_US_oca.Ode8
@@ -517,32 +517,32 @@ meMA.Ode8C2H.text = he.h.m8_en_US_oca.OStegazonEnYdasi.text
 
 meMA.Ode8C21.ode = misc_en_US_oca.Ode8
 meMA.Ode8C21.mode = misc_en_US_oca.Mode8
-meMA.Ode8C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStegazonEnYdasi.name
+meMA.Ode8C21.melody = he.h.m8_en_US_oca.OStegazonEnYdasi.name
 meMA.Ode8C21.text = "You have wrought wonders for the barren womb of Anna, * You have opened her childless side and given her fruit: * You are the holy God, * You are the Son of the Virgin: * You have taken flesh from her, * the ever-flowering Virgin and Theotokos."
 
 meMA.Ode8C22.ode = misc_en_US_oca.Ode8
 meMA.Ode8C22.mode = misc_en_US_oca.Mode8
-meMA.Ode8C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStegazonEnYdasi.name
+meMA.Ode8C22.melody = he.h.m8_en_US_oca.OStegazonEnYdasi.name
 meMA.Ode8C22.text = "You shut up the springs of the deep * and open them again, * You bring water in the clouds, * giving showers of rain: * You, Lord, have made a pure fruit flower * from the barren root of holy Anna: * the rod that is the Theotokos!"
 
 meMA.Ode8C23.ode = misc_en_US_oca.Ode8
 meMA.Ode8C23.mode = misc_en_US_oca.Mode8
-meMA.Ode8C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStegazonEnYdasi.name
+meMA.Ode8C23.melody = he.h.m8_en_US_oca.OStegazonEnYdasi.name
 meMA.Ode8C23.text = "You loosed the unbreakable bonds of childlessness. * You gave the barren woman a fertile offspring and glorious fruit. * You Yourself became the Son and shoot of that offspring! * When You came to dwell among us, merciful Lord, * You chose her as Your Mother according to the flesh."
 
 meMA.Ode8C24.ode = misc_en_US_oca.Ode8
 meMA.Ode8C24.mode = misc_en_US_oca.Mode8
-meMA.Ode8C24.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStegazonEnYdasi.name
+meMA.Ode8C24.melody = he.h.m8_en_US_oca.OStegazonEnYdasi.name
 meMA.Ode8C24.text = "Husbandman of our thoughts and gardener of our souls, * You have made the barren earth fertile. * You have turned the ground that once was parched into fruitful land, * rich in corn and bearing fruit. * From holy Anna You have made an undefiled fruit to blossom: * the Theotokos."
 
 meMA.Ode8C2Tr.ode = misc_en_US_oca.Ode8
 meMA.Ode8C2Tr.mode = misc_en_US_oca.Mode8
-meMA.Ode8C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStegazonEnYdasi.name
+meMA.Ode8C2Tr.melody = he.h.m8_en_US_oca.OStegazonEnYdasi.name
 meMA.Ode8C2Tr.text = "Trinity, supreme in being, * Unity without beginning, * the ranks of angels sing Your praises in trembling before You. * Earth, heaven, and the seas stand in awe of You; * mankind blesses You! * Fire is Your servant: * all created things obey You in fear, Holy Trinity!"
 
 meMA.Ode8C2T.ode = misc_en_US_oca.Ode8
 meMA.Ode8C2T.mode = misc_en_US_oca.Mode8
-meMA.Ode8C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStegazonEnYdasi.name
+meMA.Ode8C2T.melody = he.h.m8_en_US_oca.OStegazonEnYdasi.name
 meMA.Ode8C2T.text = "Strangest of tidings! * God has become the Son of a woman! * The birth was without seed, the Mother knew not a man, * and the Child she bore is God. * Awesome sight and ineffable birth! * Strange conceiving by the Virgin! * All these things are indeed beyond vision and understanding."
 
 meMA.Ode9C1H.ode = misc_en_US_oca.Ode9
@@ -552,12 +552,12 @@ meMA.Ode9C1H.text = he.h.m2_en_US_oca.ITonProIliouFostira.text
 
 meMA.Ode9C11.ode = misc_en_US_oca.Ode9
 meMA.Ode9C11.mode = misc_en_US_oca.Mode2
-meMA.Ode9C11.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ITonProIliouFostira.name
+meMA.Ode9C11.melody = he.h.m2_en_US_oca.ITonProIliouFostira.name
 meMA.Ode9C11.text = "He Who made springs of water flow * from the rock for the disobedient people, * gives you to the obedient gentiles for our joy, * as fruit from a barren womb. * We rightly magnify you, undefiled Theotokos."
 
 meMA.Ode9C12.ode = misc_en_US_oca.Ode9
 meMA.Ode9C12.mode = misc_en_US_oca.Mode2
-meMA.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ITonProIliouFostira.name
+meMA.Ode9C12.melody = he.h.m2_en_US_oca.ITonProIliouFostira.name
 meMA.Ode9C12.text = "You are our deliverer from the sharp punishment of old, * the restoration of our mother Eve, * the cause of the reconciling of our nature to God, * the bridge that leads us to the Maker. * We magnify you, Theotokos!"
 
 meMA.Ode9C2H.ode = misc_en_US_oca.Ode9
@@ -567,32 +567,32 @@ meMA.Ode9C2H.text = he.h.m8_en_US_oca.AllotrionTonMiteron.text
 
 meMA.Ode9C21.ode = misc_en_US_oca.Ode9
 meMA.Ode9C21.mode = misc_en_US_oca.Mode8
-meMA.Ode9C21.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AllotrionTonMiteron.name
+meMA.Ode9C21.melody = he.h.m8_en_US_oca.AllotrionTonMiteron.name
 meMA.Ode9C21.text = "You inherited according to the promise * a birth worthy of your purity, Mother of God. * For as a God-given fruit you were granted to her * who before had been fruitless. * Therefore we and all the earthly nations unceasingly magnify you!"
 
 meMA.Ode9C22.ode = misc_en_US_oca.Ode9
 meMA.Ode9C22.mode = misc_en_US_oca.Mode8
-meMA.Ode9C22.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AllotrionTonMiteron.name
+meMA.Ode9C22.melody = he.h.m8_en_US_oca.AllotrionTonMiteron.name
 meMA.Ode9C22.text = "Fulfilled is the prophecy of the one who cried aloud, * saying: I will raise up the fallen tabernacle of David! * His words prefigured you, undefiled One, * through whom the dust of mankind * has been wholly refashioned into a body for God."
 
 meMA.Ode9C23.ode = misc_en_US_oca.Ode9
 meMA.Ode9C23.mode = misc_en_US_oca.Mode8
-meMA.Ode9C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AllotrionTonMiteron.name
+meMA.Ode9C23.melody = he.h.m8_en_US_oca.AllotrionTonMiteron.name
 meMA.Ode9C23.text = "We venerate your swaddling clothes, Theotokos; * we glorify the Lord Who gave you as fruit * to the one who before was childless. * By a miracle He opened the barren womb of Anna, * for as Almighty God, He does what He desires."
 
 meMA.Ode9C24.ode = misc_en_US_oca.Ode9
 meMA.Ode9C24.mode = misc_en_US_oca.Mode8
-meMA.Ode9C24.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AllotrionTonMiteron.name
+meMA.Ode9C24.melody = he.h.m8_en_US_oca.AllotrionTonMiteron.name
 meMA.Ode9C24.text = "Holy Anna, mother of the Virgin, * against all hope you put forth from your womb * a Virgin flower according to the promise, * a divine bud pure and beautiful. * Therefore as the root of our life we magnify you."
 
 meMA.Ode9C2Tr.ode = misc_en_US_oca.Ode9
 meMA.Ode9C2Tr.mode = misc_en_US_oca.Mode8
-meMA.Ode9C2Tr.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AllotrionTonMiteron.name
+meMA.Ode9C2Tr.melody = he.h.m8_en_US_oca.AllotrionTonMiteron.name
 meMA.Ode9C2Tr.text = "It is foreign to evil-doers to glorify the Trinity without beginning: * the Father, Son and Holy Spirit, * the uncreated and sovereign Power * ho founded the whole world by an act of His might."
 
 meMA.Ode9C2T.ode = misc_en_US_oca.Ode9
 meMA.Ode9C2T.mode = misc_en_US_oca.Mode8
-meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AllotrionTonMiteron.name
+meMA.Ode9C2T.melody = he.h.m8_en_US_oca.AllotrionTonMiteron.name
 meMA.Ode9C2T.text = "You contained One of the Trinity in your womb, * Christ the King, Virgin Mother, * Whose praises all creation sings * and before whom the thrones on high tremble. * All-venerated Lady, entreat Him for the salvation of our souls."
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
