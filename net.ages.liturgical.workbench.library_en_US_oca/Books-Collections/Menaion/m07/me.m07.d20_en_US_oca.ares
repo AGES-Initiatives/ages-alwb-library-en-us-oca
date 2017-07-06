@@ -15,15 +15,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode1
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.Stichera01.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.Stichera01.text = "All-compassionate Word you translated Elijah the Tishbite * from the earth in a fiery chariot: * Through his prayers, save us who glorify you in faith ** as we celebrate his divine and honored memory in joy!"
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode1
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.Stichera02.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.Stichera02.text = "Elijah, blessed of God, * you beheld the presence of God which enlightened you, * not in an earthquake, but in a still small voice. * You ascended to heaven in a wondrous manner, * sitting upon a chariot drawn by four horses: ** You have become wonderful, God-inspired one!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode1
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.Stichera03.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.Stichera03.text = "Wise Elijah, in your burning zeal for God, * you slaughtered the priests of confusion with the sword! * By your word the heavens were bound * so that it might not rain upon the earth. * By giving your mantle to Elisha ** he grew and was filled with a double portion of divine grace!"
 
 meVE.SticGlory.poet = poets_en_US_oca.Vyzantiou
@@ -69,15 +69,15 @@ meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode4
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Aposticha1.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Aposticha1.text = "He who was sanctified before he was conceived, * angelic of body and of flaming intelligence, * the heavenly man, the herald of the second coming of Christ: * Glorious Elijah, pillar of the prophets and their cornerstone * has called lovers of feasts to celebrate his feast in spirit! * Through his intercessions, Christ God, ** save Your people from all harm by the deceiver!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode4
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Aposticha2.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Aposticha2.text = "When Elijah saw with divine wisdom * that all the people of Israel had departed from the Lord God, * and were led to the worship of idols, * he was stirred with zeal! * He held back the clouds; * he burned the earth and closed the heavens with a single word, saying: * Not a drop shall fall upon the earth without my word! * As we celebrate his memory, ** he grants ineffable grace to those who keep his feast with faith!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode4
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Aposticha3.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Aposticha3.text = "You divided the waters of the Jordan, Elijah * Seer of ineffable mysteries! * You turned the deceits of idols into ashes * by the lightning of your divine words. * You rebuked the king when he disobeyed the law. * You killed the priests of iniquity, burning their sacrifice by prayer. * Quench the flames of our passions and sorrows ** by the fire of your intercessions!"
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode6
@@ -89,23 +89,23 @@ meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = "Theotokos, * you are the true vine who blossomed for us the Fruit of life. * Implore Him, we pray you, Lady, * together with the apostles and all the saints, ** that He will have mercy on our souls!"
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
-meVE.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meVE.Apolytikion1.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = misc_en_US_oca.Mode1
-meMA.Kathisma1T.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma1T.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma1T.text = oc.m1.d1_en_US_oca.ocMA.Kathisma13.text
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode1
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma21.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode1
-meMA.Kathisma2T.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma2T.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma2T.text = oc.m1.d1_en_US_oca.ocMA.Kathisma23.text
 
 //Not in Menaion, optional Matins Gospel
@@ -216,11 +216,11 @@ meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OuraniasApsi
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -477,23 +477,23 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ExestiEpiTou
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.FosAnalloioton.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.FosAnalloioton.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.FosAnalloioton.name
+meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.FosAnalloioton.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode8
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TiYmasKalesomen.name
+meMA.Lauds1.melody = he.a.m8_en_US_oca.TiYmasKalesomen.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode8
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TiYmasKalesomen.name
+meMA.Lauds2.melody = he.a.m8_en_US_oca.TiYmasKalesomen.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode8
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TiYmasKalesomen.name
+meMA.Lauds3.melody = he.a.m8_en_US_oca.TiYmasKalesomen.notmetered
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode8

@@ -16,27 +16,27 @@ meHO.note2 = ""
 meDismissal = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode4
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera01.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera01.text = "You have given as the pride and glory of Your Church, Lover of mankind, * the holy apostles Peter and Paul. * They shine upon the world as spiritual stars; * through them You have enlightened our darkness, ** almighty Jesus, the Savior of our souls!"
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode4
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera02.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera02.text = "You have given two mighty pillars to Your Church, Lord: * Peter the rock and Paul the wise. * They proclaim the truth and chase away the errors of godlessness. * Their words reveal Your glory to us, ** almighty Jesus, the Savior of our souls!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode4
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera03.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera03.text = "You have given two models of conversion to the faithful, Lord: * Your blessed apostles Peter and Paul. * One repented, after denying You at the time of Your passion; * the other believed, after opposing Your preaching: * Now they both stand among the first of Your friends, ** almighty Jesus, the Savior of our souls!"
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera04.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera04.text = "Let us bless the honorable disciples! * They were the eye-witnesses of the incarnate Word. * They shine upon the world like flashes of lightning; * as spiritual giants they bring sweetness to our souls. * They are rivers of paradise, ** flowing with living water for the refreshment of the churches!"
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode4
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera05.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera05.text = "Let us honor Christ's fellow-laborers! * They are lightning bolts hurled to earth by the might of the Spirit; * workers of miracles and witnesses of the mysteries, * tablets of divine love written by the hand of God, ** honorable masters of the divine law!"
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode4
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera06.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera06.text = "The foolishness of the philosophers is corrected by the rod of the fishermen! * The vanity of the orators is put to confusion by divine wisdom! * The apostles proclaimed the infinite goodness of the Gospel; * now they exult in the communion of eternal blessedness: ** the joy of the angels and the unfading crown of glory!"
 
 meVE.SticGlory.poet = poets_en_US_oca.KosmaMonachou
@@ -53,11 +53,11 @@ meVE.Aposticha1.melody = misc_en_US_oca.AutomelonNotMetered
 meVE.Aposticha1.text = me.m06.d29_en_US_oca.meMA.Lauds1.text
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode4
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Aposticha2.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Aposticha2.text = me.m06.d29_en_US_oca.meMA.Lauds2.text
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode4
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Aposticha3.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Aposticha3.text = me.m06.d29_en_US_oca.meMA.Lauds3.text
 
 meVE.AposGlory.poet = poets_en_US_oca.EfraimKarias
@@ -190,11 +190,11 @@ meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.EffrainetaiE
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode4
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -451,27 +451,27 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.LithosAcheir
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TonMathitonOrontonSe.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TonMathitonOrontonSe.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode4
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds1.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode4
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds2.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode4
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds3.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode4
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds4.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds4.text = ""
 
 meMA.MM.Lauds123as456.text = "" // for media

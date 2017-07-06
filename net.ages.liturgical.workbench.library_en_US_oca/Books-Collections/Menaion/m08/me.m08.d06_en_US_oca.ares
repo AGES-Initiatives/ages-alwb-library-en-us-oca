@@ -16,15 +16,15 @@ meHO.note2 = ""
 meDismissal = dismissals_en_US_oca.dis00.transfiguration
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode4
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meSV.Stichera1.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode4
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meSV.Stichera2.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode4
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meSV.Stichera3.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode8
@@ -32,19 +32,19 @@ meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode2
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode2
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode2
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode2
-meSV.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.AposGlory.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.AposGlory.text = ""
 
 meVE.Stichera01.poet = poets_en_US_oca.KosmaMonachou
@@ -112,15 +112,15 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode4
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode4
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+meMA.Kathisma31.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
@@ -215,7 +215,7 @@ meMA.Ode3C23.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OuraniasApsi
 meMA.Ode3C23.text = "Being perfect God, You became perfect man, bringing together in Your Person humanity and perfect divinity which Moses and Elijah saw on Mount Tabor in two natures."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.text = "You were transfigured on Mount Tabor, Christ God, between Moses and Elijah the wise, in the presence of James, Peter and John; and Peter as he stood there, spoke to You: It would be good to make three tabernacles here: One for Moses, one for Elijah, and one for You, Christ our Master. You have shone on them with Your light, now enlighten our souls!"
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -492,15 +492,15 @@ meMA.Exaposteilarion1.melody = misc_en_US_oca.AutomelonNotMetered
 meMA.Exaposteilarion1.text = he.a.m3_en_US_oca.FosAnalloioton.text
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode4
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds1.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode4
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds2.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode4
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds3.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.poet = poets_en_US_oca.Vyzantos

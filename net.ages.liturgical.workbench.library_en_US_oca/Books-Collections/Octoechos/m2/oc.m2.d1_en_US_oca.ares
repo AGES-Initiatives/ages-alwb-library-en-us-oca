@@ -536,7 +536,7 @@ ocMA.OdeS6C32.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.IchouRimato
 ocMA.OdeS6C32.text = ""
 
 ocMA.Kontakion.mode = misc_en_US_oca.Mode2
-ocMA.Kontakion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TaAnoZiton.name 
+ocMA.Kontakion.melody = he.a.m2_en_US_oca.TaAnoZiton.notmetered 
 ocMA.Kontakion.text = ""
 
 ocMA.Oikos.mode = misc_en_US_oca.Mode2

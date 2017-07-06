@@ -31,19 +31,19 @@ ChristotitaEkdidachtheis.text2 = ""
 // For one unnamed Martyr
 OMartysSouKyrie.name = ""
 OMartysSouKyrie.mode = misc_en_US_oca.Mode4
-OMartysSouKyrie.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+OMartysSouKyrie.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 OMartysSouKyrie.text = ""
 
 // For several unnamed Martyrs
 OiMartyresSouKyrie.name = ""
 OiMartyresSouKyrie.mode = misc_en_US_oca.Mode4
-OiMartyresSouKyrie.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+OiMartyresSouKyrie.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 OiMartyresSouKyrie.text = ""
 
 // For one unnamed woman Martyr
 IAmnasSou.name = ""
 IAmnasSou.mode = misc_en_US_oca.Mode4
-IAmnasSou.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+IAmnasSou.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 IAmnasSou.text = ""
 
 // For a group of unnamed Martyrs
@@ -62,7 +62,7 @@ KaiTroponMetochos.text2 = ""
 // For one named ascetic man. Insert name with semicolon. See Automelon: he.a.m1_en_US_oca.TisErimouPolitis.text
 TisErimouPolitis.name = ""
 TisErimouPolitis.mode = misc_en_US_oca.Mode1
-TisErimouPolitis.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TisErimouPolitis.name
+TisErimouPolitis.melody = he.a.m1_en_US_oca.TisErimouPolitis.notmetered
 TisErimouPolitis.text1 = ""
 TisErimouPolitis.text2 = ""
 

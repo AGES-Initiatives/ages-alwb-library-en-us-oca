@@ -115,15 +115,15 @@ trMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgio
 trMA.Ode3C1T.text = "I have set my trust in you, my only refuge: * Do not let me fall away from my good hope, * but grant me your protection, pure Virgin, * and deliver me from every assault by my enemies!"
 
 trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-trMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+trMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 trMA.Ode3Kathisma1.text = "Overcome with shame and sorrow at his evil deeds, * humility exalted the Publican: * he cried out to the Creator: Be merciful! * But the unhappy Pharisee who spoke in pride * was brought down from righteousness by his exaltation! * Therefore let us earnestly desire what is good, ** and avoid all that is evil."
 
 trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
-trMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+trMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 trMA.Ode3Kathisma2.text = "In days of old, humility exalted the Publican, * who cried out, lamenting: Be merciful!  And was justified. * Let us all follow his example, * for we have fallen to the depths of evil. * Let us cry to the Savior from the depths of our hearts: * We have sinned; be merciful, ** as the only Lover of mankind!"
 
 trMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode4
-trMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+trMA.Ode3Kathisma3.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 trMA.Ode3Kathisma3.text = "Hasten to receive our prayers, Lady, * and bring them before your Son and God, all-blameless Queen. * Deliver those who run to you from tribulation, * crushing the assaults of the ungodly ** casting down the impudence of those who attack your servants!"
 
 trMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -217,11 +217,11 @@ trMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinTh
 trMA.Ode6C1T.text = "I was created naked in innocence and simplicity; * then the enemy clothed me with the garment of sin and passionate flesh. * But now I am saved, Maiden, through your intercession."
 
 trMA.Kontakion0.mode = misc_en_US_oca.Mode4 
-trMA.Kontakion0.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+trMA.Kontakion0.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 trMA.Kontakion0.text = "Let us flee from the pride of the Pharisee! * And learn humility from the publican's tears! * Let us cry to our Savior, * Have mercy on us, ** only merciful One!"
 
 trMA.Kontakion1.mode = misc_en_US_oca.Mode3
-trMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+trMA.Kontakion1.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 trMA.Kontakion1.text = "As the Publican, let us bring tears of repentance to the Lord, * falling before him as sinners before the feet of our Master. * For he desires the salvation of all men, * granting forgiveness to all who repent and taking flesh for our sake ** though he is God, co-eternal with the Father!"
 
 trMA.Oikos1.text = "Let us all humble ourselves, brethren; groaning and lamenting and beating our conscience, that at the eternal Judgment we may receive forgiveness, and be  numbered with the faithful and righteous.  Let us pray to see the true peace of the age to come, where there is no more sorrow or sighing, in the glorious Eden fashioned by Christ, ** For he is God, co-eternal with the Father!"
@@ -332,11 +332,11 @@ trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthrop
 trMA.Ode9C1T.text = "We honor you, all-pure Virgin, and magnify your child-bearing! * Grant us to praise, bless, and glorify you worthily, * for you alone are blessed. * You are the boast of Christians, and an acceptable intercessor before God!"
 
 trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-trMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 trMA.Exaposteilarion1.text = ""
 
 trMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-trMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+trMA.ExapTheotokion.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 trMA.ExapTheotokion.text = ""
 
 trMA.Lauds1.mode = misc_en_US_oca.Mode1
@@ -366,7 +366,7 @@ trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode4
-trLI.SeasonalKontakion.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+trLI.SeasonalKontakion.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 trLI.SeasonalKontakion.text = trMA.Kontakion0.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_oca.media.key

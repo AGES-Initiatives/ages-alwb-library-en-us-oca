@@ -173,15 +173,15 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode3
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
+meMA.Kathisma11.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode4
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meMA.Kathisma31.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.MM.Prokeimenon.text = "" //for media

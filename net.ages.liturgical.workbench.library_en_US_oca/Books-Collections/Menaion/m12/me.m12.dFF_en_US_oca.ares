@@ -15,19 +15,19 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode8
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OEnEdemParadeisos.name
+meVE.Stichera01.melody = he.a.m8_en_US_oca.OEnEdemParadeisos.notmetered
 meVE.Stichera01.text = "Today as we celebrate the forefathers' memory, * let us the faithful praise Christ the Redeemer, * Who magnified them in all the nations. * He is the Lord Who does wondrous deeds, * for He is powerful and mighty! * Through them He has shown us the rod of His strength: * she is Mary, the only pure and Virgin maiden of God! * From her Christ blossomed, ** bringing forth life, eternal salvation and unending bliss for all."
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode8
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OEnEdemParadeisos.name
+meVE.Stichera02.melody = he.a.m8_en_US_oca.OEnEdemParadeisos.notmetered
 meVE.Stichera02.text = "Master, You delivered the holy Youths from the fire, * and Daniel from the mouths of lions; * You blessed Abraham, Isaac your servant, and Jacob his Son: * you consented to become like us by being born of their seed, * to be crucified and buried, * in order to save our forefathers who fell of old. * Thus You crushed the bonds of death, * and raise with yourself all the dead of ages past, ** who worship You, Christ, King of the ages!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode8
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OEnEdemParadeisos.name
+meVE.Stichera03.melody = he.a.m8_en_US_oca.OEnEdemParadeisos.notmetered
 meVE.Stichera03.text = "Walking amidst the flames as in a gentle shower of rain, * the Godly Youths exulted in the dew of the Spirit. * By this they mystically prefigured the Trinity and Christ's incarnation. * Wise through faith, they quenched the power of fire. * So also the righteous Daniel stopped the mouths of lions. * through their intercessions we beseech you, * Savior, the Lover of mankind: * Deliver us from the unquenchable and eternal fire ** and make us worthy of Your heavenly Kingdom!"
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode8
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OEnEdemParadeisos.name
+meVE.Stichera04.melody = he.a.m8_en_US_oca.OEnEdemParadeisos.notmetered
 meVE.Stichera04.text = "Standing in a furnace of flaming fire as though in dew, * the holy Youths mystically prefigured Your coming from a Virgin, * by which we are illumined but not consumed! * So also the righteous Daniel, * glorious among the prophets, * clearly revealed Your divine second coming when he cried out: * I saw thrones set up and the Judge was seated, * and the river of fire flowed before Him! ** By their intercessions save us from this fire, Christ our Master!"
 
 meVE.SticGlory.poet = poets_en_US_oca.Anatoliou
@@ -145,7 +145,7 @@ meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = "The flame was changed to dew for the youths, * and grief was chanced to joy for the women: * An angel was minister to both the wonders, * changing the furnace into a place of rest for the youths, * and revealing the resurrection on the third day to the women! ** Lord, the author of our life, glory to You!"
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -407,29 +407,29 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.MystirionXen
 meMA.Ode9C2T.text = "The Word of the Father comes forth from the Virgin * and without change is born in a cave for my sake. * Let creation dance with joy, ** and with thankful voice magnify His all-holy condescension and compassion!"
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = "Let us who love the fathers come together, * rejoicing in their memory! * Rightly praising Abraham, Isaac and Jacob * from whom Christ was revealed coming in the flesh ** in His great compassion!"
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.text = "Let us praise Adam, * Abel, Seth and Enos, * Enoch and Noah, * Abraham, Isaac and Jacob, * Moses, Job and Aaron, * Eliezar, Joshua, Barak, Samson, ** Jephtha, David and Solomon!"
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode2
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Lauds1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Lauds1.text = "Now let us all celebrate * the commemoration * of the holy forefathers, * praising their way of life, ** for which they have been magnified!"
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode2
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Lauds2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Lauds2.text = "The Youths exulted * in the furnace, * extinguishing the might of the fire. * They sang a hymn of praise ** to the Almighty God."
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode2
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Lauds3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Lauds3.text = "Daniel the prophet * was locked in the lions' den. * Though dwelling with wild beasts * he was preserved unharmed ** in spite of their wickedness!"
 
 meMA.LaudsGlory.poet = poets_en_US_oca.Germanou

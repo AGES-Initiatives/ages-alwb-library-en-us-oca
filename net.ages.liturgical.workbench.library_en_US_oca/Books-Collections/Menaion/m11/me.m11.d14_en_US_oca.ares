@@ -15,15 +15,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode6
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+meVE.Stichera01.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 meVE.Stichera01.text = "Having established action, blessed one, * as an entrance into true vision, * and vision as the end of divine action, * you implored Christ to show you the ineffable glory of the Father, * for every reasonable creature desires witness of God. * You received the One you desired, glorious one, * of Whom the Son is the image! ** Pray to Him boldly for our souls!"
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode6
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+meVE.Stichera02.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 meVE.Stichera02.text = "As Moses of old, * you were instructed by divine ascent. * Desiring to see God you spiritually saw his image. * You accepted the Son as knowledge and testimony of the Father, * for they are known as one being: * The Unity honorably exalted by all, ** the Kingdom, power, glory and worship!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode6
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+meVE.Stichera03.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 meVE.Stichera03.text = "God-seer Philip, * you proclaimed with divine inspiration and the teaching of the Holy Spirit, * sounding the Savior's heavenly Gospel in the world with a fiery tongue. * You burned all deceit to ashes like dried grass. * You proclaimed the Lord Christ in the universe, ** Who is Master over all."
 
 meVE.SticGlory.poet = poets_en_US_oca.Vyzantos
@@ -36,15 +36,15 @@ meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_oca.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode8
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Aposticha1.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meVE.Aposticha1.text = "Most glorious wonder! * The apostle who once cast his nets for fish * has become a fisher of men appointed by God! * He fished for the nations with the net of his words * and brought up the world with the rod of the Cross! * What a draught the divine worker brought to God, ** he whose memory we now celebrate!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode8
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Aposticha2.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meVE.Aposticha2.text = "Most glorious wonder! * Sent by God like a lamb among wolves, * the Apostle Philip fearlessly strode forth, * and through faith revealed wild beasts to be lambs, * divinely transforming the world! * How great his works of faith; his most excellent powers! * By his prayers, Christ, save our souls, ** since You alone are compassionate!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode8
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Aposticha3.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meVE.Aposticha3.text = "Most glorious wonder! * The Apostle Philip, through the outpouring of wisdom, * has become a well-spring of life * flowing forth to those who are in the world! * Streams of teaching proceed from him, * and we drink the torrents of their wonders! * How many awesome miracles the divine worker has wrought, ** whose memory we glorify with faith!"
 
 meVE.AposGlory.poet = poets_en_US_oca.Vyzantiou
@@ -63,12 +63,12 @@ meVE.MM.GeneralApolytikion1.text = "" // for media
 
 meVE.Apolytikion2.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode3
-meVE.Apolytikion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+meVE.Apolytikion2.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meVE.Apolytikion2.text = ""
 
 meVE.Apolytikion3.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion3.mode = misc_en_US_oca.Mode1
-meVE.Apolytikion3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TisErimouPolitis.name
+meVE.Apolytikion3.melody = he.a.m1_en_US_oca.TisErimouPolitis.notmetered
 meVE.Apolytikion3.text = ""
 
 meMA.C1Poet = poets_en_US_oca.Theofanous
@@ -123,15 +123,15 @@ meMA.Ode3H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode3H.text = he.h.m6_en_US_oca.OukEstinAgios.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -200,7 +200,7 @@ meMA.Ode6H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode6H.text = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode8
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OsAparchas.name
+meMA.Kontakion1.melody = he.a.m8_en_US_oca.OsAparchas.notmetered
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
@@ -278,27 +278,27 @@ meMA.Ode9H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode9H.text = he.h.m2_en_US_oca.AporeiPasaGlossa.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion2.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode1
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode1
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode1
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode2

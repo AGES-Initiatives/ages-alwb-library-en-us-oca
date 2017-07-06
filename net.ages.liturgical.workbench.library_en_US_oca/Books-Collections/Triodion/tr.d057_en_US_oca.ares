@@ -14,15 +14,15 @@ trHO.note2 = ""
 trDismissal = dismissals_en_US_oca.dis00.resurrection
 
 trVE.Stichera01.mode = misc_en_US_oca.Mode6
-trVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera01.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = misc_en_US_oca.Mode6
-trVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera02.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = misc_en_US_oca.Mode6
-trVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera03.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trVE.Stichera03.text = ""
 
 trVE.SticGlory.mode = misc_en_US_oca.Mode4
@@ -183,7 +183,7 @@ granting by His Word alone
 remission of transgressions to all who sin."
 
 trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-trMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+trMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 trMA.Ode3Kathisma1.text = "You subdued all the rebellious impulses of the flesh through ascetic labor,
 showing the courage of a man in your soul.
 As you desired to behold the Cross of the Lord, honored Mother,
@@ -193,7 +193,7 @@ Therefore we honor your memory with faith, blessed Mary,//
 praying that we may be given complete remission of our sins at your intercessions."
 
 trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode8
-trMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+trMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 trMA.Ode3Kathisma2.text = "Let us sing the praises of the ark and the gate of heaven,
 the holy mountain and the cloud of light,
 the heavenly ladder and the spiritual paradise,
@@ -399,7 +399,7 @@ the angels proclaim to us all peace on earth
 and good will towards the human race."
 
 trMA.Kontakion1.mode = misc_en_US_oca.Mode3
-trMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+trMA.Kontakion1.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 trMA.Kontakion1.text = "Having been a sinful woman,
 you became through repentance a bride of Christ.
 Having attained angelic life,
@@ -630,27 +630,27 @@ Therefore, spiritual heaven of the Creator of all,
 with faith and love we call you blessed."
 
 trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-trMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+trMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 trMA.Exaposteilarion1.text = ""
 
 trMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-trMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+trMA.ExapTheotokion.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 trMA.ExapTheotokion.text = da.d7_en_US_oca.daMA.ExapTheotokion.text
 
 trMA.Lauds1.mode = misc_en_US_oca.Mode6
-trMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trMA.Lauds1.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trMA.Lauds1.text = trVE.Stichera01.text
 
 trMA.LaudsSundayVerse1.text = ""
 
 trMA.Lauds2.mode = misc_en_US_oca.Mode6
-trMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trMA.Lauds2.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trMA.Lauds2.text = trVE.Stichera02.text
 
 trMA.LaudsSundayVerse2.text = ""
 
 trMA.Lauds3.mode = misc_en_US_oca.Mode6
-trMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trMA.Lauds3.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trMA.Lauds3.text = trVE.Stichera03.text
 
 trMA.LaudsGlory.mode = misc_en_US_oca.Mode1

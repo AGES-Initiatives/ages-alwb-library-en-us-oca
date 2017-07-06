@@ -14,19 +14,19 @@ peHO.note2 = ""
 peDismissal = dismissals_en_US_oca.dis00.resurrection
 
 peVE.Stichera07.mode = misc_en_US_oca.Mode6
-peVE.Stichera07.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+peVE.Stichera07.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 peVE.Stichera07.text = ""
 
 peVE.Stichera08.mode = misc_en_US_oca.Mode6
-peVE.Stichera08.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+peVE.Stichera08.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 peVE.Stichera08.text = ""
 
 peVE.Stichera09.mode = misc_en_US_oca.Mode6
-peVE.Stichera09.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+peVE.Stichera09.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 peVE.Stichera09.text = ""
 
 peVE.Stichera10.mode = misc_en_US_oca.Mode6
-peVE.Stichera10.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+peVE.Stichera10.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 peVE.Stichera10.text = ""
 
 peVE.SticGlory.mode = misc_en_US_oca.Mode6
@@ -86,11 +86,11 @@ peMA.Kathisma13.melody = ""
 peMA.Kathisma13.text = oc.m8.d1_en_US_oca.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = misc_en_US_oca.Mode8
-peMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+peMA.Kathisma21.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma22.mode = misc_en_US_oca.Mode8
-peMA.Kathisma22.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+peMA.Kathisma22.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 peMA.Kathisma22.text = oc.m8.d1_en_US_oca.ocMA.Kathisma12.text
 
 peMA.Kathisma23.mode = misc_en_US_oca.Mode8
@@ -148,11 +148,11 @@ peMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStereosasKa
 peMA.Ode3C1T.text = ""
 
 peMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-peMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+peMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 peMA.Ode3Kathisma1.text = ""
 
 peMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode8
-peMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+peMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 peMA.Ode3Kathisma2.text = ""
 
 peMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -297,27 +297,27 @@ peMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ExestiEpiTou
 peMA.Ode9C1T.text = ""
 
 peMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-peMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+peMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 peMA.Exaposteilarion1.text = ""
 
 peMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-peMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+peMA.ExapTheotokion.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 peMA.ExapTheotokion.text = ""
 
 peMA.Lauds6.mode = misc_en_US_oca.Mode4
-peMA.Lauds6.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+peMA.Lauds6.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 peMA.Lauds6.text = ""
 
 peMA.LaudsVerse7.text = ""
 
 peMA.Lauds7.mode = misc_en_US_oca.Mode4
-peMA.Lauds7.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+peMA.Lauds7.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 peMA.Lauds7.text = ""
 
 peMA.LaudsVerse8.text = ""
 
 peMA.Lauds8.mode = misc_en_US_oca.Mode4
-peMA.Lauds8.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+peMA.Lauds8.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 peMA.Lauds8.text = ""
 
 peMA.Lauds345 = "" //for media

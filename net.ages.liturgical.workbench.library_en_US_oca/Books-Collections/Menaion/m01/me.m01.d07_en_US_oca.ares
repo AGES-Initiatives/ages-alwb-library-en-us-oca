@@ -29,15 +29,15 @@ meVE.Stichera03.melody = ""
 meVE.Stichera03.text = me.m01.d06_en_US_oca.meVE.Stichera03.text
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode1
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera04.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode1
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera05.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode1
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera06.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_oca.Vyzantiou
@@ -51,15 +51,15 @@ meVE.SticBoth.melody = ""
 meVE.SticBoth.text = "God the Word appeared to mankind in the flesh. * ready for baptism, He stood in the Jordan, * and the Forerunner said to Him: * How shall I stretch forth my hand * and touch the head of Him Who rules all things? * Though You are the Child of Mary, * I know You to be the pre-eternal God. * Though You walk upon the earth, * yet You are hymned by the seraphim.  * And I who am but a servant know not how to baptize the Master! ** Lord past all understanding, glory to You!"
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode4
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Aposticha1.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha1.text = "When he saw You draw near to him, Master, * John the Forerunner was amazed, * and as a faithful servant he cried out in fear: * Savior, what is this humility?* What is this poverty You have put on? * In the wealth of Your goodness and compassion, * You have raised up man from his humiliation, ** by clothing Yourself in him!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode4
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Aposticha2.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha2.text = "Come to me this day, * The Savior of all replied to the Forerunner, * For I bring to pass a mystery. * Serve me with trembling, yet do not draw back in fear. * For undefiled by nature, * I stand now before you in the waters of the Jordan and am baptized as Man: ** I renew Adam, who was shattered by sin."
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode4
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Aposticha3.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha3.text = "Who among men, Replied John, Has seen the sun being cleansed, * and the One Who covered the heaven with clouds stripped naked? * Who has seen the One Who made the springs and rivers, * Himself enter the waters? * I stand amazed at Your ineffable dispensation, Master. ** Do not burden Your servant with fearful commands!"
 
 meVE.AposGlory.poet = poets_en_US_oca.Vyzantos
@@ -77,11 +77,11 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m08.d29_en_US_oca.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TouLithouSfragisthentos.name
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.C1Poet = poets_en_US_oca.Theofanous
@@ -136,11 +136,11 @@ meMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EnPetraMeTis
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -282,7 +282,7 @@ meMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ITonProIliou
 meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3

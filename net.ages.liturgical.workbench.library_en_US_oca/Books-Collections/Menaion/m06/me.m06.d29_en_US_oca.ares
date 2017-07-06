@@ -16,15 +16,15 @@ meHO.note2 = ""
 meDismissal = ""
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode4
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meSV.Stichera1.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode4
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meSV.Stichera2.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode4
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meSV.Stichera3.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.poet = poets_en_US_oca.Germanou
@@ -37,19 +37,19 @@ meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode6
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.Aposticha1.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode6
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.Aposticha2.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode6
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.Aposticha3.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode6
-meSV.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.AposGlory.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.AposGlory.text = ""
 
 meVE.Stichera01.poet = poets_en_US_oca.AndreouPyrou
@@ -58,11 +58,11 @@ meVE.Stichera01.melody = misc_en_US_oca.AutomelonNotMetered
 meVE.Stichera01.text = he.a.m2_en_US_oca.PoioisEffimionStemmasin.text
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode2
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meVE.Stichera02.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meVE.Stichera02.text = "How shall we worthily sing hymns to honor Peter and Paul? * Their hands were filled with grace and truth; * their feet carried them to the ends of the earth, * preaching the Gospel of peace. * Once driven by the wind of the Spirit, * they are now carried up to heaven! * Truly they are rivers of wisdom and upholders of the Cross! * Through them Christ our God, Who has great mercy, ** has cast down the arrogance of demons!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode2
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meVE.Stichera03.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meVE.Stichera03.text = "What spiritual songs shall we sing for Peter and Paul? * They have silenced the sharp tongues of the godless. * They are awesome swords of the Spirit. * They are the adornment of Rome; * they have nourished the whole world with the Word of God. * They are the living tablets of the New Testament * written by the hand of God: * Christ, Who has great and rich mercy, ** has exalted them in Zion."
 
 meVE.SticGlory.poet = poets_en_US_oca.IoannouMonachou
@@ -134,23 +134,23 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode8
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma11.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = misc_en_US_oca.Mode8
-meMA.Kathisma1T.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma1T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode8
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma21.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode8
-meMA.Kathisma2T.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma2T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode8
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
@@ -572,11 +572,11 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OrousParilth
 meMA.Ode9C2T.text = "Virgin, you bore the Incarnate Word,  * Who as the Word without flesh desired to renew my nature.  * Therefore we magnify you without ceasing, Theotokos!"
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode4
@@ -584,15 +584,15 @@ meMA.Lauds1.melody = misc_en_US_oca.AutomelonNotMetered
 meMA.Lauds1.text = he.a.m4_en_US_oca.OExYpsistouKlitheis.text
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode4
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds2.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds2.text = "When the Savior asked the twelve apostles, * Who do men say that I am? * Peter the leader of the disciples, received heavenly grace. * He cried out in a clear voice: * You are the Messiah, the Son of the living God! * He is worthy of our highest praise, * for he was given this revelation from the Father in heaven! ** He has justly won the power of binding and loosing."
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode4
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds3.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds3.text = "Peter, it is right to call you the rock! * The Lord established the unshaken faith of the Church on you. * He made you the chief shepherd of his reasonable sheep. * He has entrusted you with the keys of the heavenly gates. * In His goodness, He commanded you to open to all who draw near in faith. * Your Master counted you worthy to be crucified. ** Plead with Him to enlighten and save our souls!"
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode4
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds4.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds4.text = ""
 
 meMA.MM.Lauds123as456.text = "" // for media

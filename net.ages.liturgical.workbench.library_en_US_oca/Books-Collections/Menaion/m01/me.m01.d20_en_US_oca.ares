@@ -15,15 +15,15 @@ meHO.note1 = rubrical_en_US_oca.HolidayWineOil
 meHO.note2 = ""
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode1
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode1
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode1
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode2
@@ -35,43 +35,43 @@ meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode2
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode2
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode2
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode2
-meSV.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.AposGlory.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.AposGlory.text = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode1
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera01.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera01.text = "A heavenly angel was sent beforehand * to announce your birth, Father Euthymius. * Like John, you came from the womb of a barren woman * and you showed yourself to be his follower. * You were a homeless one who spurned possessions, * sharing his way of life. * Like the Baptist, you sustained yourself in the mountains, ** shining forth with boundless miracles!"
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode1
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera02.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera02.text = "You brought forth fruit from barrenness, * Father Euthymius. * You were shown to have many children indeed, * for the desert that once was trackless * was filled with monastics, your spiritual offspring. ** Pray now that our souls may be granted peace and great mercy!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode1
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera03.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera03.text = "You excelled in your life, Father Euthymius, * and your faith was truly Orthodox. * Through activity you reached the highest vision * and became a dwelling of wisdom. * You worshipped Christ in two natures as one of the Trinity. ** Pray to Him on our behalf!"
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera04.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera04.text = "You were sanctified from your mother's womb * when the eye of Him who sees all things * perceived your purpose and desire * ever leading towards higher things. * Most blessed one, He declared you to be a gift of God, * the namesake of good courage. * He loosed the sorrow of your parents. * You advanced from infancy pleasing God, our Benefactor. ** Beseech Him that He may save and enlighten our souls!"
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode4
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera05.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera05.text = "Christ found you to be a clear mirror of divine revelations. * He enlightened you with the radiant splendor of His light. * He filled you with divine gifts, Father. * You were revealed to be a source flowing with healings, * a feeder of the hungry, * watering with rains the desire of those who thirst. * Looking upon souls as pledges, wise one, * by your teaching, you helped them towards God. ** Entreat Him that He may save and enlighten our souls!"
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode4
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera06.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera06.text = "Your angelic life shone with vision and activity * as a standard and excellent model of virtue * for those who desire to worship God in perfection! * Your divinely-wise teaching, Euthymius, * taught all to worship the Trinity, * that Christ is known to be One in two natures * and that the councils were equal in number to Christ's four Gospels. ** Entreat Him that He may save and enlighten our souls!"
 
 meVE.SticGlory.poet = poets_en_US_oca.TheodorouTouStouditou
@@ -106,15 +106,15 @@ meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m4.d1_en_US_oca.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha1.text = "Rejoice, venerable Father, * for you are the cause of good courage for the Church! * By your birth all the assaults of heretics * were repelled by the providence of God! * Therefore He named you Euthymius, or good courage. * You filled the ranks of heavenly beings with joy by the brilliance of your life! * Now as you make your dwelling with them, filled with light, * and enjoy the most blessed and divine radiance, ** entreat Christ that He may grant our souls great mercy."
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha2.text = "Made firm by the staff of the Cross, * you dried up the sea of iniquity. * Spiritually watered by the stream of divine sweetness * and the rivers of paradise, * you revealed springs of salvation in the desert! * You were watered like a palm tree with streams of the divine Spirit. * You hastened to the heights of heaven, venerable one, * showing yourself a fiery pillar of light-bearing radiance. * Therefore, divinely wise one, ** entreat Christ that He may grant great our souls mercy!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha3.text = "You have passed over indeed with joy and gladness of soul * to the wonderful tabernacle, the house of God. * There, most blessed Father, * you listen to the beautiful voices, * the sweet hymns and ineffable delight of those who keep the feast. * You share in their beauty, Euthymius. * This alone you desired as you crucified your flesh * and you reached it, adorned with the righteousness of God. ** Entreat Christ that He may grant the world great mercy!"
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode5
@@ -130,31 +130,31 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Rejoice, barren wilderness! * Be glad, sterile desert, that has never known the travail of birth! * The man of desires has multiplied your sons; * he has planted them in faith and piety. * He has watered them with the Holy Spirit: * They grow in self-denial and perfect virtue. ** Through his intercessions, Christ our God, preserve Your people in peace!"
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode4
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma11.text = "Shining with unapproachable light, * you are radiant like a star in the deserts, * enlightening with your teachings * those who approach you with firmness of soul, ** Father Euthymius."
 
 meMA.Kathisma12.mode = misc_en_US_oca.Mode4
-meMA.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma12.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma12.text = ""
 
 meMA.Kathisma1T.mode = misc_en_US_oca.Mode4
-meMA.Kathisma1T.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma1T.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma1T.text = "Accept our entreaty as we turn to your protection, Virgin, * and never cease to pray to the Lover of mankind, ** that He may save His servants."
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode5
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma21.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma21.text = "You rejected the cares of life * and embraced the angelic life, * adorning your soul with abstinence. * You richly received grace from God, God-bearing Euthymius. ** Pray on behalf of us who praise you with devotion."
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode5
-meMA.Kathisma2T.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma2T.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma2T.text = "Have mercy, most holy Virgin, * on us who turn to you with faith, * for we ask for your fervent help, compassionate one. * As the good Mother of God most high, * you are filled with the grace of God. * You ever pray with the supplications of a Mother ** that He may save us all!"
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode8
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
-meMA.Kathisma3T.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma3T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma3T.text = ""
 
 meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
@@ -264,11 +264,11 @@ meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStereosasKa
 meMA.Ode3C2T.text = "You sealed the sayings of the prophets of God and their prophecies; * you fulfilled all their divine words, * blessed and all pure one!"
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = "You spiritually filled the lamp of your soul with the oil of abstinence, * desiring the ever-radiant coming of your bridegroom, venerable one. * you kept watch with vigilant prayers, living in His bridal chamber. * therefore, blessed one, you have fittingly received true sweetness * and the ever-living ability to perform miracles. * God-bearing Euthymius, entreat Christ God that He may grant remission of sins ** to those who celebrate your holy memory with love!"
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.text = "Mistress, I fittingly offer you, like the widow's two mites, * thankful praise for all your blessings, * for you have been shown to be my protection and help, * ever saving me from perils and tribulations. * therefore, delivered from oppressors as from the midst of the fiery furnace, * I cry out to you from the depths of my heart: * help me, Theotokos, by entreating Christ God * that He may grant me remission of my sins, ** for I, your servant, have you as my hope!"
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -392,7 +392,7 @@ meMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoi
 meMA.Ode6C2T.text = "We call you the Lady and Mistress of all, * for indeed you ineffably gave birth to God * Who created, sustains and embraces all, most pure one."
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode8
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OsAparchas.name
+meMA.Kontakion1.melody = he.a.m8_en_US_oca.OsAparchas.notmetered
 meMA.Kontakion1.text = "The wilderness rejoiced at your birth, holy Father Euthymius. * In your memory, it brings a harvest of joy through your many miracles! * Pour the wonders on our souls as well and cleanse us from our sins, ** that we may sing: Alleluia!"
 
 meMA.Oikos1.text = "How can I, wretch that I am, offer praise from my slothful heart? I am filled with fear when I sing hymns to the great Euthymius. Yet trusting in his prayers, I begin a hymn with good courage and great diligence. I retell for everyone his life and birth; ** And how his parents sang to God: Alleluia!"
@@ -520,27 +520,27 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ExestiEpiTou
 meMA.Ode9C2T.text = "Be a tower of salvation for me, pure one, * repelling the hordes of the demons * and driving away the tumult of temptations and tribulations, * repulsing the assault of the passions, * bestowing pure freedom and granting an abundance of the gifts of God!"
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = "God sanctified you from your mother's womb, * venerable Father, * showing you to be a divine prophet, * like Jeremiah and Samuel of old. * Together with them, wonder-working and God-bearing Euthymius, * as you dwell with the angels, ** remember those who hymn you with faith."
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode8
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds1.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds1.text = "Venerable Father Euthymius, * you forsook earthly things to follow after Christ. * You did not prefer corruptible things to those which are to come. * You lived in the desert as in a city, glorious one, * destroying hordes of the demons. ** Ever glorious one, who can help but retell your soul's true zeal for the Lord!"
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode8
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds2.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds2.text = "Venerable Father Euthymius, * you were revealed as a rule for monastics and their pride, * the delight of the Orthodox * and a beacon shining for the whole world! * You were not afraid of the terrors of the deceitful enemy * when you were living in the cave. * How great are the gifts that fill you, blessed one, * by which you openly trample underfoot ** all the arrogance of the demons!"
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode8
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds3.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds3.text = "Venerable Father Euthymius, * you indeed took flight, soaring aloft to God. * Having purified your senses, holy one, * by fasting and unceasing prayer, * you were counted worthy of immortal life, most blessed one. * Christ has received you, rejoicing, * all-glorious adornment of ascetics, ** into the spiritual mansions."
 
 meMA.LaudsGlory.poet = poets_en_US_oca.Sykeotou

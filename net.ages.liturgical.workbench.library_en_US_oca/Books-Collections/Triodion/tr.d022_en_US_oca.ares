@@ -14,19 +14,19 @@ trHO.note2 = ""
 trDismissal = dismissals_en_US_oca.dis00.resurrection
 
 trVE.Stichera01.mode = misc_en_US_oca.Mode6
-trVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera01.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = misc_en_US_oca.Mode6
-trVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera02.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = misc_en_US_oca.Mode6
-trVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera03.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trVE.Stichera03.text = ""
 
 trVE.Stichera04.mode = misc_en_US_oca.Mode6
-trVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+trVE.Stichera04.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 trVE.Stichera04.text = ""
 
 trVE.MM.Stichera123as567.text = properties_en_US_oca.media.key
@@ -114,15 +114,15 @@ trMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.OukEstinAgio
 trMA.Ode3C1T.text = "You are my hope and protection, holy Virgin, * for you alone have covered fallen Adam's nakedness: * By your childbearing, Lady, * clothe me once more with incorruption!"
 
 trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-trMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+trMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 trMA.Ode3Kathisma1.text = "Adam was cast out from the delight of Paradise: * when he broke the commandment of the Master in uncontrolled desire, * his taking of food became bitter, * and he was condemned to work the earth * from which he himself was taken. * He ate his bread in toil and sweat: * therefore let us love abstinence, * that we may enter through the gate, ** and not weep as he did outside of Paradise."
 
 trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
-trMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 trMA.Ode3Kathisma2.text = "Now the season of virtues has come, * and the Judge is at the door. * Let us not hold back with a darkened face, * but offering tears, contrition and giving of alms * let us keep the fast, and let us cry: * Our sins are more in number than the sands of the sea, ** but forgive each of us, that we may receive an incorruptible crown, Savior of all!"
 
 trMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode4
-trMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma3.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 trMA.Ode3Kathisma3.text = ho.s23_en_US_oca.hoCA.Apolytikion2.text
 
 trMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -272,11 +272,11 @@ trMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TheonAnthrop
 trMA.Ode9C1T.text = "Virgin Theotokos, you did not know man. * You are the spiritual gate of life through which none may pass: * By your prayers, open to me the gates of Paradise that were closed long ago * that I may glorify you, * for after God, you are my helper and strong refuge!"
 
 trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-trMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 trMA.Exaposteilarion1.text = ""
 
 trMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
-trMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 trMA.Exaposteilarion2.text = ""
 
 trMA.Lauds1.mode = misc_en_US_oca.Mode5

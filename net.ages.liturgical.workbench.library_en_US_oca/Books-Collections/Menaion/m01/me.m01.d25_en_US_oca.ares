@@ -15,27 +15,27 @@ meHO.note1 = rubrical_en_US_oca.HolidayWineOil
 meHO.note2 = ""
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode4
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera1.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode4
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera2.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode4
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera3.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera3.text = ""
 
 meSV.Stichera4.mode = misc_en_US_oca.Mode4
-meSV.Stichera4.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera4.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera4.text = ""
 
 meSV.Stichera5.mode = misc_en_US_oca.Mode4
-meSV.Stichera5.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera5.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera5.text = ""
 
 meSV.Stichera6.mode = misc_en_US_oca.Mode4
-meSV.Stichera6.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera6.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera6.text = ""
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode6
@@ -47,15 +47,15 @@ meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode2
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode2
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode2
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode2
@@ -67,27 +67,27 @@ meSV.AposBoth.melody = ""
 meSV.AposBoth.text = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode1
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera01.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera01.text = "The grave, the means of forgetfulness, * did not close your mouth, Father Gregory, * for you have been revealed as the voice of theology, * declaring now to the whole world the teachings of the faith! ** Pray that peace and great mercy may be granted to our souls! "
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode1
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera02.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera02.text = "You wisely turned from the hostile and treacherous flesh, * and mounting the heaven-bound chariot, Father Gregory, * you were drawn by the virtues as by four horses! * You soared aloft into ineffable beauty! * Now as you delight in it, ** grant our souls peace and great mercy!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode1
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera03.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera03.text = "Through grace you were a faithful mediator between God and men. * Now, as you brought Christ, mercifully turned toward us, Father Gregory, * by your bold prayers, never cease to pray to Him, venerable one, ** that He may grant our souls peace and great mercy!"
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode2
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meVE.Stichera04.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode2
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meVE.Stichera05.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode2
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meVE.Stichera06.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode8
@@ -120,15 +120,15 @@ meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m1.d3_en_US_oca.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha1.text = "Opening your mouth, directed by the word of God, * you have partaken of the Spirit of wisdom: * Full of grace, you proclaimed divine doctrine, thrice-blessed Gregory. * You have imitated the ceaseless worship of the angelic host, * preaching on earth the triune and undivided Light. * Illumined by your divine teaching we confess the one Godhead in Trinity: ** Pray for the salvation of our souls."
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha2.text = "With your tongue of fire, divinely-inspired Gregory, * you burned to ashes the false teachings of the enemies of God. * You have appeared to us as a man with divine words, * speaking in the Spirit of the mighty works of God, * writing for us of the hidden mystery of the Trinity of Persons, * equal in power and one in essence. * You have enlightened the ends of the earth as a radiant sun: ** Never cease to pray for the salvation of our souls."
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha3.text = "Rejoice, river of God, full of the waters of grace, * gladdening the ransomed people of Christ the King with divine teaching: * Rejoice, torrent of delight and inexhaustible sea of truth, * faithful and just guardian of doctrine, * undefeated warrior of the holy Trinity, * organ of the Holy Spirit and ever-vigilant mind, * your words explain the deep mysteries of the scriptures: ** Pray to Christ, that He may grant our souls great mercy!"
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode8
@@ -136,7 +136,7 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "You have cultivated the hearts of believers by your words, Gregory: * you have yielded abundant fruit for God: * An ever-green pasture of righteousness. * You have torn out by the roots the thorns of heresy, * cleansing the world by your divine reasoning. * We faithful in joy offer praise to you: * Inspired lyre and ever-vigilant mind, * faithful shepherd of the flock of Christ, * never cease to pray to the Word, Theologian, ** that He will deliver from the wolf all those who honor your memory."
 
 meVE.AposBoth.mode = misc_en_US_oca.Mode8
-meVE.AposBoth.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TiYmasKalesomen.name
+meVE.AposBoth.melody = he.a.m8_en_US_oca.TiYmasKalesomen.notmetered
 meVE.AposBoth.text = "Lady, you are the protection of all: * calm my confusion and distress. * Deliver me from the darkness of sin. * Save me from the tempest of life and the raging of the sea. * Send down upon me the gentle rain of your mercy. * Stretch forth your hand to help me. * Make me worthy of the inheritance of the righteous elect. ** Bestow upon me the depth of your mercy, pure one."
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode1
@@ -144,27 +144,27 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "The pastoral power of your theology * vanquished the vanity of the orators, * for you have sounded the depths of the Spirit of God * and were granted the gift of eloquence as well. * Pray to Christ our God, Father Gregory, ** that He will save our souls."
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode3
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Kathisma11.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meMA.Kathisma11.text = "You inherited divine enlightenment and mastered the spiritual life. * you excelled in holiness, * as supernaturally interpreting the teachings of the Church, * you confirmed the Orthodox Faith. * Entreat Christ God, venerable Father, ** that He may grant us great mercy."
 
 meMA.Kathisma1T.mode = misc_en_US_oca.Mode3
-meMA.Kathisma1T.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Kathisma1T.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode5
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma21.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma21.text = "Vigilant with the word of truth, holy hierarch, * theologizing the might of the Trinity, * casting down the vicious and evil heresy of Arius, * as a guardian and champion of devotion, ** you have illumined those who sit in the darkness of unbelief."
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode5
-meMA.Kathisma2T.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma2T.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma2T.text = "Quickly heal the very painful suffering of my soul * and the infirmities of my flesh. * set right the errors of my mind, most immaculate one. * Grant that in peace of mind, Theotokos, * I may offer entreaties to the King of all, ** and plead for remission of my sins."
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode8
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
-meMA.Kathisma3T.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma3T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma3T.text = ""
 
 meMA.MM.Prokeimenon.text = "" // for media
@@ -273,11 +273,11 @@ meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.ITonProSylli
 meMA.Ode3C2T.text = "Our first mother, Eve, stumbled in days of old. * Now you, Virgin Mother, in place of her, walk uprightly: * You receive within yourself the Word of the Father * Who by his invincible power sets upright those who are fallen."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = "You opened your mouth with the word of God, drawing out wisdom; * you planted divine wisdom throughout the whole world, preacher of light! * Indeed, you established dogmas, revealing yourself, like Paul, * to be a champion of the Orthodox Faith. * Therefore you are shown to be a fellow citizen with the angels * and a converser with them, blessed Gregory the Theologian! * Entreat Christ God that He may grant remission of sins ** to those who celebrate your holy memory with love!"
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.text = "I have been made to stumble by wicked thoughts; * I have fallen into the abyss of sin. * With groaning, I cry to you with all my heart, most pure one: * Reveal through me the wonder of your rich mercy, * the immeasurable depth of your loving-kindness * and the incalculable wealth of your compassion! * Grant me repentance and forgiveness of transgressions * that I may cry to you with love: * Entreat Christ God that He may grant me remission of sins, ** for I am your servant and you are my hope!"
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -411,7 +411,7 @@ meMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.ODiapontion.
 meMA.Ode6C2T.text = "The mystery of your ineffable and strange childbearing * is beyond human thought, Virgin Mother of God, * for while giving birth to the Creator of all, * you have remained Virgin."
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode3
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+meMA.Kontakion1.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 meMA.Kontakion1.text = "Glorious Father Gregory, * your knowledge has overcome the pride of false wisdom. * The Church is clothed with your teaching as a robe of righteousness. * We your children celebrate your memory crying out: ** Rejoice, Father of insurpassable wisdom!"
 
 meMA.Oikos1.text = "Fill my poor and passionate mind with the exalted wisdom of your theology, that I may sing hymns to your life, Father. For I cannot offer you words if you will not grant me strength of speech, understanding and wisdom, to bring you what is yours from your own. I will find a beginning there, in the wealth of your virtues, and will crown your precious and holy head, crying out with the faithful: ** Rejoice, Father of insurpassable wisdom!"
@@ -549,31 +549,31 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.OTonAnoVytho
 meMA.Ode9C2T.text = "Beyond nature, you became a dwelling of divine infinity, * for you lent flesh to God. * When He was born of you without seed, * He did not corrupt your virginal womb. * Pure one, we magnify you!"
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.text = "All-wise Theologian, * you taught that the three Person Unity; * the perfect Trinity, one in divinity, * should be worshipped, calling the Father light, * the Son, also light and the Holy Spirit light! * But one light, inseparable and unconfused, * for God is one. * You proclaimed the one essence, blessed Gregory."
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.text = "With your sublime teachings, all-wise one, * you triumphantly theologized the ineffable depth of the mysteries of Christ. * You preached orations on the martyrdoms and lives of the saints, * blessed Gregory. * Now that you are a God by participation, * as you proceed towards the divine, theologian, ** save and receive me also, in the places where you dwell!"
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 meMA.ExapTheotokion.text = "Great one, as you stand with the Theotokos and Virgin Mary, * together with Basil the great, before the unapproachable Trinity, * intercede now, all-wise one, for those who praise you, * hierarch Gregory, theologian and orator of the Church, * asking peace for the world, ** strength for our leaders, and salvation for our souls!"
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode4
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds1.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds1.text = "Cutting through the murkiness of the letter, * you entered with the spirit into the most sublime light! * By the flood of light you received from there, * you enriched all with theology, * all-wise Gregory, enlightener of the Church. * You diminished the dark clouds of heresies * with the lightning flashes of your words! * Therefore, companion of the angels, * you dwell where there is the sound of those who celebrate, ** ever interceding that our souls may be saved."
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode4
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds2.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds2.text = "Gregory, the second theologian, * and initiate of divine illumination, * the bright writer of the Trinity, * supernaturally teaching about the ineffable, divine nature: * Now as you more clearly rejoice in God, * remember those who honor you, * and defend the Church you gathered together! * For your fame has gone out to all the ends of the world, ** plainly teaching that the consubstantial, holy Trinity is to be glorified!"
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode4
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds3.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds3.text = "Cultivating the furrows of the heart * and planting divine seed, preacher of God, * you enriched all the fullness of the Church * with the height of theology. * Then you burned the weeds of heresies with the fire of the Spirit! * Father of fathers, and pastor of pastors, * glory of the faithful, enlightener of priests, * you are the glory of the world, all-blessed Gregory, ** nourished by the desiring love of divine philosophy!"
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode4
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meMA.Lauds4.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meMA.Lauds4.text = "Approaching the large vessel of wisdom, * you drew out the divine spring of theology. * You abundantly imparted it to the faithful! * You blocked the current filled with soul destroying blasphemy. * For the Holy Spirit found you as a ruling governor, * frightening and driving away as blasts of wind the assaults of the impious, ** proclaiming the Trinity to be one in essence."
 
 meMA.LaudsGlory.poet = poets_en_US_oca.Anatoliou

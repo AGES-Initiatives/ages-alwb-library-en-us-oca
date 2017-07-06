@@ -15,15 +15,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode1
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode1
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode1
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode8
@@ -31,45 +31,45 @@ meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode2
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode2
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode2
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode2
-meSV.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.AposGlory.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.AposGlory.text = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode1
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.OTouParadoxouThavmatos.name
+meVE.Stichera01.melody = he.a.m1_en_US_oca.OTouParadoxouThavmatos.notmetered
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode1
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.OTouParadoxouThavmatos.name
+meVE.Stichera02.melody = he.a.m1_en_US_oca.OTouParadoxouThavmatos.notmetered
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode1
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.OTouParadoxouThavmatos.name
+meVE.Stichera03.melody = he.a.m1_en_US_oca.OTouParadoxouThavmatos.notmetered
 meVE.Stichera03.text = ""
 
 meVE.MM.Stichera1123as78910.text = properties_en_US_oca.media.key
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera04.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera04.text = "Led by the Holy Spirit, * the holy and immaculate maid is taken to dwell in the holy Temple. * she who is in truth the most holy Temple of our holy God * is fed by an angel! * He has sanctified all things by her entry, ** and has made godlike the fallen nature of mortals."
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode4
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera05.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera05.text = "The young girls rejoice today, * and with their lamps in hand they go in reverence before the spiritual lamp * as she enters the Holy of Holies. * They foreshadow the ineffable brightness that is to shine forth from her * and to give light by the Spirit ** to those who sit in the darkness of ignorance."
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode4
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera06.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera06.text = "Anna, the all-blessed cried out rejoicing: * Zachariah, take her whom the prophets of God proclaimed in spirit, * and lead her into the holy Temple, * there to be brought up in reverence, * that she may become the divine throne of the Master of all, ** His palace, His resting place, and dwelling filled with light!"
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode8
@@ -96,15 +96,15 @@ meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha1.text = "Heaven and earth rejoice, beholding the spiritual heaven, * the only Virgin without blemish, enters the house of God to be reared in reverence. * Zachariah cried to her in amazement: * gate of the Lord! to you I open the gates of the Temple: * rejoice and go round it in gladness. * For I know and believe that the deliverance of Israel * shall now come to dwell openly in our midst * and that from you shall be born God the Word, ** Who grants the world great mercy!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha2.text = "Anna, truly blessed by God's grace * led with gladness into the Temple of the Lord * the pure and ever-Virgin who is full of grace, * and she called the young girls to go before her with lamps in hand. * \"Go, child,\" she said, \"to Him Who gave you to me; * be to Him an offering and a sweet smelling incense. * Go into the place which none may enter: * Learn its mysteries and prepare yourself * to become the pleasing and beautiful dwelling-place of Jesus, ** Who grants the world great mercy!\""
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha3.text = "The most holy Virgin, Temple that is to hold God, * is dedicated within the Temple of the Lord; * and young girls, bearing lamps, now go before her. * Her noble parents, Joachim and Anna, leap for joy and dance, * for they have borne her who is to bear the Creator. * And she, the all-pure, with rejoicing goes round the divine habitations, * and is fed by the hands of an angel. * She it is who will become Mother of Christ, ** Who grants the world great mercy!"
 
 meVE.AposGlory.poet = poets_en_US_oca.SergiouAgiopolitou
@@ -117,15 +117,15 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode8
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.MM.Prokeimenon.text = "" // for media
@@ -289,7 +289,7 @@ meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.StereothitoI
 meMA.Ode3C2T.text = "The prophets proclaimed you in ages past, * speaking of you as the ark of holiness, * the golden censer, the candlestick and table: * as we sing your praises as the Tabernacle that held God."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.text = "Cry out, David: * What is this present feast? * Is it for her of whom you sang in the book of the Psalms, * calling her daughter, child of God and Virgin, saying: * Her companions, the virgins that follow her, * shall mystically be led to the King? * Let this feast be held in honor by all who cry: * The Theotokos is come among us, ** the mediator of our salvation!"
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -493,7 +493,7 @@ meMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.TonProfitinI
 meMA.Ode6C2T.text = "He whom nothing can contain was contained in your womb, * undefiled Theotokos, * and He has come forth from you in two natures, * both God and man."
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode4
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+meMA.Kontakion1.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.text = "The most pure Temple of the Savior * the precious chamber and Virgin * the sacred treasure of the glory of God * is presented today to the house of the Lord. * She brings with her the grace of the Spirit, * which the angels of God do praise. ** Truly this woman is the abode of heaven!"
 
 meMA.Oikos1.text = "Seeing the grace of the secret mysteries of God made manifest and clearly fulfilled in the Virgin, I rejoice, and I do not know how to understand the strange and secret manner in which the undefiled One has been revealed as alone chosen above all creation, both visible and spiritual. Therefore, while I want to praise her, I am struck dumb with amazement in both my thoughts and my speech. Yet still I dare to proclaim and magnify her: ** Truly this woman is the abode of heaven!"
@@ -728,23 +728,23 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.TinFotoforon
 meMA.Ode9C2T.text = "Virgin Theotokos, * intercede for those who seek refuge with faith beneath your compassion, * and who piously worship your Son as God and Lord of the world, * that they may be delivered from corruption and danger * and from manifold temptations."
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode1
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode1
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode1
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode1
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds4.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds4.text = ""
 
 meMA.LaudsGlory.poet = poets_en_US_oca.LeontosMaistoros

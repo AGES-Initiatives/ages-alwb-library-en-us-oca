@@ -230,15 +230,15 @@ trCA.Troparion3.melody = ""
 trCA.Troparion3.text = ""
 
 trMA.Kathisma21.mode = misc_en_US_oca.Mode3
-//trMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+//trMA.Kathisma21.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma22.mode = misc_en_US_oca.Mode3
-//trMA.Kathisma22.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+//trMA.Kathisma22.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 trMA.Kathisma22.text = ""
 
 trMA.Kathisma23.mode = misc_en_US_oca.Mode3
-//trMA.Kathisma23.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
+//trMA.Kathisma23.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 trMA.Kathisma23.text = ""
 
 trMA.C1Poet = poets_en_US_oca.IoannouEfchaiton
@@ -368,15 +368,15 @@ trMA.Ode3K.melody = misc_en_US_oca.Heirmos
 trMA.Ode3K.text = he.h.m4_en_US_oca.TousSousYmnologous.text
 
 trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-trMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+trMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 trMA.Ode3Kathisma1.text = ""
 
 trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode8
-trMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+trMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode8
-trMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+trMA.Ode3Kathisma3.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 trMA.Ode3Kathisma3.text = ""
 
 trMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -703,27 +703,27 @@ trMA.Ode9K.melody = misc_en_US_oca.Heirmos
 trMA.Ode9K.text = he.h.m4_en_US_oca.ApasGigenis.text
 
 trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-trMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 trMA.Exaposteilarion1.text = ""
 
 trMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-trMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+trMA.ExapTheotokion.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 trMA.ExapTheotokion.text = ""
 
 trMA.Lauds1.mode = misc_en_US_oca.Mode1
-trMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trMA.Lauds1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 trMA.Lauds1.text = ""
 
 trMA.Lauds2.mode = misc_en_US_oca.Mode1
-trMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trMA.Lauds2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 trMA.Lauds2.text = ""
 
 trMA.Lauds3.mode = misc_en_US_oca.Mode1
-trMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trMA.Lauds3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 trMA.Lauds3.text = ""
 
 trMA.Lauds4.mode = misc_en_US_oca.Mode1
-trMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trMA.Lauds4.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 trMA.Lauds4.text = ""
 
 trMA.LaudsGlory.mode = misc_en_US_oca.Mode2

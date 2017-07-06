@@ -21,11 +21,11 @@ trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = oc.m8.d2_en_US_oca.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = misc_en_US_oca.Mode1
-trVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+trVE.Stichera01.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 trVE.Stichera01.text = "Lord, you destroyed the curse on Adam * by your crucifixion. * Word, destroy my bonds, that I may offer you a sacrifice of praise, * in joy and faith during this acceptable time of fasting, ** which you have revealed for the salvation of all."
 
 trVE.Stichera02.mode = misc_en_US_oca.Mode1
-trVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+trVE.Stichera02.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 trVE.Stichera02.text = "When Moses shone with the grace of fasting, * he beheld the glory of God. * Emulate him, my humble soul, in prayer and abstinence, * for the One who graciously stretched out his hands on the cross. ** Do this to receive divine enjoyment!"
 
 trVE.Stichera03.mode = misc_en_US_oca.Mode6
@@ -33,19 +33,19 @@ trVE.Stichera03.melody = ""
 trVE.Stichera03.text = "Venerating your life-creating cross, * granted us by your boundless goodness, * with enlightened souls we always sing your praise, O Christ. * Enable us to complete the course of the fast with joy, * in wholeness of heart, * so that we may sing the praises of your Passion, ** by which you have saved us."
 
 trMA.Kathisma21.mode = misc_en_US_oca.Mode1
-trMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+trMA.Kathisma21.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma22.mode = misc_en_US_oca.Mode1
-trMA.Kathisma22.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+trMA.Kathisma22.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 trMA.Kathisma22.text = ""
 
 trMA.Kathisma31.mode = misc_en_US_oca.Mode6
-trMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.ElpisTouKosmouAgathi.name
+trMA.Kathisma31.melody = he.a.m6_en_US_oca.ElpisTouKosmouAgathi.notmetered
 trMA.Kathisma31.text = ""
 
 trMA.Kathisma32.mode = misc_en_US_oca.Mode6
-trMA.Kathisma32.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.ElpisTouKosmouAgathi.name
+trMA.Kathisma32.melody = he.a.m6_en_US_oca.ElpisTouKosmouAgathi.notmetered
 trMA.Kathisma32.text = ""
 
 trMA.C1Poet = poets_en_US_oca.Iosif
@@ -211,7 +211,7 @@ trMA.AposMartyric.melody = misc_en_US_oca.Automelon
 trMA.AposMartyric.text = he.a.m8_en_US_oca.TiYmasKalesomen.text
 
 trMA.AposTheotokion.mode = misc_en_US_oca.Mode8
-trMA.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+trMA.AposTheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 trMA.AposTheotokion.text = ""
 
 trTE.Troparion.mode = misc_en_US_oca.Mode5

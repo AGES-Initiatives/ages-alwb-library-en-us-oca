@@ -86,27 +86,27 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode5
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma11.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = misc_en_US_oca.Mode5
-meMA.Kathisma1T.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma1T.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode5
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma21.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode5
-meMA.Kathisma2T.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma2T.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma2T.text = oc.m5.d3_en_US_oca.ocVE.ApolTheotokionVM.text
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode8
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
-meMA.Kathisma3T.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma3T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma3T.text = ""
 
 meMA.MM.Prokeimenon.text = "" // for media
@@ -212,15 +212,15 @@ meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OuraniasApsi
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.text = "Come, faithful, and with a pure conscience * let us honor the Forerunner, Baptist and prophet of Christ, * for as a glorious preacher and teacher of repentance * and wholly true witness of the Savior * he rebuked the folly of Herod ** and was murdered by being beheaded."
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3Kathisma2.text = "The Baptist of the Savior now appears to us, * bringing spiritual rejoicing to the minds of the faithful. * He is the adornment of the wilderness and seal of the prophets, * revealed to be the Forerunner of Christ and true witness of His coming. * Let us with one accord cry out to John in spiritual songs: ** Prophet and preacher of the truth, intercede for our salvation!"
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode4
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3KathismaT.text = "All the choirs of angels wonder, pure Virgin, * at the mystery of your awesome childbearing. * How He, Who by a single movement of His hand holds fast the universe, * was held in your arms, and as the pre-eternal One, began to be! * How He, Who in His ineffable goodness feeds every breathing creature * is fed on milk! ** They praise you and glorify you as the true Theotokos!"
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -472,27 +472,27 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ExestiEpiTou
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TonMathitonOrontonSe.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion2.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode8
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds1.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode8
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds2.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode8
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds3.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode6

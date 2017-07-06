@@ -1,31 +1,31 @@
 A_Resource_Whose_Name = oc.m6.d6_en_US_oca
 
 ocVE.Stichera1.mode = misc_en_US_oca.Mode6
-ocVE.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+ocVE.Stichera1.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 ocVE.Stichera1.text = ""
 
 ocVE.Stichera2.mode = misc_en_US_oca.Mode6
-ocVE.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+ocVE.Stichera2.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_oca.Mode6
-ocVE.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+ocVE.Stichera3.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = misc_en_US_oca.Mode6
-ocVE.Stichera4.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.IApegnosmeni.name
+ocVE.Stichera4.melody = he.a.m6_en_US_oca.IApegnosmeni.notmetered
 ocVE.Stichera4.text = ""
 
 ocVE.Stichera5.mode = misc_en_US_oca.Mode6
-ocVE.Stichera5.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.IApegnosmeni.name
+ocVE.Stichera5.melody = he.a.m6_en_US_oca.IApegnosmeni.notmetered
 ocVE.Stichera5.text = ""
 
 ocVE.Stichera6.mode = misc_en_US_oca.Mode6
-ocVE.Stichera6.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.IApegnosmeni.name
+ocVE.Stichera6.melody = he.a.m6_en_US_oca.IApegnosmeni.notmetered
 ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = misc_en_US_oca.Mode6
-ocVE.SticTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+ocVE.SticTheotokion.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = misc_en_US_oca.Mode6
@@ -42,7 +42,7 @@ ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.text = oc.m6.d2_en_US_oca.ocVE.Aposticha3.text
 
 ocVE.AposTheotokion.mode = misc_en_US_oca.Mode6
-ocVE.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+ocVE.AposTheotokion.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_oca.Mode6
@@ -58,7 +58,7 @@ ocMA.Kathisma12.melody = ""
 ocMA.Kathisma12.text = oc.m6.d4_en_US_oca.ocMA.Kathisma12.text
 
 ocMA.Kathisma13.mode = misc_en_US_oca.Mode6
-ocMA.Kathisma13.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.ElpisTouKosmouAgathi.name
+ocMA.Kathisma13.melody = he.a.m6_en_US_oca.ElpisTouKosmouAgathi.notmetered
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_oca.Mode6
@@ -70,11 +70,11 @@ ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.text = oc.m6.d4_en_US_oca.ocMA.Kathisma22.text
 
 ocMA.Kathisma23.mode = misc_en_US_oca.Mode6
-ocMA.Kathisma23.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.ElpisTouKosmouAgathi.name
+ocMA.Kathisma23.melody = he.a.m6_en_US_oca.ElpisTouKosmouAgathi.notmetered
 ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma31.mode = misc_en_US_oca.Mode6
-ocMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.ElpisTouKosmouAgathi.name
+ocMA.Kathisma31.melody = he.a.m6_en_US_oca.ElpisTouKosmouAgathi.notmetered
 ocMA.Kathisma31.text = "O blessed tree of the cross: * you heal all ills and expel all demons. * You are the strength and protection of believers, * the prize of kings and true pride of the Orthodox, * the support of the Church of Christ: ** be our safeguard, our assurance and our rampart."
 
 ocMA.Kathisma32.mode = misc_en_US_oca.Mode6
@@ -462,7 +462,7 @@ ocMA.Aposticha3.melody = ""
 ocMA.Aposticha3.text = oc.m6.d2_en_US_oca.ocMA.Aposticha3.text
 
 ocMA.AposTheotokion.mode = misc_en_US_oca.Mode6
-ocMA.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+ocMA.AposTheotokion.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_oca.Mode6

@@ -15,19 +15,19 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode1
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode1
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode1
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera3.text = ""
 
 meSV.Stichera4.mode = misc_en_US_oca.Mode1
-meSV.Stichera4.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meSV.Stichera4.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meSV.Stichera4.text = ""
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode2
@@ -35,19 +35,19 @@ meSV.SticGlory.melody = ""
 meSV.SticGlory.text = "Come, all who love virginity, * who are friends of purity; * come, and welcome with love the boast of virgins. * She is the fountain of life that flows from the rock; * she is the bush that springs from barren ground ** and burns with the spiritual fire that cleanses and enlightens our souls."
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode2
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode2
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode2
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode2
-meSV.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.AposGlory.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.AposGlory.text = ""
 
 meVE.Stichera01.poet = poets_en_US_oca.Sergiou
@@ -127,15 +127,15 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode4
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma21.text = me.m09.d07_en_US_oca.meVE.Apolytikion1.text
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode8
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.MM.Prokeimenon.text = "" // for media
@@ -279,7 +279,7 @@ meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = "The prophet spoke of the holy Virgin as the gate * through which none save our God alone might pass. * The Lord came through her; the Most High came forth from her, ** yet He left her sealed, delivering our life from corruption!"
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.text = "Mary, the Virgin and true Theotokos, * shines upon us today as a light-bearing cloud. * She proceeds from her righteous parents for our glory. * Adam is no longer condemned; * Eve is freed from her bonds! * Therefore we cry with boldness to the only pure one: ** Your birth brings tidings of joy to all the world!"
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -596,23 +596,23 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.AllotrionTon
 meMA.Ode9C2T.text = "You contained One of the Trinity in your womb, * Christ the King, Virgin Mother, * Whose praises all creation sings * and before whom the thrones on high tremble. * All-venerated Lady, entreat Him for the salvation of our souls."
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = "Today the ends of the earth greatly rejoice * at your birth, maiden Mary, * Theotokos and unwedded Bride! * for today you have removed the reproach of your parents' barrenness * and the curse of childbirth brought on herself * by our mother Eve."
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.text = "Adam, be renewed * and be magnified, O Eve! * prophets, dance with the apostles and righteous! * let the earth's joy be shared by mankind and angels: ** for today the Theotokos is born of righteous Joachim and Anna!"
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode1
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.OTouParadoxouThavmatos.name
+meMA.Lauds1.melody = he.a.m1_en_US_oca.OTouParadoxouThavmatos.notmetered
 meMA.Lauds1.text = "Most strange wonder! * The fountain of life is born to the barren Anna * and the grace of fulfillment begins! * Rejoice, Joachim, father of the Theotokos! * No father on earth is more pleasing to God than you, * for through you the handmaid of God has been given to us: ** The abode of God and the holy mountain!"
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode1
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.OTouParadoxouThavmatos.name
+meMA.Lauds2.melody = he.a.m1_en_US_oca.OTouParadoxouThavmatos.notmetered
 meMA.Lauds2.text = "Most strange wonder! * At the all-powerful Creator's command * the fruit come forth from the barren womb * has ended the barrenness of the good things in this world! * Mothers, rejoice with the mother of the Theotokos, * and cry out: Rejoice, full of grace, * the Lord is with you, ** granting the world great mercy!"
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode1
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.OTouParadoxouThavmatos.name
+meMA.Lauds3.melody = he.a.m1_en_US_oca.OTouParadoxouThavmatos.notmetered
 meMA.Lauds3.text = "Since Anna was overjoyed with grace * a living tower of chastity, * she gave birth to the crown of virginity: * The holy flower, the gift to all virgins ** who grants great mercy to the faithful."
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode6

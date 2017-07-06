@@ -1,31 +1,31 @@
 A_Resource_Whose_Name = oc.m8.d2_en_US_oca
 
 ocVE.Stichera1.mode = misc_en_US_oca.Mode8
-ocVE.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+ocVE.Stichera1.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 ocVE.Stichera1.text = ""
 
 ocVE.Stichera2.mode = misc_en_US_oca.Mode8
-ocVE.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+ocVE.Stichera2.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_oca.Mode8
-ocVE.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+ocVE.Stichera3.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = misc_en_US_oca.Mode8
-ocVE.Stichera4.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.KyrieEiKaiKritirio.name
+ocVE.Stichera4.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.notmetered
 ocVE.Stichera4.text = ""
 
 ocVE.Stichera5.mode = misc_en_US_oca.Mode8
-ocVE.Stichera5.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.KyrieEiKaiKritirio.name
+ocVE.Stichera5.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.notmetered
 ocVE.Stichera5.text = ""
 
 ocVE.Stichera6.mode = misc_en_US_oca.Mode8
-ocVE.Stichera6.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.KyrieEiKaiKritirio.name
+ocVE.Stichera6.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.notmetered
 ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = misc_en_US_oca.Mode8
-ocVE.SticTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+ocVE.SticTheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = misc_en_US_oca.Mode8
@@ -41,7 +41,7 @@ ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.text = "Martyrs of the Lord, * you sanctify every place and heal every ill, * and now we entreat you ** to deliver our souls from the snares of the enemy."
 
 ocVE.AposTheotokion.mode = misc_en_US_oca.Mode8
-ocVE.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+ocVE.AposTheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_oca.Mode8
@@ -53,11 +53,11 @@ ocMA.Kathisma11.melody = ""
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = misc_en_US_oca.Mode8
-ocMA.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+ocMA.Kathisma12.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = misc_en_US_oca.Mode8
-ocMA.Kathisma13.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+ocMA.Kathisma13.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_oca.Mode8
@@ -69,11 +69,11 @@ ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_US_oca.Mode8
-ocMA.Kathisma23.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+ocMA.Kathisma23.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma31.mode = misc_en_US_oca.Mode8
-ocMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+ocMA.Kathisma31.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = misc_en_US_oca.Mode8

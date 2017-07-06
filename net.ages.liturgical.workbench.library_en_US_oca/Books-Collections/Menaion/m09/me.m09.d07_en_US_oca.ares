@@ -15,29 +15,29 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode1
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.Stichera01.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode1
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.Stichera02.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode1
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.Stichera03.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.Stichera03.text = ""
 
 meVE.MM.Stichera123Sunday.text = "" // for media
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera04.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode4
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera05.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode4
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera06.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode4
@@ -45,15 +45,15 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode8
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Aposticha1.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode8
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Aposticha2.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode8
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meVE.Aposticha3.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_oca.Germanou
@@ -62,15 +62,15 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
-meVE.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meVE.Apolytikion1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TouLithouSfragisthentos.name
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode5
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma21.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.C1Acrostic.text = ""
@@ -169,11 +169,11 @@ meMA.Ode3H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode3H.text = he.h.m4_en_US_oca.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -302,7 +302,7 @@ meMA.Ode6H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode6H.text = he.h.m4_en_US_oca.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode3
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+meMA.Kontakion1.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
@@ -450,25 +450,25 @@ meMA.Ode9H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode9H.text = he.h.m4_en_US_oca.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meMA.Aposticha1.mode = misc_en_US_oca.Mode2
-meMA.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Aposticha1.text = ""
 
 meMA.Aposticha2.mode = misc_en_US_oca.Mode2
-meMA.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Aposticha2.text = ""
 
 meMA.Aposticha3.mode = misc_en_US_oca.Mode2
-meMA.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Aposticha3.text = ""
 
 meMA.AposGlory.mode = misc_en_US_oca.Mode2

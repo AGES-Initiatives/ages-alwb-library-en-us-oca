@@ -15,19 +15,19 @@ meHO.note1 = rubrical_en_US_oca.HolidayWineOil
 meHO.note2 = ""
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode4
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera1.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode4
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera2.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode4
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera3.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera3.text = ""
 
 meSV.Stichera4.mode = misc_en_US_oca.Mode4
-meSV.Stichera4.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera4.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera4.text = ""
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode6
@@ -39,15 +39,15 @@ meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode6
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.Aposticha1.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode6
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.Aposticha2.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode6
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.Aposticha3.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode6
@@ -59,19 +59,19 @@ meSV.AposBoth.melody = ""
 meSV.AposBoth.text = oc.m6.d3_en_US_oca.ocMA.AposTheotokion.text
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode4
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera01.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.text = "Let us honor the instruments of grace worthily: * John, Basil and Gregory, * the harps of the Spirit, the resounding trumpets of preaching, * awesome and clear in tone, ** thundering from the heights to declare the glory of God to the ends of the earth!"
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode4
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera02.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.text = "Let us worthily honor the three champions: * the bulwarks of devotion, * the three apostles added to the twelve, * rivers overflowing with living water from Eden * flooding the face of the earth with life-bearing and divine streams. ** They have formed the faith as the elements form creation!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode4
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera03.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.text = "There are no tongues or words * in which their voices are not heard, he says; * for the proclamation of the godly and wise teachers * has gone out through all the earth and the sea of creation! * Therefore, through their divine precepts, * great things are gathered and assembled ** into one true doctrine for the ends of the earth!"
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera04.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera04.text = "Let us who follow their teachings * praise the instruments of the Holy Spirit with hymns: * They are the trumpets of truth, the words of orators! * Let us entreat them, for they are bold before the Lord, * that he may always grant forgiveness to us all ** and great peace to the whole world!"
 
 meVE.SticGlory.poet = poets_en_US_oca.GeorgiouNikomideias
@@ -114,15 +114,15 @@ meVE.LityBoth.text = ""
 
 meVE.Aposticha1.poet = poets_en_US_oca.NeilouTouXanthopoulou
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha1.text = "Rejoice, Trinity of bishops! * Great bulwark of the Church, * pillars of righteousness and strength of the faithful, * downfall of the heretics! * You shepherded the flock of Christ with godly teachings * and fed them with many virtues. * You were openly preachers of grace, * setting forth laws for the fullness of Christ's Church! * Heavenly guides and gates of paradise, ** pray to Christ that He may grant our souls great mercy!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha2.text = "Rejoice, trinity of bishops! * earthly angels who traveled the heavens, * salvation of the world and joy of all, * champions of the Word and teachers of the universe, * skillful physicians of soul and body, * ever-flowing rivers of the Spirit, * watering the face of the earth with your teachings, * ladders of theology! * Golden ones of golden preaching, ** pray to Christ that He may grant our souls great mercy!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha3.text = "Rejoice, trinity of bishops! * earthly skies reflecting the sun, * radiance and lamps of the Trinity, * enlightenment of those in darkness, * fragrant and beautiful flowers of paradise, * theologian, wise Basil and Chrysostom, * tablets of the Spirit written by the finger of God, * nourishing with the milk of salvation! * Adornments of wisdom, ** pray to Christ that He may grant our souls great mercy!"
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode5
@@ -148,31 +148,31 @@ meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode4
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = misc_en_US_oca.Mode4
-meMA.Kathisma1T.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meMA.Kathisma1T.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode4
-meMA.Kathisma2T.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma2T.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode4
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma31.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma32.mode = misc_en_US_oca.Mode4
-meMA.Kathisma32.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma32.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma32.text = ""
 
 meMA.Kathisma3T.mode = misc_en_US_oca.Mode4
-meMA.Kathisma3T.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma3T.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma3T.text = ""
 
 meMA.MM.Prokeimenon.text = "" // for media
@@ -337,15 +337,15 @@ meMA.Ode3C3T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStereosasKa
 meMA.Ode3C3T.text = "He Who dwelt within the womb of the Virgin * makes the souls of the God-bearing saints His dwelling-place. * Through their lips He expounds the mystery of His Mother!"
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = "Let us, as we enjoy the beauty and grace of their words, * with one voice praise the great and shining lights, * the indestructible pillars of the Church: * the wise John of golden speech, the great Basil, with Gregory the renowned theologian. * let us cry out to them, exclaiming from the depths of our hearts: * three times great and holy hierarchs, pray to Christ our God, ** that he may grant remission of sins to those who celebrate your memory with love!"
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.text = "You received the wisdom that comes from God, three new apostles of Christ! * by understanding sermons, in simple words through the power of the Spirit, * you framed dogmas set down earlier by the fishermen. * indeed our faith feeds on the plain nourishment received from you. * therefore we all cry out: pray to Christ our God, ** that he may grant remission of sins to those who celebrate your memory with love!"
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.text = "Virgin, draw near my lowly soul that is being drowned! * it is without a pilot in the storm of the temptations of life. * it is sinking with sin and in danger of going to the bottom of hell. * grant it peace and rescue it from perils, Theotokos, * for you are a calm harbor that knows no waves! * intercede with your Son and God that he may give me remission of sins ** for I am your unworthy servant and have you as my hope!"
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -539,7 +539,7 @@ meMA.Ode6C3T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoi
 meMA.Ode6C3T.text = "The Son was without a Mother before assuming the flesh * and was without a Father in His incarnation. * We speak of these things which are beyond all understanding, * for all-glorious wonders are fitting to God!"
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TousAsfaleis.name
+meMA.Kontakion1.melody = he.a.m2_en_US_oca.TousAsfaleis.notmetered
 meMA.Kontakion1.text = "
 Lord, You have taken up the holy preachers of divine truths * to their eternal rest and the enjoyment of your good things. * You have accepted their struggles and deaths, ** for You alone are glorified in Your saints!"
 
@@ -748,31 +748,31 @@ meMA.Ode9C3T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ExestiEpiTou
 meMA.Ode9C3T.text = "The three chiefs of the wise bishops proclaimed the Son of the living God * to be your Son, Mother of God! * The did not receive knowledge of the mystery from flesh and blood * but through the revelation of the Father. * They taught that you are the Virgin Mother and Theotokos and they magnify you!"
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion1.text = "Let us all now praise the vessels of light, * the lighting bolts of fire: ** Basil the Great, Gregory the Theologian and John Chrysostom!"
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion2.text = "One God: Father, Son and Spirit, * through the prayers of Basil, Gregory and John * and of the all-pure Theotokos, ** let me not be cut off from Your glory!"
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 meMA.ExapTheotokion.text = "" //ho.s23_en_US_oca.hoCA.Exaposteilarion4.text
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode2
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meMA.Lauds1.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode2
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meMA.Lauds2.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode2
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meMA.Lauds3.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode2
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meMA.Lauds4.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meMA.Lauds4.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode2

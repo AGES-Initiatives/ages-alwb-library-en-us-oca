@@ -15,19 +15,19 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode4
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera01.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode4
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera02.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode4
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera03.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Stichera04.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera04.text = ""
 
 meVE.SticGlory.poet = poets_en_US_oca.Germanou
@@ -40,7 +40,7 @@ meVE.SticTheotokion.melody = misc_en_US_oca.Automelon
 meVE.SticTheotokion.text = he.a.m1_en_US_oca.TonOuranionTagmaton.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode1
-meVE.SticStavrotheotokion.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.SticStavrotheotokion.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.poet = poets_en_US_oca.Vyzantiou
@@ -49,11 +49,11 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Venerable one, * you sailed the deep of fasting with the sail of abstinence. * you escaped the storm of the passions. * Therefore, as the namesake of the divine Paul, * you endured persecution and tribulations. * You were maltreated amidst the blasphemies of the heretics. * You cast down the opinions of Arius * and vanquished the heresy of Nestorius. * Therefore you were revealed as a zealot of the Church of Christ! ** Entreat Him, blessed hierarch, that our souls may be saved!"
 
 meVE.AposTheotokion.mode = misc_en_US_oca.Mode2
-meVE.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OteEkTouXylou.name
+meVE.AposTheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_oca.Mode2
-meVE.AposStavrotheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OteEkTouXylou.name
+meVE.AposStavrotheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode3
@@ -112,19 +112,19 @@ meMA.Ode3H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode3H.text = he.h.m4_en_US_oca.TousSousYmnologous.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode3
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Ode3Kathisma2.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode3
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Ode3KathismaT.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode3KathismaSt.mode = misc_en_US_oca.Mode3
-meMA.Ode3KathismaSt.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Ode3KathismaSt.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meMA.Ode3KathismaSt.text = "" //me.m01.d29_en_US_oca.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -193,7 +193,7 @@ meMA.Ode6H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode6H.text = he.h.m4_en_US_oca.IlthonEisTaVathi.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TaAnoZiton.name
+meMA.Kontakion1.melody = he.a.m2_en_US_oca.TaAnoZiton.notmetered
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
@@ -271,11 +271,11 @@ meMA.Ode9H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode9H.text = he.h.m4_en_US_oca.ApasGigenis.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.MM.Ve1234as5678.text = properties_en_US_oca.media.key
@@ -286,11 +286,11 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_oca.Mode7
-meMA.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m7_en_US_oca.OukEtiKolyometha.name
+meMA.AposTheotokion.melody = he.a.m7_en_US_oca.OukEtiKolyometha.notmetered
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = misc_en_US_oca.Mode7
-meMA.AposStavrotheotokion.melody = misc_en_US_oca.NotMetered //he.a.m7_en_US_oca.OukEtiKolyometha.name
+meMA.AposStavrotheotokion.melody = he.a.m7_en_US_oca.OukEtiKolyometha.notmetered
 meMA.AposStavrotheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

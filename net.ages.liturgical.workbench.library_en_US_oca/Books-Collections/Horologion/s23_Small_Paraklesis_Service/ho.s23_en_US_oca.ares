@@ -12,7 +12,7 @@ R02 = ""
 R03 = ""
 
 hoCA.Apolytikion1.mode = misc_en_US_oca.Mode4
-hoCA.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+hoCA.Apolytikion1.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 hoCA.Apolytikion1.text = oc.m4.d3_en_US_oca.ocVE.ApolTheotokionVM.text
 
 //Glory. Repeat
@@ -20,7 +20,7 @@ hoCA.Apolytikion1.text = oc.m4.d3_en_US_oca.ocVE.ApolTheotokionVM.text
 //Both now
 
 hoCA.Apolytikion2.mode = misc_en_US_oca.Mode4
-hoCA.Apolytikion2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+hoCA.Apolytikion2.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 hoCA.Apolytikion2.text = "Though we are unworthy, O Theotokos, * may we never be silent, or cease to praise your power. * For without your protection, * who would have delivered us from such great dangers? * Who would have preserved us in freedom to this present hour? * May we never forsake you, O Lady, ** for you ever save your servants from every kind of tribulation."
 
 //Reader
@@ -91,7 +91,7 @@ hoCA.Troparion32.text = ""
 //R07
 
 hoCA.Kathisma11.mode = misc_en_US_oca.Mode2
-hoCA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TaAnoZiton.name
+hoCA.Kathisma11.melody = he.a.m2_en_US_oca.TaAnoZiton.notmetered
 hoCA.Kathisma11.text = ""
 
 hoCA.Ode4H.ode = misc_en_US_oca.Ode4
@@ -210,7 +210,7 @@ hoCA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
 hoCA.PostGospelVerse.text = ""
 
 hoCA.PostGospelHymn1.mode = misc_en_US_oca.Mode6
-hoCA.PostGospelHymn1.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+hoCA.PostGospelHymn1.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 hoCA.PostGospelHymn1.text = ""
 
 hoCA.PostGospelHymn2.mode = misc_en_US_oca.Mode6
@@ -345,11 +345,11 @@ hoCA.Troparion3.melody = ""
 hoCA.Troparion3.text = oc.m6.d5_en_US_oca.ocMA.Kathisma13.text
 
 hoCA.Troparion4.mode = misc_en_US_oca.Mode2
-hoCA.Troparion4.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OteEkTouXylou.name
+hoCA.Troparion4.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 hoCA.Troparion4.text = oc.m2.d5_en_US_oca.ocVE.AposTheotokion.text
 
 hoCA.Troparion5.mode = misc_en_US_oca.Mode2
-hoCA.Troparion5.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OteEkTouXylou.name
+hoCA.Troparion5.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 hoCA.Troparion5.text = oc.m2.d1_en_US_oca.ocSV.Aposticha1.text
 
 hoCA.Troparion6.mode = misc_en_US_oca.Mode8
@@ -363,19 +363,19 @@ hoCA.Troparion7.text = "I set all my hope on you, Theotokos: ** Shelter me benea
 R24 = ""
 
 hoCA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-hoCA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoCA.Exaposteilarion1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 hoCA.Exaposteilarion1.text = //me.m08.d15_en_US_oca.meMA.Exaposteilarion1.text
 
 hoCA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-hoCA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoCA.Exaposteilarion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 hoCA.Exaposteilarion2.text = ""
 
 hoCA.Exaposteilarion3.mode = misc_en_US_oca.Mode3
-hoCA.Exaposteilarion3.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoCA.Exaposteilarion3.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 hoCA.Exaposteilarion3.text = da.d3_en_US_oca.daMA.ExapTheotokion.text
 
 hoCA.Exaposteilarion4.mode = misc_en_US_oca.Mode3
-hoCA.Exaposteilarion4.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoCA.Exaposteilarion4.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 hoCA.Exaposteilarion4.text = ""
 
 //Priest

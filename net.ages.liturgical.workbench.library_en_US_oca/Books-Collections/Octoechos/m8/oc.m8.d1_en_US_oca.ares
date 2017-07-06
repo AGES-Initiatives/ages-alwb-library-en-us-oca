@@ -13,15 +13,15 @@ ocSV.Dogmatic.melody = ""
 ocSV.Dogmatic.text = ""
 
 ocSV.Aposticha1.mode = misc_en_US_oca.Mode8
-ocSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+ocSV.Aposticha1.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 ocSV.Aposticha1.text = ""
 
 ocSV.Aposticha2.mode = misc_en_US_oca.Mode8
-ocSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+ocSV.Aposticha2.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 ocSV.Aposticha2.text = ""
 
 ocSV.Aposticha3.mode = misc_en_US_oca.Mode8
-ocSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+ocSV.Aposticha3.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 ocSV.Aposticha3.text = ""
 
 ocSV.AposDogmatic.mode = misc_en_US_oca.Mode8
@@ -136,11 +136,11 @@ ocMO.Ode3T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStereosasKatA
 ocMO.Ode3T.text = ""
 
 ocMO.Kathisma11.mode = misc_en_US_oca.Mode8
-ocMO.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+ocMO.Kathisma11.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 ocMO.Kathisma11.text = ""
 
 ocMO.Kathisma12.mode = misc_en_US_oca.Mode8
-ocMO.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+ocMO.Kathisma12.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 ocMO.Kathisma12.text = ""
 
 ocMO.Ode41.mode = misc_en_US_oca.Mode8
@@ -204,11 +204,11 @@ ocMO.Ode6T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoiSo
 ocMO.Ode6T.text = ""
 
 ocMO.Kathisma21.mode = misc_en_US_oca.Mode8
-ocMO.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+ocMO.Kathisma21.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 ocMO.Kathisma21.text = ""
 
 ocMO.Kathisma22.mode = misc_en_US_oca.Mode8
-ocMO.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+ocMO.Kathisma21.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 ocMO.Kathisma22.text = ""
 
 ocMO.Ode71.mode = misc_en_US_oca.Mode8
@@ -268,11 +268,11 @@ ocMA.Kathisma11.melody = misc_en_US_oca.AutomelonNotMetered
 ocMA.Kathisma11.text = he.a.m8_en_US_oca.AnestisEkNekron.text
 
 ocMA.Kathisma12.mode = misc_en_US_oca.Mode8
-ocMA.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+ocMA.Kathisma12.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = misc_en_US_oca.Mode8
-ocMA.Kathisma13.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+ocMA.Kathisma13.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_oca.Mode8
@@ -762,7 +762,7 @@ ocMA.Lauds1.melody = misc_en_US_oca.AutomelonNotMetered
 ocMA.Lauds1.text = he.a.m8_en_US_oca.KyrieEiKaiKritirio.text
 
 ocMA.Lauds2.mode = misc_en_US_oca.Mode8
-ocMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.KyrieEiKaiKritirio.name
+ocMA.Lauds2.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.notmetered
 ocMA.Lauds2.text = ""
 
 ocMA.Lauds3.mode = misc_en_US_oca.Mode8

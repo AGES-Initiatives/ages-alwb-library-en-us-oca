@@ -16,15 +16,15 @@ meHO.note2 = ""
 meDismissal = ""
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode4
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meSV.Stichera1.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode4
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meSV.Stichera2.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode4
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meSV.Stichera3.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode8
@@ -36,19 +36,19 @@ meSV.SticBoth.melody = ""
 meSV.SticBoth.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode2
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode2
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode2
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode2
-meSV.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.AposGlory.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.AposGlory.text = ""
 
 meVE.Stichera01.poet = poets_en_US_oca.IoannouMonachou
@@ -135,11 +135,11 @@ meVE.AposBoth.melody = misc_en_US_oca.Idiomelon
 meVE.AposBoth.text = "Elizabeth greeted the Virgin Mary: * Why is it that the Mother of my Lord should come to me? * You bear the King, and I, His soldier. * You, the Lawgiver, and I, the proclaimer. * You bear the Word, and I, the voice ** which preaches the Kingdom of heaven!"
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
-meVE.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meVE.Apolytikion1.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode4
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = misc_en_US_oca.Mode4
@@ -147,15 +147,15 @@ meMA.Kathisma1T.melody = misc_en_US_oca.AutomelonNotMetered
 meMA.Kathisma1T.text = he.a.m4_en_US_oca.KateplagiIosif.text
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode8
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma21.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode8
-meMA.Kathisma2T.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma2T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode8
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.ToProstachthen.name
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
@@ -274,11 +274,11 @@ meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.TousSousYmno
 meMA.Ode3C2T.text = "Your childbearing, Virgin, * has loosed the bonds of the condemnation of mortals! * You have bound us to yourself by grace,  * for honoring you as the Theotokos,  * we call you blessed."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.text = "The son of Zachariah has risen for our sake from the womb of Elizabeth, * as a bright sun, loosening the dumbness of his father. * He cried out to the people with great boldness: * Make straight the ways of the Lord, for He sets free and saves those who turn to Him! * John, as you proclaimed Him beforehand, * pray to Him that our souls may be saved."
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode4
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3KathismaT.text = "All the choirs of angels wonder, pure Virgin, * at the mystery of your awesome childbearing. * How He, Who by a single movement of His hand holds fast the universe, * was held in your arms, and as the pre-eternal One, began to be! * How He, Who in His ineffable goodness feeds every breathing creature is fed on milk! ** And praising you, they glorify you as the true Theotokos!"
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -412,7 +412,7 @@ meMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.TinTheianTaf
 meMA.Ode6C2T.text = "The Divine Forerunner recognized you as the Mother of God! * He leaped beforehand in his mother's womb,  * proclaiming your great things, pure Lady!"
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode3
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+meMA.Kontakion1.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 meMA.Kontakion1.text = "The woman who had been barren has become fruitful, * and today gives birth to the Forerunner of Christ. * He is the greatest and last of the prophets, * for standing in the waters of the Jordan * he placed his hands on Christ Whom all the prophets had announced. * By so doing he became a prophet himself: ** A preacher and Forerunner of the Word of God!"
 
 meMA.Oikos1.text = "Let us now praise the Forerunner of the Lord, whom Elizabeth has borne to the priest from a barren womb, but not without seed. For Christ alone passed through an impassable dwelling-place without seed. A barren woman gave birth to John, yet he was not born without the help of man. And a pure Virgin whom the Father and the Spirit of God overshadowed, bore Jesus. But he who came from a barren woman was manifested as a prophet himself: ** A preacher and Forerunner of the One born from a Virgin without seed!"
@@ -550,27 +550,27 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m4_en_US_oca.ApasGigenis.
 meMA.Ode9C2T.text = "The Lord, the Water of Life, * has washed and sanctified us Who received Him with faith,  * revealing those who sing the praises of His goodness,  * and who fervently magnify you with love, Bride of God,  * to be heirs of His kingdom."
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = "Today the joyful nativity of the Forerunner * loosens the tongue of his father and the barrenness of his mother. * He proclaims the coming joy and gladness: ** Therefore all creation joins in keeping this feast!"
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.text = "The prophets foretold, the apostles taught, * the divine martyrs plainly confessed your Son to be God of all, Theotokos! * Delivered through you from the ancient curse, ** together with them, we magnify you."
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode8
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds1.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds1.text = "Most glorious wonder! * John the Forerunner of God the Word hastens to come forth from an aged womb.  * By his birth, he lets the bound tongue speak clearly and sweetly.  * Glory to Your ineffable dispensation, by which You save our souls, O Christ, ** since You alone are compassionate!"
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode8
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds2.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds2.text = "Most glorious wonder! * Among those born of women, the greatest of prophets, * loosens the reproach of a mother's barrenness,  * coming in the strength and spirit of Elijah to prepare the way of the Lord.  * Glory to Your ineffable dispensation, by which You save our souls, O Christ, ** since You alone are compassionate!"
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode8
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds3.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds3.text = "Most glorious wonder! * He who proclaimed the birth of Christ to mankind, * reveals all things from on high by his voice. * By being born he destroys barrenness with divine strength * and releases the voice of Zachariah. * Master, great are Your wondrous works! ** Through them, save those who honor Your great Forerunner."
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode8
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.OTouParadoxou.name
+meMA.Lauds4.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meMA.Lauds4.text = "Most glorious wonder! * The prophet and Forerunner is manifest from on high. * The greatest among those born of women; the highest of prophets; * the Forerunner of the coming of Christ, who leapt in his mother's womb. * Lover of mankind, great are Your gifts! ** Through them, save our souls, O Christ, as You are all-powerful!"
 
 meMA.LaudsGlory.poet = poets_en_US_oca.Anatoliou

@@ -136,11 +136,11 @@ ocMO.Ode3T.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.OEkMiOnton.nam
 ocMO.Ode3T.text = ""
 
 ocMO.Kathisma11.mode = misc_en_US_oca.Mode3
-ocMO.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
+ocMO.Kathisma11.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 ocMO.Kathisma11.text = ""
 
 ocMO.Kathisma12.mode = misc_en_US_oca.Mode3
-ocMO.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
+ocMO.Kathisma12.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 ocMO.Kathisma12.text = ""
 
 ocMO.Ode41.mode = misc_en_US_oca.Mode3
@@ -189,11 +189,11 @@ ocMO.Ode6T.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.AvyssosEschati
 ocMO.Ode6T.text = ""
 
 ocMO.Kathisma21.mode = misc_en_US_oca.Mode3
-ocMO.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+ocMO.Kathisma21.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 ocMO.Kathisma21.text = ""
 
 ocMO.Kathisma22.mode = misc_en_US_oca.Mode3
-ocMO.Kathisma22.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+ocMO.Kathisma22.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 ocMO.Kathisma22.text = ""
 
 ocMO.Ode71.mode = misc_en_US_oca.Mode3
@@ -261,15 +261,15 @@ ocMA.Kathisma13.melody = misc_en_US_oca.AutomelonNotMetered
 ocMA.Kathisma13.text = he.a.m3_en_US_oca.TinOraiotita.text
 
 ocMA.Kathisma21.mode = misc_en_US_oca.Mode3
-ocMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
+ocMA.Kathisma21.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = misc_en_US_oca.Mode3
-ocMA.Kathisma22.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
+ocMA.Kathisma22.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_US_oca.Mode3
-ocMA.Kathisma23.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
+ocMA.Kathisma23.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 ocMA.Kathisma23.text = ""
 
 ocMA.Hypakoe.mode = misc_en_US_oca.Mode3
@@ -525,7 +525,7 @@ ocMA.OdeS6C32.melody = misc_en_US_oca.NotMetered //he.h.m3_en_US_oca.SkinoseosIo
 ocMA.OdeS6C32.text = ""
 
 ocMA.Kontakion.mode = misc_en_US_oca.Mode3
-ocMA.Kontakion.melody = ocMA.Kontakion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+ocMA.Kontakion.melody = ocMA.Kontakion.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 
 ocMA.Kontakion.text = ""
 

@@ -30,15 +30,15 @@ meVE.Stichera03.melody = ""
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera04.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode4
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera05.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode4
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera06.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_oca.Anatoliou
@@ -76,12 +76,12 @@ meVE.AposBoth.melody = ""
 meVE.AposBoth.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
-meVE.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meVE.Apolytikion1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode3
-meVE.Apolytikion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+meVE.Apolytikion2.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meVE.Apolytikion2.text = ""
 
 meCO.C1Acrostic.text = ""
@@ -132,11 +132,11 @@ meCO.Ode9C12.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EmegalynasCh
 meCO.Ode9C12.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode1
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma21.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.C1Acrostic.text = ""
@@ -271,15 +271,15 @@ meMA.Kontakion1.text = ""
 meMA.Oikos1.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode3
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
+meMA.Ode3Kathisma2.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode3
-meMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TinOraiotita.name
+meMA.Ode3Kathisma3.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 meMA.Ode3Kathisma3.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -448,7 +448,7 @@ meMA.Ode6C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.TonProfitinI
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion2.mode = misc_en_US_oca.Mode3
-meMA.Kontakion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+meMA.Kontakion2.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 meMA.Kontakion2.text = ""
 
 meMA.Oikos2.text = ""
@@ -616,19 +616,19 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.TinZoodochon
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.EpeskepsatoImas.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.EpeskepsatoImas.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.text = ""
 
 meMA.Exaposteilarion3.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion3.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion3.text = ""
 
 meMA.Exaposteilarion4.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion4.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion4.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion4.text = ""
 
 meMA.Lauds1.poet = poets_en_US_oca.RomanouTouMelodou
@@ -638,32 +638,32 @@ meMA.Lauds1.text = he.a.m6_en_US_oca.AiAngelikai.text
 
 meMA.Lauds2.poet = poets_en_US_oca.RomanouTouMelodou
 meMA.Lauds2.mode = misc_en_US_oca.Mode6
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.AiAngelikai.name
+meMA.Lauds2.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.poet = poets_en_US_oca.RomanouTouMelodou
 meMA.Lauds3.mode = misc_en_US_oca.Mode6
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.AiAngelikai.name
+meMA.Lauds3.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.poet = poets_en_US_oca.RomanouTouMelodou
 meMA.Lauds4.mode = misc_en_US_oca.Mode6
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.AiAngelikai.name
+meMA.Lauds4.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
 meMA.Lauds4.text = ""
 
 meMA.Lauds5.poet = poets_en_US_oca.RomanouTouMelodou
 meMA.Lauds5.mode = misc_en_US_oca.Mode6
-meMA.Lauds5.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.AiAngelikai.name
+meMA.Lauds5.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
 meMA.Lauds5.text = ""
 
 meMA.LaudsGlory.poet = poets_en_US_oca.RomanouTouMelodou
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode6
-meMA.LaudsGlory.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.AiAngelikai.name
+meMA.LaudsGlory.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsBoth.poet = poets_en_US_oca.RomanouTouMelodou
 meMA.LaudsBoth.mode = misc_en_US_oca.Mode6
-meMA.LaudsBoth.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.AiAngelikai.name
+meMA.LaudsBoth.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
 meMA.LaudsBoth.text = ""
 
 meMA.Aposticha1.mode = misc_en_US_oca.Mode4

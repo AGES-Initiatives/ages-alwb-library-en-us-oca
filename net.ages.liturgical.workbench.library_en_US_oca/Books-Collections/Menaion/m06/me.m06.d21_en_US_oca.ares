@@ -16,7 +16,7 @@ meHO.note2 = ""
 meDismissal = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode4
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera01.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.text = "Blessed Martyr Julian, 
 we celebrate your divine and light-bearing memorial: 
 We know you as a radiant sun, 
@@ -25,24 +25,24 @@ casting out the night of disbelief in the true God!//
 As we venerate the dust of your relics, we gain strength of soul."
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode4
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera02.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.text = "You were lashed with a whip, blessed one, * kicked frightfully and confined in prison. * While in affliction, you transcended your surroundings: * You were encompassed by wild beasts; * you entered into the deep and were drowned by the sea. * You received your holy end without denying the Master of all! ** You are greatly blessed, the glory of the martyrs!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode4
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera03.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.text = "Your most holy and beloved mother * saw you drift from the waves of the sea to dry land. * By the direction of the Spirit, * she faithfully welcomed you, Martyr Julian. * She entrusted your blameless and sorely-tried body to the tomb: ** The body victorious through grace over the devil's tyranny!"
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode4
-meVE.SticTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.SticTheotokion.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode4
-meVE.SticStavrotheotokion.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.SticStavrotheotokion.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.SticStavrotheotokion.text = ""
 
 meVE.Apolytikion1.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode5
-meVE.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meVE.Apolytikion1.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meVE.Apolytikion1.text = ""
 
 meMA.C1Poet = poets_en_US_oca.IoannouMonachou
@@ -97,15 +97,15 @@ meMA.Ode3H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode3H.text = he.h.m8_en_US_oca.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode1
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Ode3KathismaT.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode3KathismaSt.mode = misc_en_US_oca.Mode1
-meMA.Ode3KathismaSt.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Ode3KathismaSt.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4

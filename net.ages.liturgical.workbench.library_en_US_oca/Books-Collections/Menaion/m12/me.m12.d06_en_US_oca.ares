@@ -15,15 +15,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode4
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera1.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode4
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera2.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode4
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meSV.Stichera3.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode6
@@ -35,47 +35,47 @@ meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode6
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.Aposticha1.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode6
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.Aposticha2.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode6
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.Aposticha3.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode6
-meSV.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TriimerosAnestis.name
+meSV.AposGlory.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meSV.AposGlory.text = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode2
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OteEkTouXylou.name
+meVE.Stichera01.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 meVE.Stichera01.text = "Nicholas, living in Myra, * you were manifested as myrrh, bishop of Christ, * anointed with the myrrh of the mind: * You make fragrant with myrrh those who keep your memorial with faith and love, * loosing them, Father, from misery, danger and affliction, ** by your intercessions to Christ."
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode2
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OteEkTouXylou.name
+meVE.Stichera02.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 meVE.Stichera02.text = "Nicholas, the servant of Christ, * you were shown as truly victorious to the faithful people, * strong in temptation, and worthy of your name! * Called from all places, you are swift to come * to those who turn with love to your protection. * Appearing by day and night to the faithful, ** you save them from danger and temptation."
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode2
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OteEkTouXylou.name
+meVE.Stichera03.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 meVE.Stichera03.text = "You appeared in a dream to the emperor Constantine and his counselor Avlabius, * speaking to them, and putting them in fear: * Set free at once those you hold unjustly bound in prison, * for they are not guilty of lawless murder. * And if you do not listen to my words, O King, * I will call on the Lord against you!"
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode2
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OteEkTouXylou.name
+meVE.Stichera04.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 meVE.Stichera04.text = "Glorious Nicholas, the holy preacher of Christ, * you are the great and fervent protector of those in danger: * Those on land and sea, far off or near, * for you are a most compassionate and mighty intercessor. * Therefore, as we assemble, we cry aloud: ** Pray to the Lord that we may be delivered from all danger!"
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode2
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meVE.Stichera05.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meVE.Stichera05.text = "What crowns of praise shall we weave the bishop? * Although he lived in Myra, * he reaches out in spirit to all who sincerely love him. * He, the consolation of all in affliction, * the refuge of all in danger, * the tower of godliness, * the champion of the faithful, ** for whose sake the greatly merciful Christ has laid low the arrogance of the enemy."
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode2
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meVE.Stichera06.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meVE.Stichera06.text = "What songs shall we sing to praise the bishop? * who wrestled against godlessness * and was the champion of godliness: * A great leader, shield and teacher of the Church, * putting all inglorious heresy to shame, * the destroyer and fierce opponent of Arius, * whose arrogance Christ laid low on his account, ** through His great mercy."
 
 meVE.Stichera07.mode = misc_en_US_oca.Mode2
-meVE.Stichera07.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+meVE.Stichera07.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.notmetered
 meVE.Stichera07.text = "With what songs of prophecy shall we praise the bishop? * He who foresaw things afar and clearly announced them before hand, * foretelling them as though they were taking place. * He looked round the whole world, making injustice cease; * he appeared in dreams to the emperor wise in God, * and delivered from an unjust execution those who had been in bonds, ** for he is rich in God’s great mercy. "
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode6
@@ -128,15 +128,15 @@ meVE.LityBoth.melody = ""
 meVE.LityBoth.text = me.m12.d24_en_US_oca.meH1.Idiomelon1.text 
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha1.text = "Rejoice, saintly bishop, * pure abode of the virtues: * Holy example of the godly priesthood, * great shepherd and bright light named victory! * Those who call on you in prayer gain your compassion * and you bear the supplications of the weak; * you are a deliverer and protector * of those who honor your glorious memory in faith. * Pray that Christ may grant the world great mercy!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha2.text = "Rejoice, most sacred mind, * pure dwelling of the Trinity, * pillar of the Church and stay of the faithful, * help of the fallen, star ever dispersing temptations and afflictions * through the radiance of your prayers, well-pleasing to God. * You are a calm haven, Bishop Nicholas, * where those who flee are saved * from the threatening wave of life. ** Pray that Christ may grant our souls great mercy!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha3.text = "Rejoice, saint filled with divine zeal! * By fearful visions and warnings in dreams * those about to die unjustly, * you delivered from an evil sentence! * Fount gushing abundant myrrh in Myra, O Nicholas: * Refreshing souls while expelling the stench of passions. * You were a scythe cutting the weeds of error; * a fan winnowing the chaff of the teachings of Arius. ** Entreat Christ to send our souls great mercy!"
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode6
@@ -153,27 +153,27 @@ meVE.GeneralApolytikion1.name = "Nicholas,"
 meVE.Apolytikion1.text = "" // for media
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma11.text = "Wise Nicholas, you have shone on the earth * by the rays of your miracles! * You move every tongue to the glory and praise * of Him Who glorified you on earth! * Then pray to Him, chosen one among the Fathers, ** that those who honor your memory with faith and love may be delivered from all necessity."
 
 meMA.Kathisma1T.mode = misc_en_US_oca.Mode1
-meMA.Kathisma1T.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma1T.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma1T.text = oc.m1.d1_en_US_oca.ocMA.Kathisma23.text
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma21.text = "Blessed Saint Nicholas, * you make supplication for the faithful, * protecting and guarding them; * clearly delivering them from every affliction, ** as the most eminent glory of bishops!"
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode4
-meMA.Kathisma2T.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma2T.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma2T.text = "You are the invincible advocate of those in need * and the ready intercessor for those who seek you. * Deliver me from danger * and do not turn away from me, ** for you are the helper of all!"
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode4
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meMA.Kathisma31.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = misc_en_US_oca.Mode4
-meMA.Kathisma3T.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meMA.Kathisma3T.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meMA.Kathisma3T.text = ""
 
 meMA.MM.Prokeimenon.text = "" // for media
@@ -317,7 +317,7 @@ meMA.Ode3C3T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.ToProTonAion
 meMA.Ode3C3T.text = "You give your servants hope of salvation Theotokos! * Be present with your speedy intercessions * to guard and keep us in necessities and dangers, ** for you, Bride of God, are the glory of the faithful!"
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = "The depth of mercy has revealed you, Nicholas, * as a river flowing over with healing and a fountain of unending wonders! * Those who are bitterly weighed down by disease and afflicted in life, * find indeed in your warm protection a cure for all faintheartedness! * Therefore we cry aloud to you: * Intercede with Christ our God for the remission of sins * of all those who keep with love the feast of your holy memory!"
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
@@ -497,7 +497,7 @@ meMA.Ode6C3T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.SplanchnonIo
 meMA.Ode6C3T.text = "Christ bowed the heavens by His Own will, * and came to dwell entirely in your womb, all-holy Virgin! * For He could not bear to look upon the work of His Own hands * held under the rule of the deceiver. ** Therefore He came in the form of a Servant to save mankind."
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode3
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+meMA.Kontakion1.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 meMA.Kontakion1.text = "You revealed yourself, Saint, in Myra as a priest, * for you fulfilled the gospel of Christ * by giving up your soul for your people, * and saving the innocent from death. ** ** therefore you are blest as one become wise in the grace of God."
 
 meMA.Oikos1.text = "Let us now sing songs in praise of the bishop who was a shepherd and teacher for the people of Myra, that by his intercessions, we too may be filled with light. For look! He was manifested as one wholly pure and undefiled in spirit, offering a sacrifice without spot or blemish, acceptable to God, since he himself was a priest cleansed in soul and body. Therefore he was indeed a leader and champion of the Church ** Blest as one become wise in the grace of God!"
@@ -670,31 +670,31 @@ meMA.Ode9C3T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.MystirionXen
 meMA.Ode9C3T.text = "All of creation is saved by your childbearing! * Through it, the Lord has removed weeping, sorrow and tears from all faces. ** Spotless Theotokos, we rightly praise you!"
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = "Let us all praise Nicholas, * the great pastor and archbishop; the presiding priest of Myra. * For he saved a number of men unjustly condemned to death * and was seen in a dream by the emperor and Avlabius ** setting at naught an unjust sentence."
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.text = "Virgin, since you bore Christ the Wisdom in the flesh, * the Word above essence and the Physician of all people: * Heal the deep and constant wounds of my soul ** and calm the evil thoughts of my heart."
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode1
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds1.text = "Thrice-blessed Nicholas! * as a bird from an angelic nest, * you hover over us, the flowering blossoms of the Church, * calling out unceasingly to God on our behalf; * for we are surrounded by trials and dangers. ** You deliver us by your intercession!"
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode1
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds2.text = "O Father, wise in God, * you made the beauty of priestly vestment shine with works of virtue. * Therefore, priest, you perform for us the miracles of your famous wonders, ** delivering us from calamities."
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode1
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds3.text = "Saint of saints, embracing the beauty of invisible things, * you understood their awesome glory. * Therefore, most holy Father, ** proclaim their eternal vision to us in heavenly words!"
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode1
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds4.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds4.text = "O Father, you appeared as in a dream to the pious emperor, * to pluck from death those who were held in bonds. * Intercede also for those who praise you worthily, ** that we may be delivered from distress, trials, and dangers!"
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key

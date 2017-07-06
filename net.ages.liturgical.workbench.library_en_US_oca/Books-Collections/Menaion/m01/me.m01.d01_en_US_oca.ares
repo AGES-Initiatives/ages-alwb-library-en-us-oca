@@ -29,15 +29,15 @@ meVE.Stichera02.melody = ""
 meVE.Stichera02.text = "The God of all goodness did not disdain to be circumcised! * He offered Himself as a saving sign and example for us all. * He made the law, and He obeyed his own commands. * He fulfilled the words of the prophets concerning Himself. * He holds the world in his hands, yet is bound in swaddling clothes. ** Let us glorify Him!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode4
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera03.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera03.text = "Your very name means \"the royal one.\" * You led Christ's royal people in wisdom and knowledge. * The King of kings and the Lord of all, * the Son, of one essence with the Father, * adorned you with the crown of Hs kingdom. * Pray to Him, Father Basil, ** to enlighten and save our souls!"
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera04.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera04.text = "Robed in the vestments of bishop, * you preached the gospel of the kingdom with gladness. * You poured out streams of true teaching for the Church, * illumined by your words, * we have learned how to glorify one Godhead: * Father almighty, divine Word, and Holy Spirit, * three Persons undivided. * Pray to Him, Father Basil, ** to enlighten and save our souls!"
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode4
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera05.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera05.text = "You dwell with the hosts of heaven; * you imitated their way of life on earth. * You lived with mankind like an earthly angel. * Now pray for us, who delight in your theology. * May Christ our God save us from the darkness of unbelief. ** May He enlighten and save our souls!"
 
 meVE.SticGlory.poet = poets_en_US_oca.Anatoliou
@@ -105,39 +105,39 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode1
-meVE.Apolytikion2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TouLithouSfragisthentos.name
+meVE.Apolytikion2.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmetered
 meVE.Apolytikion2.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode5
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma11.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma12.mode = misc_en_US_oca.Mode1
-meMA.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma12.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma12.text = ""
 
 meMA.Kathisma13.mode = misc_en_US_oca.Mode1
-meMA.Kathisma13.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma13.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma13.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode8
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma21.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma22.mode = misc_en_US_oca.Mode4
-meMA.Kathisma22.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kathisma22.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kathisma22.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode8
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma32.mode = misc_en_US_oca.Mode8
-meMA.Kathisma32.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma32.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma32.text = ""
 
 meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
-meMA.Kathisma3T.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma3T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma3T.text = ""
 
 meMA.MM.Prokeimenon.text = "" // for media
@@ -252,15 +252,15 @@ meMA.Ode3C2T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.StereosonIma
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode3
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Ode3Kathisma2.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode3
-meMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+meMA.Ode3Kathisma3.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 meMA.Ode3Kathisma3.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
@@ -390,7 +390,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.poet = poets_en_US_oca.RomanouTouMelodou
 meMA.Kontakion1.mode = misc_en_US_oca.Mode4
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kontakion1.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
@@ -531,27 +531,27 @@ meMA.Ode9C2T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ITonProIliou
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.EnPnevmatiToIero.name
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion2.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode5
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode5
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode5
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode5
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds4.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meMA.Lauds4.text = ""
 
 meMA.LaudsGlory.poet = poets_en_US_oca.Vyzantiou
@@ -575,7 +575,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_oca.Mode3
-meLI.SeasonalKontakion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+meLI.SeasonalKontakion.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 meLI.SeasonalKontakion.text = meMA.Ode3Kathisma3.text
 
 meLI.TheotokosHymn.mode = ""

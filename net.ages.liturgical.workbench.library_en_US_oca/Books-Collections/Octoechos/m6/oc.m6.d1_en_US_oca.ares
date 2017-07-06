@@ -13,15 +13,15 @@ ocSV.Dogmatic.melody = ""
 ocSV.Dogmatic.text = ""
 
 ocSV.Aposticha1.mode = misc_en_US_oca.Mode6
-ocSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+ocSV.Aposticha1.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 ocSV.Aposticha1.text = ""
 
 ocSV.Aposticha2.mode = misc_en_US_oca.Mode6
-ocSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+ocSV.Aposticha2.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 ocSV.Aposticha2.text = ""
 
 ocSV.Aposticha3.mode = misc_en_US_oca.Mode6
-ocSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+ocSV.Aposticha3.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 ocSV.Aposticha3.text = ""
 
 ocSV.AposDogmatic.mode = misc_en_US_oca.Mode6
@@ -137,11 +137,11 @@ ocMO.Ode3T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OukEstinAgios.
 ocMO.Ode3T.text = ""
 
 ocMO.Kathisma11.mode = misc_en_US_oca.Mode6
-ocMO.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TinYperImon.name
+ocMO.Kathisma11.melody = he.a.m6_en_US_oca.TinYperImon.notmetered
 ocMO.Kathisma11.text = ""
 
 ocMO.Kathisma12.mode = misc_en_US_oca.Mode6
-ocMO.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TinYperImon.name
+ocMO.Kathisma12.melody = he.a.m6_en_US_oca.TinYperImon.notmetered
 ocMO.Kathisma12.text = ""
 
 ocMO.Ode41.mode = misc_en_US_oca.Mode6
@@ -200,11 +200,11 @@ ocMO.Ode6T.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinThal
 ocMO.Ode6T.text = ""
 
 ocMO.Kathisma21.mode = misc_en_US_oca.Mode6
-ocMO.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TinYperImon.name
+ocMO.Kathisma21.melody = he.a.m6_en_US_oca.TinYperImon.notmetered
 ocMO.Kathisma21.text = ""
 
 ocMO.Kathisma22.mode = misc_en_US_oca.Mode6
-ocMO.Kathisma22.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TinYperImon.name
+ocMO.Kathisma22.melody = he.a.m6_en_US_oca.TinYperImon.notmetered
 ocMO.Kathisma22.text = ""
 
 ocMO.Ode71.mode = misc_en_US_oca.Mode6
@@ -604,7 +604,7 @@ ocMA.OdeS6C33.melody = misc_en_US_oca.NotMetered //he.h.m6_en_US_oca.TouViouTinT
 ocMA.OdeS6C33.text = ""
 
 ocMA.Kontakion.mode = misc_en_US_oca.Mode6
-ocMA.Kontakion.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.TinYperImon.name
+ocMA.Kontakion.melody = he.a.m6_en_US_oca.TinYperImon.notmetered
 ocMA.Kontakion.text = ""
 
 ocMA.Oikos.mode = misc_en_US_oca.Mode6

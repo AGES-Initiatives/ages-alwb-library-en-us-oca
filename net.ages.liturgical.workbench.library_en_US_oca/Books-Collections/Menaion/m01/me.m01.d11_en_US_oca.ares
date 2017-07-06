@@ -17,15 +17,15 @@ meDismissal = dismissals_en_US_oca.dis00.epiphany
 
 //Θεοφάνους Ὁμολογητοῦ
 meVE.Stichera01.mode = misc_en_US_oca.Mode5
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.OsiePater.name
+meVE.Stichera01.melody = he.a.m5_en_US_oca.OsiePater.notmetered
 meVE.Stichera01.text = "Righteous Father, God-bearing Theodosius, * you struggled valiantly in this fleeting life: * In song, in vigils and fasting you became an example to your disciples. * Now you dance with the angels and glorify Christ ceaselessly! * He is God from God, the Word of God, our Redeemer; * He bowed His head beneath the Forerunner's hand, * and sanctified the nature of the waters. * Pray to Him, beseech Him, holy one, ** to grant the Church peace, unity, and great mercy!"
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode5
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.OsiePater.name
+meVE.Stichera02.melody = he.a.m5_en_US_oca.OsiePater.notmetered
 meVE.Stichera02.text = "Righteous Father, God-bearing Theodosius, * you obtained your great desire: the cleansing of your soul. * The grace of the all-holy Spirit dwelt within you as pure light; * you were made beautiful by His working. * Now you glorify Christ ceaselessly: * He is one Son, in two natures; * He was baptized by the hand of the Forerunner, * and the voice of the Father testified to Him. * Pray to Him, beseech Him, holy one, ** to grant the world peace, unity, and great mercy!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode5
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.OsiePater.name
+meVE.Stichera03.melody = he.a.m5_en_US_oca.OsiePater.notmetered
 meVE.Stichera03.text = "Righteous Father, God-bearing Theodosius, * you have been made worthy of a blessed life! * Through purity and self-denial you won the life on high, * now you rejoice with the angels! * You see Christ and glorify Him ceaselessly! * He wondrously took flesh from a virgin; * He was baptized in the Jordan, drowning all our sins. * Pray to Him, beseech Him, holy one, ** to grant the world peace, unity, and great mercy!"
 
 meVE.Stichera8910.text = properties_en_US_oca.media.key
@@ -41,15 +41,15 @@ meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m01.d06_en_US_oca.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode4
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Aposticha1.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha1.text = "The Lord said to the Forerunner: * behold, how else can I wear your image, * the image which I myself have formed? * I must humble myself in a manner beyond understanding: * Why is this so strange, my friend? * If I bow my head beneath your hand, * as one of your fellow men, * and have the waters cover my nakedness, * I shall accomplish My will! * In My compassion, ** I shall clothe the naked with immortality!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode4
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Aposticha2.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha2.text = "You have assumed a body and appeared to us! * A womb received You, yet was not consumed by fire. * This was prefigured long ago, * when the furnace would not burn the holy youths, * but I am only grass; * Master, how shall my hands touch Your fire? * The heavens and all those on earth tremble before You, ** almighty Jesus, the Savior of our souls!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode4
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Aposticha3.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha3.text = "You wash me in the waters of Jordan, * although I am wholly free from filth. * Thus human nature, sullied by Adam's fall * is washed clean and newly born, * for, by My baptism, regeneration is granted to all men, ** through water and the Spirit!"
 
 meVE.AposGlory.poet = poets_en_US_oca.Sykeotou
@@ -68,19 +68,19 @@ meVE.MM.GeneralApolytikion1.text = properties_en_US_oca.media.key
 meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode4
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma11.text = "Joshua, the Son of nun, * led the people and the ark into the river Jordan * foreshadowing the goodness which was to come: * Their passing over was an image of our regeneration, * a sure type of the new creation accomplished by the Spirit, * for Christ has appeared in the Jordan ** to sanctify the waters!"
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma21.text = me.m01.d10_en_US_oca.meMA.Kathisma21.text
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode3
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.TheiasPisteos.name
+meMA.Kathisma31.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma32.mode = misc_en_US_oca.Mode3
-meMA.Kathisma32.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.IParthenosSimeron.name
+meMA.Kathisma32.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 meMA.Kathisma32.text = me.m01.d10_en_US_oca.meMA.Kathisma11.text
 
 meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
@@ -151,11 +151,11 @@ meMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ExinthisenIE
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -229,7 +229,7 @@ meMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EnAvyssoPtai
 meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode8
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TiYpermacho.name
+meMA.Kontakion1.melody = he.a.m8_en_US_oca.TiYpermacho.notmetered
 meMA.Kontakion1.text = "You were planted in the courts of the Lord, and blossomed there, * bringing forth praiseworthy virtues, master of God's holy sheepfold! * You multiplied your children in the wilderness, * giving them to drink from the abundance of your tears. ** Therefore we cry out to you: Rejoice, Father Theodosius!"
 
 meMA.Oikos1.text = ""
@@ -339,27 +339,27 @@ meMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.AnarchouGenn
 meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.text = "How wonderful are Your works, * my almighty Savior! *  God before the ages, * without change You were made flesh of Your Mother. * You have come forth from a Virgin, Master, * You have washed in the waters of Jordan, * You have cleansed mortal nature of its filth, * and healed our sinful souls!"
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode5
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode5
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode5
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode5
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meMA.Lauds4.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meMA.Lauds4.text = ""
 
 meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key

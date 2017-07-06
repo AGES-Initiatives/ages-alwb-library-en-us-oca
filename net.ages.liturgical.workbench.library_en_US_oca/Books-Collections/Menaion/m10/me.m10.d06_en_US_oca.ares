@@ -15,15 +15,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode4
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera01.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.text = "Your hand probed the side of the Lord, * finding the perfection of all goodness and joy. * Like a sponge you have thirsted for the Water of Life, * the Fount of blessing and everlasting gladness. * Now you wash away ignorance from the minds of men ** giving us to drink of the knowledge of the Lord."
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode4
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera02.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.text = "By your doubt overcome by faith, * you have strengthened our faintheartedness. * You proclaim to all men: Behold my Lord and my God! * He took flesh and came to earth for us, * enduring Crucifixion and death! * We take refuge in His side pierced with the lance ** joyfully drawing the water of life from the spring of salvation."
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode4
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OsGennaionEnMartysi.name
+meVE.Stichera03.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.text = "Most blessed Thomas, * for the godly-minded you are a fountain of divine knowledge: * You have touched the side of the Master of all: * An act of boldness taught you that He is two natures in one Person. * You cried out: You are both my Master and my eternal God! ** The Lord of glory Who took flesh for my sake."
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode6
@@ -35,15 +35,15 @@ meVE.SticTheotokion.melody = misc_en_US_oca.NotMetered //he.o_en_US_oca.Theotoke
 meVE.SticTheotokion.text = he.o_en_US_oca.TheotokeSyEiApostolou.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode4
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Aposticha1.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha1.text = "Blessed apostle Thomas, * you are a pearl of great price drawn from the sea of doubt. * Christ, the merciful Lover of mankind, * has fashioned your poverty and homeless wandering into riches and splendor. * Celebrating your memory, we rejoice, ** blessing you unto all ages, faithful one!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode4
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Aposticha2.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha2.text = "Holy apostle Thomas, * the blessed disciple who saw God in the flesh: * You have made the Indies shine as bright as the sun. * You enlightened the people revealing them to be children of the light and the day. * You overthrew their idols by the power of the Holy Spirit. * You led men to partake of the perfect love of God, * for through you they became the glory and honor of the Church, ** so may we also be saved through your intercessions!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode4
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EdokasSimeiosin.name
+meVE.Aposticha3.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha3.text = "Your hand, directed with fearful boldness, * dared to probe the wounds of the immortal Lord of glory. * Most glorious wonder! * Your doubt was transformed into faith. * You cried out: You are my Lord and my God! * I glorify you, Lover of mankind, * for by Your passion ** You have caused freedom from passion to flow for all those who believe in You!"
 
 meVE.AposGlory.poet = poets_en_US_oca.Anatoliou
@@ -52,7 +52,7 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_oca.Mode6
-meVE.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.OlinApothemenoi.name
+meVE.AposTheotokion.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 meVE.AposTheotokion.text = ""
 
 meVE.GeneralApolytikion1.mode = misc_en_US_oca.Mode3
@@ -62,15 +62,15 @@ meVE.GeneralApolytikion1.name = ""
 
 meVE.Apolytikion2.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode4
-meVE.Apolytikion2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meVE.Apolytikion2.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion2.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode5
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma21.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma21.text = "Let us praise in hymns the memory of the apostle and disciple of Christ! * In a godly manner he touched the print of the nails, * seeking out the true faith! * He has steadied our thoughts in this world! ** He intercedes with the Savior that our souls may find mercy."
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode5
-meMA.Kathisma2T.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.TonSynanarchonLogon.name
+meMA.Kathisma2T.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma2T.text = ""
 
 meMA.C1Poet = poets_en_US_oca.Theofanous
@@ -125,11 +125,11 @@ meMA.Ode3H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode3H.text = he.h.m4_en_US_oca.OukEnSofia.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -198,7 +198,7 @@ meMA.Ode6H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode6H.text = he.h.m4_en_US_oca.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode4
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kontakion1.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kontakion1.text = "Thomas, the faithful servant and disciple of Christ, * filled with divine grace, cried out from the depth of his love: ** You are my Lord and my God!"
 
 meMA.Oikos1.text = "Peter called out to the divinely eloquent Thomas, the disciple of the Lord and great initiate of the mysteries:  We have seen the Lord!  His friend said to him, crying out: Unless I see the wounds of His hands, I will not believe!  Then the Master of all, in His desire to save all, came as a servant and said to Thomas: Touch My hands and My side and do not be unbelieving, for I am your Lord and God.  In repentance he cried out: ** You are my Lord and my God!"
@@ -276,15 +276,15 @@ meMA.Ode9H.melody = misc_en_US_oca.HeirmosNotMetered
 meMA.Ode9H.text = he.h.m4_en_US_oca.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.poet = poets_en_US_oca.Anatoliou

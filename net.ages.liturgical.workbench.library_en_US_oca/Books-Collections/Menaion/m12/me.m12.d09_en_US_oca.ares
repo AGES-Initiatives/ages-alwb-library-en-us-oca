@@ -15,27 +15,27 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode4
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera01.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera01.text = "The barren Anna leaped for joy when she conceived Mary the Virgin, * who in turn will conceive in the flesh God the Word. * From the fullness of her joy, she cried out: * Rejoice with me, all you tribes of Israel, * for I have conceived according to the will of God my Savior. * He has answered my prayer and ended my shame, * in fulfillment of His promise, He will heal the pains of my heart, ** through the pains of child-bearing."
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode4
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera02.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera02.text = "He who made waters gush forth from the rock, * permitted your womb to carry the ever-Virgin Mary through whom our salvation will come. * By this, you were delivered from shame; * no longer will you dwell on earth as barren, * for you will bear the earth bringing forth the Tree of Life. * According to His will, He has delivered the human race from all shame, * by taking on our human form and becoming Man, ** for He is rich in mercy."
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode4
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OExYpsistouKlitheis.name
+meVE.Stichera03.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
 meVE.Stichera03.text = "Behold! The promises of the prophets are fulfilled! * The holy mountain is planted in the womb. * The divine ladder is set up, the great throne of the King is ready. * The place for the Lord's passage is prepared. * The dry bush, which the fire could not consume, is blossoming. * The treasury of grace is an abundant flow of blessing which heals the barrenness of Anna, ** whom we glorify with faith."
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode6
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.AiAngelikai.name
+meVE.Stichera04.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode6
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.AiAngelikai.name
+meVE.Stichera05.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode6
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m6_en_US_oca.AiAngelikai.name
+meVE.Stichera06.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode6
@@ -48,15 +48,15 @@ meVE.SticBoth.melody = ""
 meVE.SticBoth.text = "Today the great mystery announced from all eternity * whose depths angels and men cannot perceive, * appears in the barren womb of Anna. * Mary, the Maiden of God, is prepared to be the dwelling of the eternal King, * Who will renew our human nature. * Let us entreat her with a pure heart and say: * Intercede for us with your Son and our God ** that our souls may be saved."
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha1.text = "Anna, named for divine grace, * cried out in her prayer, * beseeching the Creator and God of all: * Master, You perceive the shame of barrenness; * heal the pain of my heart! * Open my womb to make it fruitful, * that we may offer You the child as a gift, * and give glory and praise with hymns and songs ** to Your love through which the world receives great mercy!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha2.text = "Anna besought the Lord in fervent prayer for a child. * The voice of the angel proclaimed to her: * God has granted you the desire of your prayer. * Do not weep, for you shall be a fruitful olive tree, * bearing the wondrous branch of the Virgin, * who will bring forth in the flesh the blossom Christ ** Who grants the world great mercy!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha3.text = "The honorable parents Joachim and Anna * have given birth to the lamb * who will give birth past understanding * to the Lamb of God Who is to be sacrificed for all mankind. * They offer to God unceasing and humble praise. * Therefore let us rejoice and give them fervent glory * for the birth of the one born from them in a marvelous way, ** the Theotokos, through whom the world receives great mercy!"
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode2
@@ -76,19 +76,19 @@ meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.ChorosAngelikos.name
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.ChorosAngelikos.notmetered
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma12.mode = misc_en_US_oca.Mode1
-meMA.Kathisma12.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.ChorosAngelikos.name
+meMA.Kathisma12.melody = he.a.m1_en_US_oca.ChorosAngelikos.notmetered
 meMA.Kathisma12.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode4
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Kathisma31.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.C1Poet = poets_en_US_oca.IoannouMonachou
@@ -227,21 +227,21 @@ meMA.Ode3C3T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.ExinthisenIE
 meMA.Ode3C3T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TousAsfaleis.name
+meMA.Kontakion1.melody = he.a.m2_en_US_oca.TousAsfaleis.notmetered
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.KateplagiIosif.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma3.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.OYpsotheisEnToStavro.name
+meMA.Ode3Kathisma3.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma3.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -420,7 +420,7 @@ meMA.Ode6C3T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.EnAvyssoPtai
 meMA.Ode6C3T.text = ""
 
 meMA.Kontakion2.mode = misc_en_US_oca.Mode4
-meMA.Kontakion2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Kontakion2.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kontakion2.text = ""
 
 meMA.Oikos2.text = ""
@@ -613,39 +613,39 @@ meMA.Ode9C3T.melody = misc_en_US_oca.NotMetered //he.h.m2_en_US_oca.AnarchouGenn
 meMA.Ode9C3T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.EnPnevmatiToIero.name
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion2.text = ""
 
 meMA.Exaposteilarion3.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion3.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.OOuranonToisAstrois.name
+meMA.Exaposteilarion3.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion3.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode2
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Lauds1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode2
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Lauds2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode2
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Lauds3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode2
-meMA.Lauds4.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Lauds4.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Lauds4.text = ""
 
 meMA.Lauds5.mode = misc_en_US_oca.Mode2
-meMA.Lauds5.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Lauds5.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Lauds5.text = ""
 
 meMA.Lauds6.mode = misc_en_US_oca.Mode2
-meMA.Lauds6.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Lauds6.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meMA.Lauds6.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode5

@@ -15,27 +15,27 @@ meHO.note1 = rubrical_en_US_oca.HolidayWineOil
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode1
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.Stichera01.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode1
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.Stichera02.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode1
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meVE.Stichera03.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode1
-meVE.Stichera04.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera04.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode1
-meVE.Stichera05.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera05.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode1
-meVE.Stichera06.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Stichera06.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode6
@@ -43,15 +43,15 @@ meVE.SticGlory.melody = misc_en_US_oca.Idiomelon
 meVE.SticGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode1
-meVE.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Aposticha1.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode1
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Aposticha2.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode1
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meVE.Aposticha3.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode8
@@ -60,7 +60,7 @@ meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
-meVE.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.TachyProkatalave.name
+meVE.Apolytikion1.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion1.text = ""
 
 meVE.GeneralApolytikion1.name = ""
@@ -110,11 +110,11 @@ meMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.OMonosEidos.
 meMA.Ode3C1T.text = "In days of old You were carried to Egypt in the Virgin's arms and You made the temples of the demons quake. You sent Mark there that all might know the mystery of Your becoming Man."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma2.melody = misc_en_US_oca.NotMetered //he.a.m4_en_US_oca.EpefanisSimeron.name
+meMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -178,7 +178,7 @@ meMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.EkyklosenIma
 meMA.Ode6C1T.text = "Through the Virgin Mother of God You enlightened Egypt which had been in darkness. You entered it as an infant, O Lord, and reproved its vanity, Lover of mankind, through the teachings of the divinely-spoken Mark."
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.TaAnoZiton.name
+meMA.Kontakion1.melody = he.a.m2_en_US_oca.TaAnoZiton.notmetered
 meMA.Kontakion1.text = "You received the grace of the spirit from on high, * destroying the snares of the orators. * You hunted all the nations, Apostle, * and led them to your Master, ** glorious Mark, the preacher of the Gospel of God!"
 
 meMA.Oikos1.text = "A disciple of the leader of the apostles, with him you preached Christ, the Son of God.  You made those who were shaken by falsehood to be steadfast on the rock of truth.  Make me also steadfast on it and set my steps in the right way, that delivered from the snares of the enemy, I may glorify you without fail.  For you have enlightened all, ** glorious Mark, the preacher of the Gospel of God!"
@@ -246,19 +246,19 @@ meMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m1_en_US_oca.TyponTisAgni
 meMA.Ode9C1T.text = "The honored Apostle Mark was given as a holy bishop to the Egyptians, to whom the Lord of glory had also come, incarnate as an infant through the pure Virgin Mother of God. Let us fittingly magnify Him!"
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.FosAnalloioton.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.FosAnalloioton.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode1
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meMA.Lauds1.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode1
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meMA.Lauds2.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode1
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meMA.Lauds3.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meMA.Lauds3.text = ""
 
 meMA.MM.Lauds123as456.text = properties_en_US_oca.media.key

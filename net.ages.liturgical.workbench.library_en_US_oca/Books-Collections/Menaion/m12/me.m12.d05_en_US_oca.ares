@@ -13,15 +13,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meSV.Stichera1.mode = misc_en_US_oca.Mode1
-meSV.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meSV.Stichera1.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meSV.Stichera1.text = "You followed the words of God * and stored them in your heart, * beholding the powers of reason with your mind! * You established there the ladder of your ascent, * our venerable Father Sabbas! ** Pray now that our souls may be granted peace and great mercy!"
 
 meSV.Stichera2.mode = misc_en_US_oca.Mode1
-meSV.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meSV.Stichera2.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meSV.Stichera2.text = "Most venerable Sabbas, * from your childhood you offered your life to Christ our God! * Strengthened by Him, you subjected your carnal passions to your mind, * overcoming what is lower with that which is higher. ** Pray, therefore, that our souls may be granted peace and great mercy!"
 
 meSV.Stichera3.mode = misc_en_US_oca.Mode1
-meSV.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+meSV.Stichera3.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 meSV.Stichera3.text = "Our God-bearing Father, * you revealed yourself to be a strong beacon, * enlightening all the earth with the splendor of your miracles * and with divine works. * Therefore, after your dormition the unfading light received you. ** Pray now that our souls may be granted peace and great mercy!"
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode2
@@ -33,31 +33,31 @@ meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ho.s23_en_US_oca.hoCA.Troparion7.text
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode2
-meSV.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha1.text = "Our God bearing Father, * from your swaddling clothes, * you were shown to be * a sanctified vessel ** and dwelling of the all-Holy Spirit!"
 
 meSV.Aposticha2.mode = misc_en_US_oca.Mode2
-meSV.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha2.text = "Sabbas our Father, * you bore on your shoulders * the Cross of the Lord! * You utterly destroyed ** the fantasies of the demons!"
 
 meSV.Aposticha3.mode = misc_en_US_oca.Mode2
-meSV.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.Aposticha3.text = "Sabbas our Father, * by the power of the Cross, * you renounced the delusions of demons! * Thus you revealed ** the glory of Christ!"
 
 meSV.AposGlory.mode = misc_en_US_oca.Mode2
-meSV.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m2_en_US_oca.OikosTouEfratha.name
+meSV.AposGlory.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
 meSV.AposGlory.text = "O good Lady, * stretch forth your courageous hands, * to your Son, the Creator, * and the Lover of our souls, ** that He may spare your servants!"
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode5
-meVE.Stichera01.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.OsiePater.name
+meVE.Stichera01.melody = he.a.m5_en_US_oca.OsiePater.notmetered
 meVE.Stichera01.text = "Divinely wise Sabbas, * you stand together with the angels and dwell with the venerable ones, * you converse with the prophets * and are co-heir of the Kingdom with the martyrs and apostles! * You dwell in unfading Light * and shine with His Divine light and intense desire, * standing before Him with boldness and unceasing enlightenment, * delighting in His beauties! * Entreat Christ, O venerable Father, ** beseeching Him to grant unity to the Church, peace and great mercy!"
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode5
-meVE.Stichera02.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.OsiePater.name
+meVE.Stichera02.melody = he.a.m5_en_US_oca.OsiePater.notmetered
 meVE.Stichera02.text = "Divinely wise Sabbas, * you are an unquenchable lamp of abstinence, * a radiant beacon for monastics illumined with rays of love! * You are the confirmation and strength of those who honor you with faith, * a treasury of healings and true dweller in the desert * which you showed to be the Paradise of God bearing the divine fruit of salvation! * Entreat Christ, O venerable one, ** beseeching Him to grant unity to the Church, peace and great mercy!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode5
-meVE.Stichera03.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.OsiePater.name
+meVE.Stichera03.melody = he.a.m5_en_US_oca.OsiePater.notmetered
 meVE.Stichera03.text = "Divinely wise Sabbas, * you are a fiery pillar of the virtues, * a beacon guiding men from the sea of life to the harbor of God! * As a pure dwelling of the Holy Spirit, you disregarded spiritual deceptions. * You are an instructor of monastics, * a sure measure of abstinence, * a radiant height of humility and fountain pouring forth a depth of healing. * Entreat Christ, O venerable one, ** beseeching Him to grant unity to the Church, peace and great mercy!"
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode6
@@ -94,11 +94,11 @@ meVE.Aposticha1.melody = misc_en_US_oca.AutomelonNotMetered
 meVE.Aposticha1.text = he.a.m5_en_US_oca.ChairoisAskitikon.text
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
-meVE.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha2.text = "God-bearing Sabbas, * in your godly wisdom, venerable one, * you approached the fire of the Spirit, * revealing yourself in the world as a divinely glowing ember, * enlightening the souls of those who faithfully come to you * and leading them to the unfading light! * Moistened from on high with the grace of God, * you quench the burning fire of the desert. * Therefore, Christ, Who directs God’s righteousness * has openly granted you a crown of victory, blessed one. ** Entreat Him to grant our souls great mercy!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
-meVE.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha3.text = "Divinely wise one, * your life was manifested as a ladder * spanning the gulf between earth and the heavens. * You ascended the heights and were counted worthy to converse with Christ the Master, * most blessed one! * Having enlightened your mind with this radiance, * you received a splendor equal to that of the angels! * Now as you stand before Him, venerable one, * pray that we who celebrate your divine and most holy memory may stand with you, ** and that He will grant the world great mercy!"
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode8
@@ -111,22 +111,22 @@ meVE.AposTheotokion.text = oc.m8.d1_en_US_oca.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode1
-meVE.Apolytikion1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TisErimouPolitis.name
+meVE.Apolytikion1.melody = he.a.m1_en_US_oca.TisErimouPolitis.notmetered
 meVE.Apolytikion1.text = ""
 
 meVE.GeneralApolytikion1.name = ""
 meVE.MM.GeneralApolytikion1.text = properties_en_US_oca.media.key
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma11.text = "When you completed your life on earth in a godly manner, * you were revealed to be a pure dwelling-place of the Spirit, * enlightening those who turn to you in faith! * Therefore, divinely wise Sabbas, our father, * beseech your Master, blessed one, ** that He enlighten our souls as we sing hymns to you!"
 
 meMA.Kathisma1T.mode = misc_en_US_oca.Mode1
-meMA.Kathisma1T.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma1T.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma1T.text = oc.m1.d1_en_US_oca.ocMA.Kathisma13.text
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode8
-meMA.Kathisma21.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma21.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma21.text = "You abandoned the turmoil of life and took your Cross upon your shoulders. * You offered yourself completely to God! * You transcended the flesh and the world and conversed with the Holy Spirit. * Therefore you raised men up to fervor: * You emptied the cities and made cities in the desert! * Our God-bearing Father, pray to Christ our God that remission of sins ** may be granted to those who celebrate your holy memory with love!"
 
 meMA.Kathisma2T.mode = misc_en_US_oca.Mode8
@@ -134,11 +134,11 @@ meMA.Kathisma2T.melody = misc_en_US_oca.AutomelonNotMetered
 meMA.Kathisma2T.text = he.a.m8_en_US_oca.TinSofianKaiLogon.text
 
 meMA.Kathisma31.mode = misc_en_US_oca.Mode8
-meMA.Kathisma31.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = misc_en_US_oca.Mode8
-meMA.Kathisma3T.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Kathisma3T.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Kathisma3T.text = ""
 
 meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
@@ -212,11 +212,11 @@ meMA.Ode3C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.OStereosasKa
 meMA.Ode3C1T.text = "You have been known as indeed the wonderful gate * of the dispensation of the Word Who saves us. * For you have brought forth for us, Virgin Mother, * the spiritual Ray of the all-divine Godhead."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = "You abandoned the turmoil of life and took your Cross upon your shoulders. * You offered yourself completely to God! * You transcended the flesh and the world and conversed with the Holy Spirit. * Therefore you raised men up to fervor: * You emptied the cities and made cities in the desert! * Our God-bearing Father, pray to Christ our God that remission of sins ** may be granted to those who celebrate your holy memory with love!"
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
-meMA.Ode3KathismaT.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -290,7 +290,7 @@ meMA.Ode6C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.IlasthitiMoi
 meMA.Ode6C1T.text = "Pure Lady, you gave birth to God, * the Savior and Deliverer of all Who took our flesh upon Himself. * Save those who call upon you from misfortune."
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode8
-meMA.Kontakion1.melody = misc_en_US_oca.NotMetered //he.a.m8_en_US_oca.TiYpermacho.name
+meMA.Kontakion1.melody = he.a.m8_en_US_oca.TiYpermacho.notmetered
 meMA.Kontakion1.text = "In your strength, blessed Sabbas, you offered yourself to God * as an unblemished sacrifice from your youth! * You became a gardener in the garden of true worship: * Therefore you were an adornment for venerable and God-fearing hermits. ** We cry out to you: Rejoice, most wealthy Sabbas!"
 
 meMA.Oikos1.text = ""
@@ -368,27 +368,27 @@ meMA.Ode9C1T.melody = misc_en_US_oca.NotMetered //he.h.m8_en_US_oca.ExestiEpiTou
 meMA.Ode9C1T.text = "Pure one, you are more highly exalted than all mortals * in your incomparable excellence, * for in your womb, you contained God, * the Creator of all creation. * Pray to Him, for He is merciful, * that He may grant His Churches unity of mind, peace and serene well-being."
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.text = "You made the desert a city, divinely-wise Father Sabbas, * with your ways of loving wisdom! * Adornment of the fathers, * you made it a perfect spiritual paradise, * blossoming with the divine flowers of those with similar ways, ** who fittingly celebrate your holy memory!"
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion2.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.FosAnalloioton.name
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.FosAnalloioton.notmetered
 meMA.Exaposteilarion2.text = "You made the desert a city, divinely-wise Father Sabbas, * with your ways of loving wisdom! * Adornment of the fathers, * you made it a perfect spiritual paradise, * blossoming with the divine flowers of those with similar ways, ** who fittingly celebrate your holy memory!"
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-meMA.ExapTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m3_en_US_oca.FosAnalloioton.name
+meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.FosAnalloioton.notmetered
 meMA.ExapTheotokion.text = ho.s23_en_US_oca.hoCA.Exaposteilarion4.text
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode1
-meMA.Lauds1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds1.text = "The divinely wise Sabbas who scorned lower things, * a sojourner who loved the things above and dweller of the desert, * commands us all to celebrate with faith ** the saving day of his departure to God!"
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode1
-meMA.Lauds2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds2.text = "In your virtues you were apart from the world and the flesh, * during your life on earth, wise Father! * You gave glory to the Lord of glory, * and were rightly glorified by Him! * You have been revealed as a divine source of healing, ** God-pleasing Sabbas!"
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode1
-meMA.Lauds3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonOuranionTagmaton.name
+meMA.Lauds3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 meMA.Lauds3.text = "You were truly humble, Father, guileless, meek and simple! * You were quieter than other men. * While in the flesh you were shown to be a most worthy immaterial house of God! ** Mercifully grant us the gifts He gave to you!"
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode6

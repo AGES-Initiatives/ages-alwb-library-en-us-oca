@@ -1,27 +1,27 @@
 A_Resource_Whose_Name = oc.m1.d7_en_US_oca
 
 ocVE.Stichera1.mode = misc_en_US_oca.Mode1
-ocVE.Stichera1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocVE.Stichera1.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocVE.Stichera1.text = ""
 
 ocVE.Stichera2.mode = misc_en_US_oca.Mode1
-ocVE.Stichera2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocVE.Stichera2.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_oca.Mode1
-ocVE.Stichera3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocVE.Stichera3.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = misc_en_US_oca.Mode1
-ocVE.Stichera4.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocVE.Stichera4.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocVE.Stichera4.text = ""
 
 ocVE.Stichera5.mode = misc_en_US_oca.Mode1
-ocVE.Stichera5.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocVE.Stichera5.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocVE.Stichera5.text = ""
 
 ocVE.Stichera6.mode = misc_en_US_oca.Mode1
-ocVE.Stichera6.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocVE.Stichera6.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = misc_en_US_oca.Mode1
@@ -49,13 +49,13 @@ ocVE.AposTheotokion.melody = ""
 ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_oca.Mode1
-ocVE.ApolTheotokionVM.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TouLithouSfragisthentos.name
+ocVE.ApolTheotokionVM.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmetered
 ocVE.ApolTheotokionVM.text = oc.m1.d1_en_US_oca.ocVE.ApolTheotokionVM.text
 
 ocMA.MM.Alleluia.text = properties_en_US_oca.media.key
 
 ocMA.Kathisma11.mode = misc_en_US_oca.Mode1
-ocMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TouLithouSfragisthentos.name
+ocMA.Kathisma11.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmetered
 ocMA.Kathisma11.text = oc.m1.d3_en_US_oca.ocMA.Kathisma32.text
 
 ocMA.Kathisma12.mode = misc_en_US_oca.Mode1
@@ -63,11 +63,11 @@ ocMA.Kathisma12.melody = ""
 ocMA.Kathisma12.text = oc.m1.d4_en_US_oca.ocMA.Kathisma32.text
 
 ocMA.Kathisma13.mode = misc_en_US_oca.Mode1
-ocMA.Kathisma13.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+ocMA.Kathisma13.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 ocMA.Kathisma13.text = oc.m1.d5_en_US_oca.ocMA.Kathisma32.text
 
 ocMA.Kathisma14.mode = misc_en_US_oca.Mode1
-ocMA.Kathisma14.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TouLithouSfragisthentos.name
+ocMA.Kathisma14.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmetered
 ocMA.Kathisma14.text = oc.m1.d1_en_US_oca.ocVE.ApolTheotokionVM.text
 
 ocMA.Kathisma21.mode = misc_en_US_oca.Mode1
@@ -79,7 +79,7 @@ ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_US_oca.Mode1
-ocMA.Kathisma23.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+ocMA.Kathisma23.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma24.mode = misc_en_US_oca.Mode1
@@ -519,23 +519,23 @@ ocMA.LaudsRubric2.text = ""
 
 ocMA.Aposticha1.poet = poets_en_US_oca.Theofanous
 ocMA.Aposticha1.mode = misc_en_US_oca.Mode1
-ocMA.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocMA.Aposticha1.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocMA.Aposticha1.text = ""
 
 ocMA.Aposticha2.mode = misc_en_US_oca.Mode1
-ocMA.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocMA.Aposticha2.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocMA.Aposticha2.text = ""
 
 ocMA.Aposticha3.mode = misc_en_US_oca.Mode1
-ocMA.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocMA.Aposticha3.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocMA.Aposticha3.text = ""
 
 ocMA.Aposticha4.mode = misc_en_US_oca.Mode1
-ocMA.Aposticha4.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocMA.Aposticha4.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocMA.Aposticha4.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_US_oca.Mode1
-ocMA.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+ocMA.AposTheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_oca.Mode1
@@ -593,7 +593,7 @@ octrVE.SticBoth.melody = ""
 octrVE.SticBoth.text = ocVE.SticTheotokion.text
 
 octrMA.Kathisma11.mode = misc_en_US_oca.Mode1
-octrMA.Kathisma11.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TouLithouSfragisthentos.name
+octrMA.Kathisma11.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmetered
 octrMA.Kathisma11.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = misc_en_US_oca.Mode1
@@ -601,15 +601,15 @@ octrMA.Kathisma12.melody = ""
 octrMA.Kathisma12.text = oc.m1.d4_en_US_oca.ocMA.Kathisma32.text
 
 octrMA.Kathisma13.mode = misc_en_US_oca.Mode1
-octrMA.Kathisma13.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+octrMA.Kathisma13.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 octrMA.Kathisma13.text = ocMA.Kathisma13.text
 
 octrMA.Kathisma14.mode = misc_en_US_oca.Mode1
-octrMA.Kathisma14.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TonTafonSouSotir.name
+octrMA.Kathisma14.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 octrMA.Kathisma14.text = ""
 
 octrMA.Kathisma1T.mode = misc_en_US_oca.Mode1
-octrMA.Kathisma1T.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.TouLithouSfragisthentos.name
+octrMA.Kathisma1T.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmetered
 octrMA.Kathisma1T.text = ocMA.Kathisma14.text
 
 octrMA.Photogogic.mode = misc_en_US_oca.Mode1
@@ -637,26 +637,26 @@ octrMA.LaudsGlory.melody = ""
 octrMA.LaudsGlory.text = ocMA.Lauds5.text
 
 octrMA.LaudsTheotokion.mode = misc_en_US_oca.Mode1
-octrMA.LaudsTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+octrMA.LaudsTheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 octrMA.LaudsTheotokion.text = ""
 
 octrMA.Aposticha1.poet = poets_en_US_oca.Theofanous
 octrMA.Aposticha1.mode = misc_en_US_oca.Mode1
-octrMA.Aposticha1.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+octrMA.Aposticha1.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 octrMA.Aposticha1.text = ocMA.Aposticha1.text
 
 octrMA.Aposticha2.mode = misc_en_US_oca.Mode1
-octrMA.Aposticha2.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+octrMA.Aposticha2.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 octrMA.Aposticha2.text = ocMA.Aposticha2.text
 
 octrMA.Aposticha3.mode = misc_en_US_oca.Mode1
-octrMA.Aposticha3.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+octrMA.Aposticha3.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 octrMA.Aposticha3.text = ocMA.Aposticha3.text
 
 octrMA.AposGlory.mode = misc_en_US_oca.Mode1
-octrMA.AposGlory.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+octrMA.AposGlory.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 octrMA.AposGlory.text = ocMA.Aposticha4.text
 
 octrMA.AposTheotokion.mode = misc_en_US_oca.Mode1
-octrMA.AposTheotokion.melody = misc_en_US_oca.NotMetered //he.a.m1_en_US_oca.PaneffimoiMartyres.name
+octrMA.AposTheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
 octrMA.AposTheotokion.text = ocMA.AposTheotokion.text
