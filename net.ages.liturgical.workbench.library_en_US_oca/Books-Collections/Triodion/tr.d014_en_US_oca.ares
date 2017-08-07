@@ -507,11 +507,10 @@ trMA.AposTheotokion.mode = misc_en_US_oca.Mode6
 trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.text = oc.m6.d7_en_US_oca.ocMA.LaudsTheotokion.text
 
-trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode8
-trLI.SeasonalKontakion.melody = ""
-trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
 
 trMegalynarion.text = ""
-

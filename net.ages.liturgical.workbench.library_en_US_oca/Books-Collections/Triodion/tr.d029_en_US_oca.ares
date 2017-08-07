@@ -351,9 +351,9 @@ trLI.Antiphon2.text = ""
 
 trLI.MM.EntranceHymn.text = properties_en_US_oca.media.key
 
-trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode8
-trLI.SeasonalKontakion.melody = misc_en_US_oca.Automelon
-trLI.SeasonalKontakion.text = he.a.m8_en_US_oca.TiYpermacho.text
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_US_oca.Mode8
 trLI.TheotokosHymn.text = oc.m8.d1_en_US_oca.ocMA.Kathisma23.text

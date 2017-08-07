@@ -552,9 +552,9 @@ peLI.Antiphon2.text = ""
 peLI.MM.EntranceHymn.text = properties_en_US_oca.media.key
 peLI.MM.EntranceHymnAF.text = ""
 
-peLI.SeasonalKontakion.mode = misc_en_US_oca.Mode8
-peLI.SeasonalKontakion.melody = ""
-peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_US_oca.Mode7
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text

@@ -629,10 +629,6 @@ meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
-meLI.SeasonalKontakion.melody = ""
-meLI.SeasonalKontakion.text = meMA.Kontakion1.text
-
 meLI.TheotokosHymn.mode = misc_en_US_oca.Mode8
 meLI.TheotokosHymn.text = he.h.m8_en_US_oca.AllotrionTonMiteron.text
 

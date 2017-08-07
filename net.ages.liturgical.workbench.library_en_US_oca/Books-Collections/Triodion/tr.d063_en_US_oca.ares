@@ -913,9 +913,9 @@ trMA.LaudsTheotokion.mode = misc_en_US_oca.Mode2
 trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
 
-trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode2
-trLI.SeasonalKontakion.melody = he.a.m2_en_US_oca.TaAnoZiton.notmetered
-trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_US_oca.Mode8
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text

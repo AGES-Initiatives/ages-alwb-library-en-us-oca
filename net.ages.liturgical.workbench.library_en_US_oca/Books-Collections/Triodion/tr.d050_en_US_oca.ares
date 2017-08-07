@@ -618,9 +618,9 @@ trMA.LaudsGlory.mode = misc_en_US_oca.Mode1
 trMA.LaudsGlory.melody = misc_en_US_oca.Idiomelon
 trMA.LaudsGlory.text = ""
 
-trLI.SeasonalKontakion.mode = misc_en_US_oca.Mode8
-trLI.SeasonalKontakion.melody = misc_en_US_oca.Automelon
-trLI.SeasonalKontakion.text = he.a.m8_en_US_oca.TiYpermacho.text
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trMegalynarion.text = ""
 
