@@ -1,0 +1,300 @@
+A_Resource_Whose_Name = me.m10.d03_en_US_oca
+
+meDate.text = ""
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_oca.Mode1
+meVE.Stichera01.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_oca.Mode1
+meVE.Stichera02.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_oca.Mode1
+meVE.Stichera03.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
+meVE.Stichera03.text = ""
+
+meVE.SticGlory.poet = poets_en_US_oca.AndreouIerosolymitou // οἱ δέ, Βυζαντίου
+meVE.SticGlory.mode = misc_en_US_oca.Mode2
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Come, let us the faithful * praise the annual celebration of the hierarch Dionysius, with Cyprian! * When Dionysius had rejected the stoic philosophers, * he became an initiate of the gnostic hidden mysteries. * [And Cyprian] enlightened by the holy virgin Justina, * fled the treachery of demons! * After destroying books of sorcery, * he became a herald of the Gospel! * Therefore, as we sinners celebrate their glory, * we give glory to the Savior: * Christ God, You crowned your victors with glory: ** Through their supplications, save our souls!"
+
+meVE.SticTheotokion.mode = misc_en_US_oca.Mode2
+meVE.SticTheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
+meVE.SticTheotokion.text = ""
+
+meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode2
+meVE.SticStavrotheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
+meVE.SticStavrotheotokion.text = ""
+
+meVE.AposGlory.mode = misc_en_US_oca.Mode4
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "We call you the unseen depth of heavenly knowledge, * most splendid martyr of Christ! * We hymn you as a warrior and steadfast champion of the Church, wise one, * for you shone with most pure fire! * You were counted worthy to wear the garment of light with the armies on high, * having enlightened your mind with the radiance of the Holy Spirit, Dionysius! * Therefore with faith we celebrate your universal memorial, ** glorifying the Lord Who glorified you!"
+
+meVE.AposTheotokion.mode = misc_en_US_oca.Mode4
+meVE.AposTheotokion.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
+meVE.AposTheotokion.text = ""
+
+meVE.AposStavrotheotokion.mode = misc_en_US_oca.Mode4
+meVE.AposStavrotheotokion.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
+meVE.AposStavrotheotokion.text = ""
+
+meVE.GeneralApolytikion1.mode = misc_en_US_oca.Mode4
+meVE.GeneralApolytikion1.melody = ""
+meVE.MM.GeneralApolytikion1.text = properties_en_US_oca.media.key
+meVE.GeneralApolytikion1.name = ""
+
+meMA.C1Poet = poets_en_US_oca.Theofanous
+meMA.C1Acrostic.text = ""
+
+meMA.C1.title = ""
+meMA.C1.verse = ""
+
+meMA.Ode1C11.ode = misc_en_US_oca.Ode1
+meMA.Ode1C11.mode = misc_en_US_oca.Mode8
+meMA.Ode1C11.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_oca.Ode1
+meMA.Ode1C12.mode = misc_en_US_oca.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_oca.Ode1
+meMA.Ode1C13.mode = misc_en_US_oca.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+meMA.Ode1C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
+meMA.Ode1C1T.text = ""
+
+meMA.Ode3C11.ode = misc_en_US_oca.Ode3
+meMA.Ode3C11.mode = misc_en_US_oca.Mode8
+meMA.Ode3C11.melody = he.h.m8_en_US_oca.OuraniasApsidos.notmetered
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_oca.Ode3
+meMA.Ode3C12.mode = misc_en_US_oca.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_oca.OuraniasApsidos.notmetered
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_oca.Ode3
+meMA.Ode3C13.mode = misc_en_US_oca.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_oca.OuraniasApsidos.notmetered
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_oca.Ode3
+meMA.Ode3C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_oca.OuraniasApsidos.notmetered
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3H.ode = misc_en_US_oca.Ode3
+meMA.Ode3H.mode = misc_en_US_oca.Mode8
+meMA.Ode3H.melody = misc_en_US_oca.Heirmos
+meMA.Ode3H.text = he.h.m8_en_US_oca.OuraniasApsidos.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
+meMA.Ode3KathismaT.text = ""
+
+meMA.Ode3KathismaSt.mode = misc_en_US_oca.Mode8
+meMA.Ode3KathismaSt.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_oca.Ode4
+meMA.Ode4C11.mode = misc_en_US_oca.Mode8
+meMA.Ode4C11.melody = he.h.m8_en_US_oca.SyMouIschys.notmetered
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_oca.Ode4
+meMA.Ode4C12.mode = misc_en_US_oca.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_oca.SyMouIschys.notmetered
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_oca.Ode4
+meMA.Ode4C13.mode = misc_en_US_oca.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_US_oca.SyMouIschys.notmetered
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_oca.Ode4
+meMA.Ode4C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_oca.SyMouIschys.notmetered
+meMA.Ode4C1T.text = ""
+
+meMA.Ode5C11.ode = misc_en_US_oca.Ode5
+meMA.Ode5C11.mode = misc_en_US_oca.Mode8
+meMA.Ode5C11.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_oca.Ode5
+meMA.Ode5C12.mode = misc_en_US_oca.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_oca.Ode5
+meMA.Ode5C13.mode = misc_en_US_oca.Mode8
+meMA.Ode5C13.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_oca.Ode5
+meMA.Ode5C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C1T.text = ""
+
+meMA.Ode6C11.ode = misc_en_US_oca.Ode6
+meMA.Ode6C11.mode = misc_en_US_oca.Mode8
+meMA.Ode6C11.melody = he.h.m8_en_US_oca.IlasthitiMoiSotir.notmetered
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_oca.Ode6
+meMA.Ode6C12.mode = misc_en_US_oca.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_oca.IlasthitiMoiSotir.notmetered
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_oca.Ode6
+meMA.Ode6C13.mode = misc_en_US_oca.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_US_oca.IlasthitiMoiSotir.notmetered
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_oca.Ode6
+meMA.Ode6C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_oca.IlasthitiMoiSotir.notmetered
+meMA.Ode6C1T.text = ""
+
+meMA.Ode6H.ode = misc_en_US_oca.Ode6
+meMA.Ode6H.mode = misc_en_US_oca.Mode8
+meMA.Ode6H.melody = misc_en_US_oca.Heirmos
+meMA.Ode6H.text = he.h.m8_en_US_oca.IlasthitiMoiSotir.text
+
+meMA.Kontakion1.mode = misc_en_US_oca.Mode8
+meMA.Kontakion1.melody = he.a.m8_en_US_oca.TiYpermacho.notmetered
+meMA.Kontakion1.text = "When you spiritually entered the heavenly gateway, * as a disciple of the apostle taken up beyond the third heaven, * you were enriched, Dionysius, with understanding of ineffable mysteries * and enlightened those walking in the darkness of ignorance! ** Therefore we cry out to you: Rejoice, most holy Father!"
+
+meMA.Oikos1.text = ""
+meMA.Oikos12.text = ""
+meMA.Oikos13.text = ""
+meMA.Oikos14.text = ""
+meMA.Oikos15.text = ""
+meMA.Oikos16.text = ""
+meMA.Oikos17.text = ""
+meMA.Oikos18.text = ""
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_US_oca.Ode7
+meMA.Ode7C11.mode = misc_en_US_oca.Mode8
+meMA.Ode7C11.melody = he.h.m8_en_US_oca.TheouSynkatavasin.notmetered
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_oca.Ode7
+meMA.Ode7C12.mode = misc_en_US_oca.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_oca.TheouSynkatavasin.notmetered
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_oca.Ode7
+meMA.Ode7C13.mode = misc_en_US_oca.Mode8
+meMA.Ode7C13.melody = he.h.m8_en_US_oca.TheouSynkatavasin.notmetered
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_oca.Ode7
+meMA.Ode7C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_US_oca.TheouSynkatavasin.notmetered
+meMA.Ode7C1T.text = ""
+
+meMA.Ode8C11.ode = misc_en_US_oca.Ode8
+meMA.Ode8C11.mode = misc_en_US_oca.Mode8
+meMA.Ode8C11.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_oca.Ode8
+meMA.Ode8C12.mode = misc_en_US_oca.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_oca.Ode8
+meMA.Ode8C13.mode = misc_en_US_oca.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+meMA.Ode8C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C1T.text = ""
+
+meMA.Ode8H.ode = misc_en_US_oca.Ode8
+meMA.Ode8H.mode = misc_en_US_oca.Mode8
+meMA.Ode8H.melody = misc_en_US_oca.Heirmos
+meMA.Ode8H.text = he.h.m8_en_US_oca.EptaplasiosKaminon.text
+
+meMA.Ode9C11.ode = misc_en_US_oca.Ode9
+meMA.Ode9C11.mode = misc_en_US_oca.Mode8
+meMA.Ode9C11.melody = he.h.m8_en_US_oca.ExestiEpiTouto.notmetered
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_oca.Ode9
+meMA.Ode9C12.mode = misc_en_US_oca.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_oca.ExestiEpiTouto.notmetered
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_oca.Ode9
+meMA.Ode9C13.mode = misc_en_US_oca.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_oca.ExestiEpiTouto.notmetered
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+meMA.Ode9C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_oca.ExestiEpiTouto.notmetered
+meMA.Ode9C1T.text = ""
+
+meMA.Ode9H.ode = misc_en_US_oca.Ode9
+meMA.Ode9H.mode = misc_en_US_oca.Mode8
+meMA.Ode9H.melody = misc_en_US_oca.Heirmos
+meMA.Ode9H.text = he.h.m8_en_US_oca.ExestiEpiTouto.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
+meMA.Exaposteilarion1.text = ""
+
+meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
+meMA.ExapTheotokion.text = ""
+
+meMA.MM.Ve1123as5678.text = properties_en_US_oca.media.key
+
+meMA.AposGlory.poet = poets_en_US_oca.Germanou
+meMA.AposGlory.mode = misc_en_US_oca.Mode8
+meMA.AposGlory.melody = ""
+meMA.AposGlory.text = "Excelling among hierarchs and martyrs, venerable one, * you were revealed to be a faithful pastor, * having drunk of the cup of Christ! * Therefore, having pleased Him in both those ways, ** since you now dwell in light with the ministers of heaven, intercede for us!"
+
+meMA.AposTheotokion.mode = misc_en_US_oca.Mode8
+meMA.AposTheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
+meMA.AposTheotokion.text = ""
+
+meMA.AposStavrotheotokion.mode = misc_en_US_oca.Mode8
+meMA.AposStavrotheotokion.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.notmetered
+meMA.AposStavrotheotokion.text = ""
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meMegalynarion.text = ""
+
