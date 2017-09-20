@@ -474,15 +474,19 @@ ocMA.OdeW9C2T.text = ""
 
 ocMA.Lauds1.mode = misc_en_US_oca.Mode6
 ocMA.Lauds1.melody = ""
-ocMA.Lauds1.text = oc.m6.d3_en_US_oca.ocMA.Aposticha3.text
+ocMA.Lauds1.text = oc.m6.d2_en_US_oca.ocMA.Aposticha3.text
 
 ocMA.Lauds2.mode = misc_en_US_oca.Mode6
 ocMA.Lauds2.melody = ""
-ocMA.Lauds2.text = oc.m6.d4_en_US_oca.ocMA.Aposticha3.text
+ocMA.Lauds2.text = oc.m6.d3_en_US_oca.ocMA.Aposticha3.text
 
 ocMA.Lauds3.mode = misc_en_US_oca.Mode6
 ocMA.Lauds3.melody = ""
-ocMA.Lauds3.text = oc.m6.d5_en_US_oca.ocMA.Aposticha3.text
+ocMA.Lauds3.text = oc.m6.d4_en_US_oca.ocMA.Aposticha3.text
+
+ocMA.Lauds4.mode = misc_en_US_oca.Mode6
+ocMA.Lauds4.melody = ""
+ocMA.Lauds4.text = oc.m6.d5_en_US_oca.ocMA.Aposticha3.text
 
 ocMA.LaudsGlory.mode = misc_en_US_oca.Mode6
 ocMA.LaudsGlory.melody = ""
