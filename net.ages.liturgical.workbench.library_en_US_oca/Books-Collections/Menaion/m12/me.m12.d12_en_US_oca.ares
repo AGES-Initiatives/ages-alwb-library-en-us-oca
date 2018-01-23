@@ -217,8 +217,6 @@ meMA.Kontakion1.text = "Inspired by the love of Christ, all-holy Spiridon, * You
 
 meMA.Oikos1.text = "Let us now praise Spiridon, the hierarch of the Lord, who was sanctified from his Mother's womb. He received the tablets of the grace of the glory of God! He was most glorious in miracles for all of creation as a fervent witness to God's radiance, an intercessor for the poor and a spiritual guide for the sinful. He has become a divine oblation before the throne of Christ, ** Beseeching the Lord that He may enlighten us all!"
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_US_oca.Ode7
 meMA.Ode7C11.mode = misc_en_US_oca.Mode2
 meMA.Ode7C11.melody = he.h.m2_en_US_oca.AntitheonProstagma.notmetered
@@ -611,9 +609,7 @@ alt1.meMA.Kontakion1.text = me.m12.d12_en_US_oca.meMA.Kontakion1.text
 
 alt1.meMA.Oikos1.text = me.m12.d12_en_US_oca.meMA.Oikos1.text
 
-alt1.meMA.Synaxarion.text = ""
-
-alt1.meMA.Ode7C11.ode = misc_en_US_oca.Ode7
+alt1.alt1.meMA.Ode7C11.ode = misc_en_US_oca.Ode7
 alt1.meMA.Ode7C11.mode = misc_en_US_oca.Mode1
 alt1.meMA.Ode7C11.melody = he.h.m1_en_US_oca.OiPaidesEfseveia.notmetered
 alt1.meMA.Ode7C11.text = ""

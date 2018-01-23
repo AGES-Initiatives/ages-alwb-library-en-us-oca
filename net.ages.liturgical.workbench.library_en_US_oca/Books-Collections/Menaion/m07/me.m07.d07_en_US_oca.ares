@@ -76,6 +76,26 @@ meVE.Apolytikion3.mode = misc_en_US_oca.Mode5
 meVE.Apolytikion3.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meVE.Apolytikion3.text = ""
 
+meMA.Kathisma1.notice = ""
+
+meMA.Kathisma11.mode = misc_en_US_oca.Mode4
+meMA.Kathisma11.melody = //he.a.misc_en_US_oca.OYpsotheisEnToStavro.name
+meMA.Kathisma11.text = ""
+
+meMA.Kathisma1T.mode = misc_en_US_oca.Mode4
+meMA.Kathisma1T.melody = //he.a.misc_en_US_oca.OYpsotheisEnToStavro.name
+meMA.Kathisma1T.text = //ho.s23_en_US_dedes.hoCA.Apolytikion2.text
+
+meMA.Kathisma2.notice = ""
+
+meMA.Kathisma21.mode = misc_en_US_oca.Mode1
+meMA.Kathisma21.melody = //he.a.misc_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma21.text = //me.m07.misc_en_US_oca.meMA.Kathisma21.text
+
+meMA.Kathisma2T.mode = misc_en_US_oca.Mode1
+meMA.Kathisma2T.melody = //he.a.misc_en_US_oca.TonTafonSouSotir.name
+meMA.Kathisma2T.text = //oc.m1.misc_en_US_oca.ocMA.Kathisma13.text
+
 meMA.C2Acrostic.text = ""
 
 meMA.C1.title = ""
@@ -306,8 +326,6 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_US_oca.Ode7
 meMA.Ode7C11.mode = misc_en_US_oca.Mode2
 meMA.Ode7C11.melody = he.h.m2_en_US_oca.EikonosChrysis.notmetered
@@ -440,6 +458,20 @@ meMA.Exaposteilarion1.text = ""
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 meMA.ExapTheotokion.text = ""
+
+meMA.Lauds.notice = "The Stichera of Lauds were taken from July 26 and modified."
+
+meMA.Lauds1.mode = misc_en_US_oca.Mode1
+meMA.Lauds1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meMA.Lauds1.text = ""
+
+meMA.Lauds2.mode = misc_en_US_oca.Mode1
+meMA.Lauds2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meMA.Lauds2.text = me.m07.d26_en_US_oca.meMA.Lauds2.text
+
+meMA.Lauds3.mode = misc_en_US_oca.Mode1
+meMA.Lauds3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meMA.Lauds3.text = me.m07.d26_en_US_oca.meMA.Lauds3.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 

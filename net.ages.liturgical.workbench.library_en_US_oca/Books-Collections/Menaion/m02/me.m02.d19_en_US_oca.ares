@@ -186,8 +186,6 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C1H.ode = misc_en_US_oca.Ode7
 meMA.Ode7C1H.mode = misc_en_US_oca.Mode4
 meMA.Ode7C1H.melody = misc_en_US_oca.Heirmos
@@ -651,9 +649,7 @@ alt1.meMA.Kontakion1.text = ""
 
 alt1.meMA.Oikos1.text = ""
 
-alt1.meMA.Synaxarion.text = ""
-
-alt1.meMA.Ode7C1H.ode = misc_en_US_oca.Ode7
+alt1.alt1.meMA.Ode7C1H.ode = misc_en_US_oca.Ode7
 alt1.meMA.Ode7C1H.mode = misc_en_US_oca.Mode8
 alt1.meMA.Ode7C1H.melody = misc_en_US_oca.Heirmos
 alt1.meMA.Ode7C1H.text = he.h.m8_en_US_oca.TheouSynkatavasin.text
