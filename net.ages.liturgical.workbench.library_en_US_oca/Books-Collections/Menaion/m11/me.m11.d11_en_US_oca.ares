@@ -28,20 +28,20 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode8
 meVE.Stichera04.melody =  he.a.m8_en_US_oca.OTouParadoxou.notmetered
-meVE.Stichera04.text = "Father Theodore, * true to your name: \"the gift of God,\" * you have given the gifts you received beyond understanding * to those who love you in faith! * You increased your talent, blessed one, * and heard the voice of God calling you to His bridal chamber.** Wondrous one, you live there now by the throne of the King of all!"
+meVE.Stichera04.text = "Father Theodore, ⁄ true to your name: \"the gift of God,\" ⁄ you have given the gifts you received beyond understanding ⁄ to those who love you in faith! ⁄ You increased your talent, blessed one, ⁄ and heard the voice of God calling you to His bridal chamber.⁄⁄ Wondrous one, you live there now by the throne of the King of all!"
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
-meVE.Stichera05.text = "Theodore, Father of fathers, * you brought a multitude of monastics to Christ! * You were the godly cause of their salvation. * You were enlightened with true teaching! * You were revealed prophetically to be the mouth of the Lord!** As you stand now before Him wise one, ever remember us!"
+meVE.Stichera05.text = "Theodore, Father of fathers, ⁄ you brought a multitude of monastics to Christ! ⁄ You were the godly cause of their salvation. ⁄ You were enlightened with true teaching! ⁄ You were revealed prophetically to be the mouth of the Lord!⁄⁄ As you stand now before Him wise one, ever remember us!"
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode8
 meVE.Stichera06.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
-meVE.Stichera06.text = "Wise initiate of sacred mysteries, * the abundant grace of the Spirit was poured forth in your mouth! * A well-spring of teaching gushed forth from there, * revealing you, Theodore, to be a champion of true worship, * a zealous bearer of the truth, * a pillar and fortress of the Orthodox faith,** and a most excellent example of the monastic life, wise one!"
+meVE.Stichera06.text = "Wise initiate of sacred mysteries, ⁄ the abundant grace of the Spirit was poured forth in your mouth! ⁄ A well-spring of teaching gushed forth from there, ⁄ revealing you, Theodore, to be a champion of true worship, ⁄ a zealous bearer of the truth, ⁄ a pillar and fortress of the Orthodox faith,⁄⁄ and a most excellent example of the monastic life, wise one!"
 
 meVE.SticGlory.poet = "" // poets_en_US_oca.Vyzantiou
 meVE.SticGlory.mode = misc_en_US_oca.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Again the yearly memorial of the beacons of the world has dawned: * Mennas, Victor and Vincent! * They enlighten the hearts of the faithful * by their struggles for Christ and His Cross! * Therefore let us honor Christ our God in hymns,** Who has crowned them with glory and honor!"
+meVE.SticGlory.text = "Again the yearly memorial of the beacons of the world has dawned: ⁄ Mennas, Victor and Vincent! ⁄ They enlighten the hearts of the faithful ⁄ by their struggles for Christ and His Cross! ⁄ Therefore let us honor Christ our God in hymns,⁄⁄ Who has crowned them with glory and honor!"
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode6
 meVE.SticTheotokion.melody = //he.a.m6_en_US_oca.TriimerosAnestis.notmetered
@@ -65,7 +65,7 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "Venerable Father, * the proclamation of your words has gone forth into all the earth! * Therefore you have found the reward of your labors in the heavens! * You destroyed the ranks of demons * and reached the rank of angels whose life you blamelessly imitate! * Since you have boldness before the Lord,** pray for peace for our souls!"
+meVE.AposGlory.text = "Venerable Father, ⁄ the proclamation of your words has gone forth into all the earth! ⁄ Therefore you have found the reward of your labors in the heavens! ⁄ You destroyed the ranks of demons ⁄ and reached the rank of angels whose life you blamelessly imitate! ⁄ Since you have boldness before the Lord,⁄⁄ pray for peace for our souls!"
 
 meVE.AposTheotokion.mode = misc_en_US_oca.Mode6
 meVE.AposTheotokion.melody = //he.a.m6_en_US_oca.TriimerosAnestis.notmetered
@@ -194,7 +194,7 @@ meMA.Ode3H.text = "" // he.h.m8_en_US_oca.OStereosasKatArchas.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.TaAnoZiton.notmetered
-meMA.Kontakion1.text = "You girded yourself with every ascetic practice * to protect your angelic life, * with the grace of God you conquered, * becoming like the angels. * Never cease to intercede with them, Theodore, before Christ our God,** that He may have mercy on us all!"
+meMA.Kontakion1.text = "You girded yourself with every ascetic practice ⁄ to protect your angelic life, ⁄ with the grace of God you conquered, ⁄ becoming like the angels. ⁄ Never cease to intercede with them, Theodore, before Christ our God,⁄⁄ that He may have mercy on us all!"
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
@@ -480,19 +480,19 @@ meMA.Ode9H.text = "" // he.h.m8_en_US_oca.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
 meMA.Exaposteilarion1.melody = //he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
-meMA.Exaposteilarion1.text = "Jesus, the stars adorn the heavens,  * and Mennas, Victor and Vincent adorn the Church!** For their sake grant orthodox Christians victory over their adversaries!"
+meMA.Exaposteilarion1.text = "Jesus, the stars adorn the heavens,  ⁄ and Mennas, Victor and Vincent adorn the Church!⁄⁄ For their sake grant orthodox Christians victory over their adversaries!"
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
 meMA.Exaposteilarion2.melody = //he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
-meMA.Exaposteilarion2.text = "In your piety, Theodore, * you were revealed to be a living tower of the teachings of orthodoxy! * You denounced the deception of iconoclasts; * you ended your confession with suffering,** and now you are glorified!"
+meMA.Exaposteilarion2.text = "In your piety, Theodore, ⁄ you were revealed to be a living tower of the teachings of orthodoxy! ⁄ You denounced the deception of iconoclasts; ⁄ you ended your confession with suffering,⁄⁄ and now you are glorified!"
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
 meMA.ExapTheotokion.melody = //he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
-meMA.ExapTheotokion.text = "We, the faithful, all send you now as mediator * to Him Who was born of you, and crucified for many!** Virgin, do not cease, to intercede for us!"
+meMA.ExapTheotokion.text = "We, the faithful, all send you now as mediator ⁄ to Him Who was born of you, and crucified for many!⁄⁄ Virgin, do not cease, to intercede for us!"
 
 meMA.Aposticha4.mode = misc_en_US_oca.Mode2
 meMA.Aposticha4.melody = ""
-meMA.Aposticha4.text = "Come, all who love the martyrs! * Let us honor their thrice-radiant chorus: * Mennas, Victor and Vincent, * for they paid with blood to purchase eternal life! * They spoke out against the author of evil, saying: * We will not prefer corruptible things to incorruptible! * We will not do battle for an earthly and mortal king, * but we will fight for the living King Who ever cries to the faithful:** He who believes in me, even if he dies, he shall live!"
+meMA.Aposticha4.text = "Come, all who love the martyrs! ⁄ Let us honor their thrice-radiant chorus: ⁄ Mennas, Victor and Vincent, ⁄ for they paid with blood to purchase eternal life! ⁄ They spoke out against the author of evil, saying: ⁄ We will not prefer corruptible things to incorruptible! ⁄ We will not do battle for an earthly and mortal king, ⁄ but we will fight for the living King Who ever cries to the faithful:⁄⁄ He who believes in me, even if he dies, he shall live!"
 
 meMA.AposGlory.poet = "" // poets_en_US_oca.Anatoliou
 meMA.AposGlory.mode = misc_en_US_oca.Mode1
