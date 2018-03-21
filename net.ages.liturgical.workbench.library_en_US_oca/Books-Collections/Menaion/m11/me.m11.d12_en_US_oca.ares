@@ -81,7 +81,7 @@ meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode8
 meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = "In your patience, you possessed your reward, holy father. ⁄ You were constant in prayer, while loving and aiding the poor.// ⁄ Beseech Christ God, John the merciful, that He may save our souls!⁄⁄ Beseech Christ God, John the merciful, that He may save our souls!"
+meVE.Apolytikion1.text = "In your patience, you possessed your reward, holy father. ⁄ You were constant in prayer, while loving and aiding the poor. ⁄⁄ Beseech Christ God, John the merciful, that He may save our souls!⁄⁄ Beseech Christ God, John the merciful, that He may save our souls!"
 
 meVE.Apolytikion2.poet = "" // poets_en_US_oca.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode4
@@ -186,7 +186,7 @@ meMA.Ode3H.text = //he.h.m8_en_US_oca.SyEiToStereoma.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode8
 meMA.Kontakion1.melody = he.a.m8_en_US_oca.TiYpermacho.notmetered
-meMA.Kontakion1.text = "Your vigilant prayer was like a scythe cutting the weeds of bodily passions! ⁄ Since you have boldness before the Lord, free me from every misfortune,// ⁄ that I may cry to you: Rejoice, universal father!"
+meMA.Kontakion1.text = "Your vigilant prayer was like a scythe cutting the weeds of bodily passions! ⁄ Since you have boldness before the Lord, free me from every misfortune, ⁄⁄ that I may cry to you: Rejoice, universal father!"
 
 meMA.Oikos1.text = ""
 meMA.Oikos12.text = ""
@@ -340,7 +340,7 @@ meMA.Ode6H.text = //he.h.m8_en_US_oca.TinDeisinEkcheo.text
 
 meMA.Kontakion2.mode = misc_en_US_oca.Mode2
 meMA.Kontakion2.melody = he.a.m2_en_US_oca.TaAnoZiton.notmetered
-meMA.Kontakion2.text = "By distributing your wealth to the poor, John most wise, ⁄ you gained the wealth of heaven and were called the merciful one:// ⁄ Therefore we honor you and celebrate your holy memory!"
+meMA.Kontakion2.text = "By distributing your wealth to the poor, John most wise, ⁄ you gained the wealth of heaven and were called the merciful one: ⁄⁄ Therefore we honor you and celebrate your holy memory!"
 
 meMA.Oikos2.text = ""
 
@@ -493,11 +493,11 @@ meMA.ExapTheotokion.text = ho.s23_en_US_oca.hoCA.Exaposteilarion2.text
 
 meMA.AposGlory.mode = misc_en_US_oca.Mode6
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = "The sound of your teachings has gone out into all the earth, ⁄ venerable father Nilus! ⁄ Therefore you have found the reward of your labors in the heavens. ⁄ You destroyed the hosts of demons ⁄ and reached the ranks of angels whose life you blamelessly followed! ⁄ Since you have boldness before Christ our God,// ⁄ entreat peace for our souls!⁄⁄ entreat peace for our souls!"
+meMA.AposGlory.text = "The sound of your teachings has gone out into all the earth, ⁄ venerable father Nilus! ⁄ Therefore you have found the reward of your labors in the heavens. ⁄ You destroyed the hosts of demons ⁄ and reached the ranks of angels whose life you blamelessly followed! ⁄ Since you have boldness before Christ our God, ⁄⁄ entreat peace for our souls!⁄⁄ entreat peace for our souls!"
 
 meMA.AposTheotokion.mode = misc_en_US_oca.Mode6
 meMA.AposTheotokion.melody = //he.a.m6_en_US_oca.TriimerosAnestis.notmetered
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.text = //me.m09.d04_en_US_oca.meVE.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = misc_en_US_oca.Mode6
 meMA.AposStavrotheotokion.melody = //he.a.m6_en_US_oca.TriimerosAnestis.notmetered
