@@ -625,9 +625,9 @@ alt1.meMA.LaudsGlory.mode = misc_en_US_oca.Mode5
 alt1.meMA.LaudsGlory.melody = ""
 alt1.meMA.LaudsGlory.text = ""
 
-alt1.meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode5
-alt1.meMA.LaudsTheotokion.melody = ""
-alt1.meMA.LaudsTheotokion.text = ""
+alt1.meMA.LaudsBoth.mode = misc_en_US_oca.Mode5
+alt1.meMA.LaudsBoth.melody = ""
+alt1.meMA.LaudsBoth.text = //me.m12.d22_en_US_oca.meMA.AposBoth.text
 
 alt1.meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
