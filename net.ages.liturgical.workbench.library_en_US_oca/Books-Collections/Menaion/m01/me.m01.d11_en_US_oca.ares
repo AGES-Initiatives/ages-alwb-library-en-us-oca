@@ -17,8 +17,8 @@ meDismissal = dismissals_en_US_oca.dis00.epiphany
 
 //Θεοφάνους Ὁμολογητοῦ
 meVE.Stichera01.mode = misc_en_US_oca.Mode5
-meVE.Stichera01.melody = he.a.m5_en_US_oca.OsiePater.notmetered
-meVE.Stichera01.text = "Righteous Father, God-bearing Theodosius, ⁄ you struggled valiantly in this fleeting life: ⁄ In song, in vigils and fasting you became an example to your disciples. ⁄ Now you dance with the angels and glorify Christ ceaselessly! ⁄ He is God from God, the Word of God, our Redeemer; ⁄ He bowed His head beneath the Forerunner's hand, ⁄ and sanctified the nature of the waters. ⁄ Pray to Him, beseech Him, holy one, ⁄⁄ to grant the Church peace, unity, and great mercy!"
+meVE.Stichera01.melody = misc_en_US_oca.AutomelonNotMetered
+meVE.Stichera01.text = he.a.m5_en_US_oca.OsiePater.text
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode5
 meVE.Stichera02.melody = he.a.m5_en_US_oca.OsiePater.notmetered
@@ -69,7 +69,7 @@ meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode4
 meMA.Kathisma11.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
-meMA.Kathisma11.text = "Joshua, the Son of nun, ⁄ led the people and the ark into the river Jordan ⁄ foreshadowing the goodness which was to come: ⁄ Their passing over was an image of our regeneration, ⁄ a sure type of the new creation accomplished by the Spirit, ⁄ for Christ has appeared in the Jordan ⁄⁄ to sanctify the waters!"
+meMA.Kathisma11.text = me.m01.d08_en_US_oca.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
