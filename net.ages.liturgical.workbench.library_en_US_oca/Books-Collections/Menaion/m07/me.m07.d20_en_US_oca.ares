@@ -52,12 +52,12 @@ meVE.Lity3.text = ""
 meVE.Lity4.poet = poets_en_US_oca.IoannouMonachou
 meVE.Lity4.mode = misc_en_US_oca.Mode2
 meVE.Lity4.melody = ""
-meVE.Lity4.text = ""
+meVE.Lity4.text = "Two lights have shone in the universe: * the bright stars of Elijah and Elisha. * With the Word of God, the one stopped the rain from the heavens, * thus convicting the kings. * He ascended into heaven upon a fiery chariot! * The other received a double portion of grace. * He purified the polluted water, * and parted the stream of the Jordan. * now they rejoice with the angels: ** Pray for the salvation of our souls!"
 
 meVE.Lity5.poet = poets_en_US_oca.IoannouMonachou
 meVE.Lity5.mode = misc_en_US_oca.Mode2
 meVE.Lity5.melody = ""
-meVE.Lity5.text = ""
+meVE.Lity5.text = "You were lifted up into the sky, to the gates of heaven, * by a fiery chariot, Elijah the Tishbite. * The grace of the fire worked a miracle on you. * Although you were created in the flesh you did not see death, * that you might preach in all places until the end. ** Therefore come, and grant us your correction and instruction!"
 
 meVE.LityGlory.poet = poets_en_US_oca.Arseniou
 meVE.LityGlory.mode = misc_en_US_oca.Mode4
@@ -108,21 +108,7 @@ meMA.Kathisma2T.mode = misc_en_US_oca.Mode1
 meMA.Kathisma2T.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
 meMA.Kathisma2T.text = oc.m1.d1_en_US_oca.ocMA.Kathisma23.text
 
-//Not in Menaion, optional Matins Gospel
 meR01 = ""
-meMA.MM.Prokeimenon.text = "" // for media
-
-meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
-meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelProphet.text
-
-meMA.PostGospelBoth.mode = misc_en_US_oca.Mode2
-meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
-
-meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
-meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.C1Poet = poets_en_US_oca.IoannouMonachou
 meMA.C1Acrostic.text = ""
@@ -511,3 +497,73 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
+
+//supplemental hymns
+
+alt1.meVE.Stichera04.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meVE.Stichera04.mode = misc_en_US_oca.Mode1
+alt1.meVE.Stichera04.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.name
+alt1.meVE.Stichera04.text = ""
+
+alt1.meVE.Stichera05.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meVE.Stichera05.mode = misc_en_US_oca.Mode2
+alt1.meVE.Stichera05.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera05.text = ""
+
+alt1.meVE.Stichera06.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meVE.Stichera06.mode = misc_en_US_oca.Mode2
+alt1.meVE.Stichera06.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera06.text = ""
+
+alt1.meVE.Stichera07.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meVE.Stichera07.mode = misc_en_US_oca.Mode2
+alt1.meVE.Stichera07.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera07.text = ""
+
+alt1.meVE.Stichera08.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meVE.Stichera08.mode = misc_en_US_oca.Mode2
+alt1.meVE.Stichera08.melody = he.a.m2_en_US_oca.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera08.text = ""
+
+alt1.meMA.Kathisma22.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meMA.Kathisma22.mode = misc_en_US_oca.Mode4
+alt1.meMA.Kathisma22.melody = he.a.m4_en_US_oca.EpefanisSimeron.name
+alt1.meMA.Kathisma22.text = ""
+
+alt1.meMA.Kathisma2T.mode = misc_en_US_oca.Mode4
+alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_oca.EpefanisSimeron.name
+alt1.meMA.Kathisma2T.text = me.m06.d14_en_US_oca.meMA.Ode3KathismaT.text
+
+alt1.meMA.Kathisma31.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meMA.Kathisma31.mode = misc_en_US_oca.Mode8
+alt1.meMA.Kathisma31.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.name
+alt1.meMA.Kathisma31.text = ""
+
+alt1.meMA.Kathisma32.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meMA.Kathisma32.mode = misc_en_US_oca.Mode3
+alt1.meMA.Kathisma32.melody = he.a.m3_en_US_oca.TinOraiotita.name
+alt1.meMA.Kathisma32.text = ""
+
+alt1.meMA.Kathisma3T.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meMA.Kathisma3T.mode = misc_en_US_oca.Mode3
+alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_oca.TinOraiotita.name
+alt1.meMA.Kathisma3T.text = ""
+
+//Not in Menaion, optional Matins Gospel
+alt1.meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
+
+alt1.meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
+alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelProphet.text
+
+alt1.meMA.PostGospelBoth.mode = misc_en_US_oca.Mode2
+alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
+
+alt1.meMA.PostGospelIdiomelon.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
+alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.text = ""
+
+alt1.meMegalynarion.poet = poets_en_US_oca.NikodimouAgioreitou
+alt1.meMegalynarion.text = ""
