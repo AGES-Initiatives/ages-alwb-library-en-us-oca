@@ -58,7 +58,7 @@ trMA.C1Poet = poets_en_US_oca.Iosif
 
 trMA.C2Poet = poets_en_US_oca.Theodorou
 
-trMA.C1.title = ""
+trMA.C1.title = titles_en_US_oca.KanonATouTriodiou
 trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_US_oca.Ode1
@@ -81,7 +81,7 @@ trMA.Ode1C1T.mode = misc_en_US_oca.Mode4
 trMA.Ode1C1T.melody = he.h.m4_en_US_oca.TristatasKrataious.notmetered
 trMA.Ode1C1T.text = ""
 
-trMA.C2.title = ""
+trMA.C2.title = titles_en_US_oca.KanonBTouTriodiou
 trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = misc_en_US_oca.Ode1
@@ -220,13 +220,13 @@ trMA.AposIdiomelon1.text = "Prayer and fasting are a marvelous weapon ⁄ which 
 
 trMA.AposMartyric.mode = misc_en_US_oca.Mode5
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.text = "Blessed is the army of the heavenly King! ⁄ Born on earth and enduring sufferings ⁄ they hastened to achieve the rank of angels. ⁄ Not caring for the flesh, through suffering, ⁄ they were accounted worthy of bodiless nobility! ⁄⁄ By their prayers, Lord, save our souls!"
+trMA.AposMartyric.text = oc.m5.d2_en_US_oca.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_US_oca.Mode5
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.text = "We entreat you as the Mother of God: ⁄⁄ Pray for our souls, blessed one!"
+trMA.AposTheotokion.text = oc.m5.d7_en_US_oca.ocVE.AposTheotokion.text
 
-trTE.Troparion.mode = misc_en_US_oca.Mode1
+trTE.Troparion.mode = misc_en_US_oca.Mode5
 trTE.Troparion.melody = ""
 trTE.Troparion.text = "Remember that we are but dust, ⁄ Creator of our hearts! ⁄⁄ do not condemn us to the nethermost parts of the earth, sinless one!"
 
