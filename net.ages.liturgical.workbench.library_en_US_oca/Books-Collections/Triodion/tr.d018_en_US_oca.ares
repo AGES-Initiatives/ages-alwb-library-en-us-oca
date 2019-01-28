@@ -423,7 +423,7 @@ trMA.AposMartyric.melody = ""
 trMA.AposMartyric.text = oc.m1.d4_en_US_oca.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_US_oca.Mode1
-trMA.AposTheotokion.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.name
+trMA.AposTheotokion.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
 trMA.AposTheotokion.text = oc.m1.d6_en_US_oca.ocVE.SticTheotokion.text
 
 trTE.Troparion.mode = misc_en_US_oca.Mode3

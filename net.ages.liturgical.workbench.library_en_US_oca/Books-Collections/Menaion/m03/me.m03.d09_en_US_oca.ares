@@ -29,6 +29,11 @@ meVE.Stichera03.mode = misc_en_US_oca.Mode2
 meVE.Stichera03.melody = misc_en_US_oca.Idiomelon
 meVE.Stichera03.text = "The holy martyrs accepted their torments with joy! ⁄ They hurried to the frozen lake as to a comforting bath! ⁄ They said: We will not fear the bitter cold! ⁄ Only let us escape Gehenna's flames! ⁄ Let a foot be burned, that it may rejoice eternally! ⁄ Let a hand be lost, offered to the Lord in sacrifice! ⁄ Let us not refuse death in the flesh. ⁄ Embrace death, and Christ will crown us with the laurel of victory! ⁄⁄ He is our God, and the Savior of our souls!"
 
+alt1.meVE.Stichera04.poet = ""
+alt1.meVE.Stichera04.mode = misc_en_US_oca.Mode2
+alt1.meVE.Stichera04.melody = misc_en_US_oca.Idiomelon
+alt1.meVE.Stichera04.text = ""
+
 meVE.SticGlory.poet = poets_en_US_oca.IoannouMonachou
 meVE.SticGlory.mode = misc_en_US_oca.Mode2
 meVE.SticGlory.melody = misc_en_US_oca.Idiomelon
@@ -37,6 +42,39 @@ meVE.SticGlory.text = meVE.Stichera01.text
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode2
 meVE.SticTheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 meVE.SticTheotokion.text = ""
+
+meVE.Lity1.mode = misc_en_US_oca.Mode1
+meVE.Lity1.melody = misc_en_US_oca.Idiomelon
+meVE.Lity1.text = meMA.Lauds4.text
+
+meVE.Lity2.mode = misc_en_US_oca.Mode2
+meVE.Lity2.melody = misc_en_US_oca.Idiomelon
+meVE.Lity2.text = meMA.Lauds5.text
+
+meVE.Lity3.mode = misc_en_US_oca.Mode2
+meVE.Lity3.melody = misc_en_US_oca.Idiomelon
+meVE.Lity3.text = meMA.Lauds6.text
+
+alt1.meVE.LityGlory.poet = ""
+alt1.meVE.LityGlory.mode = misc_en_US_oca.Mode5
+alt1.meVE.LityGlory.melody = misc_en_US_oca.Idiomelon
+alt1.meVE.LityGlory.text = ""
+
+alt1.meVE.LityBoth.mode = misc_en_US_oca.Mode5
+alt1.meVE.LityBoth.melody = ""
+alt1.meVE.LityBoth.text = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.text
+
+meVE.Aposticha1.mode = misc_en_US_oca.Mode5
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.text = meMA.Lauds1.text
+
+meVE.Aposticha2.mode = misc_en_US_oca.Mode5
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.text = meMA.Lauds2.text
+
+meVE.Aposticha3.mode = misc_en_US_oca.Mode5
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.text = meMA.Lauds3.text
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode6
 meVE.AposGlory.melody = misc_en_US_oca.Idiomelon
@@ -54,6 +92,11 @@ meVE.Apolytikion2.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode3
 meVE.Apolytikion2.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meVE.Apolytikion2.text = ""
+
+meVE.Apolytikion3.poet = poets_en_US_oca.Gerasimou
+meVE.Apolytikion3.mode = misc_en_US_oca.Mode1
+meVE.Apolytikion3.melody = he.a.m1_en_US_oca.TisErimouPolitis.name
+meVE.Apolytikion3.text = ""
 
 meCO.SupplicationVerse.text = ""
 
@@ -292,7 +335,7 @@ meMA.Ode8C12.text = "The members of your bodies were viciously crushed for Chris
 meMA.Ode8C13.ode = misc_en_US_oca.Ode8
 meMA.Ode8C13.mode = misc_en_US_oca.Mode2
 meMA.Ode8C13.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
-meMA.Ode8C13.text = ""
+meMA.Ode8C13.text = "Make your journey and run straight to everlasting life, my Son, ⁄ the Christ-loving mother cried to her Christ-loving child. ⁄ For I could not bear to see you appear in second place ⁄ before Christ, the Judge of the contest!"
 
 meMA.Ode8C14.ode = misc_en_US_oca.Ode8
 meMA.Ode8C14.mode = misc_en_US_oca.Mode2
@@ -361,20 +404,20 @@ meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = misc_en_US_oca.Mode1
 meMA.Lauds4.melody = misc_en_US_oca.Idiomelon
-meMA.Lauds4.text = ""
+meMA.Lauds4.text = "The choir of forty-fold splendor; ⁄ the whole army assembled by God, ⁄ has shone out upon the fast through their most honored sufferings, ⁄⁄ enlightening and illumining our souls!"
 
 meMA.Lauds5.mode = misc_en_US_oca.Mode2
 meMA.Lauds5.melody = misc_en_US_oca.Idiomelon
-meMA.Lauds5.text = ""
+meMA.Lauds5.text = "Who will not hymn the martyrs; ⁄ a choir forty in number! ⁄ For they boldly entered the waters of the lake, ⁄ and huddled together in the cold, ⁄ they chanted a hymn to the Lord: ⁄ Is your anger against us in the rivers, Lord? ⁄ Is your anger against us in the rivers, Lover of mankind? ⁄ Lighten the oppression and bitter cold of the wind, ⁄ for our feet are empurpled with our own blood! ⁄ You lead us into your everlasting habitations, O God! ⁄⁄ May we be warmed in the bosom of Abraham!"
 
 meMA.Lauds6.mode = misc_en_US_oca.Mode2
 meMA.Lauds6.melody = misc_en_US_oca.Idiomelon
-meMA.Lauds6.text = ""
+meMA.Lauds6.text = "The forty martyrs, chanting a hymn to the Savior, ⁄ have given the faithful a drink from the cup of truth: ⁄ It is filled with their blood; with the fire of their torments and icy waters; ⁄ for though one in mind, they offered themselves to Christ in many bodies! ⁄ The godly mother of a Christ-loving son, ⁄ bore him upon her shoulder, saying: ⁄⁄ Come, athlete, and suffer with the rest!"
 
 meMA.LaudsGlory.poet = poets_en_US_oca.IoannouMonachou
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode5
 meMA.LaudsGlory.melody = misc_en_US_oca.Idiomelon
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = "Athletes of Christ, you have made the most honorable fast most radiant ⁄ by the commemoration of your glorious suffering; ⁄ for being forty in number, you hallow the forty days of Lent, ⁄ emulating the Savior's suffering in your own passion for Christ! ⁄ Therefore since you have boldness before Him, ⁄ pray that we in the world may attain to the third day Resurrection of God ⁄⁄ for He is the Savior of our souls!"
 
 meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode5
 meMA.LaudsTheotokion.melody = ""
@@ -384,11 +427,11 @@ meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meMA.AposGlory.mode = misc_en_US_oca.Mode2
 meMA.AposGlory.melody = misc_en_US_oca.Idiomelon
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "The martyrs considered the lake to be Paradise ⁄ and winter the heat of the day! ⁄ Thoughts of the tyrant's threats did not frighten them, Christ God. ⁄ They courageously did not fear the increasing tortures! ⁄ They had acquired the mighty weapon of the Cross, ⁄ and with it powerfully vanquished the foe! ⁄⁄ For this they have received crowns of grace!"
 
 meMA.AposTheotokion.mode = misc_en_US_oca.Mode2
 meMA.AposTheotokion.melody = ""
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.text = oc.m2.d2_en_US_oca.ocVE.AposTheotokion.text
 
 //For Presanctified Liturgy on the day of the commemoration
 mePL.Glory.poet = poets_en_US_oca.KyprianouMonachou
