@@ -52,7 +52,7 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "The sound of your teachings has gone out into all the earth, ⁄ venerable father Lazarus! ⁄ Therefore you have found the reward of your labors in the heavens. ⁄ You destroyed the hosts of demons ⁄ and reached the ranks of angels whose life you blamelessly followed! ⁄ Since you have boldness before Christ our God, ⁄⁄ entreat peace for our souls!"
+meVE.AposGlory.text = "The sound of your teachings has gone out into all the earth, ⁄ venerable father Lazarus! ⁄ Therefore you have found the reward of your labors in the heavens. ⁄ You destroyed the hosts of demons ⁄ and reached the ranks of angels whose life you blamelessly followed! ⁄ Since you have boldness before Christ our God, ⁄⁄ entreat peace for our souls!" //me.m01.d15_en_US_oca.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_en_US_oca.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
@@ -481,7 +481,7 @@ meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = //me.m01.d15_en_US_oca.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode6
 meMA.LaudsTheotokion.melody = ""
