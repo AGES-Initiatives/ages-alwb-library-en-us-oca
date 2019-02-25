@@ -15,15 +15,15 @@ trDismissal = dismissals_en_US_oca.dis00.resurrection
 
 trVE.Stichera01.mode = misc_en_US_oca.Mode6
 trVE.Stichera01.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
-trVE.Stichera01.text = ""
+trVE.Stichera01.text = //me.m04.d01_en_US_oca.meVE.Stichera01.text
 
 trVE.Stichera02.mode = misc_en_US_oca.Mode6
 trVE.Stichera02.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
-trVE.Stichera02.text = ""
+trVE.Stichera02.text = //me.m04.d01_en_US_oca.meVE.Stichera02.text
 
 trVE.Stichera03.mode = misc_en_US_oca.Mode6
 trVE.Stichera03.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
-trVE.Stichera03.text = ""
+trVE.Stichera03.text = //me.m04.d01_en_US_oca.meVE.Stichera03.text
 
 trVE.SticGlory.mode = misc_en_US_oca.Mode4
 trVE.SticGlory.melody = misc_en_US_oca.Idiomelon
@@ -31,7 +31,7 @@ trVE.SticGlory.text = ""
 
 trVE.AposGlory.mode = misc_en_US_oca.Mode2
 trVE.AposGlory.melody = misc_en_US_oca.Idiomelon
-trVE.AposGlory.text = ""
+trVE.AposGlory.text = //me.m04.d01_en_US_oca.meVE.SticGlory.text
 
 trVE.AposTheotokion.mode = misc_en_US_oca.Mode2
 trVE.AposTheotokion.melody = ""
