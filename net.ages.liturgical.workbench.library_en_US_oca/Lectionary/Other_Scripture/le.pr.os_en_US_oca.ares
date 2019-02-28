@@ -2,7 +2,9 @@ A_Resource_Whose_Name = le.pr.os_en_US_oca
 
 leosCO.Key0300.title = ""
 leosCO.Key0300.version = 
-leosCO.Key0300.book = bible_en_US_oca.Isaiah
+leosCO.Key0300.book_string = bible_en_US_oca.Isaiah.text
+leosCO.Key0300.book_abbr = bible_en_US_oca.Isaiah.abbr
+leosCO.Key0300.book_abbr = bible_en_US_oca.Isaiah.abbr
 leosCO.Key0300.chapverse = ""
 leosCO.Key0301.text = ""
 leosCO.Key0302.text = ""
@@ -28,7 +30,9 @@ leosCO.Key0321.text = ""
 
 leosMA.LentAlleluia.title = ""
 leosMA.LentAlleluia.version = 
-leosMA.LentAlleluia.book = bible_en_US_oca.Isaiah
+leosMA.LentAlleluia.book_string = bible_en_US_oca.Isaiah.text
+leosMA.LentAlleluia.book_abbr = bible_en_US_oca.Isaiah.abbr
+leosMA.LentAlleluia.book_abbr = bible_en_US_oca.Isaiah.abbr
 leosMA.LentAlleluia.chapverse = ""
 leosMA.LentAlleluiaVerse1.text = ""
 leosMA.LentAlleluiaVerse2.text = ""
@@ -37,34 +41,46 @@ leosMA.LentAlleluiaVerse4.text = ""
 
 leosMA.GreatDoxology.v09.title = ""
 leosMA.GreatDoxology.v09.version = ""
-leosMA.GreatDoxology.v09.book = bible_en_US_oca.Daniel
+leosMA.GreatDoxology.v09.book_string = bible_en_US_oca.Daniel.text
+leosMA.GreatDoxology.v09.book_abbr = bible_en_US_oca.Daniel.abbr
+leosMA.GreatDoxology.v09.book_abbr = bible_en_US_oca.Daniel.abbr
 leosMA.GreatDoxology.v09.chapverse = ""
 leosMA.GreatDoxology.v09.text = ""
 
 leosLI.pe.d113.EpistleProkeimenon.title = ""
 leosLI.pe.d113.EpistleProkeimenon.version = 
-leosLI.pe.d113.EpistleProkeimenon.book = bible_en_US_oca.Daniel
+leosLI.pe.d113.EpistleProkeimenon.book_string = bible_en_US_oca.Daniel.text
+leosLI.pe.d113.EpistleProkeimenon.book_abbr = bible_en_US_oca.Daniel.abbr
+leosLI.pe.d113.EpistleProkeimenon.book_abbr = bible_en_US_oca.Daniel.abbr
 leosLI.pe.d113.EpistleProkeimenon.chapverse = ""
 leosLI.pe.d113.EpistleProkeimenon.text = ""
 leosLI.pe.d113.EpistleProkeimenonVerse.text = ""
 
 leosFUN.Key1202.title = ""
 leosFUN.Key1202.version = 
-leosFUN.Key1202.book = bible_en_US_oca.Genesis
+leosFUN.Key1202.book_string = bible_en_US_oca.Genesis.text
+leosFUN.Key1202.book_abbr = bible_en_US_oca.Genesis.abbr
+leosFUN.Key1202.book_abbr = bible_en_US_oca.Genesis.abbr
 leosFUN.Key1202.chapverse = ""
 leosFUN.Key1202.text = ""
 
 leosH1.me.m12.d24.Verse1.version = ""
-leosH1.me.m12.d24.Verse1.book = bible_en_US_oca.Habakkuk
+leosH1.me.m12.d24.Verse1.book_string = bible_en_US_oca.Habakkuk.text
+leosH1.me.m12.d24.Verse1.book_abbr = bible_en_US_oca.Habakkuk.abbr
+leosH1.me.m12.d24.Verse1.book_abbr = bible_en_US_oca.Habakkuk.abbr
 leosH1.me.m12.d24.Verse1.chapverse = ""
 leosH1.me.m12.d24.Verse1.text = ""
 
 leosH1.me.m12.d24.Verse2.version = ""
-leosH1.me.m12.d24.Verse2.book = bible_en_US_oca.Habakkuk
+leosH1.me.m12.d24.Verse2.book_string = bible_en_US_oca.Habakkuk.text
+leosH1.me.m12.d24.Verse2.book_abbr = bible_en_US_oca.Habakkuk.abbr
+leosH1.me.m12.d24.Verse2.book_abbr = bible_en_US_oca.Habakkuk.abbr
 leosH1.me.m12.d24.Verse2.chapverse = ""
 leosH1.me.m12.d24.Verse2.text = ""
 
 leosH9.ho.s09.Key0001.version = ""
-leosH9.ho.s09.Key0001.book = bible_en_US_oca.Daniel
+leosH9.ho.s09.Key0001.book_string = bible_en_US_oca.Daniel.text
+leosH9.ho.s09.Key0001.book_abbr = bible_en_US_oca.Daniel.abbr
+leosH9.ho.s09.Key0001.book_abbr = bible_en_US_oca.Daniel.abbr
 leosH9.ho.s09.Key0001.chapverse = ""
 leosH9.ho.s09.Key0001.text = ""
