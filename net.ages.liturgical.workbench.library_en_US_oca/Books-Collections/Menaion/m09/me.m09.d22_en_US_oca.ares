@@ -380,18 +380,13 @@ meMA.Ode8C13.mode = misc_en_US_oca.Mode2
 meMA.Ode8C13.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C13.text = ""
 
-meMA.Ode8C14.ode = misc_en_US_oca.Ode8
-meMA.Ode8C14.mode = misc_en_US_oca.Mode2
-meMA.Ode8C14.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
-meMA.Ode8C14.text = ""
-
 meMA.Ode8C1T.ode = misc_en_US_oca.Ode8
 meMA.Ode8C1T.mode = misc_en_US_oca.Mode2
-meMA.Ode8C1T.melody = he.h.m4_en_US_oca.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C1T.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = misc_en_US_oca.Ode8
-meMA.Ode8C21.mode = misc_en_US_oca.Mode4
+meMA.Ode8C21.mode = misc_en_US_oca.Mode2
 meMA.Ode8C21.melody = he.h.m4_en_US_oca.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C21.text = ""
 
@@ -404,6 +399,11 @@ meMA.Ode8C23.ode = misc_en_US_oca.Ode8
 meMA.Ode8C23.mode = misc_en_US_oca.Mode4
 meMA.Ode8C23.melody = he.h.m4_en_US_oca.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C23.text = ""
+
+meMA.Ode8C24.ode = misc_en_US_oca.Ode8
+meMA.Ode8C24.mode = misc_en_US_oca.Mode4
+meMA.Ode8C24.melody = he.h.m4_en_US_oca.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C24.text = ""
 
 meMA.Ode8C2T.ode = misc_en_US_oca.Ode8
 meMA.Ode8C2T.mode = misc_en_US_oca.Mode4
