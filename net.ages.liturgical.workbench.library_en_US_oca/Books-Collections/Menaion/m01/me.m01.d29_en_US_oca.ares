@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = me.m01.d31_en_US_oca
+A_Resource_Whose_Name = me.m01.d29_en_US_oca
 
 meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "" // full title of day
@@ -28,38 +28,46 @@ meVE.Stichera03.mode = misc_en_US_oca.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.text = ""
 
-meVE.SticGlory.poet = poets_en_US_oca.Anatoliou
+meVE.Stichera04.mode = misc_en_US_oca.Mode4
+meVE.Stichera04.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
+meVE.Stichera04.text = ""
+
+meVE.MM.Stichera1234as78910.text = properties_en_US_oca.media.key
+
 meVE.SticGlory.mode = misc_en_US_oca.Mode8
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "The pair of martyrs, miracle-working Cyrus and John, ⁄ shine on us today, curing our spiritual infirmities. ⁄ They both, as equal to the angels, bring healing. ⁄ They lived until the end as if with one life ⁄ and were joined to Christ by their martyred blood! ⁄ Both, having appeared to the gathered soldiers, ⁄ have been enrolled as citizens of the heavenly armies. ⁄ Therefore they grant healings and pray for the souls ⁄⁄ of those of us who celebrate their memory with faith!"
+meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode8
-meVE.SticTheotokion.melody = he.a.m8_en_US_oca.OiMartyresSouKyrie.notmetered
+meVE.SticTheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode8
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_oca.OiMartyresSouKyrie.notmetered
-meVE.SticStavrotheotokion.text = me.m01.d23_en_US_oca.meVE.SticStavrotheotokion.text
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
+meVE.SticStavrotheotokion.text = me.m01.d15_en_US_oca.meMA.AposStavrotheotokion.text
 
-meVE.AposGlory.poet = poets_en_US_oca.Anatoliou
-meVE.AposGlory.mode = misc_en_US_oca.Mode2
+meVE.AposGlory.poet = poets_en_US_oca.Stouditou
+meVE.AposGlory.mode = misc_en_US_oca.Mode1
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "Assembly of the faithful, ⁄ let us gather today! ⁄ Let us crown Cyrus and John with hymns! ⁄ They are soldiers of grace who grant it abundantly to those who ask! ⁄ They have been revealed to all, in various ways, ⁄⁄ as brilliant physicians who pray for our souls."
+meVE.AposGlory.text = ""
 
-meVE.AposTheotokion.mode = misc_en_US_oca.Mode2
-meVE.AposTheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.mode = misc_en_US_oca.Mode1
+meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.text = oc.m1.d3_en_US_oca.ocVE.AposTheotokion.text
 
-meVE.AposStavrotheotokion.mode = misc_en_US_oca.Mode2
-meVE.AposStavrotheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
-meVE.AposStavrotheotokion.text = oc.m2.d4_en_US_oca.ocVE.SticTheotokion.text
+meVE.AposStavrotheotokion.mode = misc_en_US_oca.Mode1
+meVE.AposStavrotheotokion.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meVE.AposStavrotheotokion.text = me.m01.d23_en_US_oca.meVE.AposStavrotheotokion.text
 
-meVE.Apolytikion1.mode = misc_en_US_oca.Mode5
-meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = oc.m5.d4_en_US_oca.ocMA.Kathisma32.text 
+meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
+meVE.Apolytikion1.melody = he.ga_en_US_oca.KaiTroponMetochos.name
+meVE.GeneralApolytikion1.notmetered = "" // name of saint for General Apolytikia
+meVE.MM.GeneralApolytikion1.text = properties_en_US_oca.media.key
 
-meMA.C1.title = titles_en_US_oca.KanonTonAgion
-meMA.C1.verse = prayers_en_US_oca.verse_SaintsM.text
+meMA.C1Acrostic.text = ""
+
+meMA.C1.title = titles_en_US_oca.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode4
@@ -75,6 +83,11 @@ meMA.Ode1C13.ode = misc_en_US_oca.Ode1
 meMA.Ode1C13.mode = misc_en_US_oca.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_oca.ThalassisToErythraion.notmetered
 meMA.Ode1C13.text = ""
+
+meMA.Ode1C14.ode = misc_en_US_oca.Ode1
+meMA.Ode1C14.mode = misc_en_US_oca.Mode4
+meMA.Ode1C14.melody = he.h.m4_en_US_oca.ThalassisToErythraion.notmetered
+meMA.Ode1C14.text = ""
 
 meMA.Ode1C1T.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1T.mode = misc_en_US_oca.Mode4
@@ -106,16 +119,16 @@ meMA.Ode3H.mode = misc_en_US_oca.Mode4
 meMA.Ode3H.melody = misc_en_US_oca.Heirmos
 meMA.Ode3H.text = he.h.m4_en_US_oca.EffrainetaiEpiSoi.text
 
-meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
+meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode3
+meMA.Ode3Kathisma1.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meMA.Ode3Kathisma1.text = ""
 
-meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode3
+meMA.Ode3KathismaT.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
+meMA.Ode3KathismaT.text = me.m01.d25_en_US_oca.meMA.Kathisma1T.text //Μητέρα Παρθένον
 
-meMA.Ode3KathismaSt.mode = misc_en_US_oca.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaSt.mode = misc_en_US_oca.Mode3
+meMA.Ode3KathismaSt.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
@@ -132,6 +145,11 @@ meMA.Ode4C13.ode = misc_en_US_oca.Ode4
 meMA.Ode4C13.mode = misc_en_US_oca.Mode4
 meMA.Ode4C13.melody = he.h.m4_en_US_oca.EparthentaSeIdousa.notmetered
 meMA.Ode4C13.text = ""
+
+meMA.Ode4C14.ode = misc_en_US_oca.Ode4
+meMA.Ode4C14.mode = misc_en_US_oca.Mode4
+meMA.Ode4C14.melody = he.h.m4_en_US_oca.EparthentaSeIdousa.notmetered
+meMA.Ode4C14.text = ""
 
 meMA.Ode4C1T.ode = misc_en_US_oca.Ode4
 meMA.Ode4C1T.mode = misc_en_US_oca.Mode4
@@ -173,11 +191,6 @@ meMA.Ode6C13.mode = misc_en_US_oca.Mode4
 meMA.Ode6C13.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C13.text = ""
 
-meMA.Ode6C14.ode = misc_en_US_oca.Ode6
-meMA.Ode6C14.mode = misc_en_US_oca.Mode4
-meMA.Ode6C14.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
-meMA.Ode6C14.text = ""
-
 meMA.Ode6C1T.ode = misc_en_US_oca.Ode6
 meMA.Ode6C1T.mode = misc_en_US_oca.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
@@ -188,9 +201,9 @@ meMA.Ode6H.mode = misc_en_US_oca.Mode4
 meMA.Ode6H.melody = misc_en_US_oca.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_oca.ThysoSoiMetaFonis.text
 
-meMA.Kontakion1.mode = misc_en_US_oca.Mode3
-meMA.Kontakion1.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
-meMA.Kontakion1.text = "Holy ones, you received as a grace the power of miracles: ⁄ Do not cease to pour out your wonders on us. ⁄ By spiritual skill, cut out our passions, two great physicians, ⁄⁄ divinely inspired Cyrus and holy John!"
+meMA.Kontakion1.mode = misc_en_US_oca.Mode4
+meMA.Kontakion1.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
+meMA.Kontakion1.text = "Today you rose from the east, ⁄ enlightening all of creation with your teachings, God-bearing Ignatius ⁄⁄ and you are crowned with martyrdom!"
 
 meMA.Oikos1.text = ""
 
@@ -208,6 +221,11 @@ meMA.Ode7C13.ode = misc_en_US_oca.Ode7
 meMA.Ode7C13.mode = misc_en_US_oca.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C13.text = ""
+
+meMA.Ode7C14.ode = misc_en_US_oca.Ode7
+meMA.Ode7C14.mode = misc_en_US_oca.Mode4
+meMA.Ode7C14.melody = he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C14.text = ""
 
 meMA.Ode7C1T.ode = misc_en_US_oca.Ode7
 meMA.Ode7C1T.mode = misc_en_US_oca.Mode4
@@ -249,10 +267,15 @@ meMA.Ode9C12.mode = misc_en_US_oca.Mode4
 meMA.Ode9C12.melody = he.h.m4_en_US_oca.LithosAcheirotmitos.notmetered
 meMA.Ode9C12.text = ""
 
-meMA.Ode9C1Tr.ode = misc_en_US_oca.Ode9
-meMA.Ode9C1Tr.mode = misc_en_US_oca.Mode4
-meMA.Ode9C1Tr.melody = he.h.m4_en_US_oca.LithosAcheirotmitos.notmetered
-meMA.Ode9C1Tr.text = ""
+meMA.Ode9C13.ode = misc_en_US_oca.Ode9
+meMA.Ode9C13.mode = misc_en_US_oca.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_oca.LithosAcheirotmitos.notmetered
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C14.ode = misc_en_US_oca.Ode9
+meMA.Ode9C14.mode = misc_en_US_oca.Mode4
+meMA.Ode9C14.melody = he.h.m4_en_US_oca.LithosAcheirotmitos.notmetered
+meMA.Ode9C14.text = ""
 
 meMA.Ode9C1T.ode = misc_en_US_oca.Ode9
 meMA.Ode9C1T.mode = misc_en_US_oca.Mode4
@@ -265,42 +288,26 @@ meMA.Ode9H.melody = misc_en_US_oca.Heirmos
 meMA.Ode9H.text = he.h.m4_en_US_oca.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.ToisMathitaisSynelthomen.notmetered
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = ""
 
-meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
-meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
-meMA.Exaposteilarion2.text = ""
-
-meMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
+meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.text = ""
 
-meMA.Lauds1.mode = misc_en_US_oca.Mode4
-meMA.Lauds1.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
-meMA.Lauds1.text = ""
+meMA.MM.Ve1234as5678.text = properties_en_US_oca.media.key
 
-meMA.Lauds2.mode = misc_en_US_oca.Mode4
-meMA.Lauds2.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
-meMA.Lauds2.text = ""
+meMA.AposGlory.mode = misc_en_US_oca.Mode1
+meMA.AposGlory.melody = ""
+meMA.AposGlory.text = "Your yearly festival, God-bearer Ignatius, * has risen like a living pillar and spirit-filled cloud! * It proclaims the mysteries and mighty deeds * which you revealed, upholding the faith even to the shedding of your blood! * Your blessed voice was of eternal memory, saying: * I am ground by the teeth of wild beasts as the grain of God! * Therefore, as you imitated the suffering of your Christ, ** pray that our souls may be saved!"
 
-meMA.Lauds3.mode = misc_en_US_oca.Mode4
-meMA.Lauds3.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
-meMA.Lauds3.text = ""
+meMA.AposTheotokion.mode = misc_en_US_oca.Mode1
+meMA.AposTheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
+meMA.AposTheotokion.text = ""
 
-meMA.LaudsGlory.mode = misc_en_US_oca.Mode4
-meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = "Faithful, let us exalt Cyrus and John ⁄ with praise worthy hymns! ⁄ They were of one blood in the spirit ⁄ and brothers in wisdom in the flesh. ⁄ Together with them we praise brave Athanasia ⁄ and her children, Theoctiste, Theodosia and Eudoxia, ⁄⁄ ever-virgin martyrs who pray to Christ for our souls!"
-
-meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode4
-meMA.LaudsTheotokion.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
-meMA.LaudsTheotokion.text = ""
-
-meMA.LaudsStavrotheotokion.mode = misc_en_US_oca.Mode4
-meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
-meMA.LaudsStavrotheotokion.text = ""
-
-meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
+meMA.AposStavrotheotokion.mode = misc_en_US_oca.Mode1
+meMA.AposStavrotheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
+meMA.AposStavrotheotokion.text = oc.m1.d4_en_US_oca.ocVE.SticTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
