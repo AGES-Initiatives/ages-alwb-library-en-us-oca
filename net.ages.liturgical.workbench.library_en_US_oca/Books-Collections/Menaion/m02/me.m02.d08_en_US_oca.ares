@@ -31,15 +31,15 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode8
 meVE.Stichera04.melody = he.a.m8_en_US_oca.TiYmasKalesomen.notmetered
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "You possessed a life equal to that of the angels ⁄ and plainly conversed with them, divinely manifest one. ⁄ You illumined your mind with things beyond understanding: ⁄ The purity of wonderful images, ⁄ the revelation of great mysteries, ⁄ prophetic proclamation and spiritual renewal! ⁄⁄ Pray that our souls may be saved!"
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_oca.TiYmasKalesomen.notmetered
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "You were shown to be an earthly angel, ⁄ having heavenly companions while yet on earth! ⁄ You were a beholder of heavenly visions, ⁄ a spiritual beacon and a radiant light, ⁄ a fruitful olive tree, as proclaimed by the psalm, ⁄ which in a godly way pours oil upon the righteous. ⁄⁄ Pray that our souls may be saved!"
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode8
 meVE.Stichera06.melody = he.a.m8_en_US_oca.TiYmasKalesomen.notmetered
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "You enjoyed the deification you desired, ⁄ partaking clearly of everlasting delight. ⁄ You behold ineffable glory, ⁄ adorned with crowns of beauty as a most true prophet of God! ⁄ Pray for those who earnestly sing hymns to you, God-pleaser, ⁄⁄ that our souls may be saved!"
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode5
 meVE.SticGlory.melody = ""
@@ -52,15 +52,15 @@ meVE.SticBoth.text = me.m02.d02_en_US_oca.meVE.LityBoth.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
 meVE.Aposticha1.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = me.m02.d03_en_US_oca.meMA.Aposticha1.text
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
 meVE.Aposticha2.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = me.m02.d03_en_US_oca.meMA.Aposticha2.text
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
 meVE.Aposticha3.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = me.m02.d03_en_US_oca.meMA.Aposticha3.text
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode8
 meVE.AposGlory.melody = ""
@@ -86,11 +86,11 @@ meMA.Kathisma11.text = ""
 
 meMA.Kathisma12.mode = misc_en_US_oca.Mode4
 meMA.Kathisma12.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
-meMA.Kathisma12.text = "In days of old on Mount Sinai, ⁄ Moses saw the back of God ⁄ and was counted worthy in darkness and a storm of wind ⁄ to hear faintly the divine voice. ⁄ But now Simeon has taken God in his arms, ⁄ Who for our sakes took flesh without change! ⁄ Joyfully he hastens to depart to the life eternal, ⁄ and therefore he cries aloud: ⁄⁄ Lord, now let Your servant depart in peace!"
+meMA.Kathisma12.text = me.m02.d02_en_US_oca.meMA.Ode3Kathisma1.text
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode1
 meMA.Kathisma21.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmetered
-meMA.Kathisma21.text = "Having become an Infant for my sake, ⁄ You were carried into the Temple, Life of all. ⁄ Having of old engraved the Law on stone tablets on Mount Sinai, ⁄ You have placed Yourself under the Law ⁄ that You might set all free from the ancient bondage to the Law. ⁄ Glory to your compassion, Savior! ⁄ Glory to Your Kingdom! ⁄⁄ Glory to Your dispensation, only Lover of mankind!"
+meMA.Kathisma21.text = "You became an Infant for my sake, ⁄ You the treasure of the ages and the Life of all. ⁄ Having of old engraved the Law on stone tablets on Mount Sinai, ⁄ You have placed Yourself under the Law ⁄ that You might set all free from the ancient bondage to the Law. ⁄ Glory to your compassion, Savior! ⁄ Glory to Your Kingdom! ⁄⁄ Glory to Your dispensation, only Lover of mankind!"
 
 meMA.C1Acrostic.text = ""
 
@@ -102,7 +102,7 @@ meMA.Ode1C1H.mode = misc_en_US_oca.Mode8
 meMA.Ode1C1H.melody = misc_en_US_oca.Heirmos
 meMA.Ode1C1H.text = he.h.m8_en_US_oca.ArmatilatinFarao.text
 
-meMA.C1.title = ""
+meMA.C1.title = titles_en_US_oca.KanonTouMegalomartyros
 meMA.C1.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
@@ -135,7 +135,7 @@ meMA.Ode1C2H.mode = misc_en_US_oca.Mode8
 meMA.Ode1C2H.melody = misc_en_US_oca.Heirmos
 meMA.Ode1C2H.text = he.h.m8_en_US_oca.AsomenToKyrio.text
 
-meMA.C2.title = ""
+meMA.C2.title = titles_en_US_oca.KanonTouProfitou
 meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
@@ -576,7 +576,7 @@ meMA.Aposticha3.text = ""
 
 meMA.AposGlory.mode = misc_en_US_oca.Mode8
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "You set yourself the task of martyrdom ⁄ and bravely opposed delusion, Theodore! ⁄ With your tongue of fiery eloquence ⁄ you put the inhumanity of Licinius to shame! ⁄ Therefore, as you now rejoice with the angels, blessed one, ⁄⁄ entreat Christ God that He may be merciful to us on the day of judgment!"
 
 meMA.AposBoth.mode = misc_en_US_oca.Mode7
 meMA.AposBoth.melody = ""
