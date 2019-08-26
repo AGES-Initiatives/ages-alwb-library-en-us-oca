@@ -1,0 +1,255 @@
+A_Resource_Whose_Name = me.m05.d15_en_US_oca
+
+meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "" // full title of day
+meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_oca.Mode6
+meVE.Stichera01.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
+meVE.Stichera01.text = "You stretched all your desire up to God, Pachomius ⁄ and forsook all earthly delight, for it does not abide. ⁄ You dedicated yourself to Christ, all-wise one, ⁄ purified in every way by the ascetic life ⁄ and revealed as steadfast in opposition to the fuel of the passions! ⁄ You took up martyrdom with your conscience, Godly-minded one, ⁄⁄ so that as victory-bearer you received the unfading crown!"
+
+meVE.Stichera02.mode = misc_en_US_oca.Mode6
+meVE.Stichera02.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
+meVE.Stichera02.text = "Since you passed through the thick curtain of the body ⁄ with a practical contemplation ⁄ and shattered the attachment of the flesh, ⁄ it was granted to you to be joined to God ⁄ and thence to be brilliantly illumined with rays and graces, ⁄ to be deified by divinizing enlightenment, ⁄ by your response to the beckoning of the written word! ⁄ Now, God-bearer, since you are blessed, ⁄⁄ intercede boldly with Christ for our souls!"
+
+meVE.Stichera03.mode = misc_en_US_oca.Mode6
+meVE.Stichera03.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
+meVE.Stichera03.text = "Lifted up beyond every perception, ⁄ you conversed with God in purity! ⁄ You were outside the flesh, all-honored one, ⁄ by means of a mind that ruled over it in strength: ⁄ you conquered the passions, Pachomius, ⁄ turning back and trampling down the pride of demons. ⁄ Now you live in the heavenly mansions! ⁄ Remember all those who honor your memory ⁄⁄ as you serve Christ with boldness, all-blessed Father!"
+
+meVE.SticGlory.mode = misc_en_US_oca.Mode4
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "The wilderness blossomed forth with you as with the lily, Father, ⁄ giving fragrance to all by your practice of virtues ⁄ and delightful to all by the wisdom from contemplation, ⁄ for you are excellent in both these ways! ⁄ By your reputation for perfection you received the better portion! ⁄ From your word and life, your deeds and faith, ⁄ you were well-pleasing to Christ God. ⁄ Importune Him, Pachomius, chosen of God, ⁄ that we may be pleasing to Him ⁄⁄ and attain the inheritance on high!"
+
+meVE.AposGlory.mode = misc_en_US_oca.Mode8
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "We honor you, Pachomius our father, ⁄ the instructor of a multitude of monks! ⁄ We have indeed learned to walk rightly in your footsteps! ⁄ You are blest, for having labored for Christ, ⁄ you denounced the power of the enemy! ⁄ Conversor with the angels, ⁄ companion of the venerable and righteous ones! ⁄⁄ together with them, entreat the Lord that He may grant mercy to our souls!"
+
+meVE.Apolytikion1.mode = misc_en_US_oca.Mode5
+meVE.Apolytikion1.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
+meVE.Apolytikion1.text = "Father Pachomius, ⁄ the great Shepherd revealed you as a leader of the flocks of monks, ⁄ for you lead the way to the heavenly sheepfold. ⁄ you learned there the life proper for ascetics, ⁄ and taught it to others. ⁄ Together with them, you now exult ⁄⁄ and rejoice in the heavenly dwellings!"
+
+meMA.C1Poet = poets_en_US_oca.Theofanous
+meMA.C1Acrostic.text = ""
+
+meMA.C1.title = ""
+meMA.C1.verse = ""
+
+meMA.Ode1C11.ode = misc_en_US_oca.Ode1
+meMA.Ode1C11.mode = misc_en_US_oca.Mode2
+meMA.Ode1C11.melody = he.h.m2_en_US_oca.EnVythoKatestrose.notmetered
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_oca.Ode1
+meMA.Ode1C12.mode = misc_en_US_oca.Mode2
+meMA.Ode1C12.melody = he.h.m2_en_US_oca.EnVythoKatestrose.notmetered
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_oca.Ode1
+meMA.Ode1C13.mode = misc_en_US_oca.Mode2
+meMA.Ode1C13.melody = he.h.m2_en_US_oca.EnVythoKatestrose.notmetered
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+meMA.Ode1C1T.mode = misc_en_US_oca.Mode2
+meMA.Ode1C1T.melody = he.h.m2_en_US_oca.EnVythoKatestrose.notmetered
+meMA.Ode1C1T.text = ""
+
+meMA.Ode3C11.ode = misc_en_US_oca.Ode3
+meMA.Ode3C11.mode = misc_en_US_oca.Mode2
+meMA.Ode3C11.melody = he.h.m2_en_US_oca.ExinthisenIErimos.notmetered
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_oca.Ode3
+meMA.Ode3C12.mode = misc_en_US_oca.Mode2
+meMA.Ode3C12.melody = he.h.m2_en_US_oca.ExinthisenIErimos.notmetered
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_oca.Ode3
+meMA.Ode3C13.mode = misc_en_US_oca.Mode2
+meMA.Ode3C13.melody = he.h.m2_en_US_oca.ExinthisenIErimos.notmetered
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_oca.Ode3
+meMA.Ode3C1T.mode = misc_en_US_oca.Mode2
+meMA.Ode3C1T.melody = he.h.m2_en_US_oca.ExinthisenIErimos.notmetered
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3H.ode = misc_en_US_oca.Ode3
+meMA.Ode3H.mode = misc_en_US_oca.Mode2
+meMA.Ode3H.melody = misc_en_US_oca.Heirmos
+meMA.Ode3H.text = he.h.m2_en_US_oca.ExinthisenIErimos.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_oca.Ode4
+meMA.Ode4C11.mode = misc_en_US_oca.Mode2
+meMA.Ode4C11.melody = he.h.m2_en_US_oca.ElilythasEkParthenou.notmetered
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_oca.Ode4
+meMA.Ode4C12.mode = misc_en_US_oca.Mode2
+meMA.Ode4C12.melody = he.h.m2_en_US_oca.ElilythasEkParthenou.notmetered
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_oca.Ode4
+meMA.Ode4C13.mode = misc_en_US_oca.Mode2
+meMA.Ode4C13.melody = he.h.m2_en_US_oca.ElilythasEkParthenou.notmetered
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C14.ode = misc_en_US_oca.Ode4
+meMA.Ode4C14.mode = misc_en_US_oca.Mode2
+meMA.Ode4C14.melody = he.h.m2_en_US_oca.ElilythasEkParthenou.notmetered
+meMA.Ode4C14.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_oca.Ode4
+meMA.Ode4C1T.mode = misc_en_US_oca.Mode2
+meMA.Ode4C1T.melody = he.h.m2_en_US_oca.ElilythasEkParthenou.notmetered
+meMA.Ode4C1T.text = ""
+
+meMA.Ode5C11.ode = misc_en_US_oca.Ode5
+meMA.Ode5C11.mode = misc_en_US_oca.Mode2
+meMA.Ode5C11.melody = he.h.m2_en_US_oca.MesitisTheou.notmetered
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_oca.Ode5
+meMA.Ode5C12.mode = misc_en_US_oca.Mode2
+meMA.Ode5C12.melody = he.h.m2_en_US_oca.MesitisTheou.notmetered
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_oca.Ode5
+meMA.Ode5C13.mode = misc_en_US_oca.Mode2
+meMA.Ode5C13.melody = he.h.m2_en_US_oca.MesitisTheou.notmetered
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_oca.Ode5
+meMA.Ode5C1T.mode = misc_en_US_oca.Mode2
+meMA.Ode5C1T.melody = he.h.m2_en_US_oca.MesitisTheou.notmetered
+meMA.Ode5C1T.text = ""
+
+meMA.Ode6C11.ode = misc_en_US_oca.Ode6
+meMA.Ode6C11.mode = misc_en_US_oca.Mode2
+meMA.Ode6C11.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_oca.Ode6
+meMA.Ode6C12.mode = misc_en_US_oca.Mode2
+meMA.Ode6C12.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_oca.Ode6
+meMA.Ode6C13.mode = misc_en_US_oca.Mode2
+meMA.Ode6C13.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_oca.Ode6
+meMA.Ode6C1T.mode = misc_en_US_oca.Mode2
+meMA.Ode6C1T.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C1T.text = ""
+
+meMA.Ode6H.ode = misc_en_US_oca.Ode6
+meMA.Ode6H.mode = misc_en_US_oca.Mode2
+meMA.Ode6H.melody = misc_en_US_oca.Heirmos
+meMA.Ode6H.text = he.h.m2_en_US_oca.EnAvyssoPtaismaton.text
+
+meMA.Kontakion1.mode = misc_en_US_oca.Mode2
+meMA.Kontakion1.melody = he.a.m2_en_US_oca.TaAnoZiton.notmetered
+meMA.Kontakion1.text = "You were shown to the world as a shining lamp, ⁄ and you made the desert a city by the multitudes of monks you gathered. ⁄ You yourself were crucified, ⁄ taking your cross upon your shoulders, and subduing your flesh through abstinence. ⁄⁄ Holy Pachomius, pray unceasingly for us all!"
+
+meMA.Ode7C11.ode = misc_en_US_oca.Ode7
+meMA.Ode7C11.mode = misc_en_US_oca.Mode2
+meMA.Ode7C11.melody = he.h.m2_en_US_oca.AntitheonProstagma.notmetered
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_oca.Ode7
+meMA.Ode7C12.mode = misc_en_US_oca.Mode2
+meMA.Ode7C12.melody = he.h.m2_en_US_oca.AntitheonProstagma.notmetered
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_oca.Ode7
+meMA.Ode7C13.mode = misc_en_US_oca.Mode2
+meMA.Ode7C13.melody = he.h.m2_en_US_oca.AntitheonProstagma.notmetered
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_oca.Ode7
+meMA.Ode7C1T.mode = misc_en_US_oca.Mode2
+meMA.Ode7C1T.melody = he.h.m2_en_US_oca.AntitheonProstagma.notmetered
+meMA.Ode7C1T.text = ""
+
+meMA.Ode8C11.ode = misc_en_US_oca.Ode8
+meMA.Ode8C11.mode = misc_en_US_oca.Mode2
+meMA.Ode8C11.melody = he.h.m2_en_US_oca.KaminosPote.notmetered
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_oca.Ode8
+meMA.Ode8C12.mode = misc_en_US_oca.Mode2
+meMA.Ode8C12.melody = he.h.m2_en_US_oca.KaminosPote.notmetered
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_oca.Ode8
+meMA.Ode8C13.mode = misc_en_US_oca.Mode2
+meMA.Ode8C13.melody = he.h.m2_en_US_oca.KaminosPote.notmetered
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+meMA.Ode8C1T.mode = misc_en_US_oca.Mode2
+meMA.Ode8C1T.melody = he.h.m2_en_US_oca.KaminosPote.notmetered
+meMA.Ode8C1T.text = ""
+
+meMA.Ode8H.ode = misc_en_US_oca.Ode8
+meMA.Ode8H.mode = misc_en_US_oca.Mode2
+meMA.Ode8H.melody = misc_en_US_oca.Heirmos
+meMA.Ode8H.text = he.h.m2_en_US_oca.KaminosPote.text
+
+meMA.Ode9C11.ode = misc_en_US_oca.Ode9
+meMA.Ode9C11.mode = misc_en_US_oca.Mode2
+meMA.Ode9C11.melody = he.h.m2_en_US_oca.AnarchouGennitoros.notmetered
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_oca.Ode9
+meMA.Ode9C12.mode = misc_en_US_oca.Mode2
+meMA.Ode9C12.melody = he.h.m2_en_US_oca.AnarchouGennitoros.notmetered
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_oca.Ode9
+meMA.Ode9C13.mode = misc_en_US_oca.Mode2
+meMA.Ode9C13.melody = he.h.m2_en_US_oca.AnarchouGennitoros.notmetered
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+meMA.Ode9C1T.mode = misc_en_US_oca.Mode2
+meMA.Ode9C1T.melody = he.h.m2_en_US_oca.AnarchouGennitoros.notmetered
+meMA.Ode9C1T.text = ""
+
+meMA.Ode9H.ode = misc_en_US_oca.Ode9
+meMA.Ode9H.mode = misc_en_US_oca.Mode2
+meMA.Ode9H.melody = misc_en_US_oca.Heirmos
+meMA.Ode9H.text = he.h.m2_en_US_oca.AnarchouGennitoros.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
+meMA.Exaposteilarion1.text = "You desired the life of the angels. ⁄ You withdrew into the deserts and subdued the carnal passions. ⁄⁄ You revealed yourself to be angelic, God-bearing Pachomius!"
+
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
+
+meMegalynarion.text = ""
+
