@@ -1,0 +1,329 @@
+A_Resource_Whose_Name = me.m01.d09_en_US_oca
+
+meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "" // full title of day
+meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+meDismissal = dismissals_en_US_oca.dis00.epiphany
+
+meVE.Stichera01.mode = misc_en_US_oca.Mode8
+meVE.Stichera01.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.notmetered
+meVE.Stichera01.text = "Lord, You came as Man to John at the Jordan, ⁄ yet You did not abandon Your throne at the right hand of the Father! ⁄ It was Your will to be baptized for us, ⁄ to free us from bondage to the stranger, ⁄⁄ as the compassionate Lover of mankind!"
+
+meVE.Stichera02.mode = misc_en_US_oca.Mode8
+meVE.Stichera02.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.notmetered
+meVE.Stichera02.text = "Lord, You were covered as Man by the streams of the Jordan, ⁄ yet the Spirit descended from on high and bore witness to You! ⁄ The voice of the Father proclaimed You as His beloved Son, ⁄⁄ made manifest to grant our souls great mercy!"
+
+meVE.Stichera03.mode = misc_en_US_oca.Mode8
+meVE.Stichera03.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.notmetered
+meVE.Stichera03.text = "Lord, You were born in these last days, assuming the form of a Servant, ⁄ yet as the changeless One, You were begotten from the Father before all time! ⁄ It was Your will to renew Your image, Creator, ⁄⁄ for You were baptized granting incorruption to our souls!"
+
+meVE.Stichera04.mode = misc_en_US_oca.Mode1
+meVE.Stichera04.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meVE.Stichera04.text = ""
+
+meVE.Stichera05.mode = misc_en_US_oca.Mode1
+meVE.Stichera05.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meVE.Stichera05.text = ""
+
+meVE.Stichera06.mode = misc_en_US_oca.Mode1
+meVE.Stichera06.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meVE.Stichera06.text = ""
+
+meVE.SticGlory.poet = poets_en_US_oca.Vyzantos
+meVE.SticGlory.mode = misc_en_US_oca.Mode1
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = ""
+
+meVE.SticBoth.poet = poets_en_US_oca.Anatoliou
+meVE.SticBoth.mode = misc_en_US_oca.Mode2
+meVE.SticBoth.melody = ""
+meVE.SticBoth.text = me.m01.d06_en_US_oca.meVE.Aposticha3.text
+
+meVE.Aposticha1.mode = misc_en_US_oca.Mode6
+meVE.Aposticha1.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
+meVE.Aposticha1.text = "You drew near to the waters; ⁄ no one can touch You; yet You bowed Your head to the Forerunner! ⁄ You sanctified the world ⁄ releasing it from slavery to the enemy ⁄⁄ by Your baptism, sinless One."
+
+meVE.Aposticha2.mode = misc_en_US_oca.Mode6
+meVE.Aposticha2.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
+meVE.Aposticha2.text = "The Father declared You His beloved Son; ⁄ the Spirit descended from on high to bear witness to You. ⁄ Thus was made manifest the mystery of the Trinity ⁄⁄ by Your baptism in the Jordan, O Christ."
+
+meVE.Aposticha3.mode = misc_en_US_oca.Mode6
+meVE.Aposticha3.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
+meVE.Aposticha3.text = "You hallowed the streams of Jordan; ⁄ You sanctified all the waters as God. ⁄ Therefore the human race gives You glory, ⁄⁄ singing praises to Your appearing."
+
+meVE.AposGlory.poet = poets_en_US_oca.KosmaMonachou
+meVE.AposGlory.mode = misc_en_US_oca.Mode4
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = me.m01.d06_en_US_oca.meVE.Lity1.text
+
+meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
+meVE.Apolytikion1.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
+meVE.Apolytikion1.text = he.ga_en_US_oca.OMartysSouKyrie.text
+
+meVE.Apolytikion2.mode = misc_en_US_oca.Mode1
+meVE.Apolytikion2.melody = ""
+meVE.Apolytikion2.text = me.m01.d06_en_US_oca.meVE.Apolytikion1.text
+
+meMA.Kathisma11.mode = misc_en_US_oca.Mode4
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
+meMA.Kathisma11.text = "Lover of mankind, In Your tender mercy as God, ⁄ You diligently sought for us ⁄ when we lay in shame, deceived and destroyed. ⁄ You came to Jordan, revealing the mystery of the holy Trinity. ⁄ We cry out and sing to You: ⁄ You are come; You are made manifest, ⁄⁄ Light unapproachable!"
+
+meMA.Kathisma21.mode = misc_en_US_oca.Mode8
+meMA.Kathisma21.melody = he.a.m8_en_US_oca.AnestisEkNekron.notmetered
+meMA.Kathisma21.text = "You are mystically revealed to us, O Master of all: ⁄ You have burned away all our sins in the streams of Jordan, ⁄ most merciful and good Lord! ⁄ Let all creation leap for joy, for Christ is baptized! ⁄⁄ He is God, who delights to save the human race!"
+
+meMA.C1Poet = poets_en_US_oca.Theofanous
+meMA.C1Acrostic.text = ""
+
+meMA.C1.title = ""
+meMA.C1.verse = ""
+
+meMA.Ode1C11.ode = misc_en_US_oca.Ode1
+meMA.Ode1C11.mode = misc_en_US_oca.Mode8
+meMA.Ode1C11.melody = he.h.m8_en_US_oca.IKekommeni.notmetered
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_oca.Ode1
+meMA.Ode1C12.mode = misc_en_US_oca.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_oca.IKekommeni.notmetered
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_oca.Ode1
+meMA.Ode1C13.mode = misc_en_US_oca.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_oca.IKekommeni.notmetered
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+meMA.Ode1C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_oca.IKekommeni.notmetered
+meMA.Ode1C1T.text = ""
+
+//Added the following:
+meMA.Ode3C11.ode = misc_en_US_oca.Ode3
+meMA.Ode3C11.mode = misc_en_US_oca.Mode8
+meMA.Ode3C11.melody = he.h.m8_en_US_oca.SyEiToStereoma.notmetered
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_oca.Ode3
+meMA.Ode3C12.mode = misc_en_US_oca.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_oca.SyEiToStereoma.notmetered
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_oca.Ode3
+meMA.Ode3C13.mode = misc_en_US_oca.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_oca.SyEiToStereoma.notmetered
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C1T.ode = misc_en_US_oca.Ode3
+meMA.Ode3C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_oca.SyEiToStereoma.notmetered
+meMA.Ode3C1T.text = ""
+
+meMA.Ode3H.ode = misc_en_US_oca.Ode3
+meMA.Ode3H.mode = misc_en_US_oca.Mode8
+meMA.Ode3H.melody = misc_en_US_oca.Heirmos
+meMA.Ode3H.text = he.h.m8_en_US_oca.SyEiToStereoma.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode5
+meMA.Ode3Kathisma1.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode5
+meMA.Ode3Kathisma2.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
+meMA.Ode3Kathisma2.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_oca.Ode4
+meMA.Ode4C11.mode = misc_en_US_oca.Mode8
+meMA.Ode4C11.melody = he.h.m8_en_US_oca.SyMouIschys.notmetered
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_oca.Ode4
+meMA.Ode4C12.mode = misc_en_US_oca.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_oca.SyMouIschys.notmetered
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_oca.Ode4
+meMA.Ode4C13.mode = misc_en_US_oca.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_US_oca.SyMouIschys.notmetered
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C14.ode = misc_en_US_oca.Ode4
+meMA.Ode4C14.mode = misc_en_US_oca.Mode8
+meMA.Ode4C14.melody = he.h.m8_en_US_oca.SyMouIschys.notmetered
+meMA.Ode4C14.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_oca.Ode4
+meMA.Ode4C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_oca.SyMouIschys.notmetered
+meMA.Ode4C1T.text = ""
+
+meMA.Ode5C11.ode = misc_en_US_oca.Ode5
+meMA.Ode5C11.mode = misc_en_US_oca.Mode8
+meMA.Ode5C11.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_oca.Ode5
+meMA.Ode5C12.mode = misc_en_US_oca.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_oca.Ode5
+meMA.Ode5C13.mode = misc_en_US_oca.Mode8
+meMA.Ode5C13.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C1T.ode = misc_en_US_oca.Ode5
+meMA.Ode5C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C1T.text = ""
+
+meMA.Ode6C11.ode = misc_en_US_oca.Ode6
+meMA.Ode6C11.mode = misc_en_US_oca.Mode8
+meMA.Ode6C11.melody = he.h.m8_en_US_oca.AvyssosAmartion.notmetered
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_oca.Ode6
+meMA.Ode6C12.mode = misc_en_US_oca.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_oca.AvyssosAmartion.notmetered
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_oca.Ode6
+meMA.Ode6C13.mode = misc_en_US_oca.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_US_oca.AvyssosAmartion.notmetered
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C1T.ode = misc_en_US_oca.Ode6
+meMA.Ode6C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_oca.AvyssosAmartion.notmetered
+meMA.Ode6C1T.text = ""
+
+meMA.Ode6H.ode = misc_en_US_oca.Ode6
+meMA.Ode6H.mode = misc_en_US_oca.Mode8
+meMA.Ode6H.melody = misc_en_US_oca.Heirmos
+meMA.Ode6H.text = he.h.m8_en_US_oca.AvyssosAmartion.text
+
+meMA.Kontakion1.poet = poets_en_US_oca.RomanouTouMelodou
+meMA.Kontakion1.mode = misc_en_US_oca.Mode4
+meMA.Kontakion1.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
+meMA.Kontakion1.text = "Our Savior bowed His head in the Jordan, ⁄ crushing the heads of the dragons, ⁄⁄ while Polyeuctus was beheaded, and the demons crushed."
+
+meMA.Oikos1.text = ""
+
+meMA.Ode7C11.ode = misc_en_US_oca.Ode7
+meMA.Ode7C11.mode = misc_en_US_oca.Mode8
+meMA.Ode7C11.melody = he.h.m8_en_US_oca.TheouSynkatavasin.notmetered
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_oca.Ode7
+meMA.Ode7C12.mode = misc_en_US_oca.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_oca.TheouSynkatavasin.notmetered
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_oca.Ode7
+meMA.Ode7C13.mode = misc_en_US_oca.Mode8
+meMA.Ode7C13.melody = he.h.m8_en_US_oca.TheouSynkatavasin.notmetered
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C1T.ode = misc_en_US_oca.Ode7
+meMA.Ode7C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_US_oca.TheouSynkatavasin.notmetered
+meMA.Ode7C1T.text = ""
+
+meMA.Ode8C11.ode = misc_en_US_oca.Ode8
+meMA.Ode8C11.mode = misc_en_US_oca.Mode8
+meMA.Ode8C11.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_oca.Ode8
+meMA.Ode8C12.mode = misc_en_US_oca.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_oca.Ode8
+meMA.Ode8C13.mode = misc_en_US_oca.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+meMA.Ode8C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C1T.text = ""
+
+meMA.Ode8H.ode = misc_en_US_oca.Ode8
+meMA.Ode8H.mode = misc_en_US_oca.Mode8
+meMA.Ode8H.melody = misc_en_US_oca.Heirmos
+meMA.Ode8H.text = he.h.m8_en_US_oca.EptaplasiosKaminon.text
+
+meMA.Ode9C11.ode = misc_en_US_oca.Ode9
+meMA.Ode9C11.mode = misc_en_US_oca.Mode8
+meMA.Ode9C11.melody = he.h.m8_en_US_oca.EfrixePasaAkoi.notmetered
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_oca.Ode9
+meMA.Ode9C12.mode = misc_en_US_oca.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_oca.EfrixePasaAkoi.notmetered
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_oca.Ode9
+meMA.Ode9C13.mode = misc_en_US_oca.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_oca.EfrixePasaAkoi.notmetered
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+meMA.Ode9C1T.mode = misc_en_US_oca.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_oca.EfrixePasaAkoi.notmetered
+meMA.Ode9C1T.text = ""
+
+meMA.Ode9H.ode = misc_en_US_oca.Ode9
+meMA.Ode9H.mode = misc_en_US_oca.Mode8
+meMA.Ode9H.melody = misc_en_US_oca.Heirmos
+meMA.Ode9H.text = he.h.m8_en_US_oca.EfrixePasaAkoi.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.notmetered
+meMA.Exaposteilarion1.text = ""
+
+meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.notmetered
+meMA.Exaposteilarion2.text = "You came in the form of a Servant, O Word; ⁄ You are the timeless one, yet You demand baptism as a mortal Man. ⁄ Heaven and earth, the ranks of angels and the nature of waters were amazed, ⁄⁄ while in fear and trembling, the Forerunner joyfully fulfilled his work."
+
+meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
+
+meMA.Aposticha1.mode = misc_en_US_oca.Mode6
+meMA.Aposticha1.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.Aposticha1.text = "Prophet Isaiah, explain your words! ⁄ Who is this crying out in the desert: ⁄ Draw the waters of cleansing with joy! ⁄ He is none other than John the Baptist! ⁄ His cry pierces the desert: The Messiah comes! ⁄⁄ Blessed is our God made manifest! Glory to You!"
+
+meMA.Aposticha2.mode = misc_en_US_oca.Mode6
+meMA.Aposticha2.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.Aposticha2.text = "What compassion, beyond words and understanding! ⁄ How can the Creator bow His sinless head to be baptized by the creature? ⁄ Glory to You, for You have enlightened the universe, ⁄ giving life to us who sing: ⁄⁄ Blessed is our God made manifest! Glory to You!"
+
+meMA.Aposticha3.mode = misc_en_US_oca.Mode6
+meMA.Aposticha3.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.Aposticha3.text = "Dwellers of earth, harmfully led astray: ⁄ Come! Let us purify our minds and perceptions! ⁄ As we see Christ baptized in the flesh by John the Forerunner, ⁄ let us all sing to Him, crying out with faith: ⁄⁄ Blessed is our God made manifest! Glory to You!"
+
+meMA.AposGlory.mode = misc_en_US_oca.Mode6
+meMA.AposGlory.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.AposGlory.text = "Life-giving riches spring up for us from Jordan's stream: ⁄ Baptismal grace, by which we, enlightened through washing, say: ⁄ Glory to You, for You have enlightened the universe, ⁄ giving life to us who sing: ⁄⁄ Blessed is our God made manifest! Glory to You!"
+
+meLI.Antiphon2.text = me.m01.d06_en_US_oca.meLI.Antiphon2.text
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
+
+meMegalynarion.text = ""
+
