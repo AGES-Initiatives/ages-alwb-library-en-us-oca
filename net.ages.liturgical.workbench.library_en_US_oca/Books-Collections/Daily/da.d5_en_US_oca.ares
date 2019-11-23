@@ -37,9 +37,13 @@ daMA.Exaposteilarion2.mode = misc_en_US_oca.Mode3
 daMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
 daMA.Exaposteilarion2.text = ""
 
-daMA.ExapTheotokion.mode = misc_en_US_oca.Mode3
-daMA.ExapTheotokion.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
-daMA.ExapTheotokion.text = ""
+daMA.ExapTheotokion1.mode = misc_en_US_oca.Mode3
+daMA.ExapTheotokion1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
+daMA.ExapTheotokion1.text = ""
+
+daMA.ExapTheotokion2.mode = misc_en_US_oca.Mode3
+daMA.ExapTheotokion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
+daMA.ExapTheotokion2.text = ""
 
 daLI.CommunionHymn.text = "" //for media
 
