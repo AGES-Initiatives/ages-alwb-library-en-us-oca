@@ -50,11 +50,6 @@ meVE.ProphecyTroparion2.mode = misc_en_US_oca.Mode6
 meVE.ProphecyTroparion2.text = ""
 meVE.ProphecyTroparion2Refrain.text = ""
 
-meVE.TheotokosHymn.mode = ""
-meVE.TheotokosHymn.text = eu.lichrysbasil_en_US_oca.euLI.Key1328.basil.text
-
-meVE.MM.CommunionHymn.text = properties_en_US_oca.media.key
-
 //Great Water Blessing for Jan 6 Epiphany
 meGW.title = ""
 meGW.translator = ""
@@ -146,6 +141,8 @@ meVE.LityGlory.poet =poets_en_US_oca.IoannouMonachou
 meVE.LityGlory.mode = misc_en_US_oca.Mode8
 meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "Lord, in Your desire to fulfill what You appointed from eternity, ⁄ You have received ministers from all the creation here at Your mystery: ⁄ Gabriel from among the angels, ⁄ the Virgin from among men, ⁄ the star from the heavens, and Jordan from the waters; ⁄ and in its stream You have washed away the transgression of the world. ⁄⁄ O Savior, Glory to You."
+
+meVE.MM.LityBothasGloryBoth.text = properties_en_US_oca.media.key
 
 meVE.LityBoth.poet = poets_en_US_oca.Anatoliou
 meVE.LityBoth.mode = misc_en_US_oca.Mode8
