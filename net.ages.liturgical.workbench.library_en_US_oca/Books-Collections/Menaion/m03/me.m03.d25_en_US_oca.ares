@@ -71,7 +71,7 @@ meVE.SticGlory.text = ""
 meVE.Lity1.poet = poets_en_US_oca.Vyzantos
 meVE.Lity1.mode = misc_en_US_oca.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.text = ""
+meVE.Lity1.text = meSV.SticGlory.text
 
 meVE.Lity2.poet = poets_en_US_oca.Anatoliou
 meVE.Lity2.mode = misc_en_US_oca.Mode1
@@ -85,15 +85,15 @@ meVE.Lity3.text = ""
 meVE.LityGlory.poet = poets_en_US_oca.KosmaMonachou
 meVE.LityGlory.mode = misc_en_US_oca.Mode2
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = ""
+meVE.LityGlory.text = me.m03.d24_en_US_oca.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode4
 meVE.Aposticha1.melody = ""
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = meSV.AposGlory.text
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode4
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = me.m03.d24_en_US_oca.meMA.AposGlory.text
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode4
 meVE.Aposticha3.melody = ""
@@ -137,7 +137,7 @@ meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
 meMA.PostGospelIdiomelon.poet = poets_en_US_oca.KosmaMonachou
 meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
+meMA.PostGospelIdiomelon.text = me.m03.d24_en_US_oca.meVE.SticGlory.text
 
 meMA.C1Poet = poets_en_US_oca.IoannouMonachou
 meMA.C1Acrostic.text = ""
