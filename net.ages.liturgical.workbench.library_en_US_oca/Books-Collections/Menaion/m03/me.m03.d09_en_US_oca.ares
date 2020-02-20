@@ -127,6 +127,7 @@ meMA.Kathisma3T.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma3T.text = oc.m5.d3_en_US_oca.ocVE.ApolTheotokionVM.text
 
 meMA.MM.Prokeimenon.text = "" // for media
+
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelMartyrs.text
@@ -424,8 +425,6 @@ meMA.LaudsGlory.text = "Athletes of Christ, you have made the most honorable fas
 meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_oca.media.key
 
 meMA.AposGlory.mode = misc_en_US_oca.Mode2
 meMA.AposGlory.melody = misc_en_US_oca.Idiomelon
