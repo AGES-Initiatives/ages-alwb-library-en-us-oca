@@ -54,15 +54,15 @@ peVE.SticGlory.text = ""
 
 peVE.Lity1.mode = misc_en_US_oca.Mode2
 peVE.Lity1.melody = misc_en_US_oca.Idiomelon
-peVE.Lity1.text = ""
+peVE.Lity1.text = peVE.Stichera05.text
 
 peVE.Lity2.mode = misc_en_US_oca.Mode2
 peVE.Lity2.melody = misc_en_US_oca.Idiomelon
-peVE.Lity2.text = ""
+peVE.Lity2.text = peVE.Stichera06.text
 
 peVE.Lity3.mode = misc_en_US_oca.Mode2
 peVE.Lity3.melody = misc_en_US_oca.Idiomelon
-peVE.Lity3.text = ""
+peVE.Lity3.text = peVE.Stichera07.text
 
 peVE.LityGlory.mode = misc_en_US_oca.Mode8
 peVE.LityGlory.melody = misc_en_US_oca.Idiomelon
