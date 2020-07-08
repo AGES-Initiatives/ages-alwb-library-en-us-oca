@@ -36,6 +36,18 @@ meVE.SticTheotokion.mode = misc_en_US_oca.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
 meVE.SticTheotokion.text = ""
 
+alt1.meVE.Lity1.mode = misc_en_US_oca.Mode1
+alt1.meVE.Lity1.melody = ""
+alt1.meVE.Lity1.text = ""
+
+alt1.meVE.Lity2.mode = misc_en_US_oca.Mode3
+alt1.meVE.Lity2.melody = ""
+alt1.meVE.Lity2.text = ""
+
+alt1.meVE.LityGlory.mode = misc_en_US_oca.Mode4
+alt1.meVE.LityGlory.melody = ""
+alt1.meVE.LityGlory.text = ""
+
 meVE.Aposticha1.mode = misc_en_US_oca.Mode8
 meVE.Aposticha1.melody = he.a.m8_en_US_oca.KyrieEiKaiKritirio.notmetered
 meVE.Aposticha1.text = "Lord, even as James stood on the pinnacle of the temple, ⁄ crying out with boldness, ⁄ he proclaimed You to be God the Word, the Creator of all ⁄ Who came into the world! ⁄⁄ Through his prayers grant our souls enlightenment!"
@@ -60,45 +72,43 @@ meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
-// The Kathismata and Post Gospel Idiomelon, not found in the Menaion, are from Systema Typikou (in Greek) by Protopresbyter Ioannis Papayianis, published in 2006 by the Apostolike Diakonia of the Church of Greece.
+alt1.meMA.Kathisma11.mode = misc_en_US_oca.Mode1
+alt1.meMA.Kathisma11.melody = he.a.m1_en_US_oca.TonTafonSouSotir.name
+alt1.meMA.Kathisma11.text = ""
 
-meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-meMA.Kathisma11.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
-meMA.Kathisma11.text = ""
+alt1.meMA.Kathisma1T.mode = misc_en_US_oca.Mode1
+alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_oca.TonTafonSouSotir.name
+alt1.meMA.Kathisma1T.text = ""
 
-meMA.Kathisma1T.mode = misc_en_US_oca.Mode1
-meMA.Kathisma1T.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
-meMA.Kathisma1T.text = ""
+alt1.meMA.Kathisma21.mode = misc_en_US_oca.Mode4
+alt1.meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.name
+alt1.meMA.Kathisma21.text = ""
 
-meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
-meMA.Kathisma21.text = ""
+alt1.meMA.Kathisma2T.mode = misc_en_US_oca.Mode4
+alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_oca.KateplagiIosif.name
+alt1.meMA.Kathisma2T.text = ""
 
-meMA.Kathisma2T.mode = misc_en_US_oca.Mode4
-meMA.Kathisma2T.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
-meMA.Kathisma2T.text = ""
+alt1.meMA.Kathisma31.mode = misc_en_US_oca.Mode3
+alt1.meMA.Kathisma31.melody = he.a.m3_en_US_oca.TinOraiotita.name
+alt1.meMA.Kathisma31.text = ""
 
-meMA.Kathisma31.mode = misc_en_US_oca.Mode3
-meMA.Kathisma31.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
-meMA.Kathisma31.text = ""
+alt1.meMA.Kathisma3T.mode = misc_en_US_oca.Mode3
+alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_oca.TinOraiotita.name
+alt1.meMA.Kathisma3T.text = ""
 
-meMA.Kathisma3T.mode = misc_en_US_oca.Mode3
-meMA.Kathisma3T.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
-meMA.Kathisma3T.text = ""
+alt1.meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
 
-meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
+alt1.meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
+alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelApostle.text
 
-meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
-meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelApostle.text
+alt1.meMA.PostGospelBoth.mode = misc_en_US_oca.Mode2
+alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
 
-meMA.PostGospelBoth.mode = misc_en_US_oca.Mode2
-meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
-
-meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
-meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = ""
+alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
+alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.text = ""
 
 meMA.C1Poet = poets_en_US_oca.Theofanous
 
