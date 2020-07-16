@@ -43,23 +43,23 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.poet = poets_en_US_oca.EfraimKarias
 meVE.SticGlory.mode = misc_en_US_oca.Mode5
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Blessed couple! ⁄ You are exalted above all other parents! ⁄ She who is above all creation blossomed from you! ⁄ Joachim, you are happy indeed ⁄ to be called the father of such a child! ⁄ Joy is yours, Mother Anna: ⁄ From your womb came the Mother of our life! ⁄ Blessed are her breasts ⁄ which nourish Him Who feeds everything that breathes. ⁄ Pray to Him, all-blessed ones, ⁄⁄ to have mercy on our souls!"
+meVE.SticGlory.text = me.m07.d25_en_US_oca.meVE.LityGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode1
 meVE.Aposticha1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
-meVE.Aposticha1.text = "Joachim and Anna celebrate the feast, ⁄ for they gave birth to the only Theotokos, ⁄ the beginning of our salvation! ⁄ Together with them we also celebrate today: ⁄⁄ We bless the pure Virgin who sprang from the root of Jesse!"
+meVE.Aposticha1.text = me.m09.d08_en_US_oca.meSV.Stichera1.text
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode1
 meVE.Aposticha2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
-meVE.Aposticha2.text = "The Maiden who held God, the pure Theotokos, ⁄ the glory of the prophets, the daughter of David, ⁄ is born today of Joachim and chaste Anna: ⁄⁄ The curse of Adam which lay upon us is annulled by her childbearing!"
+meVE.Aposticha2.text = me.m09.d08_en_US_oca.meSV.Stichera3.text
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode1
 meVE.Aposticha3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
-meVE.Aposticha3.text = "She who before was as a barren field ⁄ gives birth to the fertile ground. ⁄ She brings forth a holy fruit from her fruitless womb ⁄ and nurtures her with milk! ⁄ Awesome wonder! The nourisher of life ⁄ who received the Bread of heaven in her womb ⁄⁄ is fed with milk at her mother's breasts!"
+meVE.Aposticha3.text = me.m09.d08_en_US_oca.meSV.Stichera4.text
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "Joachim and Anna, holy couple, ⁄ from your barrenness a holy root has sprung! ⁄ From her shone Christ our God, the Savior of the world. ⁄ You have gone to dwell in the heavenly mansions, ⁄ to join the most pure Virgin, your daughter! ⁄ You dance with the angels as you pray for the world! ⁄ We gather this day to praise your righteousness in song. ⁄ Through all-holy Mary, the child of God, ⁄ you became ancestors to Christ! ⁄⁄ Intercede with Him to save our souls!"
+meVE.AposGlory.text = me.m07.d25_en_US_oca.meVE.SticGlory.text
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode2
 meVE.Apolytikion1.melody = ""
@@ -483,7 +483,15 @@ meMA.Aposticha3.text = ""
 
 meMA.AposGlory.mode = misc_en_US_oca.Mode2
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "Today the most immaculate and pure one
+has come forth from the barren woman!
+Today all things rejoice in her nativity!
+The bonds of Adam have been broken
+and Eve has been freed from the curse!
+All those in heaven rejoice and peace is given to men!
+Glorifying her, we cry aloud:
+Glory to God in the highest,//
+and on earth peace, good will towards men!"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
