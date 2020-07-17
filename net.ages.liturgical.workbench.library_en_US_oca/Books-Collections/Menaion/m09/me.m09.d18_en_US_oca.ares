@@ -30,15 +30,15 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
-meVE.Stichera04.text = "Cleansing your soul and body of the passions, * you became a dwelling-place of the Holy Spirit! * You adorned yourself with the anointing of priests. * You were an excellent intercessor, Eumenes, * a conversor with the holy angels; * an heir of the glory of the Lord! ** You intercede for those who praise you!"
+meVE.Stichera04.text = "Cleansing your soul and body of the passions, ⁄ you became a dwelling-place of the Holy Spirit! ⁄ You adorned yourself with the anointing of priests. ⁄ You were an excellent intercessor, Eumenes, ⁄ a conversor with the holy angels; ⁄ an heir of the glory of the Lord! ⁄⁄ You intercede for those who praise you!"
 
 meVE.Stichera05.mode = misc_en_US_oca.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
-meVE.Stichera05.text = "Your all-glorious life, illuminated by the virtues, * radiant with the splendors of miracles, * made you truly glorious to the ends of the earth, * most blessed one: * A steadfast beacon, sharing the abode of the saints, * a hierarch who dwells in the holy city, * as a fellow-citizen with the angels, ** a right-glorious wonderworker!"
+meVE.Stichera05.text = "Your all-glorious life, illuminated by the virtues, ⁄ radiant with the splendors of miracles, ⁄ made you truly glorious to the ends of the earth, ⁄ most blessed one: ⁄ A steadfast beacon, sharing the abode of the saints, ⁄ a hierarch who dwells in the holy city, ⁄ as a fellow-citizen with the angels, ⁄⁄ a right-glorious wonderworker!"
 
 meVE.Stichera06.mode = misc_en_US_oca.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
-meVE.Stichera06.text = "Let us assemble, and let us honor aloud the hierarch Eumenes! * He is the adornment of Crete, the bishop of Gortyna, * the unshakable foundation of the Church * who is magnificent in miracles, * all-glorious in many powers! ** He enlightens hearts that are in darkness!"
+meVE.Stichera06.text = "Let us assemble, and let us honor aloud the hierarch Eumenes! ⁄ He is the adornment of Crete, the bishop of Gortyna, ⁄ the unshakable foundation of the Church ⁄ who is magnificent in miracles, ⁄ all-glorious in many powers! ⁄⁄ He enlightens hearts that are in darkness!"
 
 meVE.SticGlory.mode = misc_en_US_oca.Mode4
 meVE.SticGlory.melody = ""
@@ -76,7 +76,7 @@ meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_oca.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
-meMA.Kathisma21.text = me.m09.d16_en_US_oca.meMA.Kathisma21.text
+meMA.Kathisma21.text = oc.m4.d4_en_US_oca.ocMA.Kathisma31.text
 
 meMA.C1Acrostic.text = ""
 
@@ -208,7 +208,7 @@ meMA.Ode6H.text = he.h.m2_en_US_oca.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.TaAnoZiton.notmetered
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Illumined with divine light, ⁄ most blessed and holy hierarch, father Eumenes, ⁄ you enlighten us who hymn with love ⁄ your honored, glorious and holy repose. ⁄⁄ Now you unceasingly pray for us all!"
 
 meMA.Oikos1.text = ""
 
@@ -291,19 +291,19 @@ meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.notmetered
 meMA.Exaposteilarion2.text = me.m09.d14_en_US_oca.meMA.Exaposteilarion1.text
 
 meMA.Aposticha1.mode = misc_en_US_oca.Mode2
-meMA.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
+meMA.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.name
 meMA.Aposticha1.text = me.m09.d14_en_US_oca.meSV.Aposticha2.text
 
 meMA.Aposticha2.mode = misc_en_US_oca.Mode2
-meMA.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Aposticha2.text = me.m09.d17_en_US_oca.meMA.Aposticha3.text
 
 meMA.Aposticha3.mode = misc_en_US_oca.Mode2
-meMA.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.name
+meMA.Aposticha3.text = me.m09.d17_en_US_oca.meMA.Aposticha1.text
 
 meMA.AposGlory.mode = misc_en_US_oca.Mode2
-meMA.AposGlory.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
+meMA.AposGlory.melody = he.a.m2_en_US_oca.OikosTouEfratha.name
 meMA.AposGlory.text = me.m09.d14_en_US_oca.meSV.AposGlory.text
 
 meLI.Antiphon2.text = me.m09.d14_en_US_oca.meLI.Antiphon2.text
