@@ -30,11 +30,11 @@ meVE.Stichera03.text = "You cut off all love of pleasure, divine one, ⁄ thus f
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = oc.m4.d4_en_US_oca.ocVE.Stichera5.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
-meVE.SticStavrotheotokion.text = oc.m2.d4_en_US_oca.ocVE.SticTheotokion.text
+meVE.SticStavrotheotokion.text = me.m02.d03_en_US_oca.meVE.SticStavrotheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
