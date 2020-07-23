@@ -28,13 +28,15 @@ meVE.Stichera03.mode = misc_en_US_oca.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Stichera03.text = "Foreseeing your manner of life, James, ⁄ Christ the Lover of mankind, ⁄ the all-wise One Who perceives all things, ⁄ received you and ordained you as an instructor of the sacred mysteries ⁄ for the people of Jerusalem; ⁄ a priest to perform the sacred mysteries. ⁄⁄ Entreat Him that our souls may be saved!"
 
+meVE.MM.Stichera1123as78910.text = "" // for media
+
 meVE.SticGlory.mode = misc_en_US_oca.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "You adorned your priesthood with the blood of martyrdom ⁄ hieromartyr and apostle! ⁄ Appearing on the temple porch, ⁄ you proclaimed God the Word as the Creator of all! ⁄ Therefore you were thrown to your death by the Jews ⁄ and were given the mansions of heaven, James, the brother of God! ⁄⁄ Entreat Christ God that our souls may be saved!"
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = me.m09.d30_en_US_oca.meVE.SticTheotokion.text
 
 alt1.meVE.Lity1.mode = misc_en_US_oca.Mode1
 alt1.meVE.Lity1.melody = ""
