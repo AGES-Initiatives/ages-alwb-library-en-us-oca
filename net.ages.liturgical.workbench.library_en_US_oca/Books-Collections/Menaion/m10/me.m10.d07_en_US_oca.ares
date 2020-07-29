@@ -46,7 +46,7 @@ meVE.AposGlory.text = "The army of the martyrs of Christ ⁄ has been strengthen
 
 meVE.AposTheotokion.mode = misc_en_US_oca.Mode8
 meVE.AposTheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = me.m10.d02_en_US_oca.meMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_oca.Mode8
 meVE.AposStavrotheotokion.melody = he.a.m8_en_US_oca.OTouParadoxou.notmetered
@@ -333,7 +333,7 @@ meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = misc_en_US_oca.Mode2
 meMA.AposStavrotheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
-meMA.AposStavrotheotokion.text = ""
+meMA.AposStavrotheotokion.text = //me.m02.d25_en_US_oca.meVE.SticStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
