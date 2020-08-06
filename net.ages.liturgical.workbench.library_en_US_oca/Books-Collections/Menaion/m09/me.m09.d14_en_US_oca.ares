@@ -31,7 +31,7 @@ meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_oca.Mode2
 meSV.SticGlory.melody = ""
-meSV.SticGlory.text = meVE.Lity6.text
+meSV.SticGlory.text = "Three-branched Cross of Christ, ⁄ you are my strong protection. ⁄ Sanctify me by your might, ⁄⁄ that I may venerate and glorify you in faith and love."
 
 meSV.Aposticha1.mode = misc_en_US_oca.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
@@ -83,7 +83,7 @@ meVE.Lity3.text = "Prefiguring Your Cross, O Christ, ⁄ the patriarch Jacob ble
 meVE.Lity4.poet = poets_en_US_oca.Theofanous
 meVE.Lity4.mode = misc_en_US_oca.Mode2
 meVE.Lity4.melody = ""
-meVE.Lity4.text = "Divine treasure hidden in the earth, ⁄ the Cross of the Giver of life appeared in the heavens to the godly king, ⁄ and its inscription spiritually signified his victory over the enemy. ⁄ Rejoicing with faith and love, ⁄ inspired by God he made haste to raise on high the Cross ⁄ which he had seen in his vision; ⁄ and with great zeal he brought it forth from the bosom of the earth ⁄⁄ for the deliverance of the world and the salvation of our souls!"
+meVE.Lity4.text = me.m09.d13_en_US_oca.meVE.AposBoth.text
 
 meVE.Lity5.poet = poets_en_US_oca.Kyprianou
 meVE.Lity5.mode = misc_en_US_oca.Mode2
@@ -93,7 +93,7 @@ meVE.Lity5.text = "The crossing of his hands by the patriarch Jacob ⁄ at the b
 meVE.Lity6.poet = poets_en_US_oca.LeontosDespotou
 meVE.Lity6.mode = misc_en_US_oca.Mode2
 meVE.Lity6.melody = ""
-meVE.Lity6.text = "Three-branched Cross of Christ, ⁄ you are my strong protection. ⁄ Sanctify me by your might, ⁄⁄ that I may venerate and glorify you in faith and love."
+meVE.Lity6.text = me.m09.d14_en_US_oca.meSV.SticGlory.text
 
 meVE.Lity7.mode = misc_en_US_oca.Mode4
 meVE.Lity7.melody = ""
@@ -146,11 +146,11 @@ meMA.MM.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = meVE.Lity6.text
+meMA.PostGospelGlory.text = me.m09.d14_en_US_oca.meSV.SticGlory.text
 
 meMA.PostGospelBoth.mode = misc_en_US_oca.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = meVE.Lity6.text
+meMA.PostGospelBoth.text = me.m09.d14_en_US_oca.meSV.SticGlory.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
