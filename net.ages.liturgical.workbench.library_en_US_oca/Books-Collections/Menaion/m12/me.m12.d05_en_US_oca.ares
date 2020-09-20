@@ -155,7 +155,7 @@ meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = "Venerable Father, ⁄ the sound of your counsels have gone out into all the earth! ⁄ Therefore you have found your reward in the heavens: ⁄ You destroyed the company of demons, ⁄ attaining the rank of angels whose life you blamelessly followed! ⁄ Since you have boldness before Christ our God, ⁄⁄ entreat peace for our souls!" //me.m01.d15_en_US_oca.meVE.AposGlory.text
+meMA.PostGospelIdiomelon.text = me.m01.d15_en_US_oca.meVE.AposGlory.text //"Venerable Father, ⁄ the sound of your counsels have gone out into all the earth! ⁄ Therefore you have found your reward in the heavens: ⁄ You destroyed the company of demons, ⁄ attaining the rank of angels whose life you blamelessly followed! ⁄ Since you have boldness before Christ our God, ⁄⁄ entreat peace for our souls!" //me.m01.d15_en_US_oca.meVE.AposGlory.text
 
 meMA.C1Poet = poets_en_US_oca.Theofanous
 meMA.C1Acrostic.text = ""
@@ -393,7 +393,7 @@ meMA.Lauds3.text = "You were truly humble, Father, guileless, meek and simple! �
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = meMA.PostGospelIdiomelon.text
+meMA.LaudsGlory.text = me.m01.d15_en_US_oca.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.name
