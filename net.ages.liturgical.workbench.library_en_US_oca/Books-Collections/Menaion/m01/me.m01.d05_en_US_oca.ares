@@ -43,7 +43,7 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.poet = poets_en_US_oca.Germanou
 meVE.SticGlory.mode = misc_en_US_oca.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = me.m01.d02_en_US_oca.meMA.Aposticha2.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode6
 meVE.Aposticha1.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
@@ -60,7 +60,7 @@ meVE.Aposticha3.text = ""
 meVE.AposGlory.poet = poets_en_US_oca.Vyzantiou
 meVE.AposGlory.mode = misc_en_US_oca.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = me.m01.d02_en_US_oca.meMA.Aposticha3.text
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
@@ -79,17 +79,17 @@ meCO.Ode1C1H.text = he.h.m6_en_US_oca.KymatiThalassis_Epiphany.text
 meCO.Ode1C11.ode = misc_en_US_oca.Ode1
 meCO.Ode1C11.mode = misc_en_US_oca.Mode6
 meCO.Ode1C11.melody = he.h.m6_en_US_oca.KymatiThalassis_Epiphany.notmetered
-meCO.Ode1C11.text = ""
+meCO.Ode1C11.text = "Lord my God, I sing to You a hymn of light, ⁄ rejoicing in the vigil of the feast, ⁄ for by Your Theophany You have given me divine rebirth, ⁄ raising me up to divine brightness."
 
 meCO.Ode1C12.ode = misc_en_US_oca.Ode1
 meCO.Ode1C12.mode = misc_en_US_oca.Mode6
 meCO.Ode1C12.melody = he.h.m6_en_US_oca.KymatiThalassis_Epiphany.notmetered
-meCO.Ode1C12.text = ""
+meCO.Ode1C12.text = "All things in heaven and on earth were amazed, ⁄ beholding You manifest above before the ages ⁄ and now newly manifest below! ⁄ They sing praises to your ineffable condescension!"
 
 meCO.Ode1C13.ode = misc_en_US_oca.Ode1
 meCO.Ode1C13.mode = misc_en_US_oca.Mode6
 meCO.Ode1C13.melody = he.h.m6_en_US_oca.KymatiThalassis_Epiphany.notmetered
-meCO.Ode1C13.text = ""
+meCO.Ode1C13.text = "Wishing to fill all things with Your glory, ⁄ You have emptied Yourself and taken the form of a servant! ⁄ Now as a Servant You bow Your head beneath the servant’s hand; ⁄ to cleanse me and restore me!"
 
 meCO.Ode3C1H.ode = misc_en_US_oca.Ode3
 meCO.Ode3C1H.mode = misc_en_US_oca.Mode6
@@ -99,17 +99,17 @@ meCO.Ode3C1H.text = he.h.m6_en_US_oca.SeTonEpiYdaton_Epiphany.text
 meCO.Ode3C11.ode = misc_en_US_oca.Ode3
 meCO.Ode3C11.mode = misc_en_US_oca.Mode6
 meCO.Ode3C11.melody = he.h.m6_en_US_oca.SeTonEpiYdaton_Epiphany.notmetered
-meCO.Ode3C11.text = ""
+meCO.Ode3C11.text = "Manifesting the signs of Your Theophany, merciful Lord, ⁄ You have unfolded visions and breathed forth prophecies. ⁄ Now You have come, fulfilling them all: ⁄ revealing Yourself today to men and granting them a new rebirth."
 
 meCO.Ode3C12.ode = misc_en_US_oca.Ode3
 meCO.Ode3C12.mode = misc_en_US_oca.Mode6
 meCO.Ode3C12.melody = he.h.m6_en_US_oca.SeTonEpiYdaton_Epiphany.notmetered
-meCO.Ode3C12.text = ""
+meCO.Ode3C12.text = "Jordan has spread out its waters to receive the Creator; ⁄ He is baptized in the flesh to sanctify all who cry: ⁄ None is holy but You, O Lord!"
 
 meCO.Ode3C13.ode = misc_en_US_oca.Ode3
 meCO.Ode3C13.mode = misc_en_US_oca.Mode6
 meCO.Ode3C13.melody = he.h.m6_en_US_oca.SeTonEpiYdaton_Epiphany.notmetered
-meCO.Ode3C13.text = ""
+meCO.Ode3C13.text = "By Baptism Christ grants salvation ⁄ to all who behold His divine brightness and sing in joy: ⁄ None is holy but You, Lord and Lover of mankind!"
 
 meCO.Ode4C1H.ode = misc_en_US_oca.Ode4
 meCO.Ode4C1H.mode = misc_en_US_oca.Mode6
@@ -119,17 +119,17 @@ meCO.Ode4C1H.text = he.h.m6_en_US_oca.TinProsToBaptismaSou.text
 meCO.Ode4C11.ode = misc_en_US_oca.Ode4
 meCO.Ode4C11.mode = misc_en_US_oca.Mode6
 meCO.Ode4C11.melody = he.h.m6_en_US_oca.TinProsToBaptismaSou.notmetered
-meCO.Ode4C11.text = ""
+meCO.Ode4C11.text = "At Your manifestation in the flesh, ⁄ the earth was sanctified, and the waters were blessed. ⁄ Heaven was enlightened ⁄ and mankind was set free from the oppression of the enemy!"
 
 meCO.Ode4C12.ode = misc_en_US_oca.Ode4
 meCO.Ode4C12.mode = misc_en_US_oca.Mode6
 meCO.Ode4C12.melody = he.h.m6_en_US_oca.TinProsToBaptismaSou.notmetered
-meCO.Ode4C12.text = ""
+meCO.Ode4C12.text = "The Forerunner now comes from the wilderness to the Jordan ⁄ at a divine command. ⁄ He cries: Repent, for the Kingdom of heaven is at hand! ⁄ Calling all to the glory of God!"
 
 meCO.Ode4C13.ode = misc_en_US_oca.Ode4
 meCO.Ode4C13.mode = misc_en_US_oca.Mode6
 meCO.Ode4C13.melody = he.h.m6_en_US_oca.TinProsToBaptismaSou.notmetered
-meCO.Ode4C13.text = ""
+meCO.Ode4C13.text = "He Who turned the sea into dry land ⁄ and caused springs of water to flow from the rock, ⁄ now makes Jordan’s stream a flaming furnace ⁄ and burns our sins with the fire of the Spirit!"
 
 meCO.Ode5C1H.ode = misc_en_US_oca.Ode5
 meCO.Ode5C1H.mode = misc_en_US_oca.Mode6
@@ -139,17 +139,17 @@ meCO.Ode5C1H.text = he.h.m6_en_US_oca.TheofaneiasSouChriste_Epiphany.text
 meCO.Ode5C11.ode = misc_en_US_oca.Ode5
 meCO.Ode5C11.mode = misc_en_US_oca.Mode6
 meCO.Ode5C11.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste_Epiphany.notmetered
-meCO.Ode5C11.text = ""
+meCO.Ode5C11.text = "You are the new Adam, Creator; ⁄ You renewed those born on earth! ⁄ You show a mysterious regeneration ⁄ and wonderful restoration by fire, the Spirit and water! ⁄ Without destruction or confusion ⁄ You renew mankind through the sacrament of Baptism!"
 
 meCO.Ode5C12.ode = misc_en_US_oca.Ode5
 meCO.Ode5C12.mode = misc_en_US_oca.Mode6
 meCO.Ode5C12.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste_Epiphany.notmetered
-meCO.Ode5C12.text = ""
+meCO.Ode5C12.text = "You renew our souls through the Spirit ⁄ and sanctify our body through the element of water: ⁄ You refashion man as a living being! ⁄ For in Your wisdom and knowledge, as the Physician of souls and bodies, ⁄ You provide remedies that are good and fitting for both."
 
 meCO.Ode5C13.ode = misc_en_US_oca.Ode5
 meCO.Ode5C13.mode = misc_en_US_oca.Mode6
 meCO.Ode5C13.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste_Epiphany.notmetered
-meCO.Ode5C13.text = ""
+meCO.Ode5C13.text = "You came forth from a painless birth, ⁄ Word co-eternal with the Father. ⁄ You approach a man born from a barren mother ⁄ and as Man You ask him for Baptism. ⁄ Through water and the Spirit, Savior, ⁄ You make the barren Church mystically the Mother of many children!"
 
 meCO.Ode6C1H.ode = misc_en_US_oca.Ode6
 meCO.Ode6C1H.mode = misc_en_US_oca.Mode6
@@ -159,17 +159,17 @@ meCO.Ode6C1H.text = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi_Epiphany.text
 meCO.Ode6C11.ode = misc_en_US_oca.Ode6
 meCO.Ode6C11.mode = misc_en_US_oca.Mode6
 meCO.Ode6C11.melody = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi_Epiphany.notmetered
-meCO.Ode6C11.text = ""
+meCO.Ode6C11.text = "Obeying the decree of Caesar, ⁄ You were enrolled but You were not enslaved. ⁄ You give us comfort in our captivity, ⁄ for You freely submitted Yourself and paid tribute. ⁄ Now You have set free those sold under the law of sin, ⁄ making us worthy to be sons by adoption."
 
 meCO.Ode6C12.ode = misc_en_US_oca.Ode6
 meCO.Ode6C12.mode = misc_en_US_oca.Mode6
 meCO.Ode6C12.melody = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi_Epiphany.notmetered
-meCO.Ode6C12.text = ""
+meCO.Ode6C12.text = "You reign, but not in conformity to the world, ⁄ for You are King by nature! ⁄ You are born in the flesh from the tribe of David; ⁄ You have inherited the throne of his kingdom, Deliverer. ⁄ You are vested with eternal power: ⁄ You shall reign to all ages with the Father and the Spirit!"
 
 meCO.Ode6C13.ode = misc_en_US_oca.Ode6
 meCO.Ode6C13.mode = misc_en_US_oca.Mode6
 meCO.Ode6C13.melody = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi_Epiphany.notmetered
-meCO.Ode6C13.text = ""
+meCO.Ode6C13.text = "Of old, the prince of this world ⁄ was also named king of all within the waters: ⁄ but by Your cleansing he is strangled and destroyed ⁄ like the legion of demons in the sea! ⁄ With Your mighty arm, Savior, ⁄ You grant freedom to Your creation which he had enslaved!"
 
 meCO.Ode7C1H.ode = misc_en_US_oca.Ode7
 meCO.Ode7C1H.mode = misc_en_US_oca.Mode6
@@ -179,22 +179,22 @@ meCO.Ode7C1H.text = he.h.m6_en_US_oca.AfrastonThavma_Epiphany.text
 meCO.Ode7C11.ode = misc_en_US_oca.Ode7
 meCO.Ode7C11.mode = misc_en_US_oca.Mode6
 meCO.Ode7C11.melody = he.h.m6_en_US_oca.AfrastonThavma.notmetered
-meCO.Ode7C11.text = ""
+meCO.Ode7C11.text = "Of old the stream of Jordan was cut in two by Elijah’s mantle. ⁄ This foreshadowed the cutting of the passions by Your Baptism; ⁄ You wove a mantle of incorruption for those who sing: ⁄ Blessed are You, O God, our Redeemer!"
 
 meCO.Ode7C12.ode = misc_en_US_oca.Ode7
 meCO.Ode7C12.mode = misc_en_US_oca.Mode6
 meCO.Ode7C12.melody = he.h.m6_en_US_oca.AfrastonThavma.notmetered
-meCO.Ode7C12.text = ""
+meCO.Ode7C12.text = "Happy River! ⁄ Receiving the Creator at His Baptism, ⁄ you are made a fountain of life-giving water, ⁄ for the salvation of us who sing: ⁄ Blessed are You, O God, our Redeemer!"
 
 meCO.Ode7C13.ode = misc_en_US_oca.Ode7
 meCO.Ode7C13.mode = misc_en_US_oca.Mode6
 meCO.Ode7C13.melody = he.h.m6_en_US_oca.AfrastonThavma.notmetered
-meCO.Ode7C13.text = ""
+meCO.Ode7C13.text = "Prefiguring a divine death by triple immersion in water, ⁄ we are buried with Christ in Baptism: ⁄ United with His Resurrection on the third day, we cry aloud: ⁄ Blessed are You, O God, our Redeemer!"
 
 meCO.Ode7C14.ode = misc_en_US_oca.Ode7
 meCO.Ode7C14.mode = misc_en_US_oca.Mode6
 meCO.Ode7C14.melody = he.h.m6_en_US_oca.AfrastonThavma.notmetered
-meCO.Ode7C14.text = ""
+meCO.Ode7C14.text = "Those who in faith desire the gift of divine Baptism, ⁄ are made perfect by the one grace of the Father, Son and Spirit. ⁄ They receive the power of adoption as sons as they sing: ⁄ Blessed are You, O God, our Redeemer!"
 
 meCO.Ode8C1H.ode = misc_en_US_oca.Ode8
 meCO.Ode8C1H.mode = misc_en_US_oca.Mode6
@@ -204,17 +204,17 @@ meCO.Ode8C1H.text = he.h.m6_en_US_oca.EkstithiFrittonOurane_Epiphany.text
 meCO.Ode8C11.ode = misc_en_US_oca.Ode8
 meCO.Ode8C11.mode = misc_en_US_oca.Mode6
 meCO.Ode8C11.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane_Epiphany.notmetered
-meCO.Ode8C11.text = ""
+meCO.Ode8C11.text = "Fallen Adam is cleansed and lifted up; ⁄ deliverance is given to all the faithful through Baptism, ⁄ for Christ comes to shame the destroying tyrant! ⁄ He opens the heavens and sends down the divine Spirit, ⁄ granting mankind a share in incorruption."
 
 meCO.Ode8C12.ode = misc_en_US_oca.Ode8
 meCO.Ode8C12.mode = misc_en_US_oca.Mode6
 meCO.Ode8C12.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane_Epiphany.notmetered
-meCO.Ode8C12.text = ""
+meCO.Ode8C12.text = "The error of the enemy shall cease, ⁄ for the voice of one crying in the wilderness calls out: ⁄ Prepare the way of the Lord; make straight His paths! ⁄ The humble nature of mortal man is exalted ⁄ while the mountains and hills of the adversary are brought low!"
 
 meCO.Ode8C13.ode = misc_en_US_oca.Ode8
 meCO.Ode8C13.mode = misc_en_US_oca.Mode6
 meCO.Ode8C13.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane_Epiphany.notmetered
-meCO.Ode8C13.text = ""
+meCO.Ode8C13.text = "O strange wonder! ⁄ Goodness and boundless forbearance! ⁄ The Creator and Master now wears my nature in the Jordan; ⁄ Yet He is without sin. ⁄ He cleanses me through water and enlightens me through fire! ⁄ He perfects me through the divine Spirit!"
 
 meCO.Ode9C1H.ode = misc_en_US_oca.Ode9
 meCO.Ode9C1H.mode = misc_en_US_oca.Mode6
@@ -224,17 +224,17 @@ meCO.Ode9C1H.text = he.h.m6_en_US_oca.MiEpodyrestheMatin.text
 meCO.Ode9C11.ode = misc_en_US_oca.Ode9
 meCO.Ode9C11.mode = misc_en_US_oca.Mode6
 meCO.Ode9C11.melody = he.h.m6_en_US_oca.MiEpodyrestheMatin.notmetered
-meCO.Ode9C11.text = ""
+meCO.Ode9C11.text = "You have filled us with wonder ⁄ by Your strange birth beyond nature from a Virgin, Word of God; ⁄ now You exalt a great mystery: ⁄ By Your holy participation in the waters of Baptism, ⁄ You enrich the font with children through the divine Spirit!"
 
 meCO.Ode9C12.ode = misc_en_US_oca.Ode9
 meCO.Ode9C12.mode = misc_en_US_oca.Mode6
 meCO.Ode9C12.melody = he.h.m6_en_US_oca.MiEpodyrestheMatin.notmetered
-meCO.Ode9C12.text = ""
+meCO.Ode9C12.text = "The earth has been sanctified, O Word, ⁄ by Your holy Birth. ⁄ The heavens with stars declared Your glory; ⁄ now the nature of the waters is blessed by Your Baptism in the flesh, ⁄ and human nature is restored once more to its first nobility! ⁄ Let the creation rejoice exceedingly!"
 
 meCO.Ode9C13.ode = misc_en_US_oca.Ode9
 meCO.Ode9C13.mode = misc_en_US_oca.Mode6
 meCO.Ode9C13.melody = he.h.m6_en_US_oca.MiEpodyrestheMatin.notmetered
-meCO.Ode9C13.text = ""
+meCO.Ode9C13.text = "Let the heavens be glad and the earth leap for joy! ⁄ Let the rivers clap their hands and rejoice ⁄ with the springs, the lakes and depths of the sea! ⁄ For Christ comes to cleanse and save Adam by divine Baptism!"
 
 meMA.Kathisma11.mode = misc_en_US_oca.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_US_oca.ChorosAngelikos.notmetered
