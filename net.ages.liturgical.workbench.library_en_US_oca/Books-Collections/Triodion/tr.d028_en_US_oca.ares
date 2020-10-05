@@ -23,7 +23,7 @@ trVE.Stichera01.text = "Come, all lovers of the martyrs: ⁄ Let us celebrate an
 
 trVE.Stichera02.mode = misc_en_US_oca.Mode2
 trVE.Stichera02.melody = misc_en_US_oca.Idiomelon
-trVE.Stichera02.text = "You extend the divinely-granted grace of your miracles ⁄ to all who run to you in faith, martyr Theodore. ⁄ Therefore we praise you in song: ⁄ You release the captives, ⁄ heal the sick, reward the poor, ⁄ and save those who are drowning. ⁄ You intercede for all who honor your sacred memory. ⁄ Entreat Christ to grant great mercy even to us ⁄⁄ who praise your suffering, holy Martyr!"
+trVE.Stichera02.text = me.m02.d17_en_US_oca.meVE.AposGlory.text
 
 trVE.Stichera03.mode = misc_en_US_oca.Mode2
 trVE.Stichera03.melody = misc_en_US_oca.Idiomelon
@@ -31,7 +31,7 @@ trVE.Stichera03.text = "You were revealed as the highest gift of God, martyr The
 
 trVE.Stichera04.mode = misc_en_US_oca.Mode2
 trVE.Stichera04.melody = misc_en_US_oca.Idiomelon
-trVE.Stichera04.text = "I honor you as the true gift of God, thrice-blessed Theodore! ⁄ You were revealed as an unfailing candle of the divine light: ⁄ your sufferings illumined the creation. ⁄ More powerful than fire, you quenched the flames ⁄ and crushed the head of the evil serpent. ⁄ When you went to your suffering, ⁄ Christ placed the crown on your divine head. ⁄ Since you have boldness before God, great Martyr, ⁄⁄ fervently pray for our souls!"
+trVE.Stichera04.text = me.m02.d17_en_US_oca.meVE.SticGlory.text //I honor you as the true gift of God, thrice-blessed Theodore! ⁄ You were revealed as an unfailing candle of the divine light: ⁄ your sufferings illumined the creation. ⁄ More powerful than fire, you quenched the flames ⁄ and crushed the head of the evil serpent. ⁄ When you went to your suffering, ⁄ Christ placed the crown on your divine head. ⁄ Since you have boldness before God, great Martyr, ⁄⁄ fervently pray for our souls!
 
 trVE.SticGlory.mode = misc_en_US_oca.Mode6
 trVE.SticGlory.melody = misc_en_US_oca.Idiomelon
@@ -727,7 +727,7 @@ trMA.ExapTheotokion.text = ""
 
 trMA.Lauds1.mode = misc_en_US_oca.Mode1
 trMA.Lauds1.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
-trMA.Lauds1.text = ""
+trMA.Lauds1.text = me.m02.d17_en_US_oca.meMA.Lauds2.text
 
 trMA.Lauds2.mode = misc_en_US_oca.Mode1
 trMA.Lauds2.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
@@ -735,19 +735,20 @@ trMA.Lauds2.text = ""
 
 trMA.Lauds3.mode = misc_en_US_oca.Mode1
 trMA.Lauds3.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
-trMA.Lauds3.text = ""
+trMA.Lauds3.text = me.m02.d17_en_US_oca.meMA.Lauds3.text
 
 trMA.Lauds4.mode = misc_en_US_oca.Mode1
 trMA.Lauds4.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
-trMA.Lauds4.text = ""
+trMA.Lauds4.text = me.m02.d17_en_US_oca.meMA.Lauds1.text
 
 trMA.LaudsGlory.mode = misc_en_US_oca.Mode2
 trMA.LaudsGlory.melody = misc_en_US_oca.Idiomelon
-trMA.LaudsGlory.text = ""
+trMA.LaudsGlory.text = me.m02.d17_en_US_oca.meMA.LaudsGlory.text
 
 trMA.LaudsTheotokion.mode = misc_en_US_oca.Mode6
 trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = ""
+
 trMA.Aposticha1.mode = misc_en_US_oca.Mode3
 trMA.Aposticha1.melody = misc_en_US_oca.Idiomelon
 trMA.Aposticha1.text = ""
