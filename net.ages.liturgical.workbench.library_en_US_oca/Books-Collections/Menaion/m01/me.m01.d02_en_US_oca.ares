@@ -612,8 +612,8 @@ meMA.Exaposteilarion2.text = ""
 meMA.Lauds1.poet = poets_en_US_oca.Theofanous
 meMA.Lauds1.acrostic = ""
 meMA.Lauds1.mode = misc_en_US_oca.Mode6
-meMA.Lauds1.melody = misc_en_US_oca.AutomelonNotMetered
-meMA.Lauds1.text = he.a.m6_en_US_oca.AiAngelikai.text
+meMA.Lauds1.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode6
 meMA.Lauds2.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
