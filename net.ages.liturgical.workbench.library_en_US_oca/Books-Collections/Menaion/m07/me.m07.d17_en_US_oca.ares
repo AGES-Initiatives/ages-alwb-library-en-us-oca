@@ -113,11 +113,11 @@ meMA.MM.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ""
+meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelWomanMartyr.text
 
 meMA.PostGospelBoth.mode = misc_en_US_oca.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode2
 meMA.PostGospelIdiomelon.melody = ""
