@@ -559,6 +559,14 @@ ocLI.BeatitudesT.mode = misc_en_US_oca.Mode8
 ocLI.BeatitudesT.melody = ""
 ocLI.BeatitudesT.text = ""
 
+ocBK.end.title = ""
+ocBK.end.verse1.text = ""
+ocBK.end.verse2.text = ""
+ocBK.end.verse3.text = ""
+ocBK.end.verse4.text = ""
+ocBK.end.verse5.text = ""
+ocBK.end.verse6.text = ""
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_US_oca.Mode8
