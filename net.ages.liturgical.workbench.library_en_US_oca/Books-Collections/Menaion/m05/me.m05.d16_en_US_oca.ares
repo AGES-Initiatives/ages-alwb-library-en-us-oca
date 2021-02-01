@@ -29,12 +29,12 @@ meVE.Stichera03.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 meVE.Stichera03.text = "From his youth, the wise Theodore, the great faster, ⁄ was gifted with asceticism, abstinence, humility and patience. ⁄ He avoided evil and acquired the virtues. ⁄ He was a lover of the love of God! ⁄ With joy, the glorious one has transcended all visible things! ⁄ He is exalted by his way of life. ⁄ now he converses with God, ⁄⁄ praying with boldness on behalf of our souls."
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode1
-meVE.Apolytikion1.melody = he.ga_en_US_oca.TisErimouPolitis.name
+meVE.Apolytikion1.melody = he.ga_en_US_oca.TisErimouPolitis.incipit
 meVE.Apolytikion1.text = ""
 meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.acrostic = ""
 
 meMA.C1.title = ""
 meMA.C1.verse = ""

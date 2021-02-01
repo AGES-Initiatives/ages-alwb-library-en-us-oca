@@ -42,10 +42,10 @@ trMA.Kathisma22.mode = misc_en_US_oca.Mode5
 trMA.Kathisma22.melody = tr.d014_en_US_oca.trMA.Kathisma22.melody
 trMA.Kathisma22.text = ""
 
-trMA.C1Poet = poets_en_US_oca.KyriouIosif
-trMA.C1Acrostic.text = ""
+trMA.C1.poet = poets_en_US_oca.KyriouIosif
+trMA.C1.acrostic = ""
 
-trMA.C2Poet = poets_en_US_oca.KyriouTheodorou
+trMA.C2.poet = poets_en_US_oca.KyriouTheodorou
 
 trMA.Ode6C11.ode = misc_en_US_oca.Ode6
 trMA.Ode6C11.mode = misc_en_US_oca.Mode4

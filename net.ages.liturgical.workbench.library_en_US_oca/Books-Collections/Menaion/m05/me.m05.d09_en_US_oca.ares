@@ -51,14 +51,14 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode2
-meVE.Apolytikion1.melody = he.ga_en_US_oca.TouProfitouSou.name
+meVE.Apolytikion1.melody = he.ga_en_US_oca.TouProfitouSou.incipit
 meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode4
 meVE.Apolytikion2.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion2.text = "O Christopher, robed in the purple of your martyrdom, ⁄ You came before the Lord of heaven; ⁄ Therefore with the choirs of angels, ⁄ You now sing the Thrice-Holy Hymn. ⁄ Intercede for the salvation of those who honor you."
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
+meMA.C1.poet = poets_en_US_oca.Theofanous
 
 meMA.C1.title = ""
 meMA.C1.verse = ""

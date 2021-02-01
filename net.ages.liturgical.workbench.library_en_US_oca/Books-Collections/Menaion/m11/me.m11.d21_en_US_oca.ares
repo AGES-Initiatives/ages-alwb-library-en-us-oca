@@ -144,10 +144,10 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode4
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = me.m11.d08_en_US_oca.meVE.LityBoth.text
 
-meMA.C1Poet = poets_en_US_oca.KyriouGeorgiou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.KyriouGeorgiou
+meMA.C1.acrostic = ""
 
-meMA.C2Poet = poets_en_US_oca.KyriouVasileiou
+meMA.C2.poet = poets_en_US_oca.KyriouVasileiou
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode4

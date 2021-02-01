@@ -61,8 +61,8 @@ meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 meVE.Apolytikion1.text = me.m02.d08_en_US_oca.meVE.Apolytikion1.text
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_oca.KanonTouAgiou
 meMA.C1.verse = prayers_en_US_oca.verse_SaintM.text
@@ -274,7 +274,7 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.text = me.m02.d17_en_US_oca.meMA.LaudsGlory.text
 
 meMA.AposTheotokion.mode = misc_en_US_oca.Mode6
-meMA.AposTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.name
+meMA.AposTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.incipit
 meMA.AposTheotokion.text = he.o_en_US_oca.TheotokeSyEiAthloforou.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

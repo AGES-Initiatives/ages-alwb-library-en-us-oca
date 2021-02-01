@@ -40,8 +40,8 @@ meVE.Apolytikion1.mode = misc_en_US_oca.Mode5
 meVE.Apolytikion1.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meVE.Apolytikion1.text = "Father Pachomius, ⁄ the great Shepherd revealed you as a leader of the flocks of monks, ⁄ for you lead the way to the heavenly sheepfold. ⁄ you learned there the life proper for ascetics, ⁄ and taught it to others. ⁄ Together with them, you now exult ⁄⁄ and rejoice in the heavenly dwellings!"
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.acrostic = ""
 
 meMA.C1.title = ""
 meMA.C1.verse = ""

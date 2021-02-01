@@ -37,10 +37,10 @@ pePA.ChristIsRisenShort.text = "" //for media
 
 //pePA.PaschaVerse4.text = ""
 
-pePA.Canon.Poet = poets_en_US_oca.IoannouTouDamaskinou
-pePA.Canon.text = "" //for media of entire canon
+pePA.C1.poet = poets_en_US_oca.IoannouTouDamaskinou
+pePA.C1.text = "" //for media of entire canon
 
-pePA.CanonT.Acrostic = ""
+pePA.CTh.acrostic = ""
 
 pePA.Ode1H.ode = misc_en_US_oca.Ode1
 pePA.Ode1H.mode = misc_en_US_oca.Mode1
@@ -52,22 +52,22 @@ pePA.C1.verse = prayers_en_US_oca.verse_Resurrection.text
 
 pePA.Ode11.ode = misc_en_US_oca.Ode1
 pePA.Ode11.mode = misc_en_US_oca.Mode1
-pePA.Ode11.melody = he.h.m1_en_US_oca.AnastaseosImera.name
+pePA.Ode11.melody = he.h.m1_en_US_oca.AnastaseosImera.incipit
 pePA.Ode11.text = ""
 
 pePA.Ode12.ode = misc_en_US_oca.Ode1
 pePA.Ode12.mode = misc_en_US_oca.Mode1
-pePA.Ode12.melody = he.h.m1_en_US_oca.AnastaseosImera.name
+pePA.Ode12.melody = he.h.m1_en_US_oca.AnastaseosImera.incipit
 pePA.Ode12.text = ""
 
 pePA.Ode1T1.ode = misc_en_US_oca.Ode1
 pePA.Ode1T1.mode = misc_en_US_oca.Mode1
-pePA.Ode1T1.melody = he.h.m1_en_US_oca.AnastaseosImera.name
+pePA.Ode1T1.melody = he.h.m1_en_US_oca.AnastaseosImera.incipit
 pePA.Ode1T1.text = ""
 
 pePA.Ode1T2.ode = misc_en_US_oca.Ode1
 pePA.Ode1T2.mode = misc_en_US_oca.Mode1
-pePA.Ode1T2.melody = he.h.m1_en_US_oca.AnastaseosImera.name
+pePA.Ode1T2.melody = he.h.m1_en_US_oca.AnastaseosImera.incipit
 pePA.Ode1T2.text = ""
 
 pePA.Ode3H.ode = misc_en_US_oca.Ode3
@@ -77,25 +77,25 @@ pePA.Ode3H.text = he.h.m1_en_US_oca.DeftePomaPiomen.text
 
 pePA.Ode31.ode = misc_en_US_oca.Ode3
 pePA.Ode31.mode = misc_en_US_oca.Mode1
-pePA.Ode31.melody = he.h.m1_en_US_oca.DeftePomaPiomen.name
+pePA.Ode31.melody = he.h.m1_en_US_oca.DeftePomaPiomen.incipit
 pePA.Ode31.text = ""
 
 pePA.Ode32.ode = misc_en_US_oca.Ode3
 pePA.Ode32.mode = misc_en_US_oca.Mode1
-pePA.Ode32.melody = he.h.m1_en_US_oca.DeftePomaPiomen.name
+pePA.Ode32.melody = he.h.m1_en_US_oca.DeftePomaPiomen.incipit
 pePA.Ode32.text = ""
 
 pePA.Ode3T1.ode = misc_en_US_oca.Ode3
 pePA.Ode3T1.mode = misc_en_US_oca.Mode1
-pePA.Ode3T1.melody = he.h.m1_en_US_oca.DeftePomaPiomen.name
+pePA.Ode3T1.melody = he.h.m1_en_US_oca.DeftePomaPiomen.incipit
 pePA.Ode3T1.text = ""
 
 pePA.Ode3T2.ode = misc_en_US_oca.Ode3
 pePA.Ode3T2.mode = misc_en_US_oca.Mode1
-pePA.Ode3T2.melody = he.h.m1_en_US_oca.DeftePomaPiomen.name
+pePA.Ode3T2.melody = he.h.m1_en_US_oca.DeftePomaPiomen.incipit
 pePA.Ode3T2.text = ""
 
-pePA.Hypakoe.mode =misc_en_US_oca.Mode4
+pePA.Hypakoe.mode = misc_en_US_oca.Mode4
 pePA.Hypakoe.text = ""
 
 pePA.Ode4H.ode = misc_en_US_oca.Ode4
@@ -105,27 +105,27 @@ pePA.Ode4H.text = he.h.m1_en_US_oca.EpiTisTheiasFylakis.text
 
 pePA.Ode41.ode = misc_en_US_oca.Ode4
 pePA.Ode41.mode = misc_en_US_oca.Mode1
-pePA.Ode41.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.name
+pePA.Ode41.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.incipit
 pePA.Ode41.text = ""
 
 pePA.Ode42.ode = misc_en_US_oca.Ode4
 pePA.Ode42.mode = misc_en_US_oca.Mode1
-pePA.Ode42.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.name
+pePA.Ode42.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.incipit
 pePA.Ode42.text = ""
 
 pePA.Ode43.ode = misc_en_US_oca.Ode4
 pePA.Ode43.mode = misc_en_US_oca.Mode1
-pePA.Ode43.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.name
+pePA.Ode43.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.incipit
 pePA.Ode43.text = ""
 
 pePA.Ode4T1.ode = misc_en_US_oca.Ode4
 pePA.Ode4T1.mode = misc_en_US_oca.Mode1
-pePA.Ode4T1.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.name
+pePA.Ode4T1.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.incipit
 pePA.Ode4T1.text = ""
 
 pePA.Ode4T2.ode = misc_en_US_oca.Ode4
 pePA.Ode4T2.mode = misc_en_US_oca.Mode1
-pePA.Ode4T2.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.name
+pePA.Ode4T2.melody = he.h.m1_en_US_oca.EpiTisTheiasFylakis.incipit
 pePA.Ode4T2.text = ""
 
 pePA.Ode5H.ode = misc_en_US_oca.Ode5
@@ -135,22 +135,22 @@ pePA.Ode5H.text = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.text
 
 pePA.Ode51.ode = misc_en_US_oca.Ode5
 pePA.Ode51.mode = misc_en_US_oca.Mode1
-pePA.Ode51.melody = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.name
+pePA.Ode51.melody = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.incipit
 pePA.Ode51.text = ""
 
 pePA.Ode52.ode = misc_en_US_oca.Ode5
 pePA.Ode52.mode = misc_en_US_oca.Mode1
-pePA.Ode52.melody = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.name
+pePA.Ode52.melody = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.incipit
 pePA.Ode52.text = ""
 
 pePA.Ode5T1.ode = misc_en_US_oca.Ode5
 pePA.Ode5T1.mode = misc_en_US_oca.Mode1
-pePA.Ode5T1.melody = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.name
+pePA.Ode5T1.melody = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.incipit
 pePA.Ode5T1.text = ""
 
 pePA.Ode5T2.ode = misc_en_US_oca.Ode5
 pePA.Ode5T2.mode = misc_en_US_oca.Mode1
-pePA.Ode5T2.melody = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.name
+pePA.Ode5T2.melody = he.h.m1_en_US_oca.OrthrisomenOrthrouVatheos.incipit
 pePA.Ode5T2.text = ""
 
 pePA.Ode6H.ode = misc_en_US_oca.Ode6
@@ -160,22 +160,22 @@ pePA.Ode6H.text = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.text
 
 pePA.Ode61.ode = misc_en_US_oca.Ode6
 pePA.Ode61.mode = misc_en_US_oca.Mode1
-pePA.Ode61.melody = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.name
+pePA.Ode61.melody = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.incipit
 pePA.Ode61.text = ""
 
 pePA.Ode62.ode = misc_en_US_oca.Ode6
 pePA.Ode62.mode = misc_en_US_oca.Mode1
-pePA.Ode62.melody = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.name
+pePA.Ode62.melody = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.incipit
 pePA.Ode62.text = ""
 
 pePA.Ode6T1.ode = misc_en_US_oca.Ode6
 pePA.Ode6T1.mode = misc_en_US_oca.Mode1
-pePA.Ode6T1.melody = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.name
+pePA.Ode6T1.melody = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.incipit
 pePA.Ode6T1.text = ""
 
 pePA.Ode6T2.ode = misc_en_US_oca.Ode6
 pePA.Ode6T2.mode = misc_en_US_oca.Mode1
-pePA.Ode6T2.melody = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.name
+pePA.Ode6T2.melody = he.h.m1_en_US_oca.KatilthesEnToisKatotatois.incipit
 pePA.Ode6T2.text = ""
 
 pePA.Kontakion.mode = misc_en_US_oca.Mode8
@@ -191,27 +191,27 @@ pePA.Ode7H.text = he.h.m1_en_US_oca.OPaidasEkKaminou.text
 
 pePA.Ode71.ode = misc_en_US_oca.Ode7
 pePA.Ode71.mode = misc_en_US_oca.Mode1
-pePA.Ode71.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.name
+pePA.Ode71.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.incipit
 pePA.Ode71.text = ""
 
 pePA.Ode72.ode = misc_en_US_oca.Ode7
 pePA.Ode72.mode = misc_en_US_oca.Mode1
-pePA.Ode72.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.name
+pePA.Ode72.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.incipit
 pePA.Ode72.text = ""
 
 pePA.Ode73.ode = misc_en_US_oca.Ode7
 pePA.Ode73.mode = misc_en_US_oca.Mode1
-pePA.Ode73.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.name
+pePA.Ode73.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.incipit
 pePA.Ode73.text = ""
 
 pePA.Ode7T1.ode = misc_en_US_oca.Ode7
 pePA.Ode7T1.mode = misc_en_US_oca.Mode1
-pePA.Ode7T1.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.name
+pePA.Ode7T1.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.incipit
 pePA.Ode7T1.text = ""
 
 pePA.Ode7T2.ode = misc_en_US_oca.Ode7
 pePA.Ode7T2.mode = misc_en_US_oca.Mode1
-pePA.Ode7T2.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.name
+pePA.Ode7T2.melody = he.h.m1_en_US_oca.OPaidasEkKaminou.incipit
 pePA.Ode7T2.text = ""
 
 pePA.Ode8H.ode = misc_en_US_oca.Ode8
@@ -221,27 +221,27 @@ pePA.Ode8H.text = he.h.m1_en_US_oca.AftiIKliti.text
 
 pePA.Ode81.ode = misc_en_US_oca.Ode8
 pePA.Ode81.mode = misc_en_US_oca.Mode1
-pePA.Ode81.melody = he.h.m1_en_US_oca.AftiIKliti.name
+pePA.Ode81.melody = he.h.m1_en_US_oca.AftiIKliti.incipit
 pePA.Ode81.text = ""
 
 pePA.Ode82.ode = misc_en_US_oca.Ode8
 pePA.Ode82.mode = misc_en_US_oca.Mode1
-pePA.Ode82.melody = he.h.m1_en_US_oca.AftiIKliti.name
+pePA.Ode82.melody = he.h.m1_en_US_oca.AftiIKliti.incipit
 pePA.Ode82.text = ""
 
 pePA.Ode83.ode = misc_en_US_oca.Ode8
 pePA.Ode83.mode = misc_en_US_oca.Mode1
-pePA.Ode83.melody = he.h.m1_en_US_oca.AftiIKliti.name
+pePA.Ode83.melody = he.h.m1_en_US_oca.AftiIKliti.incipit
 pePA.Ode83.text = ""
 
 pePA.Ode8T1.ode = misc_en_US_oca.Ode8
 pePA.Ode8T1.mode = misc_en_US_oca.Mode1
-pePA.Ode8T1.melody = he.h.m1_en_US_oca.AftiIKliti.name
+pePA.Ode8T1.melody = he.h.m1_en_US_oca.AftiIKliti.incipit
 pePA.Ode8T1.text = ""
 
 pePA.Ode8T2.ode = misc_en_US_oca.Ode8
 pePA.Ode8T2.mode = misc_en_US_oca.Mode1
-pePA.Ode8T2.melody = he.h.m1_en_US_oca.AftiIKliti.name
+pePA.Ode8T2.melody = he.h.m1_en_US_oca.AftiIKliti.incipit
 pePA.Ode8T2.text = ""
 
 pePA.Ode9M01.text = ""
@@ -275,22 +275,22 @@ pePA.Ode9H.text = he.h.m1_en_US_oca.FotizouFotizou.text
 
 pePA.Ode91.ode = misc_en_US_oca.Ode9
 pePA.Ode91.mode = misc_en_US_oca.Mode1
-pePA.Ode91.melody = he.h.m1_en_US_oca.FotizouFotizou.name
+pePA.Ode91.melody = he.h.m1_en_US_oca.FotizouFotizou.incipit
 pePA.Ode91.text = ""
 
 pePA.Ode92.ode = misc_en_US_oca.Ode9
 pePA.Ode92.mode = misc_en_US_oca.Mode1
-pePA.Ode92.melody = he.h.m1_en_US_oca.FotizouFotizou.name
+pePA.Ode92.melody = he.h.m1_en_US_oca.FotizouFotizou.incipit
 pePA.Ode92.text = ""
 
 pePA.Ode9T1.ode = misc_en_US_oca.Ode9
 pePA.Ode9T1.mode = misc_en_US_oca.Mode1
-pePA.Ode9T1.melody = he.h.m1_en_US_oca.FotizouFotizou.name
+pePA.Ode9T1.melody = he.h.m1_en_US_oca.FotizouFotizou.incipit
 pePA.Ode9T1.text = ""
 
 pePA.Ode9T2.ode = misc_en_US_oca.Ode9
 pePA.Ode9T2.mode = misc_en_US_oca.Mode1
-pePA.Ode9T2.melody = he.h.m1_en_US_oca.FotizouFotizou.name
+pePA.Ode9T2.melody = he.h.m1_en_US_oca.FotizouFotizou.incipit
 pePA.Ode9T2.text = ""
 
 pePA.Ode9K.ode = misc_en_US_oca.Ode9

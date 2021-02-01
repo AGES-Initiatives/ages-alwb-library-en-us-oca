@@ -150,10 +150,10 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode2
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 
-meMA.C1Poet = poets_en_US_oca.IoannouMonachou
+meMA.C1.poet = poets_en_US_oca.IoannouMonachou
 
-meMA.C2Poet = poets_en_US_oca.IoannouMonachou
-meMA.C2Acrostic.text = ""
+meMA.C2.poet = poets_en_US_oca.IoannouMonachou
+meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_oca.KanonATonAsomaton
 meMA.C1.verse = prayers_en_US_oca.verse_Angels.text

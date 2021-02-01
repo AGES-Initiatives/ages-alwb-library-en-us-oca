@@ -150,7 +150,7 @@ meVE.AposBoth.melody = ""
 meVE.AposBoth.text = "Unwedded Virgin, from where have you come? ⁄ Who has given you birth? ⁄ Who is your mother? ⁄ How can you carry your Creator in your arms? ⁄ How is your womb free from corruption? ⁄ Most holy one, ⁄ we see great and fearful mysteries upon earth fulfilled in you; ⁄ we adorn the cave as a house worthy of you; ⁄ we ask the heavens to send us a star, ⁄ for behold the Magi proceed from the east to the west ⁄ desiring to see the Salvation of mortal men ⁄⁄ shining in your arms as a Pillar of Flame."
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
-meVE.Apolytikion1.melody = he.ga_en_US_oca.KanonaPisteos.name
+meVE.Apolytikion1.melody = he.ga_en_US_oca.KanonaPisteos.incipit
 meVE.GeneralApolytikion1.name = "Nicholas,"
 meVE.Apolytikion1.text = "" // for media
 
@@ -193,11 +193,11 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Lity7.text
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
-meMA.C2Acrostic.text = ""
+meMA.C2.acrostic = ""
 
-meMA.C3Acrostic.text = ""
+meMA.C3.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode1

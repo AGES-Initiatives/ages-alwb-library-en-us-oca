@@ -78,13 +78,13 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion1.text = ""//me.m07.d20_en_US_oca.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.mode = misc_en_US_oca.Mode8
-meVE.Apolytikion2.melody = he.ga_en_US_oca.OrthodoxiasOdigeH.name
+meVE.Apolytikion2.melody = he.ga_en_US_oca.OrthodoxiasOdigeH.incipit
 meVE.GeneralApolytikion2.notmetered = "" // name of saint for General Apolytikia
 
-meMA.C1Poet = poets_en_US_oca.IoannouMonachou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.IoannouMonachou
+meMA.C1.acrostic = ""
 
-meMA.C2Acrostic.text = ""
+meMA.C2.acrostic = ""
 
 meMA.C1.title = ""
 meMA.C1.verse = ""

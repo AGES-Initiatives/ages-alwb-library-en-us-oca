@@ -164,10 +164,10 @@ meMA.PostGospelIdiomelon.text = ""
 
 meMA.MM.PostGospelIdiomelon.text = properties_en_US_oca.media.key
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
-meMA.C2Poet = poets_en_US_oca.Theofanous
-meMA.C2Acrostic.text = ""
+meMA.C2.poet = poets_en_US_oca.Theofanous
+meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_oca.KanonATouAgiou
 meMA.C1.verse = prayers_en_US_oca.verse_SaintM.text

@@ -137,7 +137,7 @@ meVE.Lity5.mode = misc_en_US_oca.Mode4
 meVE.Lity5.melody = ""
 meVE.Lity5.text = "The hand of the Baptist trembled, ⁄ when it touched Your immaculate head: ⁄ The river Jordan turned back, not daring to minister to You. ⁄ For how could that which stood in awe of Joshua the Son of Nun ⁄ not be afraid before Joshua's Creator? ⁄ But You, Savior, have fulfilled all that was appointed, ⁄ so that You might save the world by Your epiphany, ⁄⁄ only Lover of mankind!"
 
-meVE.LityGlory.poet =poets_en_US_oca.IoannouMonachou
+meVE.LityGlory.poet = poets_en_US_oca.IoannouMonachou
 meVE.LityGlory.mode = misc_en_US_oca.Mode8
 meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "Lord, in Your desire to fulfill what You appointed from eternity, ⁄ You have received ministers from all the creation here at Your mystery: ⁄ Gabriel from among the angels, ⁄ the Virgin from among men, ⁄ the star from the heavens, and Jordan from the waters; ⁄ and in its stream You have washed away the transgression of the world. ⁄⁄ O Savior, Glory to You."
@@ -197,16 +197,16 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "God the Word appeared to mankind in the flesh. ⁄ ready for baptism, He stood in the Jordan, ⁄ and the Forerunner said to Him: ⁄ How shall I stretch forth my hand ⁄ and touch the head of Him Who rules all things? ⁄ Though You are the Child of Mary, ⁄ I know You to be the pre-eternal God. ⁄ Though You walk upon the earth, ⁄ yet You are hymned by the seraphim.  ⁄ And I who am but a servant know not how to baptize the Master! ⁄⁄ Lord past all understanding, glory to You!"
 
-meMA.C1Poet = poets_en_US_oca.Kosma
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.Kosma
+meMA.C1.acrostic = ""
 
-meMA.C2Poet = poets_en_US_oca.IoannouTouDamaskinou
-meMA.C2Acrostic.text = ""
-meMA.C2Acrostic1.text = ""
-meMA.C2Acrostic2.text = ""
-meMA.C2Acrostic3.text = ""
-meMA.C2Acrostic4.text = ""
-meMA.C2Acrostic5.text = ""
+meMA.C2.poet = poets_en_US_oca.IoannouTouDamaskinou
+meMA.C2.acrostic = ""
+meMA.C2.Acrostic1.acrostic = ""
+meMA.C2.Acrostic2.acrostic = ""
+meMA.C2.Acrostic3.acrostic = ""
+meMA.C2.Acrostic4.acrostic = ""
+meMA.C2.Acrostic5.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode2
@@ -629,7 +629,7 @@ meMA.Ode9C2H5.text = he.h.m2_en_US_oca.OTonYperNoun5.text
 
 meMA.Ode9C21.ode = misc_en_US_oca.Ode9
 meMA.Ode9C21.mode = misc_en_US_oca.Mode2
-meMA.Ode9C21.melody = he.h.m2_en_US_oca.OTonYperNoun.name
+meMA.Ode9C21.melody = he.h.m2_en_US_oca.OTonYperNoun.incipit
 meMA.Ode9C21.text = "That which was revealed to Moses in the bush ⁄ we see accomplished here in a strange manner. ⁄ The Virgin bore Fire within her, yet was not consumed, ⁄ when she gave birth to the Benefactor who brings us light, ⁄ and the streams of Jordan suffered no harm when they received Him."
 meMA.Ode9C211.text = ""
 meMA.Ode9C212.text = ""
@@ -639,7 +639,7 @@ meMA.Ode9C215.text = ""
 
 meMA.Ode9C22.ode = misc_en_US_oca.Ode9
 meMA.Ode9C22.mode = misc_en_US_oca.Mode2
-meMA.Ode9C22.melody = he.h.m2_en_US_oca.OTonYperNoun.name
+meMA.Ode9C22.melody = he.h.m2_en_US_oca.OTonYperNoun.incipit
 meMA.Ode9C22.text = "King without beginning, through the communion of the Spirit, ⁄ You anoint and perfect the nature of mankind. ⁄ You have cleansed it in the undefiled streams. ⁄ Putting to shame the arrogant force of darkness, ⁄ and now You translate it unto endless life."
 meMA.Ode9C221.text = ""
 meMA.Ode9C222.text = ""

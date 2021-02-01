@@ -35,8 +35,8 @@ trVE.Stichera03.mode = misc_en_US_oca.Mode8
 trVE.Stichera03.melody = ""
 trVE.Stichera03.text = "Apostles, worthy of all praise, intercessors for the world, physicians of the sick and protectors of health, guard us as we pass through the time of the fast: may we remain at peace with each other by the grace of God! Preserve our minds untroubled by passions, that we may all sing a hymn of praise to the risen and victorious Christ!"
 
-trGC.SticheraPoet = ""
-trGC.SticheraAcrostic.text = ""
+trGC.Stichera.poet = ""
+trGC.Stichera.acrostic = ""
 
 trGC.Stichera01.mode = misc_en_US_oca.Mode4
 trGC.Stichera01.melody = misc_en_US_oca.NotMetered

@@ -182,8 +182,8 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = me.m01.d01_en_US_oca.meVE.LityGlory.text
 
-meMA.C2Poet = poets_en_US_oca.Theofanous
-meMA.C2Acrostic.text = ""
+meMA.C2.poet = poets_en_US_oca.Theofanous
+meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode8

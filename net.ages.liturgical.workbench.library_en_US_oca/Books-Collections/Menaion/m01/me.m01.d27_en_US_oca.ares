@@ -111,11 +111,11 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
-meMA.C2Poet = poets_en_US_oca.Theofanous
+meMA.C2.poet = poets_en_US_oca.Theofanous
 
-meMA.C3Acrostic.text = ""
+meMA.C3.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode8

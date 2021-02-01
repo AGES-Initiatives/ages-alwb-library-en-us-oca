@@ -183,10 +183,10 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Venerable, thrice-blessed and most holy Father, ⁄ good pastor and teacher of Christ the chief shepherd: ⁄ You laid down your life for your sheep! ⁄ Now, all-praised Gregory the Theologian, ⁄⁄ entreat by your prayers that we may be granted great mercy!"
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.acrostic = ""
 
-meMA.C2Poet = ""
+meMA.C2.poet = ""
 
 meMA.C1.title = titles_en_US_oca.KanonATouAgiou
 meMA.C1.verse = prayers_en_US_oca.verse_SaintM.text

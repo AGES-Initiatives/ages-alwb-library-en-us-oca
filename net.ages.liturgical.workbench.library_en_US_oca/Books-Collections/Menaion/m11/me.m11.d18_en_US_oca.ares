@@ -45,7 +45,7 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "The victories of your martyr are awesome and glorious, Lord! ⁄ For imitating the boldness of the fishermen, ⁄ by his words and deeds he tore asunder mythology, ⁄ catching the foolishness of the philosopher Plato with the nets of theology! ⁄ When his skin was flayed and he was beheaded, ⁄ he choked the enemy with the outpouring of his blood! ⁄ Most blessed wonder-worker Plato, ⁄ the adornment of the martyrs: ⁄ You preached the great name of Christ with boldness! ⁄⁄ Pray that great mercy may be granted to our souls!"
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode6
-meVE.SticTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.name
+meVE.SticTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.incipit
 meVE.SticTheotokion.text = he.o_en_US_oca.TheotokeSyEiAthloforou.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode6
@@ -57,8 +57,8 @@ meVE.Apolytikion1.mode = misc_en_US_oca.Mode8
 meVE.Apolytikion1.melody = he.a.m1_en_US_oca.ChorosAngelikos.notmetered
 meVE.Apolytikion1.text = ""
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.acrostic = ""
 
 meMA.C1.title = ""
 meMA.C1.verse = ""

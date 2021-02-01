@@ -178,11 +178,11 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode2
 meMA.PostGospelIdiomelon.melody = misc_en_US_oca.Idiomelon
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1Poet = poets_en_US_oca.IoannouTouDamaskinou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.IoannouTouDamaskinou
+meMA.C1.acrostic = ""
 
-meMA.C2Acrostic.poet = poets_en_US_oca.Georgiou
-meMA.C2Acrostic.text = ""
+meMA.C2.poet = poets_en_US_oca.Georgiou
+meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode4

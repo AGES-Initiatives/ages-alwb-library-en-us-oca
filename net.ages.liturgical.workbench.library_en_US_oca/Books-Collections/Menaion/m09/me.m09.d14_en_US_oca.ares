@@ -110,15 +110,15 @@ meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "Moses prefigured the power of the precious Cross, O Christ ⁄ when he put to flight Amalek, his adversary in the wilderness of Sinai. ⁄ For when he stretched out his arms in the form of a cross ⁄ the people became strong again. ⁄ Now the fulfillment of these images has come to pass for us. ⁄ Today the Cross is exalted and the devils put to flight. ⁄ Today all creation is set free from corruption. ⁄ For through the Cross every gift of grace shines upon us ⁄ so we all fall before You rejoicing and crying: ⁄⁄ How wonderful are Your works, Lord: glory to You!"
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
-meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.incipit
 meVE.Aposticha1.text = me.m09.d13_en_US_oca.meVE.Aposticha1.text
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
-meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.incipit
 meVE.Aposticha2.text = me.m09.d13_en_US_oca.meVE.Aposticha2.text
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
-meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.incipit
 meVE.Aposticha3.text = me.m09.d13_en_US_oca.meVE.Aposticha3.text
 
 meVE.AposGlory.poet = poets_en_US_oca.IoannouMonachou
@@ -156,8 +156,8 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1Poet = poets_en_US_oca.KyriouKosma
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.KyriouKosma
+meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode8

@@ -141,7 +141,7 @@ meMA.Kathisma31.melody = he.a.m8_en_US_oca.ToProstachthen.notmetered
 meMA.Kathisma31.text = ""
 
 meMA.MM.Prokeimenon.text = "" // for media
-//From goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=370andlanguage=elanddate=9/8/2012
+//From goarch: http://goarch.org/chapel/lectionary_view?type= MGandcode= 370andlanguage= elanddate= 9/8/2012
 
 meMA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -156,9 +156,9 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode4
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
 
-meMA.C1Poet = poets_en_US_oca.KyriouIoannou
+meMA.C1.poet = poets_en_US_oca.KyriouIoannou
 
-meMA.C2Poet = poets_en_US_oca.KyriouAndreou
+meMA.C2.poet = poets_en_US_oca.KyriouAndreou
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode2

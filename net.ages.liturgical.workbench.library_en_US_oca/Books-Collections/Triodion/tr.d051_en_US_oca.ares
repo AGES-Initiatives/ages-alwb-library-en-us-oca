@@ -57,9 +57,9 @@ trMA.Kathisma32.mode = misc_en_US_oca.Mode7
 trMA.Kathisma32.melody = ""
 trMA.Kathisma32.text = ""
 
-trMA.C1Poet = poets_en_US_oca.Iosif
+trMA.C1.poet = poets_en_US_oca.Iosif
 
-trMA.C2Poet = poets_en_US_oca.Theodorou
+trMA.C2.poet = poets_en_US_oca.Theodorou
 
 trMA.C1.title = ""
 trMA.C1.verse = ""
@@ -89,27 +89,27 @@ trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = misc_en_US_oca.Ode1
 trMA.Ode1C21.mode = misc_en_US_oca.Mode7
-trMA.Ode1C21.melody = he.h.m7_en_US_oca.AsomenToKyrio.name
+trMA.Ode1C21.melody = he.h.m7_en_US_oca.AsomenToKyrio.incipit
 trMA.Ode1C21.text = ""
 
 trMA.Ode1C22.ode = misc_en_US_oca.Ode1
 trMA.Ode1C22.mode = misc_en_US_oca.Mode7
-trMA.Ode1C22.melody = he.h.m7_en_US_oca.AsomenToKyrio.name
+trMA.Ode1C22.melody = he.h.m7_en_US_oca.AsomenToKyrio.incipit
 trMA.Ode1C22.text = ""
 
 trMA.Ode1C2Tr.ode = misc_en_US_oca.Ode1
 trMA.Ode1C2Tr.mode = misc_en_US_oca.Mode7
-trMA.Ode1C2Tr.melody = he.h.m7_en_US_oca.AsomenToKyrio.name
+trMA.Ode1C2Tr.melody = he.h.m7_en_US_oca.AsomenToKyrio.incipit
 trMA.Ode1C2Tr.text = ""
 
 trMA.Ode1C2T.ode = misc_en_US_oca.Ode1
 trMA.Ode1C2T.mode = misc_en_US_oca.Mode7
-trMA.Ode1C2T.melody = he.h.m7_en_US_oca.AsomenToKyrio.name
+trMA.Ode1C2T.melody = he.h.m7_en_US_oca.AsomenToKyrio.incipit
 trMA.Ode1C2T.text = ""
 
 trMA.Ode1C2A1.ode = misc_en_US_oca.Ode1
 trMA.Ode1C2A1.mode = misc_en_US_oca.Mode7
-trMA.Ode1C2A1.melody = he.h.m7_en_US_oca.AsomenToKyrio.name
+trMA.Ode1C2A1.melody = he.h.m7_en_US_oca.AsomenToKyrio.incipit
 trMA.Ode1C2A1.text = ""
 
 trMA.Ode1C2H.ode = misc_en_US_oca.Ode1

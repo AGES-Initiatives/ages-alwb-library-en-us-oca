@@ -33,8 +33,8 @@ meVE.Apolytikion1.mode = misc_en_US_oca.Mode3
 meVE.Apolytikion1.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
 meVE.Apolytikion1.text = ""
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_oca.KanonTisAgias
 meMA.C1.verse = prayers_en_US_oca.verse_SaintW.text

@@ -157,8 +157,8 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = me.m01.d15_en_US_oca.meVE.AposGlory.text //"Venerable Father, ⁄ the sound of your counsels have gone out into all the earth! ⁄ Therefore you have found your reward in the heavens: ⁄ You destroyed the company of demons, ⁄ attaining the rank of angels whose life you blamelessly followed! ⁄ Since you have boldness before Christ our God, ⁄⁄ entreat peace for our souls!" //me.m01.d15_en_US_oca.meVE.AposGlory.text
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_oca.KanonTouOsiou
 meMA.C1.verse = prayers_en_US_oca.verse_DevoutMan.text
@@ -396,7 +396,7 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = me.m01.d15_en_US_oca.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode6
-meMA.LaudsTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.name
+meMA.LaudsTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.incipit
 meMA.LaudsTheotokion.text = he.o_en_US_oca.TheotokeSyEiOsiou.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key

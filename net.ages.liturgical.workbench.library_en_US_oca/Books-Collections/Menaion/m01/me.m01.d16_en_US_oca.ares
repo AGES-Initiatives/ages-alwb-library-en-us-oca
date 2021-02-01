@@ -34,7 +34,7 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Today Peter, the rock of faith, ⁄ the foundation of the church, ⁄ appoints his precious chains for the devotion of our souls. ⁄ Come and let us kiss them, ⁄ crowning him with songs of praise and chanting: ⁄ Rejoice, fervent champion of the faith, ⁄ for with ardent knowledge and great boldness ⁄ you confessed Christ, the Son of God! ⁄ Rejoice, joy of the universe, ⁄ keeper of the keys of the kingdom of heaven, ⁄ for you give grace to those who honor you with love ⁄ and venerate your precious chains with longing! ⁄ As you stand before the throne of Christ, the King of all, ⁄⁄ ever pray for us who celebrate your memory!"
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode6
-meVE.SticTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.name
+meVE.SticTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.incipit
 meVE.SticTheotokion.text = he.o_en_US_oca.TheotokeSyEiApostolou.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode6
@@ -69,9 +69,9 @@ meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
-meMA.C2Acrostic.text = ""
+meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_oca.KanonATouApostolou
 meMA.C1.verse = prayers_en_US_oca.verse_Apostle.text

@@ -175,47 +175,47 @@ hoMA.ExapMon1.melody = misc_en_US_oca.Automelon
 hoMA.ExapMon1.text = he.a.m3_en_US_oca.OOuranonToisAstrois.text
 
 hoMA.ExapMonTh.mode = misc_en_US_oca.Mode3
-hoMA.ExapMonTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoMA.ExapMonTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
 hoMA.ExapMonTh.text = da.d7_en_US_oca.daMA.ExapTheotokion1.text
 
 hoMA.ExapTueTitle = ""
 hoMA.ExapTue1.mode = misc_en_US_oca.Mode3
-hoMA.ExapTue1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoMA.ExapTue1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
 hoMA.ExapTue1.text = da.d3_en_US_oca.daMA.Exaposteilarion1.text
 
 hoMA.ExapTueTh.mode = misc_en_US_oca.Mode3
-hoMA.ExapTueTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoMA.ExapTueTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
 hoMA.ExapTueTh.text = da.d7_en_US_oca.daMA.ExapTheotokion1.text
 
 hoMA.ExapWedFriTitle = ""
 hoMA.ExapWedFri1.mode = misc_en_US_oca.Mode2
-hoMA.ExapWedFri1.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.name
+hoMA.ExapWedFri1.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.incipit
 hoMA.ExapWedFri1.text = me.m09.d14_en_US_oca.meMA.Exaposteilarion1.text
 
 hoMA.ExapWedFriTh.mode = misc_en_US_oca.Mode3
-hoMA.ExapWedFriTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoMA.ExapWedFriTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
 hoMA.ExapWedFriTh.text = da.d6_en_US_oca.daMA.ExapTheotokion2.text
 
 hoMA.ExapThuTitle = ""
 hoMA.ExapThu1.mode = misc_en_US_oca.Mode2
-hoMA.ExapThu1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+hoMA.ExapThu1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.incipit
 hoMA.ExapThu1.text = ""
 
 hoMA.ExapThu2.mode = misc_en_US_oca.Mode2
-hoMA.ExapThu2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+hoMA.ExapThu2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.incipit
 hoMA.ExapThu2.text = me.m12.d06_en_US_oca.meMA.Exaposteilarion1.text
 
 hoMA.ExapThuTh.mode = misc_en_US_oca.Mode2
-hoMA.ExapThuTh.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.name
+hoMA.ExapThuTh.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.incipit
 hoMA.ExapThuTh.text = ""
 
 hoMA.ExapSatTitle = ""
 hoMA.ExapSat1.mode = misc_en_US_oca.Mode3
-hoMA.ExapSat1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.name
+hoMA.ExapSat1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
 hoMA.ExapSat1.text = da.d7_en_US_oca.daMA.Exaposteilarion2.text 
 
 hoMA.ExapSatTh.mode = misc_en_US_oca.Mode2
-hoMA.ExapSatTh.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.name
+hoMA.ExapSatTh.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.incipit
 hoMA.ExapSatTh.text = da.d7_en_US_oca.daMA.ExapTheotokion2.text 
 
 R19 = ""

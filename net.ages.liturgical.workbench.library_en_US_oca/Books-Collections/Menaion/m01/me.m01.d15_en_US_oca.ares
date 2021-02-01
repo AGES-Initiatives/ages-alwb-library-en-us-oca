@@ -69,9 +69,9 @@ meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion1.text = ""
 
-meMA.C1Poet = poets_en_US_oca.IoannouTouDamaskinou
+meMA.C1.poet = poets_en_US_oca.IoannouTouDamaskinou
 
-meMA.C2Acrostic.text = ""
+meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_oca.KanonTouOsiou
 meMA.C1.verse = prayers_en_US_oca.verse_DevoutMan.text
@@ -306,7 +306,7 @@ meMA.Ode6H.melody = misc_en_US_oca.Heirmos
 meMA.Ode6H.text = he.h.m2_en_US_oca.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
-meMA.Kontakion1.melody = he.a.m2_en_US_oca.TaAnoZiton.name
+meMA.Kontakion1.melody = he.a.m2_en_US_oca.TaAnoZiton.incipit
 meMA.Kontakion1.text = "Like Christ, you desired to be humble of heart, ⁄ giving up your parents' wealth. ⁄ Holding the Gospel in your hands, you followed Christ our God; ⁄⁄ you ever intercede with Him for us all."
 
 meMA.Oikos1.text = ""

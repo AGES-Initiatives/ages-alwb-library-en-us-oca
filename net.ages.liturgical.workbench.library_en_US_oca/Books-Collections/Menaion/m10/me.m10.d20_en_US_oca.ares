@@ -46,7 +46,7 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Today the whole world is enlightened with the rays of the passion bearer! ⁄ The Church of God, adorned with flowers, cries out to you, Artemius: ⁄ Favorite of Christ and fervent intercessor, ⁄⁄ Never cease to pray for your servants!"
 
 meVE.AposTheotokion.mode = misc_en_US_oca.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.name
+meVE.AposTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.incipit
 meVE.AposTheotokion.text = he.o_en_US_oca.TheotokeSyEiAthloforou.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_oca.Mode6
@@ -63,7 +63,7 @@ meVE.Apolytikion2.mode = misc_en_US_oca.Mode1
 meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.C1.title = ""
 meMA.C1.verse = ""
@@ -522,14 +522,14 @@ alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = 
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMA.C1Poet = poets_en_US_oca.Gerasimou
-alt1.meMA.C1Acrostic.text = ""
+alt1.meMA.C1.poet = poets_en_US_oca.Gerasimou
+alt1.meMA.C1.acrostic = ""
 
-alt1.meMA.C2Poet = poets_en_US_oca.Gerasimou
-alt1.meMA.C2Acrostic.text = ""
+alt1.meMA.C2.poet = poets_en_US_oca.Gerasimou
+alt1.meMA.C2.acrostic = ""
 
-alt1.meMA.C3Poet = poets_en_US_oca.Gerasimou
-alt1.meMA.C3Acrostic.text = ""
+alt1.meMA.C3.poet = poets_en_US_oca.Gerasimou
+alt1.meMA.C3.acrostic = ""
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 alt1.meMA.Ode1C1H.mode = misc_en_US_oca.Mode8

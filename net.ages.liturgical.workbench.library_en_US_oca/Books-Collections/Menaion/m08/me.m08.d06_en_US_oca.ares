@@ -137,11 +137,11 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode2
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Lity1.text
 
-meMA.C1Poet = poets_en_US_oca.KosmaMonachou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.KosmaMonachou
+meMA.C1.acrostic = ""
 
-meMA.C2Poet = poets_en_US_oca.IoannouTouDamaskinou
-meMA.C2Acrostic.text = ""
+meMA.C2.poet = poets_en_US_oca.IoannouTouDamaskinou
+meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode4

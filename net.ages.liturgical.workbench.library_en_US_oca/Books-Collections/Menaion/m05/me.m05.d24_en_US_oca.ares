@@ -42,12 +42,12 @@ meVE.SticStavrotheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 meVE.SticStavrotheotokion.text = oc.m2.d4_en_US_oca.ocVE.SticTheotokion.text
 
 meVE.GeneralApolytikion1.mode = misc_en_US_oca.Mode1
-meVE.GeneralApolytikion1.melody = he.ga_en_US_oca.YpomonisStylos.name
+meVE.GeneralApolytikion1.melody = he.ga_en_US_oca.YpomonisStylos.incipit
 meVE.GeneralApolytikion1.name = ""
 meVE.MM.GeneralApolytikion1.text = "" // for media
 
-meMA.C1Poet = poets_en_US_oca.IoannouMonachou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.IoannouMonachou
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_oca.KanonTouOsiou
 meMA.C1.verse = prayers_en_US_oca.verse_SaintM.text

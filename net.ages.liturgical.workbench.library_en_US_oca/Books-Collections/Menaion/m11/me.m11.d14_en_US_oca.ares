@@ -59,7 +59,7 @@ meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = ""
 
 meVE.GeneralApolytikion1.mode = misc_en_US_oca.Mode3
-meVE.GeneralApolytikion1.melody = he.ga_en_US_oca.ApostoleAgie.name
+meVE.GeneralApolytikion1.melody = he.ga_en_US_oca.ApostoleAgie.incipit
 meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 meVE.MM.GeneralApolytikion1.text = "" // for media
 
@@ -73,8 +73,8 @@ meVE.Apolytikion3.mode = misc_en_US_oca.Mode1
 meVE.Apolytikion3.melody = he.a.m1_en_US_oca.TisErimouPolitis.notmetered
 meVE.Apolytikion3.text = ""
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
-meMA.C1Acrostic.text = "On the acrostic: I HYMN THE GLORIOUS PHILIP IN A FITTING MANNER"
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.acrostic = "On the acrostic: I HYMN THE GLORIOUS PHILIP IN A FITTING MANNER"
 
 meMA.C1.title = ""
 meMA.C1.verse = ""

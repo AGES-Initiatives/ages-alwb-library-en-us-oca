@@ -142,10 +142,10 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Grace was poured forth from your mouths, venerable Fathers, ⁄ and you became pastors of the Church of Christ, ⁄ teaching the reason-endowed sheep to believe in the consubstantial Trinity ⁄⁄ in one divinity!"
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
-meMA.C2Poet = poets_en_US_oca.IoannouTouDamaskinou
-meMA.C2Acrostic.text = ""
+meMA.C2.poet = poets_en_US_oca.IoannouTouDamaskinou
+meMA.C2.acrostic = ""
 
 meMA.C1.title = ""
 meMA.C1.verse = ""

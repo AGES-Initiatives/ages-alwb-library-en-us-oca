@@ -67,15 +67,15 @@ alt1.meVE.LityBoth.melody = ""
 alt1.meVE.LityBoth.text = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
-meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.incipit
 meVE.Aposticha1.text = meMA.Lauds1.text
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
-meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.incipit
 meVE.Aposticha2.text = meMA.Lauds2.text
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
-meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.incipit
 meVE.Aposticha3.text = meMA.Lauds3.text
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode6
@@ -97,7 +97,7 @@ meVE.Apolytikion2.text = ""
 
 meVE.Apolytikion3.poet = poets_en_US_oca.Gerasimou
 meVE.Apolytikion3.mode = misc_en_US_oca.Mode1
-meVE.Apolytikion3.melody = he.a.m1_en_US_oca.TisErimouPolitis.name
+meVE.Apolytikion3.melody = he.a.m1_en_US_oca.TisErimouPolitis.incipit
 meVE.Apolytikion3.text = ""
 
 meCO.SupplicationVerse.text = ""
@@ -140,8 +140,8 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode2
 meMA.PostGospelIdiomelon.melody = misc_en_US_oca.Idiomelon
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1Poet = poets_en_US_oca.IoannouMonachou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_oca.IoannouMonachou
+meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode2

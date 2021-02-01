@@ -81,7 +81,7 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meVE.GeneralApolytikion2.mode = misc_en_US_oca.Mode8
-meVE.GeneralApolytikion2.melody = he.ga_en_US_oca.OrthodoxiasOdigeM.name
+meVE.GeneralApolytikion2.melody = he.ga_en_US_oca.OrthodoxiasOdigeM.incipit
 meVE.GeneralApolytikion2.notmetered = ""
 meVE.MM.GeneralApolytikion2.text = properties_en_US_oca.media.key
 
@@ -137,7 +137,7 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 meMA.PostGospelIdiomelon.melody = misc_en_US_oca.Idiomelon
 meMA.PostGospelIdiomelon.text = meMA.LaudsGlory.text 
 
-meMA.C1Poet = poets_en_US_oca.StefanouTouSavaitou
+meMA.C1.poet = poets_en_US_oca.StefanouTouSavaitou
 
 meMA.C1.title = ""
 meMA.C1.verse = ""

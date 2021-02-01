@@ -67,12 +67,12 @@ meVE.Apolytikion1.melody = me.m01.d02_en_US_oca.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m01.d02_en_US_oca.meVE.Apolytikion1.text
 
 meCO.C1Poet = poets_en_US_oca.SymeonTouLogothetou
-meCO.C1Acrostic.text = ""
+meCO.C1.acrostic = ""
 meCO.C1.title = ""
 meCO.C1.verse = prayers_en_US_oca.verse_God.text
 
 meCO.C2Poet = ""
-meCO.C2Acrostic.text = ""
+meCO.C2.acrostic = ""
 meCO.C2.title = ""
 meCO.C2.verse = prayers_en_US_oca.verse_God.text
 
@@ -212,11 +212,11 @@ meMA.Kathisma22.mode = misc_en_US_oca.Mode5
 meMA.Kathisma22.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma22.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
-meMA.C2Acrostic.text = ""
+meMA.C2.acrostic = ""
 
-meMA.C3Acrostic.text = ""
+meMA.C3.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode4

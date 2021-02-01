@@ -75,27 +75,27 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 alt1.meMA.Kathisma11.mode = misc_en_US_oca.Mode1
-alt1.meMA.Kathisma11.melody = he.a.m1_en_US_oca.TonTafonSouSotir.name
+alt1.meMA.Kathisma11.melody = he.a.m1_en_US_oca.TonTafonSouSotir.incipit
 alt1.meMA.Kathisma11.text = ""
 
 alt1.meMA.Kathisma1T.mode = misc_en_US_oca.Mode1
-alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_oca.TonTafonSouSotir.name
+alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_oca.TonTafonSouSotir.incipit
 alt1.meMA.Kathisma1T.text = ""
 
 alt1.meMA.Kathisma21.mode = misc_en_US_oca.Mode4
-alt1.meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.name
+alt1.meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.incipit
 alt1.meMA.Kathisma21.text = ""
 
 alt1.meMA.Kathisma2T.mode = misc_en_US_oca.Mode4
-alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_oca.KateplagiIosif.name
+alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_oca.KateplagiIosif.incipit
 alt1.meMA.Kathisma2T.text = ""
 
 alt1.meMA.Kathisma31.mode = misc_en_US_oca.Mode3
-alt1.meMA.Kathisma31.melody = he.a.m3_en_US_oca.TinOraiotita.name
+alt1.meMA.Kathisma31.melody = he.a.m3_en_US_oca.TinOraiotita.incipit
 alt1.meMA.Kathisma31.text = ""
 
 alt1.meMA.Kathisma3T.mode = misc_en_US_oca.Mode3
-alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_oca.TinOraiotita.name
+alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_oca.TinOraiotita.incipit
 alt1.meMA.Kathisma3T.text = ""
 
 alt1.meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
@@ -112,7 +112,7 @@ alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1Poet = poets_en_US_oca.Theofanous
+meMA.C1.poet = poets_en_US_oca.Theofanous
 
 meMA.C1.title = titles_en_US_oca.KanonTouApostolou
 meMA.C1.verse = prayers_en_US_oca.verse_Apostle.text
