@@ -1,6 +1,8 @@
 A_Resource_Whose_Name = me.m12.d05_en_US_oca
 
-meDate.text = "December 5" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16 ⁄ meCommemoration.text = "Our Venerable God-bearing Father Sabbas the Sanctified" // full title of day ⁄ meShortCommemoration1.text = ""
+meDate.text = "December 5" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "Our Venerable God-bearing Father Sabbas the Sanctified"
+meShortCommemoration1.text = ""
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
