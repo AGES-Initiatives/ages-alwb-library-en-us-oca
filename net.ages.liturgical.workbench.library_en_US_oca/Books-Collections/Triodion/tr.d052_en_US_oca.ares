@@ -14,46 +14,57 @@ trHO.note2 = ""
 
 trVE.Stichera01.mode = misc_en_US_oca.Mode3
 trVE.Stichera01.melody = he.a.m3_en_US_oca.StavrofanosMoysis.notmetered
+trVE.Stichera01.incipit = "You have given us this"
 trVE.Stichera01.text = "You have given us this time of the Fast, Word of God, ⁄ so that we might turn and live; ⁄ so that no one would perish. ⁄ Enable us all to serve you in fervent compunction, ⁄ and to perform your will with myrrh and fervent tears, ⁄ as the wise and holy harlot, O Christ, ⁄⁄ received remission of her transgressions."
 
 trVE.Stichera02.mode = misc_en_US_oca.Mode3
 trVE.Stichera02.melody = he.a.m3_en_US_oca.StavrofanosMoysis.notmetered
+trVE.Stichera02.incipit = "Like the blind man, I"
 trVE.Stichera02.text = "Like the blind man, I cry from my heart: ⁄ Enlighten the eyes of my heart, Son of God! ⁄ Like the faithful Canaanite woman, I cry to you: ⁄ Have mercy on me, bountiful One; ⁄ my soul is possessed by pleasure's demons. ⁄ When you have delivered it from the darkness of passions, ⁄ enable me to spend the rest of my life in purity, ⁄⁄ that I may glorify your great love."
 
 trVE.Stichera03.mode = misc_en_US_oca.Mode2
 trVE.Stichera03.melody = ""
+trVE.Stichera03.incipit = "The divinely-radiant grace of abstinence"
 trVE.Stichera03.text = "The divinely-radiant grace of abstinence ⁄ shines on us today more than the sun, ⁄ enlightening our souls, dispelling the clouds of sinful passions. ⁄ Let us all hasten to embrace it with joy, ⁄ and with good courage persevere in the course of the Fast! ⁄ Let us cry out with gladness to Christ: ⁄⁄ Gracious one, sanctify those who faithfully fulfill the Fast!"
 
 trVE.AposIdiomelon1.mode = misc_en_US_oca.Mode7
 trVE.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
+trVE.AposIdiomelon1.incipit = "As the man who fell"
 trVE.AposIdiomelon1.text = "As the man who fell among thieves and was wounded by them, ⁄ so I have fallen in my sins, wounded in soul. ⁄ To whom can I turn and run for healing, ⁄ but to you, Physician of souls and bodies. ⁄⁄ Pour out your great mercy on me, O God!"
 
 trVE.AposIdiomelon2.mode = misc_en_US_oca.Mode4
 trVE.AposIdiomelon2.melody = misc_en_US_oca.Idiomelon
+trVE.AposIdiomelon2.incipit = "We have deprived ourselves of"
 trVE.AposIdiomelon2.text = "We have deprived ourselves of the former joys of paradise; ⁄ we have driven ourselves to a life of dishonor by sin. ⁄ We have forsaken the former life of virtue ⁄ and instead we have fallen among thieves, ⁄ deadened by transgressing your saving teachings! ⁄ But, Master born of Mary, ⁄ with dispassion you shared in our passions: ⁄ We entreat you, bind up our sinful sores; ⁄ pour out your mercy on us with your healing care, ⁄⁄ as the Lover of mankind!"
 
 trVE.AposMartyric.mode = misc_en_US_oca.Mode4
 trVE.AposMartyric.melody = ""
+trVE.AposMartyric.incipit = oc.m4.d3_en_US_oca.ocVE.Aposticha3.incipit
 trVE.AposMartyric.text = oc.m4.d3_en_US_oca.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = misc_en_US_oca.Mode4
 trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.incipit = oc.m4.d2_en_US_oca.ocMA.AposTheotokion.incipit
 trVE.AposTheotokion.text = oc.m4.d2_en_US_oca.ocMA.AposTheotokion.text
 
 trMA.Kathisma21.mode = misc_en_US_oca.Mode3
 trMA.Kathisma21.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
+trMA.Kathisma21.incipit = ""
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma22.mode = misc_en_US_oca.Mode3
 trMA.Kathisma22.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
+trMA.Kathisma22.incipit = ""
 trMA.Kathisma22.text = ""
 
 trMA.Kathisma31.mode = misc_en_US_oca.Mode2
 trMA.Kathisma31.melody = ""
+trMA.Kathisma31.incipit = ""
 trMA.Kathisma31.text = ""
 
 trMA.Kathisma32.mode = misc_en_US_oca.Mode2
 trMA.Kathisma32.melody = ""
+trMA.Kathisma32.incipit = ""
 trMA.Kathisma32.text = ""
 
 trMA.C1.poet = poets_en_US_oca.Iosif
@@ -63,171 +74,207 @@ trMA.C2.poet = poets_en_US_oca.Theodorou
 trMA.Ode2C1H.ode = misc_en_US_oca.Ode2
 trMA.Ode2C1H.mode = misc_en_US_oca.Mode3
 trMA.Ode2C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode2C1H.incipit = he.h.m3_en_US_oca.ProsecheGiKaiOurane.incipit
 trMA.Ode2C1H.text = he.h.m3_en_US_oca.ProsecheGiKaiOurane.text
 
 trMA.Ode2C11.ode = misc_en_US_oca.Ode2
 trMA.Ode2C11.mode = misc_en_US_oca.Mode3
 trMA.Ode2C11.melody = he.h.m3_en_US_oca.ProsecheGiKaiOurane.notmetered
+trMA.Ode2C11.incipit = ""
 trMA.Ode2C11.text = ""
 
 trMA.Ode2C12.ode = misc_en_US_oca.Ode2
 trMA.Ode2C12.mode = misc_en_US_oca.Mode3
 trMA.Ode2C12.melody = he.h.m3_en_US_oca.ProsecheGiKaiOurane.notmetered
+trMA.Ode2C12.incipit = ""
 trMA.Ode2C12.text = ""
 
 trMA.Ode2C13.ode = misc_en_US_oca.Ode2
 trMA.Ode2C13.mode = misc_en_US_oca.Mode3
 trMA.Ode2C13.melody = he.h.m3_en_US_oca.ProsecheGiKaiOurane.notmetered
+trMA.Ode2C13.incipit = ""
 trMA.Ode2C13.text = ""
 
 trMA.Ode2C1T.ode = misc_en_US_oca.Ode2
 trMA.Ode2C1T.mode = misc_en_US_oca.Mode3
 trMA.Ode2C1T.melody = he.h.m3_en_US_oca.ProsecheGiKaiOurane.notmetered
+trMA.Ode2C1T.incipit = ""
 trMA.Ode2C1T.text = ""
 
 trMA.Ode2C21.ode = misc_en_US_oca.Ode2
 trMA.Ode2C21.mode = misc_en_US_oca.Mode2
 trMA.Ode2C21.melody = he.h.m2_en_US_oca.ProsecheteLaoi.notmetered
+trMA.Ode2C21.incipit = ""
 trMA.Ode2C21.text = ""
 
 trMA.Ode2C22.ode = misc_en_US_oca.Ode2
 trMA.Ode2C22.mode = misc_en_US_oca.Mode2
 trMA.Ode2C22.melody = he.h.m2_en_US_oca.ProsecheteLaoi.notmetered
+trMA.Ode2C22.incipit = ""
 trMA.Ode2C22.text = ""
 
 trMA.Ode2C2Tr.ode = misc_en_US_oca.Ode2
 trMA.Ode2C2Tr.mode = misc_en_US_oca.Mode2
 trMA.Ode2C2Tr.melody = he.h.m2_en_US_oca.ProsecheteLaoi.notmetered
+trMA.Ode2C2Tr.incipit = ""
 trMA.Ode2C2Tr.text = ""
 
 trMA.Ode2C2T.ode = misc_en_US_oca.Ode2
 trMA.Ode2C2T.mode = misc_en_US_oca.Mode2
 trMA.Ode2C2T.melody = he.h.m2_en_US_oca.ProsecheteLaoi.notmetered
+trMA.Ode2C2T.incipit = ""
 trMA.Ode2C2T.text = ""
 
 trMA.Ode2C2A1.ode = misc_en_US_oca.Ode2
 trMA.Ode2C2A1.mode = misc_en_US_oca.Mode2
 trMA.Ode2C2A1.melody = he.h.m2_en_US_oca.ProsecheteLaoi.notmetered
+trMA.Ode2C2A1.incipit = ""
 trMA.Ode2C2A1.text = ""
 
 trMA.Ode2C2H.ode = misc_en_US_oca.Ode2
 trMA.Ode2C2H.mode = misc_en_US_oca.Mode2
 trMA.Ode2C2H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode2C2H.incipit = he.h.m2_en_US_oca.ProsecheteLaoi.incipit
 trMA.Ode2C2H.text = he.h.m2_en_US_oca.ProsecheteLaoi.text
 
 trMA.Ode8C11.ode = misc_en_US_oca.Ode8
 trMA.Ode8C11.mode = misc_en_US_oca.Mode3
 trMA.Ode8C11.melody = he.h.m3_en_US_oca.TonYpAngelon.notmetered
+trMA.Ode8C11.incipit = ""
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = misc_en_US_oca.Ode8
 trMA.Ode8C12.mode = misc_en_US_oca.Mode3
 trMA.Ode8C12.melody = he.h.m3_en_US_oca.TonYpAngelon.notmetered
+trMA.Ode8C12.incipit = ""
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = misc_en_US_oca.Ode8
 trMA.Ode8C13.mode = misc_en_US_oca.Mode3
 trMA.Ode8C13.melody = he.h.m3_en_US_oca.TonYpAngelon.notmetered
+trMA.Ode8C13.incipit = ""
 trMA.Ode8C13.text = ""
 
 trMA.Ode8C1T.ode = misc_en_US_oca.Ode8
 trMA.Ode8C1T.mode = misc_en_US_oca.Mode3
 trMA.Ode8C1T.melody = he.h.m3_en_US_oca.TonYpAngelon.notmetered
+trMA.Ode8C1T.incipit = ""
 trMA.Ode8C1T.text = ""
 
 trMA.Ode8C21.ode = misc_en_US_oca.Ode8
 trMA.Ode8C21.mode = misc_en_US_oca.Mode2
 trMA.Ode8C21.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.notmetered
+trMA.Ode8C21.incipit = ""
 trMA.Ode8C21.text = ""
 
 trMA.Ode8C22.ode = misc_en_US_oca.Ode8
 trMA.Ode8C22.mode = misc_en_US_oca.Mode2
 trMA.Ode8C22.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.notmetered
+trMA.Ode8C22.incipit = ""
 trMA.Ode8C22.text = ""
 
 trMA.Ode8C2Tr.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2Tr.mode = misc_en_US_oca.Mode2
 trMA.Ode8C2Tr.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.notmetered
+trMA.Ode8C2Tr.incipit = ""
 trMA.Ode8C2Tr.text = ""
 
 trMA.Ode8C2T.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2T.mode = misc_en_US_oca.Mode2
 trMA.Ode8C2T.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.notmetered
+trMA.Ode8C2T.incipit = ""
 trMA.Ode8C2T.text = ""
 
 trMA.Ode8C2A1.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2A1.mode = misc_en_US_oca.Mode2
 trMA.Ode8C2A1.melody = he.h.m2_en_US_oca.TonPalaiDrosisanta.notmetered
+trMA.Ode8C2A1.incipit = ""
 trMA.Ode8C2A1.text = ""
 
 trMA.Ode8C2H.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2H.mode = misc_en_US_oca.Mode2
 trMA.Ode8C2H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode8C2H.incipit = he.h.m2_en_US_oca.TonPalaiDrosisanta.incipit
 trMA.Ode8C2H.text = he.h.m2_en_US_oca.TonPalaiDrosisanta.text
 
 trMA.Ode9C11.ode = misc_en_US_oca.Ode9
 trMA.Ode9C11.mode = misc_en_US_oca.Mode3
 trMA.Ode9C11.melody = he.h.m3_en_US_oca.SeTinAkataflekton.notmetered
+trMA.Ode9C11.incipit = ""
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = misc_en_US_oca.Ode9
 trMA.Ode9C12.mode = misc_en_US_oca.Mode3
 trMA.Ode9C12.melody = he.h.m3_en_US_oca.SeTinAkataflekton.notmetered
+trMA.Ode9C12.incipit = ""
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = misc_en_US_oca.Ode9
 trMA.Ode9C13.mode = misc_en_US_oca.Mode3
 trMA.Ode9C13.melody = he.h.m3_en_US_oca.SeTinAkataflekton.notmetered
+trMA.Ode9C13.incipit = ""
 trMA.Ode9C13.text = ""
 
 trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
 trMA.Ode9C1T.mode = misc_en_US_oca.Mode3
 trMA.Ode9C1T.melody = he.h.m3_en_US_oca.SeTinAkataflekton.notmetered
+trMA.Ode9C1T.incipit = ""
 trMA.Ode9C1T.text = ""
 
 trMA.Ode9C21.ode = misc_en_US_oca.Ode9
 trMA.Ode9C21.mode = misc_en_US_oca.Mode2
 trMA.Ode9C21.melody = he.h.m2_en_US_oca.TinYperfyosSarki.notmetered
+trMA.Ode9C21.incipit = ""
 trMA.Ode9C21.text = ""
 
 trMA.Ode9C22.ode = misc_en_US_oca.Ode9
 trMA.Ode9C22.mode = misc_en_US_oca.Mode2
 trMA.Ode9C22.melody = he.h.m2_en_US_oca.TinYperfyosSarki.notmetered
+trMA.Ode9C22.incipit = ""
 trMA.Ode9C22.text = ""
 
 trMA.Ode9C2Tr.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2Tr.mode = misc_en_US_oca.Mode2
 trMA.Ode9C2Tr.melody = he.h.m2_en_US_oca.TinYperfyosSarki.notmetered
+trMA.Ode9C2Tr.incipit = ""
 trMA.Ode9C2Tr.text = ""
 
 trMA.Ode9C2T.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2T.mode = misc_en_US_oca.Mode2
 trMA.Ode9C2T.melody = he.h.m2_en_US_oca.TinYperfyosSarki.notmetered
+trMA.Ode9C2T.incipit = ""
 trMA.Ode9C2T.text = ""
 
 trMA.Ode9C2A1.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2A1.mode = misc_en_US_oca.Mode2
 trMA.Ode9C2A1.melody = he.h.m2_en_US_oca.TinYperfyosSarki.notmetered
+trMA.Ode9C2A1.incipit = ""
 trMA.Ode9C2A1.text = ""
 
 trMA.Ode9C2H.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2H.mode = misc_en_US_oca.Mode2
 trMA.Ode9C2H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode9C2H.incipit = he.h.m2_en_US_oca.TinYperfyosSarki.incipit
 trMA.Ode9C2H.text = he.h.m2_en_US_oca.TinYperfyosSarki.text
 
 trMA.AposIdiomelon1.mode = misc_en_US_oca.Mode7
 trMA.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
+trMA.AposIdiomelon1.incipit = ""
 trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = misc_en_US_oca.Mode7
 trMA.AposMartyric.melody = ""
+trMA.AposMartyric.incipit = ""
 trMA.AposMartyric.text = ""
 
 trMA.AposTheotokion.mode = misc_en_US_oca.Mode7
 trMA.AposTheotokion.melody = ""
+trMA.AposTheotokion.incipit = ""
 trMA.AposTheotokion.text = ""
 
 trTE.Troparion.mode = misc_en_US_oca.Mode3
 trTE.Troparion.melody = ""
+trTE.Troparion.incipit = ""
 trTE.Troparion.text = ""
+trTE.Troparion2.incipit = ""
 trTE.Troparion2.text = ""

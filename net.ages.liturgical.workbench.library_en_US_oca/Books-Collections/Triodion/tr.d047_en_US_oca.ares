@@ -15,29 +15,36 @@ trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 
 trVE.AposIdiomelon1.mode = misc_en_US_oca.Mode4
 trVE.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
+trVE.AposIdiomelon1.incipit = "The fast, the means of"
 trVE.AposIdiomelon1.text = "The fast, the means of receiving blessings, has now led us half-way through its course, pleasing God with the days that are past and proposing purposeful tasks for the days ahead, for the increase of blessings produces a greater number of good deeds! Therefore let us cry to Christ, the giver of all blessings: You fasted and endured the Cross for our sake: enable us to partake uncondemned of your divine Pascha, to lead our lives in peace, worthily glorifying you with the Father and the Spirit."
 
 trVE.AposIdiomelon2.mode = misc_en_US_oca.Mode5
 trVE.AposIdiomelon2.melody = misc_en_US_oca.Idiomelon
+trVE.AposIdiomelon2.incipit = "Those who thirst for spiritual"
 trVE.AposIdiomelon2.text = "Those who thirst for spiritual blessings perform their good deeds in secret, not noising them abroad in markets, but cherishing and keeping them in their hearts. For he who sees all that is done in secret will reward us for our abstinence. Let us fulfill the fast without sad faces, but ceaselessly praying in the depths of our hearts: Our Father, in heaven, lead us not into temptation, but deliver us from evil!"
 
 trVE.AposMartyric.mode = misc_en_US_oca.Mode5
 trVE.AposMartyric.melody = ""
+trVE.AposMartyric.incipit = oc.m5.d5_en_US_oca.ocVE.Aposticha3.incipit
 trVE.AposMartyric.text = oc.m5.d5_en_US_oca.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = misc_en_US_oca.Mode1
 trVE.Stichera01.melody = misc_en_US_oca.NotMetered
+trVE.Stichera01.incipit = "Let us cleanse our souls"
 trVE.Stichera01.text = "Let us cleanse our souls with the water of the fast. Let us draw near to the precious and pure Cross of the Lord, venerating it in faith and drawing divine enlightenment; even now obtaining eternal salvation, peace and great mercy."
 
 trVE.Stichera02.mode = misc_en_US_oca.Mode1
 trVE.Stichera02.melody = misc_en_US_oca.NotMetered
+trVE.Stichera02.incipit = "Cross, boast of Apostles, surrounded"
 trVE.Stichera02.text = "Cross, boast of Apostles, surrounded by Principalities, Powers and Archangels! Save those who bow before you from all harm, and enable us to fulfill well the divine course of abstinence; to attain to the saving day, by which we are saved!"
 
 trVE.Stichera03.mode = misc_en_US_oca.Mode7
 trVE.Stichera03.melody = misc_en_US_oca.NotMetered
+trVE.Stichera03.incipit = "Today, as we bow before"
 trVE.Stichera03.text = "Today, as we bow before the Cross of the Lord, let us cry: rejoice, tree of life, the tormentor of hell! Rejoice, joy of the world, the destroyer of corruption! Rejoice, power which drives out demons! Rejoice, confirmation of the faithful, invincible weapon! Preserve and sanctify those who kiss you."
 
 trVE.SticGlory.mode = misc_en_US_oca.Mode8
 trVE.SticGlory.melody = misc_en_US_oca.Idiomelon
+trVE.SticGlory.incipit = "Today the unapproachable by nature"
 trVE.SticGlory.text = "Today the unapproachable by nature approaches me, and frees me from passions by enduring the Passion. The light of the blind is spat upon by sinful men, and gives his back to scourgings for the sake of the captives. When the pure virgin Mother beheld him on the Cross, she cried out in pain: Woe to me! What is this you have done, my child! Your beauty was fairer than that of any man, yet you appear lifeless, with no form or comeliness. Woe to me, my light. I cannot bear to look upon you sleeping. My being is wounded, for a sword has pierced my heart! But I praise your Passion; I bow before your compassion! Long-suffering Lord, glory to you!"
 

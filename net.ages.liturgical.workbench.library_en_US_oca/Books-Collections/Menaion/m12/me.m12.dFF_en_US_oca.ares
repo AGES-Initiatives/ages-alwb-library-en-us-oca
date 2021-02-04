@@ -18,36 +18,44 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_oca.OEnEdemParadeisos.notmetered
+meVE.Stichera01.incipit = "Today as we celebrate the"
 meVE.Stichera01.text = "Today as we celebrate the forefathers' memory, ⁄ let us the faithful praise Christ the Redeemer, ⁄ Who magnified them in all the nations. ⁄ He is the Lord Who does wondrous deeds, ⁄ for He is powerful and mighty! ⁄ Through them He has shown us the rod of His strength: ⁄ she is Mary, the only pure and Virgin maiden of God! ⁄ From her Christ blossomed, ⁄⁄ bringing forth life, eternal salvation and unending bliss for all."
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_oca.OEnEdemParadeisos.notmetered
+meVE.Stichera02.incipit = "Master, You delivered the holy"
 meVE.Stichera02.text = "Master, You delivered the holy Youths from the fire, ⁄ and Daniel from the mouths of lions; ⁄ You blessed Abraham, Isaac your servant, and Jacob his Son: ⁄ you consented to become like us by being born of their seed, ⁄ to be crucified and buried, ⁄ in order to save our forefathers who fell of old. ⁄ Thus You crushed the bonds of death, ⁄ and raise with yourself all the dead of ages past, ⁄⁄ who worship You, Christ, King of the ages!"
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_oca.OEnEdemParadeisos.notmetered
+meVE.Stichera03.incipit = "Walking amidst the flames as"
 meVE.Stichera03.text = "Walking amidst the flames as in a gentle shower of rain, ⁄ the Godly Youths exulted in the dew of the Spirit. ⁄ By this they mystically prefigured the Trinity and Christ's incarnation. ⁄ Wise through faith, they quenched the power of fire. ⁄ So also the righteous Daniel stopped the mouths of lions. ⁄ through their intercessions we beseech you, ⁄ Savior, the Lover of mankind: ⁄ Deliver us from the unquenchable and eternal fire ⁄⁄ and make us worthy of Your heavenly Kingdom!"
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode8
 meVE.Stichera04.melody = he.a.m8_en_US_oca.OEnEdemParadeisos.notmetered
+meVE.Stichera04.incipit = "Standing in a furnace of"
 meVE.Stichera04.text = "Standing in a furnace of flaming fire as though in dew, ⁄ the holy Youths mystically prefigured Your coming from a Virgin, ⁄ by which we are illumined but not consumed! ⁄ So also the righteous Daniel, ⁄ glorious among the prophets, ⁄ clearly revealed Your divine second coming when he cried out: ⁄ I saw thrones set up and the Judge was seated, ⁄ and the river of fire flowed before Him! ⁄⁄ By their intercessions save us from this fire, Christ our Master!"
 
 meVE.SticGlory.poet = poets_en_US_oca.Anatoliou
 meVE.SticGlory.mode = misc_en_US_oca.Mode6
 meVE.SticGlory.melody = ""
+meVE.SticGlory.incipit = "Today, let us the faithful"
 meVE.SticGlory.text = "Today, let us the faithful acclaim ⁄ all the fathers before the law: ⁄ Abraham the friend of God, ⁄ Isaac born of the promise, ⁄ Jacob and the twelve Patriarchs, ⁄ honoring with these the gentle David, ⁄ and Daniel the prophet of desires ⁄ and the three Youths who changed the furnace into dew, ⁄ asking forgiveness of Christ our God, ⁄⁄ Who is glorified in His saints!"
 
 meVE.AposGlory.poet = poets_en_US_oca.Germanou
 meVE.AposGlory.mode = misc_en_US_oca.Mode3
 meVE.AposGlory.melody = ""
+meVE.AposGlory.incipit = "Come all who love the"
 meVE.AposGlory.text = "Come all who love the feast, ⁄ let us praise in psalms the assembly of the forefathers: ⁄ Adam, our first Father, ⁄ Enoch, Noah, Melchizedek ⁄ Abraham, Isaac and Jacob; ⁄ and those who came after the law: ⁄ Moses, Aaron, Joshua, ⁄ Samuel and David, ⁄ Isaiah, Jeremiah, Ezekiel and Daniel, ⁄ and with them the twelve prophets, ⁄ Elijah, Elisha, and all the rest, ⁄ Zachariah and John the Baptist: ⁄ all those who proclaimed Christ, ⁄⁄ the Life and Resurrection of the human race!"
 
 meVE.AposTheotokion.mode = misc_en_US_oca.Mode3
 meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.incipit = oc.m3.d1_en_US_oca.ocVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = oc.m3.d1_en_US_oca.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode2
 meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.incipit = "Through faith You justified the"
 meVE.Apolytikion1.text = "Through faith You justified the forefathers, ⁄ betrothing through them the Church of the gentiles. ⁄ These saints exult in glory, ⁄ for from their seed came forth a noble fruit: ⁄ She who bore You without seed. By their entreaties, O Christ God, save our souls!"
 
 meMA.C1.acrostic = ""
@@ -60,21 +68,25 @@ meMA.C1.verse = ""
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
+meMA.Ode1C11.incipit = "Let us glorify the Word"
 meMA.Ode1C11.text = "Let us glorify the Word Who is without beginning, ⁄ Who as God was begotten of the Father before the ages, ⁄⁄ and was seen in a figure by the youths in the furnace."
 
 meMA.Ode1C12.ode = misc_en_US_oca.Ode1
 meMA.Ode1C12.mode = misc_en_US_oca.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
+meMA.Ode1C12.incipit = "The noble Youths steadfastly scorned"
 meMA.Ode1C12.text = "The noble Youths steadfastly scorned the words of the ungodly tyrant, ⁄ and would not be defiled ⁄⁄ by eating unlawful food in the Chaldean manner."
 
 meMA.Ode1C13.ode = misc_en_US_oca.Ode1
 meMA.Ode1C13.mode = misc_en_US_oca.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
+meMA.Ode1C13.incipit = "Your souls were nourished on"
 meMA.Ode1C13.text = "Your souls were nourished on the Word, ⁄ and your bodies lived on simple foods. ⁄⁄ To the King you appeared to be stronger than those who lived in luxury!"
 
 meMA.Ode1C1T.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
+meMA.Ode1C1T.incipit = "By bearing the Redeemer, ⁄"
 meMA.Ode1C1T.text = "By bearing the Redeemer, ⁄ the Maiden who came forth from David ⁄ cures us of the serpent's poison ⁄⁄ which bitterly entered in through Eve's disobedience."
 
 meMA.C2.title = ""
@@ -83,193 +95,232 @@ meMA.C2.verse = ""
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode1
 meMA.Ode1C21.melody = he.h.m1_en_US_oca.ChristosGennatai.notmetered
+meMA.Ode1C21.incipit = "Let us offer praise to"
 meMA.Ode1C21.text = "Let us offer praise to the Fathers, ⁄ who shone forth both before and during the Law. ⁄ With righteous minds they served the Lord and Master ⁄ Who shone forth from the Virgin. ⁄⁄ Now they delight in the unending light!"
 
 meMA.Ode1C22.ode = misc_en_US_oca.Ode1
 meMA.Ode1C22.mode = misc_en_US_oca.Mode1
 meMA.Ode1C22.melody = he.h.m1_en_US_oca.ChristosGennatai.notmetered
+meMA.Ode1C22.incipit = "Let us honor Adam, the"
 meMA.Ode1C22.text = "Let us honor Adam, the first-formed man and fore-Father of us all, ⁄ who was honored by the hand of the Creator. ⁄ He rests in the heavenly mansions ⁄⁄ with all the chosen."
 
 meMA.Ode1C23.ode = misc_en_US_oca.Ode1
 meMA.Ode1C23.mode = misc_en_US_oca.Mode1
 meMA.Ode1C23.melody = he.h.m1_en_US_oca.ChristosGennatai.notmetered
+meMA.Ode1C23.incipit = "You accepted Abel as he"
 meMA.Ode1C23.text = "You accepted Abel as he brought forward a gift ⁄ with a most noble soul, O God and Lord of all. ⁄ And when in days of old he was murdered by a blood-guilty hand, ⁄⁄ You brought him before the Light as a divine martyr."
 
 meMA.Ode1C2T.ode = misc_en_US_oca.Ode1
 meMA.Ode1C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode1C2T.melody = he.h.m1_en_US_oca.ChristosGennatai.notmetered
+meMA.Ode1C2T.incipit = "Let us hear the divine"
 meMA.Ode1C2T.text = "Let us hear the divine words of those who cry aloud ⁄ telling of the appearance of Christ: ⁄ For behold, He is born in a cave of an unwedded Maiden, ⁄ and His awesome birth is foretold to the wisemen ⁄⁄ by the suddenly-appearing star."
 
 meMA.Ode3C11.ode = misc_en_US_oca.Ode3
 meMA.Ode3C11.mode = misc_en_US_oca.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_US_oca.SyEiToStereoma.notmetered
+meMA.Ode3C11.incipit = "The sons of David gained"
 meMA.Ode3C11.text = "The sons of David gained for themselves ⁄ divinely-instructed understanding, Master, ⁄⁄ and they kept the laws of the Fathers with a Godly mind."
 
 meMA.Ode3C12.ode = misc_en_US_oca.Ode3
 meMA.Ode3C12.mode = misc_en_US_oca.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_US_oca.SyEiToStereoma.notmetered
+meMA.Ode3C12.incipit = "Fire did not consume the"
 meMA.Ode3C12.text = "Fire did not consume the most pure bodies of the pious ones, ⁄ for they were watered by the life-sustaining fast."
 
 meMA.Ode3C13.ode = misc_en_US_oca.Ode3
 meMA.Ode3C13.mode = misc_en_US_oca.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_oca.SyEiToStereoma.notmetered
+meMA.Ode3C13.incipit = "In the furnace the three"
 meMA.Ode3C13.text = "In the furnace the three Youths ⁄ sing their well-known praise with all the world, ⁄⁄ and are wonderfully sprinkled with dew."
 
 meMA.Ode3C1T.ode = misc_en_US_oca.Ode3
 meMA.Ode3C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_US_oca.SyEiToStereoma.notmetered
+meMA.Ode3C1T.incipit = "Master, You showed us the"
 meMA.Ode3C1T.text = "Master, You showed us the salvation of the virginal bodies in the furnace ⁄ as a prefiguring of the birth from a Virgin's body."
 
 meMA.Ode3C21.ode = misc_en_US_oca.Ode3
 meMA.Ode3C21.mode = misc_en_US_oca.Mode1
 meMA.Ode3C21.melody = he.h.m1_en_US_oca.ToProTonAionon.notmetered
+meMA.Ode3C21.incipit = "Seth's fervor for the Creator"
 meMA.Ode3C21.text = "Seth's fervor for the Creator is sung throughout the world, ⁄ for he served Him truly with a blameless life and disposition of soul. ⁄ Now in the land of the living, he cries aloud: ⁄⁄ Holy are You, O Lord!"
 
 meMA.Ode3C22.ode = misc_en_US_oca.Ode3
 meMA.Ode3C22.mode = misc_en_US_oca.Mode1
 meMA.Ode3C22.melody = he.h.m1_en_US_oca.ToProTonAionon.notmetered
+meMA.Ode3C22.incipit = "With his whole mouth and"
 meMA.Ode3C22.text = "With his whole mouth and tongue, and heart, ⁄ the wonderful Enoch hoped that in the Spirit and with a Godly mind ⁄ he might call upon God the Master of all. ⁄ He lived on earth in a well-pleasing manner, ⁄⁄ and has been given glory."
 
 meMA.Ode3C23.ode = misc_en_US_oca.Ode3
 meMA.Ode3C23.mode = misc_en_US_oca.Mode1
 meMA.Ode3C23.melody = he.h.m1_en_US_oca.ToProTonAionon.notmetered
+meMA.Ode3C23.incipit = "Let us again bless Enoch"
 meMA.Ode3C23.text = "Let us again bless Enoch with holy words of praise, ⁄ for since he was well-pleasing to the Lord, ⁄ he was translated in glory: ⁄ As it is written, he was seen to be too great for death, ⁄⁄ since he was manifested as a most true servant of God."
 
 meMA.Ode3C2T.ode = misc_en_US_oca.Ode3
 meMA.Ode3C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode3C2T.melody = he.h.m1_en_US_oca.ToProTonAionon.notmetered
+meMA.Ode3C2T.incipit = "Now the expectation of the"
 meMA.Ode3C2T.text = "Now the expectation of the nations comes forth from a Virgin, ⁄ and in a mystery, ⁄ Bethlehem fittingly opens Eden which had been closed, ⁄ for it receives the Word Who has taken a body, ⁄⁄ and has lain in a manger in the flesh!"
 
 meMA.Hypakoe.mode = misc_en_US_oca.Mode2
 meMA.Hypakoe.melody = ""
+meMA.Hypakoe.incipit = "The flame was changed to"
 meMA.Hypakoe.text = "The flame was changed to dew for the youths, ⁄ and grief was chanced to joy for the women: ⁄ An angel was minister to both the wonders, ⁄ changing the furnace into a place of rest for the youths, ⁄ and revealing the resurrection on the third day to the women! ⁄⁄ Lord, the author of our life, glory to You!"
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
+meMA.Ode3Kathisma1.incipit = ""
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_oca.Ode4
 meMA.Ode4C11.mode = misc_en_US_oca.Mode8
 meMA.Ode4C11.melody = he.h.m8_en_US_oca.EisakikoaKyrie.notmetered
+meMA.Ode4C11.incipit = "Since the most wise Daniel"
 meMA.Ode4C11.text = "Since the most wise Daniel was inspired and enlightened in mind, ⁄⁄ he solved the dreams of the rulers by divine grace."
 
 meMA.Ode4C12.ode = misc_en_US_oca.Ode4
 meMA.Ode4C12.mode = misc_en_US_oca.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_US_oca.EisakikoaKyrie.notmetered
+meMA.Ode4C12.incipit = "The contest of the Youths"
 meMA.Ode4C12.text = "The contest of the Youths in the furnace flashes forth with wonders, ⁄⁄ for it captured and restored the tyrant to knowledge of You, Almighty One!"
 
 meMA.Ode4C13.ode = misc_en_US_oca.Ode4
 meMA.Ode4C13.mode = misc_en_US_oca.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_US_oca.EisakikoaKyrie.notmetered
+meMA.Ode4C13.incipit = "The instruments in concert and"
 meMA.Ode4C13.text = "The instruments in concert and harmonious strains of music ⁄ did not beguile the noble ones. ⁄⁄ They did not bow down to the golden image."
 
 meMA.Ode4C1T.ode = misc_en_US_oca.Ode4
 meMA.Ode4C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_US_oca.EisakikoaKyrie.notmetered
+meMA.Ode4C1T.incipit = "The Youths in Babylon honored"
 meMA.Ode4C1T.text = "The Youths in Babylon honored your wholly divine Son by singing hymns ⁄⁄ as they beheld Him in the furnace."
 
 meMA.Ode4C21.ode = misc_en_US_oca.Ode4
 meMA.Ode4C21.mode = misc_en_US_oca.Mode1
 meMA.Ode4C21.melody = he.h.m1_en_US_oca.RavdosEkTisRizis.notmetered
+meMA.Ode4C21.incipit = "Let us offer praise to"
 meMA.Ode4C21.text = "Let us offer praise to God ⁄ as we venerate the truly righteous Noah. ⁄ He was made beautiful in all the divine commands, ⁄ and seen to be well-pleasing to Christ. ⁄ Let us sing to Him with faith: ⁄⁄ Glory to Your power, O Lord!"
 
 meMA.Ode4C22.ode = misc_en_US_oca.Ode4
 meMA.Ode4C22.mode = misc_en_US_oca.Mode1
 meMA.Ode4C22.melody = he.h.m1_en_US_oca.RavdosEkTisRizis.notmetered
+meMA.Ode4C22.incipit = "Noah, as He saw your"
 meMA.Ode4C22.text = "Noah, as He saw your nobility, ⁄ the purity of your character and perfection in all things, ⁄ God manifested you openly as the founder of the second world. ⁄ You preserved for it the seed of every kind, as He Himself decreed, ⁄⁄ from the overwhelming flood."
 
 meMA.Ode4C23.ode = misc_en_US_oca.Ode4
 meMA.Ode4C23.mode = misc_en_US_oca.Mode1
 meMA.Ode4C23.melody = he.h.m1_en_US_oca.RavdosEkTisRizis.notmetered
+meMA.Ode4C23.incipit = "Let us bless Noah with"
 meMA.Ode4C23.text = "Let us bless Noah with reverence and songs of praise, ⁄ for he kept inviolate the law of God. ⁄ He was found a righteous man in his generation in days of old, ⁄ and long ago by the command of Him Who does all things ⁄⁄ he preserved earth's animals in a wooden Ark."
 
 meMA.Ode4C24.ode = misc_en_US_oca.Ode4
 meMA.Ode4C24.mode = misc_en_US_oca.Mode1
 meMA.Ode4C24.melody = he.h.m1_en_US_oca.RavdosEkTisRizis.notmetered
+meMA.Ode4C24.incipit = "Noah, your memory pours forth"
 meMA.Ode4C24.text = "Noah, your memory pours forth the wine of compunction to us who honor you, ⁄ You ever bring joy the hearts and souls ⁄⁄ of those who sincerely bless your holy character and Godly way of life!"
 
 meMA.Ode4C2T.ode = misc_en_US_oca.Ode4
 meMA.Ode4C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode4C2T.melody = he.h.m1_en_US_oca.RavdosEkTisRizis.notmetered
+meMA.Ode4C2T.incipit = "Now our Redemption lies in"
 meMA.Ode4C2T.text = "Now our Redemption lies in a manger ⁄ and is swaddled as an infant; ⁄ and Magi, Kings of the east, ⁄ come to see Him Who as God and King has been born on earth, ⁄⁄ and they faithfully worship Him with their gifts."
 
 meMA.Ode5C11.ode = misc_en_US_oca.Ode5
 meMA.Ode5C11.mode = misc_en_US_oca.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C11.incipit = "The great Daniel and the"
 meMA.Ode5C11.text = "The great Daniel and the three Godly-minded Youths ⁄ served You and were instructed in Your law. ⁄ They did not deny You, Savior, ⁄ but receiving strength from You, the Benefactor, ⁄⁄ they courageously overthrew the tyrants."
 
 meMA.Ode5C12.ode = misc_en_US_oca.Ode5
 meMA.Ode5C12.mode = misc_en_US_oca.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C12.incipit = "Spiritually instructed in Your mysteries,"
 meMA.Ode5C12.text = "Spiritually instructed in Your mysteries, Lover of mankind, ⁄ Daniel beheld You in purity of mind ⁄ coming upon the clouds as the Son of man, ⁄⁄ the Judge and King of all the nations!"
 
 meMA.Ode5C13.ode = misc_en_US_oca.Ode5
 meMA.Ode5C13.mode = misc_en_US_oca.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C13.incipit = "Youths, your bodies were more"
 meMA.Ode5C13.text = "Youths, your bodies were more beautiful than sapphire, ⁄ lit up with the warmth of your piety like gleaming gold ⁄ as you walked about joyfully in the furnace, ⁄⁄ applauded by the choir of the universe."
 
 meMA.Ode5C1T.ode = misc_en_US_oca.Ode5
 meMA.Ode5C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_US_oca.InaTiMeAposo.notmetered
+meMA.Ode5C1T.incipit = "The divine Daniel clearly portrayed"
 meMA.Ode5C1T.text = "The divine Daniel clearly portrayed you in a figure as a mountain, Virgin, ⁄ while the three Youths, as they saw the flame sprinkled with dew ⁄ praised your divine Offspring with hymns and songs ⁄⁄ as the Savior, and Creator and Lord."
 
 meMA.Ode5C21.ode = misc_en_US_oca.Ode5
 meMA.Ode5C21.mode = misc_en_US_oca.Mode1
 meMA.Ode5C21.melody = he.h.m1_en_US_oca.TheosOnEirinis.notmetered
+meMA.Ode5C21.incipit = "Shem, you are honored with"
 meMA.Ode5C21.text = "Shem, you are honored with inspired praises, ⁄ for you reaped the fruits of your Father's blessing. ⁄ You were revealed to be well-pleasing in the presence of God. ⁄ and were chosen for the choirs of the forefathers: ⁄⁄ You rest joyfully in the land of the living!"
 
 meMA.Ode5C22.ode = misc_en_US_oca.Ode5
 meMA.Ode5C22.mode = misc_en_US_oca.Mode1
 meMA.Ode5C22.melody = he.h.m1_en_US_oca.TheosOnEirinis.notmetered
+meMA.Ode5C22.incipit = "Abraham, as a friend of"
 meMA.Ode5C22.text = "Abraham, as a friend of God, ⁄ was made worthy to see the day of his Lord ⁄ and was filled with the joy of the Spirit. ⁄ Let us all honor him with true understanding, ⁄⁄ blessing him as the faithful servant of God."
 
 meMA.Ode5C23.ode = misc_en_US_oca.Ode5
 meMA.Ode5C23.mode = misc_en_US_oca.Mode1
 meMA.Ode5C23.melody = he.h.m1_en_US_oca.TheosOnEirinis.notmetered
+meMA.Ode5C23.incipit = "You beheld the Trinity in"
 meMA.Ode5C23.text = "You beheld the Trinity in a manner fitting for the sight of mankind ⁄ when you received a guest as a most-faithful friend. ⁄ Therefore you gained the reward of the awesome hospitality ⁄ becoming the Father of countless gentiles ⁄⁄ through your faith, O Abraham!"
 
 meMA.Ode5C2T.ode = misc_en_US_oca.Ode5
 meMA.Ode5C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode5C2T.melody = he.h.m1_en_US_oca.TheosOnEirinis.notmetered
+meMA.Ode5C2T.incipit = "He Who is full empties"
 meMA.Ode5C2T.text = "He Who is full empties Himself for our sake through the flesh; ⁄ the unoriginate One accepts a beginning! ⁄ The rich one becomes poor; ⁄ The Word of God lies in a manger of dumb beasts! ⁄⁄ As an infant, He accomplishes the recreation of all from eternity!"
 
 meMA.Ode6C11.ode = misc_en_US_oca.Ode6
 meMA.Ode6C11.mode = misc_en_US_oca.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_US_oca.AvyssosAmartion.notmetered
+meMA.Ode6C11.incipit = "You ruled over the passions"
 meMA.Ode6C11.text = "You ruled over the passions of the soul ⁄ through the might of the Word. ⁄ You became rulers of the land of Chaldean gentiles, ⁄ for virtue knows the reward to be given to those who truly rule, ⁄⁄ wise descendants of David."
 
 meMA.Ode6C12.ode = misc_en_US_oca.Ode6
 meMA.Ode6C12.mode = misc_en_US_oca.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_US_oca.AvyssosAmartion.notmetered
+meMA.Ode6C12.incipit = "In days of old, Daniel"
 meMA.Ode6C12.text = "In days of old, Daniel took up the life-bearing death, ⁄ destroying with food the most wicked serpent ⁄ who was impiously worshipped as God by the Chaldeans. ⁄⁄ He wisely slew the priests of the enemy."
 
 meMA.Ode6C1T.ode = misc_en_US_oca.Ode6
 meMA.Ode6C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_US_oca.AvyssosAmartion.notmetered
+meMA.Ode6C1T.incipit = "Entreat your Son with your"
 meMA.Ode6C1T.text = "Entreat your Son with your prayers, Virgin Theotokos, ⁄ that as the gracious Judge, ⁄ He may become my Deliverer on the day of Judgment, ⁄⁄ For I place my hope in you alone, O Mother."
 
 meMA.Ode6C21.ode = misc_en_US_oca.Ode6
 meMA.Ode6C21.mode = misc_en_US_oca.Mode1
 meMA.Ode6C21.melody = he.h.m1_en_US_oca.SplanchnonIonan.notmetered
+meMA.Ode6C21.incipit = "You clearly became a figure"
 meMA.Ode6C21.text = "You clearly became a figure of Christ's Passion, ⁄ most blessed Isaac, ⁄ as you were raised up to be sacrificed ⁄ through your Father's ready obedience. ⁄ Therefore you are blessed, and revealed as a true friend of God, ⁄⁄ and you dwell with all the righteous."
 
 meMA.Ode6C22.ode = misc_en_US_oca.Ode6
 meMA.Ode6C22.mode = misc_en_US_oca.Mode1
 meMA.Ode6C22.melody = he.h.m1_en_US_oca.SplanchnonIonan.notmetered
+meMA.Ode6C22.incipit = "Jacob was seen to be"
 meMA.Ode6C22.text = "Jacob was seen to be a most faithful servant of the God of all: ⁄ He wrestled with an angel; ⁄ his name was changed as he beheld God with his mind, ⁄ and as he slept, he beheld the divine ladder upon which our God came down ⁄⁄ Who in His goodness was united with the flesh."
 
 meMA.Ode6C23.ode = misc_en_US_oca.Ode6
 meMA.Ode6C23.mode = misc_en_US_oca.Mode1
 meMA.Ode6C23.melody = he.h.m1_en_US_oca.SplanchnonIonan.notmetered
+meMA.Ode6C23.incipit = "Joseph as a lover of"
 meMA.Ode6C23.text = "Joseph as a lover of obedience to his Father, ⁄ was cast into a pit and sold. ⁄ Thus he prefigured Christ Who was sacrificed and went down into the pit. ⁄ He was appointed to feed Egypt with corn, ⁄⁄ for in chastity and righteousness he truly ruled over the passions."
 
 meMA.Ode6C2T.ode = misc_en_US_oca.Ode6
 meMA.Ode6C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode6C2T.melody = he.h.m1_en_US_oca.SplanchnonIonan.notmetered
+meMA.Ode6C2T.incipit = "The Existing One, eternally with"
 meMA.Ode6C2T.text = "The Existing One, eternally with the Father and the Spirit, ⁄ is known as a little child on earth. ⁄ He Who was revealed clothing the earth with clouds ⁄ is wrapped in swaddling clothes and laid in a manger of dumb beasts. ⁄ Now let us rejoice in the prefeast ⁄⁄ as we celebrate His seedless Nativity!"
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode2
 meMA.Kontakion1.melody = misc_en_US_oca.AutomelonNotMetered
+meMA.Kontakion1.incipit = "O thrice-blessed ones, ⁄ you"
 meMA.Kontakion1.text = "O thrice-blessed ones, ⁄ you did not worship the image made by man, ⁄ but armed with the invisible power of god, ⁄ you were glorified in a trial by fire. ⁄ from the midst of unbearable flames you called on god, ⁄ crying: hasten, compassionate one! ⁄ speedily come to our defense, ⁄⁄ for you are merciful and able to accomplish everything that you will."
 
 meMA.Oikos1.text = "Stretch forth Your hand, which both the pursuing Egyptians and the persecuted Hebrews knew in days of old! Do not forsake us, lest death which thirsts for us, and Satan who hates us, swallow us up, but come near to us, and be merciful to us, as once You showed mercy to the children in Babylon, who ever sang hymns to You, and for Your sake were cast into the furnace, from where they cried to You: Hasten, compassionate one! speedily come to our defense, ⁄⁄ for You are merciful and able to accomplish everything that You will!"
@@ -277,166 +328,200 @@ meMA.Oikos1.text = "Stretch forth Your hand, which both the pursuing Egyptians a
 meMA.Ode7C11.ode = misc_en_US_oca.Ode7
 meMA.Ode7C11.mode = misc_en_US_oca.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_US_oca.PaidesTheoseveis.notmetered
+meMA.Ode7C11.incipit = "The song of virtue was"
 meMA.Ode7C11.text = "The song of virtue was chanted to the King of all ⁄ from the midst of the flame, ⁄ for as Azariah stood with the divine choir, ⁄ they raised the hymn, singing: ⁄⁄ Blessed is the God of our fathers!"
 
 meMA.Ode7C12.ode = misc_en_US_oca.Ode7
 meMA.Ode7C12.mode = misc_en_US_oca.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_US_oca.PaidesTheoseveis.notmetered
+meMA.Ode7C12.incipit = "The lyre of the young"
 meMA.Ode7C12.text = "The lyre of the young men played theology ⁄ of the God and King of all, ⁄ for He was clearly seen by them in the furnace, ⁄ and they raised the song, singing: ⁄⁄ Blessed is the God of our fathers!"
 
 meMA.Ode7C13.ode = misc_en_US_oca.Ode7
 meMA.Ode7C13.mode = misc_en_US_oca.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_US_oca.PaidesTheoseveis.notmetered
+meMA.Ode7C13.incipit = "The King looked at the"
 meMA.Ode7C13.text = "The King looked at the three cast into the furnace, ⁄ and he beheld a fourth! ⁄ He called Him the Son of God, and cried to all: ⁄⁄ Blessed is the God of our fathers!"
 
 meMA.Ode7C1T.ode = misc_en_US_oca.Ode7
 meMA.Ode7C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_US_oca.PaidesTheoseveis.notmetered
+meMA.Ode7C1T.incipit = "Your mind illumined by divine"
 meMA.Ode7C1T.text = "Your mind illumined by divine radiance, all-blessed Daniel, ⁄ you foresaw clearly that the Virgin would give birth ⁄ represented in mystical images, and you cried aloud: ⁄⁄ Blessed is the God of our fathers!"
 
 meMA.Ode7C21.ode = misc_en_US_oca.Ode7
 meMA.Ode7C21.mode = misc_en_US_oca.Mode1
 meMA.Ode7C21.melody = he.h.m1_en_US_oca.OiPaidesEfseveia.notmetered
+meMA.Ode7C21.incipit = "Ananiah, Azariah, and Mishael, ⁄"
 meMA.Ode7C21.text = "Ananiah, Azariah, and Mishael, ⁄ you are praised together with Daniel, ⁄ for you quenched the fiery furnace and tamed the ragings of lions, ⁄ singing in harmony to Christ: ⁄⁄ Blessed are You, O God of our fathers!"
 
 meMA.Ode7C22.ode = misc_en_US_oca.Ode7
 meMA.Ode7C22.mode = misc_en_US_oca.Mode1
 meMA.Ode7C22.melody = he.h.m1_en_US_oca.OiPaidesEfseveia.notmetered
+meMA.Ode7C22.incipit = "Job, you struggled righteously in"
 meMA.Ode7C22.text = "Job, you struggled righteously in temptations, ⁄ and in unceasing afflictions ⁄ you were called a wholly faithful servant of God. ⁄ You were gentle, meek, perfect, upright and blameless, ⁄⁄ crying: Blessed are You, O God of our fathers!"
 
 meMA.Ode7C23.ode = misc_en_US_oca.Ode7
 meMA.Ode7C23.mode = misc_en_US_oca.Mode1
 meMA.Ode7C23.melody = he.h.m1_en_US_oca.OiPaidesEfseveia.notmetered
+meMA.Ode7C23.incipit = "Let us honor Moses and"
 meMA.Ode7C23.text = "Let us honor Moses and Aaron in faith, ⁄ let us praise Joshua and the most holy Levi ⁄ together with Gideon and Sampson, ⁄⁄ crying: Blessed are You, O God of our fathers!"
 
 meMA.Ode7C2T.ode = misc_en_US_oca.Ode7
 meMA.Ode7C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode7C2T.melody = he.h.m1_en_US_oca.OiPaidesEfseveia.notmetered
+meMA.Ode7C2T.incipit = "Behold, as the prophet foretold,"
 meMA.Ode7C2T.text = "Behold, as the prophet foretold, ⁄ the unwedded one conceived God in her womb! ⁄ She hastens to give birth to Him in a cave in Bethlehem. ⁄ We all sing to Him: ⁄⁄ Blessed are You, O God of our fathers!"
 
 meMA.Ode8C11.ode = misc_en_US_oca.Ode8
 meMA.Ode8C11.mode = misc_en_US_oca.Mode8
 meMA.Ode8C11.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C11.incipit = "You zealously preserved the heritage"
 meMA.Ode8C11.text = "You zealously preserved the heritage of Abraham, ⁄ and gained the foundation of faith and hope that were his, ⁄ together with patience and steadfastness in temptations, holy ones, ⁄ for you unceasingly cried aloud: ⁄⁄ priests bless and people exalt Christ throughout all ages!"
 
 meMA.Ode8C12.ode = misc_en_US_oca.Ode8
 meMA.Ode8C12.mode = misc_en_US_oca.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C12.incipit = "You shone as heaven's lights"
 meMA.Ode8C12.text = "You shone as heaven's lights upon the earth, ⁄ enkindling the light of piety. ⁄ You called forth the choir of all creation ⁄ as you sang to the Master Who saves from all temptation: ⁄⁄ children bless, priests praise, people exalt Christ throughout all ages!"
 
 meMA.Ode8C13.ode = misc_en_US_oca.Ode8
 meMA.Ode8C13.mode = misc_en_US_oca.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C13.incipit = "The youthful descendants of David"
 meMA.Ode8C13.text = "The youthful descendants of David ⁄ quenched the fiery furnace and bound fast the lions teeth! ⁄ Now they sing, rejoicing: ⁄ children, bless the Master Who has saved from temptations! ⁄⁄ Priests praise, and people exalt Him throughout all ages!"
 
 meMA.Ode8C1T.ode = misc_en_US_oca.Ode8
 meMA.Ode8C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_US_oca.EptaplasiosKaminon.notmetered
+meMA.Ode8C1T.incipit = "The most wise Daniel taught"
 meMA.Ode8C1T.text = "The most wise Daniel taught the divine mystery ⁄ of your childbearing, all-pure one, ⁄ and the three Godly-minded Youths portrayed it in advance, ⁄ For through symbols, they beheld Him Who ineffably came forth from your womb, ⁄ Whom the children bless, the priests praise, ⁄⁄ and the people exalt throughout all ages!"
 
 meMA.Ode8C21.ode = misc_en_US_oca.Ode8
 meMA.Ode8C21.mode = misc_en_US_oca.Mode1
 meMA.Ode8C21.melody = he.h.m1_en_US_oca.ThavmatosYperfyous.notmetered
+meMA.Ode8C21.incipit = "Today let us celebrate the"
 meMA.Ode8C21.text = "Today let us celebrate the divine memory ⁄ of the divine fathers of ancient days: ⁄ Adam and Abel, Seth, Noah and Enos, ⁄ Enoch, Abraham, Melchizedek and Job, ⁄ with Isaac and the faithful Jacob. ⁄ Let creation cry out and bless the Lord, ⁄⁄ and exalt Him throughout all ages!"
 
 meMA.Ode8C22.ode = misc_en_US_oca.Ode8
 meMA.Ode8C22.mode = misc_en_US_oca.Mode1
 meMA.Ode8C22.melody = he.h.m1_en_US_oca.ThavmatosYperfyous.notmetered
+meMA.Ode8C22.incipit = "Let us praise the ranks"
 meMA.Ode8C22.text = "Let us praise the ranks of divine fathers who were pleasing to God: ⁄ Barak, Nathan and Eleazar, ⁄ Josiah, David, Jephthah and Samuel ⁄ who in reverence beheld the things to come and raised the cry: ⁄ Let all creation bless the Lord ⁄⁄ and exalt Him throughout all ages!"
 
 meMA.Ode8C23.ode = misc_en_US_oca.Ode8
 meMA.Ode8C23.mode = misc_en_US_oca.Mode1
 meMA.Ode8C23.melody = he.h.m1_en_US_oca.ThavmatosYperfyous.notmetered
+meMA.Ode8C23.incipit = "Let us offer songs of"
 meMA.Ode8C23.text = "Let us offer songs of praise to the prophets of God: ⁄ we praise Hosea and Micah, ⁄ Zephaniah and Habbakkuk, ⁄ Zachariah, Jonah, Haggai and Amos, ⁄ Obadiah and Malachai, ⁄ Nahum, Isaiah and Jeremiah, ⁄⁄ and Ezekiel, with Daniel, Elijah and Elisha!"
 
 meMA.Ode8C2Tr.ode = misc_en_US_oca.Ode8
 meMA.Ode8C2Tr.mode = misc_en_US_oca.Mode1
 meMA.Ode8C2Tr.melody = he.h.m1_en_US_oca.ThavmatosYperfyous.notmetered
+meMA.Ode8C2Tr.incipit = "Let us the faithful hymn"
 meMA.Ode8C2Tr.text = "Let us the faithful hymn the most holy Trinity with fitting words: ⁄ The Father without beginning, ⁄ the Son with the Just and Holy Spirit, ⁄ The Trinity one in essence, ⁄ Whom every breath praises, crying out: ⁄ Let all creation bless the Lord ⁄⁄ and exalt Him throughout all ages!"
 
 meMA.Ode8C2T.ode = misc_en_US_oca.Ode8
 meMA.Ode8C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode8C2T.melody = he.h.m1_en_US_oca.ThavmatosYperfyous.notmetered
+meMA.Ode8C2T.incipit = "You were seen taking flesh"
 meMA.Ode8C2T.text = "You were seen taking flesh from the blood of a Virgin ⁄ by an ineffable word, O Christ. ⁄ You were born as a perfect babe in a cave, ⁄ through the greatness of compassion. ⁄ A star revealed You to the magi from afar, who cry in faith: ⁄⁄ Praise and greatly exalt Christ throughout all ages!"
 
 meMA.Ode9C11.ode = misc_en_US_oca.Ode9
 meMA.Ode9C11.mode = misc_en_US_oca.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_US_oca.KyriosTheotokon.notmetered
+meMA.Ode9C11.incipit = "Blessed Youths, you reached the"
 meMA.Ode9C11.text = "Blessed Youths, you reached the desired goal, ⁄⁄ and you stand in the heavenly chambers before the Height of all desire"
 
 meMA.Ode9C12.ode = misc_en_US_oca.Ode9
 meMA.Ode9C12.mode = misc_en_US_oca.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_US_oca.KyriosTheotokon.notmetered
+meMA.Ode9C12.incipit = "You reaped with joy the"
 meMA.Ode9C12.text = "You reaped with joy the sheaves you sowed well in tears, ⁄⁄ bringing forth the harvest of immortality!"
 
 meMA.Ode9C13.ode = misc_en_US_oca.Ode9
 meMA.Ode9C13.mode = misc_en_US_oca.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_US_oca.KyriosTheotokon.notmetered
+meMA.Ode9C13.incipit = "The Sun of Righteousness has"
 meMA.Ode9C13.text = "The Sun of Righteousness has justly risen for you, ⁄ breaking forth into joyfulness of heart ⁄⁄ for you have gone home where grief and sorrow have fled away."
 
 meMA.Ode9C1T.ode = misc_en_US_oca.Ode9
 meMA.Ode9C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_oca.KyriosTheotokon.notmetered
+meMA.Ode9C1T.incipit = "Virgin, you stopped the reign"
 meMA.Ode9C1T.text = "Virgin, you stopped the reign of death, ⁄ for you gave birth to the Lord, the Giver of Life ⁄⁄ Who grants life to all who magnify you in faith."
 
 meMA.Ode9C21.ode = misc_en_US_oca.Ode9
 meMA.Ode9C21.mode = misc_en_US_oca.Mode1
 meMA.Ode9C21.melody = he.h.m1_en_US_oca.MystirionXenon.notmetered
+meMA.Ode9C21.incipit = "You made Your daughters strong"
 meMA.Ode9C21.text = "You made Your daughters strong in days of old ⁄ by the might of Your strength, O Lord: ⁄ Hannah, Judith and Deborah, ⁄ Hulda, Jael, Esther and Sarah, ⁄ Miriam the sister of Moses, ⁄⁄ Rachel, Rebecca, and Ruth, the noble-minded ones."
 
 meMA.Ode9C22.ode = misc_en_US_oca.Ode9
 meMA.Ode9C22.mode = misc_en_US_oca.Mode1
 meMA.Ode9C22.melody = he.h.m1_en_US_oca.MystirionXenon.notmetered
+meMA.Ode9C22.incipit = "Let us honor the holy"
 meMA.Ode9C22.text = "Let us honor the holy Youths, ⁄ for they quenched the flaming furnace, ⁄ together with the prophet Daniel, ⁄ and all the righteous ones who shone forth before the Law, ⁄⁄ together with those who served the Master under the Law."
 
 meMA.Ode9C23.ode = misc_en_US_oca.Ode9
 meMA.Ode9C23.mode = misc_en_US_oca.Mode1
 meMA.Ode9C23.melody = he.h.m1_en_US_oca.MystirionXenon.notmetered
+meMA.Ode9C23.incipit = "The sons of Abraham ⁄"
 meMA.Ode9C23.text = "The sons of Abraham ⁄ became divine and most wise prophets, ⁄ for they foretold with fervor in the Spirit ⁄ of the Word born from Abraham and Judah. ⁄⁄ By their prayers, Jesus, have compassion on all mankind!"
 
 meMA.Ode9C24.ode = misc_en_US_oca.Ode9
 meMA.Ode9C24.mode = misc_en_US_oca.Mode1
 meMA.Ode9C24.melody = he.h.m1_en_US_oca.MystirionXenon.notmetered
+meMA.Ode9C24.incipit = "All creation has been sanctified"
 meMA.Ode9C24.text = "All creation has been sanctified by your memory, ⁄ and keeps feast, crying out and exulting in prayers: ⁄ Ever offer your intercessions to the Lord, blessed ones, ⁄⁄ that those who praise you may come to the eternal blessings!"
 
 meMA.Ode9C2T.ode = misc_en_US_oca.Ode9
 meMA.Ode9C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode9C2T.melody = he.h.m1_en_US_oca.MystirionXenon.notmetered
+meMA.Ode9C2T.incipit = "The Word of the Father"
 meMA.Ode9C2T.text = "The Word of the Father comes forth from the Virgin ⁄ and without change is born in a cave for my sake. ⁄ Let creation dance with joy, ⁄⁄ and with thankful voice magnify His all-holy condescension and compassion!"
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
+meMA.Exaposteilarion1.incipit = "Let us who love the"
 meMA.Exaposteilarion1.text = "Let us who love the fathers come together, ⁄ rejoicing in their memory! ⁄ Rightly praising Abraham, Isaac and Jacob ⁄ from whom Christ was revealed coming in the flesh ⁄⁄ in His great compassion!"
 
 meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
+meMA.Exaposteilarion2.incipit = "Let us praise Adam, ⁄"
 meMA.Exaposteilarion2.text = "Let us praise Adam, ⁄ Abel, Seth and Enos, ⁄ Enoch and Noah, ⁄ Abraham, Isaac and Jacob, ⁄ Moses, Job and Aaron, ⁄ Eliezar, Joshua, Barak, Samson, ⁄⁄ Jephtha, David and Solomon!"
 
 meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
+meMA.ExapTheotokion.incipit = ""
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_oca.Mode2
 meMA.Lauds1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
+meMA.Lauds1.incipit = "Now let us all celebrate"
 meMA.Lauds1.text = "Now let us all celebrate ⁄ the commemoration ⁄ of the holy forefathers, ⁄ praising their way of life, ⁄⁄ for which they have been magnified!"
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meMA.Lauds2.mode = misc_en_US_oca.Mode2
 meMA.Lauds2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
+meMA.Lauds2.incipit = "The Youths exulted ⁄ in"
 meMA.Lauds2.text = "The Youths exulted ⁄ in the furnace, ⁄ extinguishing the might of the fire. ⁄ They sang a hymn of praise ⁄⁄ to the Almighty God."
 
 meMA.Lauds3.mode = misc_en_US_oca.Mode2
 meMA.Lauds3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
+meMA.Lauds3.incipit = "Daniel the prophet ⁄ was"
 meMA.Lauds3.text = "Daniel the prophet ⁄ was locked in the lions' den. ⁄ Though dwelling with wild beasts ⁄ he was preserved unharmed ⁄⁄ in spite of their wickedness!"
 
 meMA.LaudsGlory.poet = poets_en_US_oca.Germanou
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode7
 meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.incipit = "Come, let us all faithfully"
 meMA.LaudsGlory.text = "Come, let us all faithfully celebrate ⁄ the fathers before the law: ⁄ our yearly commemoration of Abraham and those with him: ⁄ Let us rightly honor the tribe of Judah, ⁄ and praise the Youths in Babylon ⁄ who quenched the flames of the furnace, ⁄ for they were an image of the Trinity! ⁄ With them, let us praise Daniel, ⁄ and holding fast to the predictions of the prophets, ⁄ with Isaiah let us cry aloud: ⁄ Behold, a Virgin shall conceive in her womb ⁄ and bear a Son, Emmanuel, ⁄⁄ Who is God with us!"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""

@@ -15,23 +15,28 @@ trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 
 trVE.AposIdiomelon1.mode = misc_en_US_oca.Mode4
 trVE.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
+trVE.AposIdiomelon1.incipit = "I have blindly squandered my"
 trVE.AposIdiomelon1.text = "I have blindly squandered my Father's riches. I am now empty, living in a land of evil men. In my foolishness, I have become like the senseless beasts and am now stripped of every divine grace. But turning back I cry to you: Merciful and compassionate Father, I have sinned; receive me in repentance, O God, and have mercy on me!"
 
 trVE.AposMartyric.mode = misc_en_US_oca.Mode4
 trVE.AposMartyric.melody = ""
+trVE.AposMartyric.incipit = oc.m4.d5_en_US_oca.ocVE.Aposticha3.incipit
 trVE.AposMartyric.text = oc.m4.d5_en_US_oca.ocVE.Aposticha3.text
 
 trVE.Stichera01.poet = ""
 trVE.Stichera01.mode = misc_en_US_oca.Mode6
 trVE.Stichera01.melody = misc_en_US_oca.NotMetered
+trVE.Stichera01.incipit = "Apostles, eye-witnesses of God, rays"
 trVE.Stichera01.text = "Apostles, eye-witnesses of God, rays of light from the spiritual sun, pray that light may be granted to our souls; deliver us from the gloomy darkness of the passions and ask that we may see the day of salvation! By your prayers and intercessions, cleanse our hearts wounded by the evil one. Saved by faith, we shall honor you forever, by preaching the truth, for you preserve the world!"
 
 trVE.Stichera02.mode = misc_en_US_oca.Mode6
 trVE.Stichera02.melody = misc_en_US_oca.NotMetered
+trVE.Stichera02.incipit = "Like the prodigal son, I"
 trVE.Stichera02.text = "Like the prodigal son, I have journeyed into a far country of wickedness. I have wasted in evil the wealth you gave me, compassionate Father. I am starved of good deeds and clothed in the shame of my transgression, for I have been stripped bare of divine grace. I cry out to you: I have sinned! Yet I know your loving kindness; accept me as one of your hired servants, merciful Christ, at the prayers of the Apostles who loved you."
 
 trVE.Stichera03.poet = ""
 trVE.Stichera03.mode = misc_en_US_oca.Mode6
 trVE.Stichera03.melody = misc_en_US_oca.NotMetered
+trVE.Stichera03.incipit = "Apostles of the Lord, lights,"
 trVE.Stichera03.text = "Apostles of the Lord, lights, benefactors, and saviors of the world: as the heavens, you declare the glory of God! You are adorned with the stars of your miracles and wonders of healing! Intercede fervently before the Lord for us that our prayers may be accepted as pure and sweet-smelling incense; that we may all be accounted worthy to venerate the life-giving Cross and to behold it with fear. Send down on us, then, your mercy, O Savior, as the lover of mankind."
 

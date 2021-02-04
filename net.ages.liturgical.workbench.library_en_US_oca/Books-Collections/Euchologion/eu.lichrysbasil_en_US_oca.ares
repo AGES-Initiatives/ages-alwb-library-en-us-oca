@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = eu.lichrysbasil_en_US_oca 
+A_Resource_Whose_Name = eu.lichrysbasil_en_US_oca
 
 euLI.notice = ""
 euLI.copyright = ""
@@ -27,7 +27,7 @@ euLI.Key0201.text = ""
 euLI.Key0301.title = ""
 euLI.Key0301.text = ""
 
-// Part 04 Antiphon 3 
+// Part 04 Antiphon 3
 euLI.Key0401.title = ""
 euLI.Key0401.text = ""
 
@@ -35,8 +35,8 @@ euLI.Key0401.text = ""
 euLI.Key0501.text = ""
 euLI.Key0502.text = ""
 euLI.Key0503.text = ""
- 
-// Part 06 Trisagios Hymn 
+
+// Part 06 Trisagios Hymn
 euLI.MM.Key0600.text = 
 euLI.Key0601.text = ""
 euLI.Key0602.text = ""
@@ -78,7 +78,7 @@ euLI.Key0909.basil.text = ""
 euLI.Key0910.text = ""
 euLI.Key0911.text = ""
 euLI.Key0912.text = ""
- 
+
 // Part 10 Prayers of the Faithful
 euLI.Key1000.title = ""
 euLI.Key1001.title = ""
@@ -150,8 +150,8 @@ euLI.Key1310.text = ""
 euLI.Key1311.text = ""
 euLI.Key1312.text = ""
 euLI.Key1312.basil.text = ""
-euLI.Key1313.text = "" 
-euLI.Key1313.basil.text = "" 
+euLI.Key1313.text = ""
+euLI.Key1313.basil.text = ""
 euLI.Key1314.text = ""
 euLI.Key1314.basil.text = ""
 euLI.Key1315.text = ""
@@ -163,19 +163,21 @@ euLI.Key1318.text = ""
 euLI.Key1319.text = ""
 euLI.Key1319.basil.text = ""
 euLI.Key1320.text = ""
-euLI.Key1321.text = "" 
-euLI.Key1321.basil.text = "" 
+euLI.Key1321.text = ""
+euLI.Key1321.basil.text = ""
 euLI.Key1322.text = ""
-euLI.Key1323.text = "" 
-euLI.Key1323.basil.text = "" 
+euLI.Key1323.text = ""
+euLI.Key1323.basil.text = ""
 euLI.Key1324.text = ""
-euLI.Key1325.text = "" 
-euLI.Key1325.basil.text = "" 
+euLI.Key1325.text = ""
+euLI.Key1325.basil.text = ""
 euLI.Key1326.text = ""
 euLI.Key1326.basil.text = ""
 euLI.Key1327.text = ""
 euLI.Key1328.title = titles_en_US_oca.Megalynarion
+euLI.Key1328.incipit = prayers_en_US_oca.AxionEstinComplete.incipit
 euLI.Key1328.text = prayers_en_US_oca.AxionEstinComplete.text
+euLI.Key1328.basil.incipit = oc.m8.d1_en_US_oca.ocMA.Kathisma23.incipit
 euLI.Key1328.basil.text = oc.m8.d1_en_US_oca.ocMA.Kathisma23.text
 euLI.Key1329.text = ""
 euLI.Key1329.basil.text = ""
@@ -230,10 +232,14 @@ euLI.Key1517.text = ""
 euLI.Key1518.text = ""
 euLI.Key1519.text = ""
 euLI.Key1520.text = ""
+euLI.Key1521.incipit = ho.s03_en_US_oca.hoMA.SunPostGospel.incipit
 euLI.Key1521.text = ho.s03_en_US_oca.hoMA.SunPostGospel.text
+euLI.Key1522.incipit = he.h.m1_en_US_oca.FotizouFotizou.incipit
 euLI.Key1522.text = he.h.m1_en_US_oca.FotizouFotizou.text
-euLI.Key1523.text = pe.d00P_en_US_oca.pePA.Ode91.text 
-euLI.Key1524.text = pe.d00P_en_US_oca.pePA.Ode92.text 
+euLI.Key1523.incipit = pe.d00P_en_US_oca.pePA.Ode91.incipit
+euLI.Key1523.text = pe.d00P_en_US_oca.pePA.Ode91.text
+euLI.Key1524.incipit = pe.d00P_en_US_oca.pePA.Ode92.incipit
+euLI.Key1524.text = pe.d00P_en_US_oca.pePA.Ode92.text
 euLI.Key1525.text = ""
 euLI.Key1526.text = ""
 euLI.Key1527.title = ""
@@ -247,10 +253,10 @@ euLI.Key1531.text = ""
 euLI.MM.HymnsDuringCommunion.title = ""
 euLI.MM.HymnsDuringCommunion.text = //for media
 
-// Part 16 After Communion 
+// Part 16 After Communion
 euLI.Key1601.text = ""
 euLI.Key1602.text = ""
-euLI.Key1603.text = "" 
+euLI.Key1603.text = ""
 euLI.Key1604.title = ""
 euLI.Key1604.text = ""
 euLI.Key1605.text = ""
@@ -258,7 +264,7 @@ euLI.Key1606.title = ""
 euLI.Key1606.text = ""
 euLI.Key1606.basil.text = ""
 euLI.Key1607.text = prayers_en_US_oca.exc24
- 
+
 // Part 17 Dismissal
 euLI.Key1700.title = ""
 euLI.Key1701.text = ""

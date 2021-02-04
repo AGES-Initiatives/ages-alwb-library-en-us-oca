@@ -23,56 +23,56 @@ Triadic11
 Glory
 Triadic12
 Both
-Triadic13 
+Triadic13
 
 Title Mode2
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode3
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode4
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode5
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode6
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode7
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode8
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 */
 
 R12a = ""
@@ -84,41 +84,57 @@ hoMA.ResEvlog.title2 = ""
 R13 = ""
 hoMA.ResEvlogVerse.text = ""
 hoMA.ResEvlog1.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog1.incipit = ""
 hoMA.ResEvlog1.text = ""
 hoMA.ResEvlog2.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog2.incipit = ""
 hoMA.ResEvlog2.text = ""
 hoMA.ResEvlog3.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog3.incipit = ""
 hoMA.ResEvlog3.text = ""
 hoMA.ResEvlog4.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog4.incipit = ""
 hoMA.ResEvlog4.text = ""
 hoMA.ResEvlog5.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog5.incipit = ""
 hoMA.ResEvlog5.text = ""
 hoMA.ResEvlog6.mode = misc_en_US_oca.Mode5
+hoMA.ResEvlog6.incipit = ""
 hoMA.ResEvlog6.text = ""
 hoMA.ResEvlog7.mode = misc_en_US_oca.Mode5
-hoMA.ResEvlog7.text = prayers_en_US_oca.Allilouia3Doxa.text 
+hoMA.ResEvlog7.incipit = prayers_en_US_oca.Allilouia3Doxa.incipit
+hoMA.ResEvlog7.text = prayers_en_US_oca.Allilouia3Doxa.text
 
 hoMA.FuneralEvlog.title1 = ""
 hoMA.FuneralEvlog.title2 = ""
 R14 = ""
 hoMA.FuneralEvlogVerse.text = ""
 hoMA.FuneralEvlog1.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog1.incipit = ""
 hoMA.FuneralEvlog1.text = ""
 hoMA.FuneralEvlog2.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog2.incipit = ""
 hoMA.FuneralEvlog2.text = ""
 hoMA.FuneralEvlog3.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog3.incipit = ""
 hoMA.FuneralEvlog3.text = ""
 hoMA.FuneralEvlog4.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog4.incipit = ""
 hoMA.FuneralEvlog4.text = ""
 hoMA.FuneralEvlog5.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog5.incipit = ""
 hoMA.FuneralEvlog5.text = ""
 hoMA.FuneralEvlog6.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog6.incipit = ""
 hoMA.FuneralEvlog6.text = ""
 hoMA.FuneralEvlog7.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog7.incipit = ""
 hoMA.FuneralEvlog7.text = ""
 hoMA.FuneralEvlog8.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog8.incipit = ""
 hoMA.FuneralEvlog8.text = ""
 hoMA.FuneralEvlog9.mode = misc_en_US_oca.Mode5
+hoMA.FuneralEvlog9.incipit = prayers_en_US_oca.Allilouia3Doxa.incipit
 hoMA.FuneralEvlog9.text = prayers_en_US_oca.Allilouia3Doxa.text
 
 //Psalm 50
@@ -172,55 +188,67 @@ hoMA.Exaposteilaria.title2 = ""
 hoMA.ExapMonTitle = ""
 hoMA.ExapMon1.mode = misc_en_US_oca.Mode3
 hoMA.ExapMon1.melody = misc_en_US_oca.Automelon
+hoMA.ExapMon1.incipit = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
 hoMA.ExapMon1.text = he.a.m3_en_US_oca.OOuranonToisAstrois.text
 
 hoMA.ExapMonTh.mode = misc_en_US_oca.Mode3
 hoMA.ExapMonTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
+hoMA.ExapMonTh.incipit = da.d7_en_US_oca.daMA.ExapTheotokion1.incipit
 hoMA.ExapMonTh.text = da.d7_en_US_oca.daMA.ExapTheotokion1.text
 
 hoMA.ExapTueTitle = ""
 hoMA.ExapTue1.mode = misc_en_US_oca.Mode3
 hoMA.ExapTue1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
+hoMA.ExapTue1.incipit = da.d3_en_US_oca.daMA.Exaposteilarion1.incipit
 hoMA.ExapTue1.text = da.d3_en_US_oca.daMA.Exaposteilarion1.text
 
 hoMA.ExapTueTh.mode = misc_en_US_oca.Mode3
 hoMA.ExapTueTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
+hoMA.ExapTueTh.incipit = da.d7_en_US_oca.daMA.ExapTheotokion1.incipit
 hoMA.ExapTueTh.text = da.d7_en_US_oca.daMA.ExapTheotokion1.text
 
 hoMA.ExapWedFriTitle = ""
 hoMA.ExapWedFri1.mode = misc_en_US_oca.Mode2
 hoMA.ExapWedFri1.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.incipit
+hoMA.ExapWedFri1.incipit = me.m09.d14_en_US_oca.meMA.Exaposteilarion1.incipit
 hoMA.ExapWedFri1.text = me.m09.d14_en_US_oca.meMA.Exaposteilarion1.text
 
 hoMA.ExapWedFriTh.mode = misc_en_US_oca.Mode3
 hoMA.ExapWedFriTh.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
+hoMA.ExapWedFriTh.incipit = da.d6_en_US_oca.daMA.ExapTheotokion2.incipit
 hoMA.ExapWedFriTh.text = da.d6_en_US_oca.daMA.ExapTheotokion2.text
 
 hoMA.ExapThuTitle = ""
 hoMA.ExapThu1.mode = misc_en_US_oca.Mode2
 hoMA.ExapThu1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.incipit
+hoMA.ExapThu1.incipit = ""
 hoMA.ExapThu1.text = ""
 
 hoMA.ExapThu2.mode = misc_en_US_oca.Mode2
 hoMA.ExapThu2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.incipit
+hoMA.ExapThu2.incipit = me.m12.d06_en_US_oca.meMA.Exaposteilarion1.incipit
 hoMA.ExapThu2.text = me.m12.d06_en_US_oca.meMA.Exaposteilarion1.text
 
 hoMA.ExapThuTh.mode = misc_en_US_oca.Mode2
 hoMA.ExapThuTh.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.incipit
+hoMA.ExapThuTh.incipit = ""
 hoMA.ExapThuTh.text = ""
 
 hoMA.ExapSatTitle = ""
 hoMA.ExapSat1.mode = misc_en_US_oca.Mode3
 hoMA.ExapSat1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.incipit
-hoMA.ExapSat1.text = da.d7_en_US_oca.daMA.Exaposteilarion2.text 
+hoMA.ExapSat1.incipit = da.d7_en_US_oca.daMA.Exaposteilarion2.incipit
+hoMA.ExapSat1.text = da.d7_en_US_oca.daMA.Exaposteilarion2.text
 
 hoMA.ExapSatTh.mode = misc_en_US_oca.Mode2
 hoMA.ExapSatTh.melody = he.a.m2_en_US_oca.TonMathitonOrontonSe.incipit
-hoMA.ExapSatTh.text = da.d7_en_US_oca.daMA.ExapTheotokion2.text 
+hoMA.ExapSatTh.incipit = da.d7_en_US_oca.daMA.ExapTheotokion2.incipit
+hoMA.ExapSatTh.text = da.d7_en_US_oca.daMA.ExapTheotokion2.text
 
 R19 = ""
 R20 = ""
 R21 = ""
+hoMA.LaudsSunTheotokion.incipit = oc.m2.d1_en_US_oca.ocMA.Kathisma23.incipit
 hoMA.LaudsSunTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
 
 hoMA.DoxologyGreat.title = ""
@@ -253,14 +281,15 @@ hoMA.DoxologyVerse18.text = ""
 hoMA.DoxologyVerse19.text = ""
 R22 = ""
 hoMA.MM.DoxologyGreatAsmatic.text = ""
+hoMA.DoxologyVerse20.incipit = hoMA.DoxologyVerse16.incipit
 hoMA.DoxologyVerse20.text = hoMA.DoxologyVerse16.text
 R23 = ""
 hoMA.DoxologySmallIntro.text = ""
 hoMA.DoxologySmallEnd.text = ""
 hoMA.SmallDoxology.title = ""
 hoMA.SmallDoxology1.text = ""
-hoMA.SmallDoxology1d = "" 
-hoMA.SmallDoxology1e = "" 
+hoMA.SmallDoxology1d = ""
+hoMA.SmallDoxology1e = ""
 hoMA.SmallDoxology2.text = ""
 hoMA.SmallDoxology2d = ""
 hoMA.SmallDoxology2e = ""
@@ -282,10 +311,12 @@ R34 = ""
 R35 = ""
 R36 = ""
 hoMA.SunTroparion1.mode = misc_en_US_oca.Mode4
+hoMA.SunTroparion1.incipit = ""
 hoMA.SunTroparion1.text = ""
 R37 = ""
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = misc_en_US_oca.Mode8
+hoMA.SunTroparion2.incipit = ""
 hoMA.SunTroparion2.text = ""
 R38 = "" //[maybe unpack]
 R39 = ""
