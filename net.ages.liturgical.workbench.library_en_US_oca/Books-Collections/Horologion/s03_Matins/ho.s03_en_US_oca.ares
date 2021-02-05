@@ -102,7 +102,6 @@ hoMA.ResEvlog6.mode = misc_en_US_oca.Mode5
 hoMA.ResEvlog6.incipit = ""
 hoMA.ResEvlog6.text = ""
 hoMA.ResEvlog7.mode = misc_en_US_oca.Mode5
-hoMA.ResEvlog7.incipit = prayers_en_US_oca.Allilouia3Doxa.incipit
 hoMA.ResEvlog7.text = prayers_en_US_oca.Allilouia3Doxa.text
 
 hoMA.FuneralEvlog.title1 = ""
@@ -134,7 +133,6 @@ hoMA.FuneralEvlog8.mode = misc_en_US_oca.Mode5
 hoMA.FuneralEvlog8.incipit = ""
 hoMA.FuneralEvlog8.text = ""
 hoMA.FuneralEvlog9.mode = misc_en_US_oca.Mode5
-hoMA.FuneralEvlog9.incipit = prayers_en_US_oca.Allilouia3Doxa.incipit
 hoMA.FuneralEvlog9.text = prayers_en_US_oca.Allilouia3Doxa.text
 
 //Psalm 50
@@ -281,7 +279,6 @@ hoMA.DoxologyVerse18.text = ""
 hoMA.DoxologyVerse19.text = ""
 R22 = ""
 hoMA.MM.DoxologyGreatAsmatic.text = ""
-hoMA.DoxologyVerse20.incipit = hoMA.DoxologyVerse16.incipit
 hoMA.DoxologyVerse20.text = hoMA.DoxologyVerse16.text
 R23 = ""
 hoMA.DoxologySmallIntro.text = ""
@@ -326,28 +323,49 @@ hoMA.Antiphon11.title = ""
 hoMA.Antiphon11.text = "" //for media
 hoMA.PreGospelHymn.text = "" // for media
 
+hoMA.SunPostGospel.incipit = ""
 hoMA.SunPostGospel.text = ""
 
+hoMA.PostGospelTrinity.incipit = ""
 hoMA.PostGospelTrinity.text = ""
+hoMA.PostGospelApostle.incipit = ""
 hoMA.PostGospelApostle.text = ""
+hoMA.PostGospelApostles.incipit = ""
 hoMA.PostGospelApostles.text = ""
+hoMA.PostGospelMaleMartyr.incipit = ""
 hoMA.PostGospelMaleMartyr.text = ""
+hoMA.PostGospelMartyrs.incipit = ""
 hoMA.PostGospelMartyrs.text = ""
+hoMA.PostGospelWomanMartyr.incipit = ""
 hoMA.PostGospelWomanMartyr.text = ""
+hoMA.PostGospelWomenMartyrs.incipit = ""
 hoMA.PostGospelWomenMartyrs.text = ""
+hoMA.PostGospelTeacher.incipit = ""
 hoMA.PostGospelTeacher.text = ""
+hoMA.PostGospelTeachers.incipit = ""
 hoMA.PostGospelTeachers.text = ""
+hoMA.PostGospelMonastic.incipit = ""
 hoMA.PostGospelMonastic.text = ""
+hoMA.PostGospelMonastics.incipit = ""
 hoMA.PostGospelMonastics.text = ""
+hoMA.PostGospelWomanMonastic.incipit = ""
 hoMA.PostGospelWomanMonastic.text = ""
+hoMA.PostGospelForerunner.incipit = ""
 hoMA.PostGospelForerunner.text = ""
+hoMA.PostGospelTheotokos.incipit = ""
 hoMA.PostGospelTheotokos.text = ""
+hoMA.PostGospelAllPureLady.incipit = ""
 hoMA.PostGospelAllPureLady.text = ""
+hoMA.PostGospelProphet.incipit = ""
 hoMA.PostGospelProphet.text = ""
+hoMA.PostGospelAngels.incipit = ""
 hoMA.PostGospelAngels.text = ""
+hoMA.PostGospelHierarch.incipit = ""
 hoMA.PostGospelHierarch.text = ""
+hoMA.PostGospelMaleSaint.incipit = ""
 hoMA.PostGospelMaleSaint.text = ""
 
+hoMA.SunPostGospelIdiomelon.incipit = ""
 hoMA.SunPostGospelIdiomelon.text = ""
 
 hoMA.SunExapVerse1.text = "" //for media

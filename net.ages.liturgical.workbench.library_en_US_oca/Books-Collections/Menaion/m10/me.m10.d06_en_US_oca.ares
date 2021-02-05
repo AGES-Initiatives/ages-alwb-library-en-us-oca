@@ -38,7 +38,7 @@ meVE.SticGlory.text = "Apostle Thomas, faithful servant of the Lord, ⁄ witness
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode6
 meVE.SticTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.incipit
-meVE.SticTheotokion.incipit = he.o_en_US_oca.TheotokeSyEiApostolou.incipit
+meVE.SticTheotokion.incipit = he.o_en_US_oca.TheotokeSyEi.incipit
 meVE.SticTheotokion.text = he.o_en_US_oca.TheotokeSyEiApostolou.text
 
 meVE.Aposticha1.mode = misc_en_US_oca.Mode4
@@ -365,7 +365,7 @@ meMA.LaudsGlory.text = meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.incipit = he.o_en_US_oca.TheotokeSyEiApostolou.incipit
+meMA.LaudsTheotokion.incipit = he.o_en_US_oca.TheotokeSyEi.incipit
 meMA.LaudsTheotokion.text = he.o_en_US_oca.TheotokeSyEiApostolou.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key

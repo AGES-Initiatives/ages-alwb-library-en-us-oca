@@ -291,27 +291,37 @@ pePA.Ode8T2.melody = he.h.m1_en_US_oca.AftiIKliti.incipit
 pePA.Ode8T2.incipit = ""
 pePA.Ode8T2.text = ""
 
+pePA.Ode9M01.incipit = ""
 pePA.Ode9M01.text = ""
 
+pePA.Ode9M02.incipit = ""
 pePA.Ode9M02.text = ""
 
+pePA.Ode9M03.incipit = ""
 pePA.Ode9M03.text = ""
 
+pePA.Ode9M04.incipit = ""
 pePA.Ode9M04.text = ""
 
+pePA.Ode9M05.incipit = ""
 pePA.Ode9M05.text = ""
 
+pePA.Ode9M06.incipit = ""
 pePA.Ode9M06.text = ""
 
+pePA.Ode9M07.incipit = ""
 pePA.Ode9M07.text = ""
 
+pePA.Ode9M08.incipit = ""
 pePA.Ode9M08.text = ""
 
+pePA.Ode9M09.incipit = ""
 pePA.Ode9M09.text = ""
 
 pePA.Ode9MTr.incipit = me.m01.d06_en_US_oca.meMA.Ode9C2MTr.incipit
 pePA.Ode9MTr.text = me.m01.d06_en_US_oca.meMA.Ode9C2MTr.text
 
+pePA.Ode9MTh.incipit = ""
 pePA.Ode9MTh.text = ""
 
 pePA.Ode9MKa.text = ""
@@ -400,17 +410,16 @@ pePA.Hours.R02 = ""
 pePA.Hours.R03 = ""
 pePA.Hours.R04 = ""
 
-pePA.Antiphon2.incipit = ho.s07_en_US_oca.hoLI.Antiphon2s.incipit
 pePA.Antiphon2.text = ho.s07_en_US_oca.hoLI.Antiphon2s.text
 
 pePA.EntranceHymn.text = "" //for media
 
 pePA.TheotokosHymn.mode = misc_en_US_oca.Mode1
-pePA.TheotokosHymnVerse.incipit = pePA.Ode9MKa.incipit
 pePA.TheotokosHymnVerse.text = pePA.Ode9MKa.text
 pePA.TheotokosHymn.incipit = pePA.Ode9H.incipit
 pePA.TheotokosHymn.text = pePA.Ode9H.text
 
+pePA.CommunionHymn.incipit = ""
 pePA.CommunionHymn.text = ""
 
 pePA.AfterCommunion.mode = misc_en_US_oca.Mode5

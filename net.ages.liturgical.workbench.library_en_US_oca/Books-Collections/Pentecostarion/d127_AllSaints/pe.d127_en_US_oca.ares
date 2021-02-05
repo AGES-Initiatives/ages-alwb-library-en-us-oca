@@ -370,14 +370,10 @@ peMA.Lauds6.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 peMA.Lauds6.incipit = ""
 peMA.Lauds6.text = ""
 
-peMA.LaudsVerse7.text = ""
-
 peMA.Lauds7.mode = misc_en_US_oca.Mode4
 peMA.Lauds7.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 peMA.Lauds7.incipit = ""
 peMA.Lauds7.text = ""
-
-peMA.LaudsVerse8.text = ""
 
 peMA.Lauds8.mode = misc_en_US_oca.Mode4
 peMA.Lauds8.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
@@ -391,7 +387,6 @@ peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text
 
-peLI.MM.CommunionHymn.incipit = da.d7_en_US_oca.daLI.CommunionHymn.incipit
 peLI.MM.CommunionHymn.text = da.d7_en_US_oca.daLI.CommunionHymn.text
 
 peMegalynarion.text = ""

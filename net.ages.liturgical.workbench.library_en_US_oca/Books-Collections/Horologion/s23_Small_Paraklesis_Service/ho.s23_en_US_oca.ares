@@ -222,25 +222,16 @@ hoCA.Kontakion.text = ho.s07_en_US_oca.hoTY.Key0408.text
 //First Antiphon Mode 4
 
 //R11
-hoCA.Prokeimenon.text = ""
-
-hoCA.ProkVerse.text = ""
-
-//Gospel
-
-hoCA.Gospel.name = ""
-hoCA.Gospel.chapverse = ""
-hoCA.Gospel.text = ""
 
 //R12 ""
 hoCA.PostGospelGlory.mode = misc_en_US_oca.Mode2
 hoCA.PostGospelGlory.melody = ""
-hoCA.PostGospelGlory.incipit = ho.s03_en_US_oca.hoMA.PostGospelTrinity.incipit
+hoCA.PostGospelGlory.incipit = ""
 hoCA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelTrinity.text
 
 hoCA.PostGospelBoth.mode = misc_en_US_oca.Mode2
 hoCA.PostGospelBoth.melody = ""
-hoCA.PostGospelBoth.incipit = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.incipit
+hoCA.PostGospelBoth.incipit = ""
 hoCA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelVerse.text = ""
@@ -363,7 +354,7 @@ hoCA.Ode95.text = ""
 
 //R14
 
-hoCA.Meg00.incipit = ho.s03_en_US_oca.hoMA.Ode9.Meg00.incipit
+hoCA.Meg00.incipit = ""
 hoCA.Meg00.text = ho.s03_en_US_oca.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_en_US_oca.Heirmos
 hoCA.Meg01.incipit = he.h.m6_en_US_oca.TinTimioteran.incipit

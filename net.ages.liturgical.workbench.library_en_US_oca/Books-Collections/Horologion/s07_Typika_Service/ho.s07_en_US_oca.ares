@@ -5,6 +5,7 @@ Title = ""
 R01 = ""
 
 hoLI.OnlyBegotten.title = ""
+hoLI.OnlyBegotten.incipit = ""
 hoLI.OnlyBegotten.text = ""
 
 hoTY.Key0200.text = "" //for media for beatitudes
@@ -22,6 +23,7 @@ hoTY.Key0408.mode = misc_en_US_oca.Mode2
 hoTY.Key0408.incipit = ""
 hoTY.Key0408.text = ""
 
+hoTY.Key0501.incipit = ""
 hoTY.Key0501.text = ""
 
 // Liturgy Antiphons
@@ -33,9 +35,9 @@ hoLI.Antiphon2w.text = ""
 hoLI.Antiphon22.text = ""
 
 hoLI.EntranceHymn.text = "" //in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
+hoLI.EntranceHymn2s.incipit = ""
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
-hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
+hoLI.EntranceHymn2w.incipit = ""
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
 hoLI.TrisagiosHymn.title = ""
