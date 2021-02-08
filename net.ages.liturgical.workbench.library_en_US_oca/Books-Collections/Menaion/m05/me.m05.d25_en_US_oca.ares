@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m05.d25_en_US_oca
 
-meDate.text = "May 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Third Finding of the Head of the Prophet, Forerunner and Baptist John" //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the honorable and glorious prophet, and forerunner John the Baptist, "
-meInsert2 = "the Finding of whose precious Head we celebrate, "
-meNote.text = ""
+meDA.date = "May 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Third Finding of the Head of the Prophet, Forerunner and Baptist John" //full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "the honorable and glorious prophet, and forerunner John the Baptist, "
+meDA.insert2 = "the Finding of whose precious Head we celebrate, "
+meDA.note = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode8
 meVE.Stichera01.melody = misc_en_US_oca.NotMetered
