@@ -48,22 +48,22 @@ meVE.SticGlory.text = me.m12.d25_en_US_oca.meMA.PostGospelIdiomelon.text
 meVE.Aposticha1.poet = poets_en_US_oca.IoannouMonachou
 meVE.Aposticha1.mode = misc_en_US_oca.Mode8
 meVE.Aposticha1.melody = misc_en_US_oca.Idiomelon
-meVE.Aposticha1.incipit = ""
+meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode8
 meVE.Aposticha2.melody = misc_en_US_oca.Idiomelon
-meVE.Aposticha2.incipit = ""
+meVE.Aposticha2.incipit = "…"
 meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode8
 meVE.Aposticha3.melody = misc_en_US_oca.Idiomelon
-meVE.Aposticha3.incipit = "How shall I tell of"
+meVE.Aposticha3.incipit = "How shall I tell of…"
 meVE.Aposticha3.text = "How shall I tell of this great mystery? ⁄ He who is without flesh becomes incarnate; ⁄ the Word puts on a body; ⁄ the invisible is seen; ⁄ He whom no hand can touch is handled; ⁄ and He who knows no beginning now begins to be! ⁄ The Son of God becomes the Son of Man: ⁄⁄ Jesus Christ, the same yesterday, today, and for ever!"
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode8
 meVE.AposGlory.melody = misc_en_US_oca.Idiomelon
-meVE.AposGlory.incipit = "The shepherds hasten to Bethlehem,"
+meVE.AposGlory.incipit = "The shepherds hasten to Bethlehem…"
 meVE.AposGlory.text = "The shepherds hasten to Bethlehem, ⁄ revealing the true Shepherd, ⁄ seated upon the cherubim and lying in a manger! ⁄ For our sakes He has taken upon Himself the form of a Child. ⁄⁄ Lord, glory to you!"
 
 meVE.Apolytikion1.mode = misc_en_US_oca.Mode4
@@ -73,7 +73,7 @@ meVE.Apolytikion1.text = me.m12.d25_en_US_oca.meVE.Apolytikion1.text
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode6
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.incipit = ""
+meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
@@ -106,7 +106,7 @@ meMA.Lauds4.text = me.m12.d25_en_US_oca.meMA.Lauds4.text
 
 meMA.LaudsGlory.mode = misc_en_US_oca.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = ""
+meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsBoth.mode = misc_en_US_oca.Mode2
