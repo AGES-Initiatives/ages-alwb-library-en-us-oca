@@ -48,9 +48,6 @@ DoxaSoiChriste2 = ""
 DoxaSoiKyrie.incipit = "…"
 DoxaSoiKyrie = ""
 
-DoxaSoiKyrieP.incipit = "…"
-DoxaSoiKyrieP = ""
-
 DoxaSoiOTheos1.incipit = "…"
 DoxaSoiOTheos1 = ""
 
@@ -59,9 +56,6 @@ DoxaSoiOTheosImon.text = ""
 
 DoxaTiMakrothymia.incipit = "…"
 DoxaTiMakrothymia.text = ""
-
-DoxaTiMakrothymiaP.incipit = "…"
-DoxaTiMakrothymiaP.text = ""
 
 DoxaToPatri.incipit = "…"
 DoxaToPatri.text = ""
@@ -98,9 +92,6 @@ PantoteNyn.text = ""
 
 Evlogison.incipit = "…"
 Evlogison = ""
-
-EvlogisonP.incipit = "…"
-EvlogisonP = ""
 
 EnOnomatiKyriou.incipit = "…"
 EnOnomatiKyriou.text = ""
@@ -834,51 +825,6 @@ res15 = ""
 res16.incipit = "…"
 res16 = ""
 
-res01p.incipit = "…"
-res01p = ""
-
-res02p.incipit = "…"
-res02p = ""
-
-res03p.incipit = "…"
-res03p = ""
-
-res04p.incipit = "…"
-res04p = ""
-
-res05p.incipit = "…"
-res05p = ""
-
-res06p.incipit = "…"
-res06p = ""
-
-res07p.incipit = "…"
-res07p = ""
-
-res08p.incipit = "…"
-res08p = ""
-
-res09p.incipit = "…"
-res09p = ""
-
-res10p.incipit = "…"
-res10p = ""
-
-res12p.incipit = "…"
-res12p = ""
-
-res13p.incipit = "…"
-res13p = ""
-
-res14p.incipit = "…"
-res14p = ""
-
-res15p.incipit = "…"
-res15p = ""
-
-res16p.incipit = "…"
-res16p = ""
-
 exc01.incipit = "…"
 exc01 = ""
 
@@ -1032,9 +978,6 @@ otr01b = ""
 verse_Angels.incipit = "…"
 verse_Angels.text = ""
 
-verseP_Angels.incipit = "…"
-verseP_Angels.text = ""
-
 verse_Apostle.incipit = "…"
 verse_Apostle.text = ""
 
@@ -1044,30 +987,17 @@ verse_Apostles.text = ""
 verse_ApostlesMartyrs.incipit = "…"
 verse_ApostlesMartyrs.text = ""
 
-verseP_ApostlesMartyrs.incipit = "…"
-verseP_ApostlesMartyrs.text = ""
-
 verse_Archangel.incipit = "…"
 verse_Archangel.text = ""
-
-verseP_Archangel.text = "()"
 
 verse_Archangels.incipit = "…"
 verse_Archangels.text = ""
 
-verseP_Archangels.text = "()"
-
 verse_Baptist.incipit = "…"
 verse_Baptist.text = ""
 
-verseP_Baptist.incipit = "…"
-verseP_Baptist.text = ""
-
 verse_Cross.incipit = "…"
 verse_Cross.text = ""
-
-verseP_Cross.incipit = "…"
-verseP_Cross.text = ""
 
 verse_Crucifixion.incipit = "…"
 verse_Crucifixion.text = ""
@@ -1087,26 +1017,14 @@ verse_God.text = ""
 verse_GreatMartyrs.incipit = "…"
 verse_GreatMartyrs.text = ""
 
-verseP_GreatMartyrs.incipit = "…"
-verseP_GreatMartyrs.text = ""
-
 verse_Hierarchs.incipit = "…"
 verse_Hierarchs.text = ""
-
-verseP_Hierarchs.incipit = "…"
-verseP_Hierarchs.text = ""
 
 verse_Nicholas.incipit = "…"
 verse_Nicholas.text = ""
 
-verseP_Nicholas.incipit = "…"
-verseP_Nicholas.text = ""
-
 verse_Panteleimon.incipit = "…"
 verse_Panteleimon.text = ""
-
-verseP_Panteleimon.incipit = "…"
-verseP_Panteleimon.text = ""
 
 verse_Prophet.incipit = "…"
 verse_Prophet.text = ""
@@ -1116,9 +1034,6 @@ verse_Resurrection.text = ""
 
 verse_Righteous.incipit = "…"
 verse_Righteous.text = ""
-
-verseP_Righteous.incipit = "…"
-verseP_Righteous.text = ""
 
 verse_SaintM.incipit = "…"
 verse_SaintM.text = ""
@@ -1135,23 +1050,12 @@ verse_SaintsW.text = ""
 verse_SoulSaturday.incipit = "…"
 verse_SoulSaturday.text = ""
 
-verseP_SoulSaturday.incipit = "…"
-verseP_SoulSaturday.text = ""
-
 verse_Theotokos.incipit = "…"
 verse_Theotokos.text = ""
-
-verseP_Theotokos.incipit = "…"
-verseP_Theotokos.text = ""
 
 verse_Trinity.incipit = "…"
 verse_Trinity.text = ""
 
-verseP_Trinity.incipit = "…"
-verseP_Trinity.text = ""
-
 verse_Unmercenaries.incipit = "…"
 verse_Unmercenaries.text = ""
 
-verseP_Unmercenaries.incipit = "…"
-verseP_Unmercenaries.text = ""
