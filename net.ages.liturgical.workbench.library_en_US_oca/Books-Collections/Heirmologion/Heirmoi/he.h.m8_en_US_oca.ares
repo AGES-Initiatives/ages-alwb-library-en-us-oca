@@ -125,6 +125,7 @@ EnPedioDeeira.notmetered = "(N/M)"
 EnPedioDeeira.mode = misc_en_US_oca.Mode8
 EnPedioDeeira.ode = misc_en_US_oca.Ode7
 EnPedioDeeira.text = ""
+
 EpevisEfIppous.name = " (N/M)"
 EpevisEfIppous.incipit = " (N/M)…"
 EpevisEfIppous.notmetered = "(N/M)"
@@ -159,60 +160,70 @@ EvlogitosOKyrios.notmetered = "(N/M)"
 EvlogitosOKyrios.mode = misc_en_US_oca.Mode8
 EvlogitosOKyrios.ode = misc_en_US_oca.Ode9
 EvlogitosOKyrios.text = ""
+
 ExOrousKataskiou.name = " (N/M)"
 ExOrousKataskiou.incipit = " (N/M)…"
 ExOrousKataskiou.notmetered = "(N/M)"
 ExOrousKataskiou.mode = misc_en_US_oca.Mode8
 ExOrousKataskiou.ode = misc_en_US_oca.Ode4
 ExOrousKataskiou.text = ""
+
 ExestiEpiTouto.name = " (N/M)"
 ExestiEpiTouto.incipit = " (N/M)…"
 ExestiEpiTouto.notmetered = "N/M (The heavens.)"
 ExestiEpiTouto.mode = misc_en_US_oca.Mode8
 ExestiEpiTouto.ode = misc_en_US_oca.Ode9
 ExestiEpiTouto.text = ""
+
 FotisonImas.name = " (N/M)"
 FotisonImas.incipit = " (N/M)…"
 FotisonImas.notmetered = "N/M (Sovereign Lord.)"
 FotisonImas.mode = misc_en_US_oca.Mode8
 FotisonImas.ode = misc_en_US_oca.Ode5
 FotisonImas.text = ""
+
 IKekommeni.name = " (N/M)"
 IKekommeni.incipit = " (N/M)…"
 IKekommeni.notmetered = "(N/M)"
 IKekommeni.mode = misc_en_US_oca.Mode8
 IKekommeni.ode = misc_en_US_oca.Ode1
 IKekommeni.text = ""
+
 IdeteIdeteOPrinGenesthai.name = " (N/M)"
 IdeteIdeteOPrinGenesthai.incipit = " (N/M)…"
 IdeteIdeteOPrinGenesthai.notmetered = "(N/M)"
 IdeteIdeteOPrinGenesthai.mode = misc_en_US_oca.Mode8
 IdeteIdeteOPrinGenesthai.ode = misc_en_US_oca.Ode2
 IdeteIdeteOPrinGenesthai.text = ""
+
 IdeteIdeteOKathierosas.name = " (N/M)"
 IdeteIdeteOKathierosas.incipit = " (N/M)…"
 IdeteIdeteOKathierosas.notmetered = "(N/M)"
 IdeteIdeteOKathierosas.mode = misc_en_US_oca.Mode8
 IdeteIdeteOKathierosas.ode = misc_en_US_oca.Ode2
 IdeteIdeteOKathierosas.text = ""
+
 IdeteIdeteOProTonAionon.name = " (N/M)"
 IdeteIdeteOProTonAionon.incipit = " (N/M)…"
 IdeteIdeteOProTonAionon.notmetered = "(N/M)"
 IdeteIdeteOProTonAionon.mode = misc_en_US_oca.Mode8
 IdeteIdeteOProTonAionon.ode = misc_en_US_oca.Ode2
 IdeteIdeteOProTonAionon.text = ""
+
 IdeteIdeteOPalaiTonIsrail.name = " (N/M)"
 IdeteIdeteOPalaiTonIsrail.incipit = " (N/M)…"
 IdeteIdeteOPalaiTonIsrail.notmetered = "(N/M)"
 IdeteIdeteOPalaiTonIsrail.mode = misc_en_US_oca.Mode8
 IdeteIdeteOPalaiTonIsrail.ode = misc_en_US_oca.Ode2
 IdeteIdeteOPalaiTonIsrail.text = ""
+
 IlasthitiMoiSotir.name = " (N/M)"
 IlasthitiMoiSotir.incipit = " (N/M)…"
 IlasthitiMoiSotir.notmetered = "N/M (Be gracious to me.)"
 IlasthitiMoiSotir.mode = misc_en_US_oca.Mode8
 IlasthitiMoiSotir.ode = misc_en_US_oca.Ode6
 IlasthitiMoiSotir.text = ""
+
 InaTiMeAposo.name = " (N/M)"
 InaTiMeAposo.incipit = " (N/M)…"
 InaTiMeAposo.notmetered = "N/M (Why, O Lord.)"
@@ -233,24 +244,28 @@ KyriosTheotokon.notmetered = "N/M (You are the Theotokos.)"
 KyriosTheotokon.mode = misc_en_US_oca.Mode8
 KyriosTheotokon.ode = misc_en_US_oca.Ode9
 KyriosTheotokon.text = ""
+
 MegalynomenSeTinMiteraTouFotos.name = " (N/M)"
 MegalynomenSeTinMiteraTouFotos.incipit = " (N/M)…"
 MegalynomenSeTinMiteraTouFotos.notmetered = "(N/M)"
 MegalynomenSeTinMiteraTouFotos.mode = misc_en_US_oca.Mode8
 MegalynomenSeTinMiteraTouFotos.ode = misc_en_US_oca.Ode9
 MegalynomenSeTinMiteraTouFotos.text = ""
+
 MegalynomenSeTinMiteraTouTheou.name = " (N/M)"
 MegalynomenSeTinMiteraTouTheou.incipit = " (N/M)…"
 MegalynomenSeTinMiteraTouTheou.notmetered = "(N/M)"
 MegalynomenSeTinMiteraTouTheou.mode = misc_en_US_oca.Mode8
 MegalynomenSeTinMiteraTouTheou.ode = misc_en_US_oca.Ode9
 MegalynomenSeTinMiteraTouTheou.text = ""
+
 MegalynomenSeTinPanamomon.name = " (N/M)"
 MegalynomenSeTinPanamomon.incipit = " (N/M)…"
 MegalynomenSeTinPanamomon.notmetered = "(N/M)"
 MegalynomenSeTinPanamomon.mode = misc_en_US_oca.Mode8
 MegalynomenSeTinPanamomon.ode = misc_en_US_oca.Ode9
 MegalynomenSeTinPanamomon.text = ""
+
 MousikonOrganon.name = " (N/M)"
 MousikonOrganon.incipit = " (N/M)…"
 MousikonOrganon.notmetered = "(N/M)"
@@ -271,6 +286,7 @@ MystikosOProfitis.notmetered = "(N/M)"
 MystikosOProfitis.mode = misc_en_US_oca.Mode8
 MystikosOProfitis.ode = misc_en_US_oca.Ode4
 MystikosOProfitis.text = ""
+
 NikitaiTyrannou.name = " (N/M)"
 NikitaiTyrannou.incipit = " (N/M)…"
 NikitaiTyrannou.notmetered = "N/M (By Your grace.)"
@@ -305,12 +321,14 @@ OEkNyktosAgnoias.notmetered = "(N/M)"
 OEkNyktosAgnoias.mode = misc_en_US_oca.Mode8
 OEkNyktosAgnoias.ode = misc_en_US_oca.Ode5
 OEkNyktosAgnoias.text = ""
+
 OEnArchiTinGin.name = " (N/M)"
 OEnArchiTinGin.incipit = " (N/M)…"
 OEnArchiTinGin.notmetered = "(N/M)"
 OEnArchiTinGin.mode = misc_en_US_oca.Mode8
 OEnArchiTinGin.ode = misc_en_US_oca.Ode7
 OEnArchiTinGin.text = ""
+
 OProfitisAvvakoum.name = " (N/M)"
 OProfitisAvvakoum.incipit = " (N/M)…"
 OProfitisAvvakoum.notmetered = "N/M (With his spiritual eyes.)"
@@ -331,18 +349,21 @@ OStereosasEnTiCheiriSou.notmetered = "(N/M)"
 OStereosasEnTiCheiriSou.mode = misc_en_US_oca.Mode8
 OStereosasEnTiCheiriSou.ode = misc_en_US_oca.Ode3
 OStereosasEnTiCheiriSou.text = ""
+
 OStereosasKatArchas.name = " (N/M)"
 OStereosasKatArchas.incipit = " (N/M)…"
 OStereosasKatArchas.notmetered = "N/M (In the beginning.)"
 OStereosasKatArchas.mode = misc_en_US_oca.Mode8
 OStereosasKatArchas.ode = misc_en_US_oca.Ode3
 OStereosasKatArchas.text = ""
+
 OStereosasLogo.name = " (N/M)"
 OStereosasLogo.incipit = " (N/M)…"
 OStereosasLogo.notmetered = "(N/M)"
 OStereosasLogo.mode = misc_en_US_oca.Mode8
 OStereosasLogo.ode = misc_en_US_oca.Ode3
 OStereosasLogo.text = ""
+
 OTousPaidasDrosisas.name = " (N/M)"
 OTousPaidasDrosisas.incipit = " (N/M)…"
 OTousPaidasDrosisas.notmetered = "(N/M)"
@@ -363,36 +384,42 @@ OiEkTisIoudaias.notmetered = "N/M (The Servants.)"
 OiEkTisIoudaias.mode = misc_en_US_oca.Mode8
 OiEkTisIoudaias.ode = misc_en_US_oca.Ode7
 OiEkTisIoudaias.text = ""
+
 OiTheorrimonesPaides.name = " (N/M)"
 OiTheorrimonesPaides.incipit = " (N/M)…"
 OiTheorrimonesPaides.notmetered = "(N/M)"
 OiTheorrimonesPaides.mode = misc_en_US_oca.Mode8
 OiTheorrimonesPaides.ode = misc_en_US_oca.Ode8
 OiTheorrimonesPaides.text = ""
+
 OiTisChaldaiasKaminou.name = " (N/M)"
 OiTisChaldaiasKaminou.incipit = " (N/M)…"
 OiTisChaldaiasKaminou.notmetered = "(N/M)"
 OiTisChaldaiasKaminou.mode = misc_en_US_oca.Mode8
 OiTisChaldaiasKaminou.ode = misc_en_US_oca.Ode7
 OiTisChaldaiasKaminou.text = ""
+
 OrousParilthes.name = " (N/M)"
 OrousParilthes.incipit = " (N/M)…"
 OrousParilthes.notmetered = "(N/M)"
 OrousParilthes.mode = misc_en_US_oca.Mode8
 OrousParilthes.ode = misc_en_US_oca.Ode9
 OrousParilthes.text = ""
+
 OrthrizeiToPnevmaMou.name = " (N/M)"
 OrthrizeiToPnevmaMou.incipit = " (N/M)…"
 OrthrizeiToPnevmaMou.notmetered = "(N/M)"
 OrthrizeiToPnevmaMou.mode = misc_en_US_oca.Mode8
 OrthrizeiToPnevmaMou.ode = misc_en_US_oca.Ode5
 OrthrizeiToPnevmaMou.text = ""
+
 OrthrizontesVoomenSoi.name = " (N/M)"
 OrthrizontesVoomenSoi.incipit = " (N/M)…"
 OrthrizontesVoomenSoi.notmetered = "(N/M)"
 OrthrizontesVoomenSoi.mode = misc_en_US_oca.Mode8
 OrthrizontesVoomenSoi.ode = misc_en_US_oca.Ode5
 OrthrizontesVoomenSoi.text = ""
+
 OsTonProfitinErryso.name = " (N/M)"
 OsTonProfitinErryso.incipit = " (N/M)…"
 OsTonProfitinErryso.notmetered = "(N/M)"
@@ -413,30 +440,35 @@ OukEstinAgios.notmetered = "(N/M)"
 OukEstinAgios.mode = misc_en_US_oca.Mode8
 OukEstinAgios.ode = misc_en_US_oca.Ode3
 OukEstinAgios.text = ""
+
 OuraniasApsidos.name = " (N/M)"
 OuraniasApsidos.incipit = " (N/M)…"
 OuraniasApsidos.notmetered = "N/M (O divine Master Builder.)"
 OuraniasApsidos.mode = misc_en_US_oca.Mode8
 OuraniasApsidos.ode = misc_en_US_oca.Ode3
 OuraniasApsidos.text = ""
+
 PaidesEvraion.name = " (N/M)"
 PaidesEvraion.incipit = " (N/M)…"
 PaidesEvraion.notmetered = "(N/M)"
 PaidesEvraion.mode = misc_en_US_oca.Mode8
 PaidesEvraion.ode = misc_en_US_oca.Ode7
 PaidesEvraion.text = ""
+
 PaidesTheoseveis.name = " (N/M)"
 PaidesTheoseveis.incipit = " (N/M)…"
 PaidesTheoseveis.notmetered = "(N/M)"
 PaidesTheoseveis.mode = misc_en_US_oca.Mode8
 PaidesTheoseveis.ode = misc_en_US_oca.Ode7
 PaidesTheoseveis.text = ""
+
 ProsTonDynamenonSozein.name = " (N/M)"
 ProsTonDynamenonSozein.incipit = " (N/M)…"
 ProsTonDynamenonSozein.notmetered = "(N/M)"
 ProsTonDynamenonSozein.mode = misc_en_US_oca.Mode8
 ProsTonDynamenonSozein.ode = misc_en_US_oca.Ode6
 ProsTonDynamenonSozein.text = ""
+
 ProsecheOurane.name = " (N/M)"
 ProsecheOurane.incipit = " (N/M)…"
 ProsecheOurane.notmetered = "(N/M)"
@@ -457,6 +489,7 @@ SeTinApeirogamon.notmetered = "(N/M)"
 SeTinApeirogamon.mode = misc_en_US_oca.Mode8
 SeTinApeirogamon.ode = misc_en_US_oca.Ode9
 SeTinApeirogamon.text = ""
+
 SeTinOuranou.name = " (N/M)"
 SeTinOuranou.incipit = " (N/M)…"
 SeTinOuranou.notmetered = "(N/M)"
@@ -477,60 +510,70 @@ StereomaMouSotir.notmetered = "(N/M)"
 StereomaMouSotir.mode = misc_en_US_oca.Mode8
 StereomaMouSotir.ode = misc_en_US_oca.Ode3
 StereomaMouSotir.text = ""
+
 StereosonImonTonNoun.name = " (N/M)"
 StereosonImonTonNoun.incipit = " (N/M)…"
 StereosonImonTonNoun.notmetered = "(N/M)"
 StereosonImonTonNoun.mode = misc_en_US_oca.Mode8
 StereosonImonTonNoun.ode = misc_en_US_oca.Ode3
 StereosonImonTonNoun.text = ""
+
 SyEiToStereoma.name = " (N/M)"
 SyEiToStereoma.incipit = " (N/M)…"
 SyEiToStereoma.notmetered = "N/M (Lord, You are the firm.)"
 SyEiToStereoma.mode = misc_en_US_oca.Mode8
 SyEiToStereoma.ode = misc_en_US_oca.Ode3
 SyEiToStereoma.text = ""
+
 SyMouIschys.name = " (N/M)"
 SyMouIschys.incipit = " (N/M)…"
 SyMouIschys.notmetered = "N/M (You are my strength.)"
 SyMouIschys.mode = misc_en_US_oca.Mode8
 SyMouIschys.ode = misc_en_US_oca.Ode4
 SyMouIschys.text = ""
+
 SynechomenonDexaiMe.name = " (N/M)"
 SynechomenonDexaiMe.incipit = " (N/M)…"
 SynechomenonDexaiMe.notmetered = "(N/M)"
 SynechomenonDexaiMe.mode = misc_en_US_oca.Mode8
 SynechomenonDexaiMe.ode = misc_en_US_oca.Ode6
 SynechomenonDexaiMe.text = ""
+
 ThalassanEpixas.name = " (N/M)"
 ThalassanEpixas.incipit = " (N/M)…"
 ThalassanEpixas.notmetered = "N/M (Lord, You congealed.)"
 ThalassanEpixas.mode = misc_en_US_oca.Mode8
 ThalassanEpixas.ode = misc_en_US_oca.Ode1
 ThalassanEpixas.text = ""
+
 TheouSynkatavasin.name = " (N/M)"
 TheouSynkatavasin.incipit = " (N/M)…"
 TheouSynkatavasin.notmetered = "N/M (The fire in Babylon.)"
 TheouSynkatavasin.mode = misc_en_US_oca.Mode8
 TheouSynkatavasin.ode = misc_en_US_oca.Ode7
 TheouSynkatavasin.text = ""
+
 TinAgninEndoxos.name = " (N/M)"
 TinAgninEndoxos.incipit = " (N/M)…"
 TinAgninEndoxos.notmetered = "N/M (The pure Theotokos.)"
 TinAgninEndoxos.mode = misc_en_US_oca.Mode8
 TinAgninEndoxos.ode = misc_en_US_oca.Ode9
 TinAgninEndoxos.text = ""
+
 TinDeisinEkcheo.name = " (N/M)"
 TinDeisinEkcheo.incipit = " (N/M)…"
 TinDeisinEkcheo.notmetered = "N/M (My prayer.)"
 TinDeisinEkcheo.mode = misc_en_US_oca.Mode8
 TinDeisinEkcheo.ode = misc_en_US_oca.Ode6
 TinDeisinEkcheo.text = ""
+
 TisTonPathonMeAchlyos.name = " (N/M)"
 TisTonPathonMeAchlyos.incipit = " (N/M)…"
 TisTonPathonMeAchlyos.notmetered = "(N/M)"
 TisTonPathonMeAchlyos.mode = misc_en_US_oca.Mode8
 TisTonPathonMeAchlyos.ode = misc_en_US_oca.Ode5
 TisTonPathonMeAchlyos.text = ""
+
 ToEktinaxanti.name = " (N/M)"
 ToEktinaxanti.incipit = " (N/M)…"
 ToEktinaxanti.notmetered = "(N/M)"
@@ -544,12 +587,14 @@ ToSyntripsantiPolemous.notmetered = "(N/M)"
 ToSyntripsantiPolemous.mode = misc_en_US_oca.Mode8
 ToSyntripsantiPolemous.ode = misc_en_US_oca.Ode1
 ToSyntripsantiPolemous.text = "Let us sing the praises of our Deliverer and God, ⁄ Who shattered the enemy with His mighty arm ⁄ and made Israel pass through the Red Sea, ⁄ for He has been glorified!"
+
 TonAnarchonVasilea.name = " (N/M)"
 TonAnarchonVasilea.incipit = " (N/M)…"
 TonAnarchonVasilea.notmetered = "(N/M)"
 TonAnarchonVasilea.mode = misc_en_US_oca.Mode8
 TonAnarchonVasilea.ode = misc_en_US_oca.Ode8
 TonAnarchonVasilea.text = ""
+
 TonAoratonMorfi.name = " (N/M)"
 TonAoratonMorfi.incipit = " (N/M)…"
 TonAoratonMorfi.notmetered = "(N/M)"
@@ -570,57 +615,67 @@ TonEkNyktosAgnosias.notmetered = "(N/M)"
 TonEkNyktosAgnosias.mode = misc_en_US_oca.Mode8
 TonEkNyktosAgnosias.ode = misc_en_US_oca.Ode5
 TonEkNyktosAgnosias.text = ""
+
 TonEkPatrosProAionon.name = " (N/M)"
 TonEkPatrosProAionon.incipit = " (N/M)…"
 TonEkPatrosProAionon.notmetered = "(N/M)"
 TonEkPatrosProAionon.mode = misc_en_US_oca.Mode8
 TonEkPatrosProAionon.ode = misc_en_US_oca.Ode8
 TonEkPatrosProAionon.text = ""
+
 TonEnOreiAgio.name = " (N/M)"
 TonEnOreiAgio.incipit = " (N/M)…"
 TonEnOreiAgio.notmetered = "N/M (O extol Him.)"
 TonEnOreiAgio.mode = misc_en_US_oca.Mode8
 TonEnOreiAgio.ode = misc_en_US_oca.Ode8
 TonEnOreiAgio.text = ""
+
 TonFovonSouKyrie.name = " (N/M)"
 TonFovonSouKyrie.incipit = " (N/M)…"
 TonFovonSouKyrie.notmetered = "(N/M)"
 TonFovonSouKyrie.mode = misc_en_US_oca.Mode8
 TonFovonSouKyrie.ode = misc_en_US_oca.Ode3
 TonFovonSouKyrie.text = ""
+
 TonIonanEnToKitei.name = " (N/M)"
 TonIonanEnToKitei.incipit = " (N/M)…"
 TonIonanEnToKitei.notmetered = "(N/M)"
 TonIonanEnToKitei.mode = misc_en_US_oca.Mode8
 TonIonanEnToKitei.ode = misc_en_US_oca.Ode6
 TonIonanEnToKitei.text = ""
+
 TonIsrailEkDouleias.name = " (N/M)"
 TonIsrailEkDouleias.incipit = " (N/M)…"
 TonIsrailEkDouleias.notmetered = "(N/M)"
 TonIsrailEkDouleias.mode = misc_en_US_oca.Mode8
 TonIsrailEkDouleias.ode = misc_en_US_oca.Ode1
 TonIsrailEkDouleias.text = ""
+
 TonProdilothenta.name = " (N/M)"
 TonProdilothenta.incipit = " (N/M)…"
 TonProdilothenta.notmetered = "N/M (Let us sing to Him.)"
 TonProdilothenta.mode = misc_en_US_oca.Mode8
 TonProdilothenta.ode = misc_en_US_oca.Ode9
 TonProdilothenta.text = ""
+
 TonVasileaTonOuranon.name = " (N/M)"
 TonVasileaTonOuranon.incipit = " (N/M)…"
 TonVasileaTonOuranon.notmetered = "N/M (O praise and bless Him.)"
 TonVasileaTonOuranon.mode = misc_en_US_oca.Mode8
 TonVasileaTonOuranon.ode = misc_en_US_oca.Ode8
 TonVasileaTonOuranon.text = ""
+
 TonZofonTisPsychisMou.name = " (N/M)"
 TonZofonTisPsychisMou.incipit = " (N/M)…"
 TonZofonTisPsychisMou.notmetered = "(N/M)"
 TonZofonTisPsychisMou.mode = misc_en_US_oca.Mode8
 TonZofonTisPsychisMou.ode = misc_en_US_oca.Ode5
 TonZofonTisPsychisMou.text = ""
+
 YgranDiodefsas.name = " (N/M)"
 YgranDiodefsas.incipit = " (N/M)…"
 YgranDiodefsas.notmetered = "N/M (Of old when the Israelite.)"
 YgranDiodefsas.mode = misc_en_US_oca.Mode8
 YgranDiodefsas.ode = misc_en_US_oca.Ode1
 YgranDiodefsas.text = ""
+
