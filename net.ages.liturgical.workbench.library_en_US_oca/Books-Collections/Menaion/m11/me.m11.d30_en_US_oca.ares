@@ -19,18 +19,18 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_oca.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
+meVE.Stichera01.incipit = "When He Who is called…"
+meVE.Stichera01.text = "When He Who is called the Morning Star, ⁄ the Splendor of the glory of the eternal Father, ⁄ in His great mercy took up His abode on earth, ⁄ you, glorious Andrew, were the first to meet Him ⁄ for your heart was enlightened with the perfect brightness of His divinity. ⁄ We bless you as the herald of the apostles of Christ our God! ⁄⁄ Pray that He may enlighten and save our souls!"
 
 meVE.Stichera02.mode = misc_en_US_oca.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
+meVE.Stichera02.incipit = "When the Lamb of God…"
+meVE.Stichera02.text = "When the Lamb of God, who takes away the sins of the world, ⁄ was incarnate bringing life and salvation to all the earth, ⁄ you hearkened to the voice of the Forerunner ⁄ and were the first to follow Him. ⁄ You were offered to Him as the first fruits of the human race! ⁄ ​ You proclaimed to Peter, your brother: \"We have found the Messiah.\" ⁄⁄ Holy Andrew, pray that He may enlighten and save our souls."
 
 meVE.Stichera03.mode = misc_en_US_oca.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
+meVE.Stichera03.incipit = "When He Who clothed Himself…"
+meVE.Stichera03.text = "When He Who clothed Himself in human flesh, ⁄ taking our nature from the fruitful womb of the Virgin, ⁄ appeared on earth as the Teacher of Righteousness, ⁄ your heart was made glad, Andrew, lover of purity! ⁄ He raised you from earth to the ineffable glory of God! ⁄⁄ Pray that He may enlighten and save our souls."
 
 meVE.MM.Stichera1123as78910.text = "" // for media
 
@@ -53,13 +53,13 @@ meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_oca.Mode1
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = "…"
-meVE.Lity2.text = ""
+meVE.Lity2.incipit = "Faithful, let us hymn Andrew…"
+meVE.Lity2.text = "Faithful, let us hymn Andrew, the kinsman of Peter, ⁄ the disciple of Christ! ⁄ For once he caught fish, dragging the sea with nets, ⁄ but now he captures the whole world with the rod of the Cross! ⁄ He converts the gentiles from delusion to baptism ⁄⁄ and standing before Christ he entreats peace for the world and great mercy for our souls!"
 
 meVE.Lity3.mode = misc_en_US_oca.Mode1
 meVE.Lity3.melody = ""
 meVE.Lity3.incipit = "…"
-meVE.Lity3.text = ""
+meVE.Lity3.text = "The apostle and disciple of Christ, ⁄ receiving within his heard the spiritual fire which enlightens souls and burns up sin, ⁄ is radiant today with the mystical rays of his teachings ⁄ which enlighten the hearts of the darkened pagans. ⁄ He burns up the fables and false constructions of the gentiles like kindling, ⁄ for the fire of the Spirit has such power! ⁄ O strange and awesome wonder! ⁄ A tongue of clay, a nature of clay and a body of dust ⁄ receives spiritual and immaterial knowledge! ⁄ Yet, initiate of ineffable mysteries and seer of heavenly things, ⁄⁄ Pray that our souls may be enlightened!"
 
 meVE.Lity4.mode = misc_en_US_oca.Mode8
 meVE.Lity4.melody = ""
@@ -69,8 +69,8 @@ meVE.Lity4.text = ""
 meVE.LityGlory.poet = poets_en_US_oca.AndreouIerosolymitouOiDeAnatoliou
 meVE.LityGlory.mode = misc_en_US_oca.Mode8
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = "Let us praise Andrew…"
+meVE.LityGlory.text = "Let us praise Andrew, the preacher of faith ⁄ and the servant of the Word! ⁄ He has drawn men from the abyss with the Cross in place of a rod. ⁄ Lowering a line of power, he leads souls up from the deception of the enemy ⁄ and ever offers them to God as an acceptable Gift! ⁄ Let us praise him, faithful, among the choir of the disciples of Christ, ⁄⁄ that with them he may pray that Christ will be merciful to us on the day of Judgment!"
 
 meVE.LityBoth.mode = misc_en_US_oca.Mode8
 meVE.LityBoth.melody = ""
@@ -80,23 +80,23 @@ meVE.LityBoth.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
 meVE.Aposticha1.mode = misc_en_US_oca.Mode5
 meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "Rejoice, O heaven! ⁄ Proclaim everywhere the Glory of God! ⁄ Today the first-called apostle stands in our midst. ⁄ He was the first to obey the Lord with fervor! ⁄ United to Him, he was enkindled by His love. ⁄ He is the reflection of the Savior's love for mankind, ⁄ for His rays enlighten those who dwell in darkness and the shadow of death! ⁄ We rejoice in his holy memory, ⁄⁄ for through his prayers health and blessing are given to us!"
 
 meVE.Aposticha2.mode = misc_en_US_oca.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.incipit = "Rejoice, Andrew, the first-called…"
+meVE.Aposticha2.text = "Rejoice, Andrew, the first-called apostle! ⁄ You are the imitator of the passion of Christ. ⁄ With the cross as your hook you drew us up from the sea of ignorance, ⁄ offering us to the Lord of Glory. ⁄ Therefore we the faithful, delivered from evil, cry out to God: ⁄ Merciful Lord, through the prayers of your apostle, ⁄⁄ grant peace to our lives and salvation to our souls!"
 
 meVE.Aposticha3.mode = misc_en_US_oca.Mode5
 meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.incipit = "Your preaching gives light…"
+meVE.Aposticha3.text = "Your preaching gives light to Godless nations, ⁄ glorious vessel of the ruler of the sea! ⁄ Your wisdom calms the stormy waves. ⁄ You are the salt of the earth, seasoning us with incorruption, ⁄ silencing the ravings of clever orators! ⁄ By his prayers, deliver us from the proud ones of the earth, O Lord, ⁄⁄ grant purity to our hearts and salvation to our souls."
 
 meVE.AposGlory.poet = poets_en_US_oca.Germanou
 meVE.AposGlory.mode = misc_en_US_oca.Mode3
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Apostle Andrew, we honor you…"
+meVE.AposGlory.text = "Apostle Andrew, we honor you in Songs, ⁄ brother of Peter and disciple of Christ, ⁄ fisherman and fisher of men, ⁄ you shaped all dogmas with the wisdom of Christ. ⁄ As fish are lured into a net, ⁄ so you caught transgressors with the bait of truth. ⁄⁄ through his prayers, O Christ, grant us peace and great mercy."
 
 meVE.AposBoth.mode = misc_en_US_oca.Mode3
 meVE.AposBoth.melody = ""
@@ -223,38 +223,38 @@ meMA.C3.verse = prayers_en_US_oca.verse_Apostle.text
 meMA.Ode1C31.ode = misc_en_US_oca.Ode1
 meMA.Ode1C31.mode = misc_en_US_oca.Mode1
 meMA.Ode1C31.melody = he.h.m1_en_US_oca.ODiaStylouPyros.notmetered
-meMA.Ode1C31.incipit = "…"
-meMA.Ode1C31.text = ""
+meMA.Ode1C31.incipit = "You fished with the rod…"
+meMA.Ode1C31.text = "You fished with the rod of the Gospel, all-praised Andrew, ⁄ drawing men out from the sea of falsehood, as Christ promised. ⁄ He taught you to seek men instead of fish!"
 
 meMA.Ode1C32.ode = misc_en_US_oca.Ode1
 meMA.Ode1C32.mode = misc_en_US_oca.Mode1
 meMA.Ode1C32.melody = he.h.m1_en_US_oca.ODiaStylouPyros.notmetered
 meMA.Ode1C32.incipit = "…"
-meMA.Ode1C32.text = ""
+meMA.Ode1C32.text = "The divinely inspired Andrew, ⁄ the pillar of the Faith and seat of the true teachings of Christ, ⁄ today summons all the ends of the earth to celebrate his yearly festival. ⁄ Faithful, let us quickly gather!"
 
 meMA.Ode1C33.ode = misc_en_US_oca.Ode1
 meMA.Ode1C33.mode = misc_en_US_oca.Mode1
 meMA.Ode1C33.melody = he.h.m1_en_US_oca.ODiaStylouPyros.notmetered
 meMA.Ode1C33.incipit = "…"
-meMA.Ode1C33.text = ""
+meMA.Ode1C33.text = "You pursued the sea-monster with nets; ⁄ with the skill of a fisherman you fish for nations tribes and peoples ⁄ with the net of the Spirit! ⁄ You openly and plainly show us through that same Spirit, ⁄ great heights and depths, most wondrous one!"
 
 meMA.Ode1C34.ode = misc_en_US_oca.Ode1
 meMA.Ode1C34.mode = misc_en_US_oca.Mode1
 meMA.Ode1C34.melody = he.h.m1_en_US_oca.ODiaStylouPyros.notmetered
 meMA.Ode1C34.incipit = "…"
-meMA.Ode1C34.text = ""
+meMA.Ode1C34.text = "You solemnized the mysteries of heaven ⁄ and were an eyewitness and preacher of the ineffable knowledge of Christ. ⁄ You received the Holy Spirit from on high ⁄ Who teaches and dwells among the nations distributing gifts with fire. ⁄ Pray, Andrew, that we may be saved."
 
 meMA.Ode1C3Tr.ode = misc_en_US_oca.Ode1
 meMA.Ode1C3Tr.mode = misc_en_US_oca.Mode1
 meMA.Ode1C3Tr.melody = he.h.m1_en_US_oca.ODiaStylouPyros.notmetered
 meMA.Ode1C3Tr.incipit = "…"
-meMA.Ode1C3Tr.text = ""
+meMA.Ode1C3Tr.text = "I worship in faith the supernatural Unity ⁄ of the all-unoriginate Trinity, not dividing the Divinity. ⁄ For It is of a single substance, simple and indivisible. ⁄ I unite It by essence and distinguish by faith the three Persons."
 
 meMA.Ode1C3T.ode = misc_en_US_oca.Ode1
 meMA.Ode1C3T.mode = misc_en_US_oca.Mode1
 meMA.Ode1C3T.melody = he.h.m1_en_US_oca.ODiaStylouPyros.notmetered
 meMA.Ode1C3T.incipit = "…"
-meMA.Ode1C3T.text = ""
+meMA.Ode1C3T.text = "God is born to the Virgin as an Infant ⁄ and He renews that which through Adam, had become corrupt. ⁄ He breaks down the dividing wall and chamber of enmity with His flesh. ⁄ Coming forth from His all-pure Mother, He abolishes the curse of Eve."
 
 meMA.Ode3C1H.ode = misc_en_US_oca.Ode3
 meMA.Ode3C1H.mode = misc_en_US_oca.Mode1
@@ -313,53 +313,53 @@ meMA.Ode3C2T.text = ""
 meMA.Ode3C31.ode = misc_en_US_oca.Ode3
 meMA.Ode3C31.mode = misc_en_US_oca.Mode1
 meMA.Ode3C31.melody = he.h.m1_en_US_oca.StereothitoIKardiaMou.notmetered
-meMA.Ode3C31.incipit = "…"
-meMA.Ode3C31.text = ""
+meMA.Ode3C31.incipit = "Cephas and Andrew…"
+meMA.Ode3C31.text = "Cephas and Andrew immediately followed Christ, ⁄ Who called them, saying: Come, follow Me! ⁄ They left their Father, their boat and their nets, ⁄ for they were given a vision of the faith."
 
 meMA.Ode3C32.ode = misc_en_US_oca.Ode3
 meMA.Ode3C32.mode = misc_en_US_oca.Mode1
 meMA.Ode3C32.melody = he.h.m1_en_US_oca.StereothitoIKardiaMou.notmetered
 meMA.Ode3C32.incipit = "…"
-meMA.Ode3C32.text = ""
+meMA.Ode3C32.text = "Transforming pagan temples into churches, most honored one, ⁄ you sanctified there the Sons of baptism ⁄ whom grace had renewed through water and the Spirit."
 
 meMA.Ode3C33.ode = misc_en_US_oca.Ode3
 meMA.Ode3C33.mode = misc_en_US_oca.Mode1
 meMA.Ode3C33.melody = he.h.m1_en_US_oca.StereothitoIKardiaMou.notmetered
 meMA.Ode3C33.incipit = "…"
-meMA.Ode3C33.text = ""
+meMA.Ode3C33.text = "You mystically set before the world the pearl of great price ⁄ which was hidden within the field of your heart, apostle. ⁄ The gentiles found it and treasured it with faith!"
 
 meMA.Ode3C34.ode = misc_en_US_oca.Ode3
 meMA.Ode3C34.mode = misc_en_US_oca.Mode1
 meMA.Ode3C34.melody = he.h.m1_en_US_oca.StereothitoIKardiaMou.notmetered
 meMA.Ode3C34.incipit = "…"
-meMA.Ode3C34.text = ""
+meMA.Ode3C34.text = "Taking up the Gospel in your hands as a treasure, ⁄ greatly praised one, ⁄ you enriched all the earth with your divine preaching. ⁄ Therefore, it honors your memory and your sufferings."
 
 meMA.Ode3C3Tr.ode = misc_en_US_oca.Ode3
 meMA.Ode3C3Tr.mode = misc_en_US_oca.Mode1
 meMA.Ode3C3Tr.melody = he.h.m1_en_US_oca.StereothitoIKardiaMou.notmetered
 meMA.Ode3C3Tr.incipit = "…"
-meMA.Ode3C3Tr.text = ""
+meMA.Ode3C3Tr.text = "Let us all sing hymns in an Orthodox manner ⁄ to the one power of the unoriginate, uncreated God, ⁄ in Trinity, consubstantial and equally enthroned, ⁄ three in Persons and in lights!"
 
 meMA.Ode3C3T.ode = misc_en_US_oca.Ode3
 meMA.Ode3C3T.mode = misc_en_US_oca.Mode1
 meMA.Ode3C3T.melody = he.h.m1_en_US_oca.StereothitoIKardiaMou.notmetered
 meMA.Ode3C3T.incipit = "…"
-meMA.Ode3C3T.text = ""
+meMA.Ode3C3T.text = "Every Mother that bears a child ⁄ can no longer be a Virgin, ⁄ but You, Virgin Mother, remained so, ⁄ after giving birth to Christ, ⁄ nourishing our Life with milk and remaining pure!"
 
 meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
-meMA.Ode3Kathisma1.incipit = "…"
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.incipit = "We fittingly honor you…"
+meMA.Ode3Kathisma1.text = "We fittingly honor you, apostle Andrew, as the first-called of all the disciples; ⁄ an eyewitness and minister of the Word. ⁄ You followed the Lamb that takes away the sins of the world ⁄ with fervor and unwavering faith! ⁄ You later showed yourself to be a sharer in the sufferings of Him ⁄ Who willingly endured death for our sake. ⁄ Therefore we cry to you: Pray to Christ our God, that He may grant remission of sins ⁄⁄ to those who celebrate your holy memory with love!"
 
 meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode8
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
-meMA.Ode3Kathisma2.incipit = "…"
-meMA.Ode3Kathisma2.text = ""
+meMA.Ode3Kathisma2.incipit = "Destroying the boldness…"
+meMA.Ode3Kathisma2.text = "Destroying the boldness of the idols and yearning for the sufferings of Christ, ⁄ you revealed yourself to be an apostle, blessed one, ⁄ raining down wonders from heaven and teaching the nations, most blessed one! ⁄ Therefore, fittingly honoring your memory in hymns, ⁄ we glorify and magnify you, apostle of the Lord, in faith. ⁄ Pray to Christ God that He may grant remission of sins ⁄ to those who celebrate your holy memory with love!"
 
 meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = //me.m08.d25_en_US_oca.meMA.Ode3KathismaT.text
+meMA.Ode3KathismaT.incipit = me.m08.d25_en_US_oca.meMA.Ode3KathismaT.incipit
+meMA.Ode3KathismaT.text = me.m08.d25_en_US_oca.meMA.Ode3KathismaT.text
 
 meMA.Ode4C1H.ode = misc_en_US_oca.Ode4
 meMA.Ode4C1H.mode = misc_en_US_oca.Mode1
@@ -419,37 +419,37 @@ meMA.Ode4C31.ode = misc_en_US_oca.Ode4
 meMA.Ode4C31.mode = misc_en_US_oca.Mode1
 meMA.Ode4C31.melody = he.h.m1_en_US_oca.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C31.incipit = "…"
-meMA.Ode4C31.text = ""
+meMA.Ode4C31.text = "You cast aside your nets and took up the Cross; ⁄ you followed after Christ Who called you. ⁄ Stretching out the net of the Spirit, ⁄ you caught men instead of fish. ⁄ Glory to Him Who gave you the Spirit!"
 
 meMA.Ode4C32.ode = misc_en_US_oca.Ode4
 meMA.Ode4C32.mode = misc_en_US_oca.Mode1
 meMA.Ode4C32.melody = he.h.m1_en_US_oca.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C32.incipit = "…"
-meMA.Ode4C32.text = ""
+meMA.Ode4C32.text = "You received the fiery tongue of the Spirit ⁄ and became a man well-pleasing to God, apostle. ⁄ You traversed the glories of the heavens ⁄ recognizing their Spiritual beauty and revealing it to us."
 
 meMA.Ode4C33.ode = misc_en_US_oca.Ode4
 meMA.Ode4C33.mode = misc_en_US_oca.Mode1
 meMA.Ode4C33.melody = he.h.m1_en_US_oca.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C33.incipit = "…"
-meMA.Ode4C33.text = ""
+meMA.Ode4C33.text = "You watered the parched desert with your divine Words ⁄ and showed it to be fertile, wise one, ⁄ bearing fruit, the children of the Church, ⁄ through the spreading of the seed. ⁄ Glory to Him Who gave you the Spirit!"
 
 meMA.Ode4C34.ode = misc_en_US_oca.Ode4
 meMA.Ode4C34.mode = misc_en_US_oca.Mode1
 meMA.Ode4C34.melody = he.h.m1_en_US_oca.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C34.incipit = "…"
-meMA.Ode4C34.text = ""
+meMA.Ode4C34.text = "Perceiving Your ineffable goodness, O Jesus, ⁄ Andrew summoned his kinsman, saying to Peter: ⁄ My blood kinsman, we have found the Messiah ⁄ Who was proclaimed in the Law and the Prophets! ⁄ Come, let us truly join ourselves to Life!"
 
 meMA.Ode4C3Tr.ode = misc_en_US_oca.Ode4
 meMA.Ode4C3Tr.mode = misc_en_US_oca.Mode1
 meMA.Ode4C3Tr.melody = he.h.m1_en_US_oca.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C3Tr.incipit = "…"
-meMA.Ode4C3Tr.text = ""
+meMA.Ode4C3Tr.text = "Faithful, let us hymn the Trinity in Unity, ⁄ the Father, Son and divine Spirit, ⁄ One in Divinity, Essence and Nature, ⁄ indivisible, inseparable and undivided, ⁄ for He is One God in three Persons."
 
 meMA.Ode4C3T.ode = misc_en_US_oca.Ode4
 meMA.Ode4C3T.mode = misc_en_US_oca.Mode1
 meMA.Ode4C3T.melody = he.h.m1_en_US_oca.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C3T.incipit = "…"
-meMA.Ode4C3T.text = ""
+meMA.Ode4C3T.text = "You ineffably conceived One of the Trinity in your womb; ⁄ you gave birth to Him without corruption as a Son, ⁄ yet the Trinity was never added to in time! ⁄ As you were pure before you gave birth, you were kept whole, O Mother of God!"
 
 meMA.Ode5C1H.ode = misc_en_US_oca.Ode5
 meMA.Ode5C1H.mode = misc_en_US_oca.Mode1
@@ -509,37 +509,37 @@ meMA.Ode5C31.ode = misc_en_US_oca.Ode5
 meMA.Ode5C31.mode = misc_en_US_oca.Mode1
 meMA.Ode5C31.melody = he.h.m1_en_US_oca.KatavgasonImon.notmetered
 meMA.Ode5C31.incipit = "…"
-meMA.Ode5C31.text = ""
+meMA.Ode5C31.text = "You yearned for the Cross, disciple of Christ, ⁄ and through your cross you obtained the incorruptible kingdom ⁄ into which you draw all the initiates of God with the Cross. ⁄ As we proclaim God's own Words about the Cross, ⁄ you grant an inheritance to us!"
 
 meMA.Ode5C32.ode = misc_en_US_oca.Ode5
 meMA.Ode5C32.mode = misc_en_US_oca.Mode1
 meMA.Ode5C32.melody = he.h.m1_en_US_oca.KatavgasonImon.notmetered
 meMA.Ode5C32.incipit = "…"
-meMA.Ode5C32.text = ""
+meMA.Ode5C32.text = "You truly sought for Christ our Life, ⁄ and having searched, you were the first to find Him. ⁄ Having found Him, you mystically embraced Him! ⁄ You received incorruptible Life from the Giver ⁄ becoming a treasury of this life."
 
 meMA.Ode5C33.ode = misc_en_US_oca.Ode5
 meMA.Ode5C33.mode = misc_en_US_oca.Mode1
 meMA.Ode5C33.melody = he.h.m1_en_US_oca.KatavgasonImon.notmetered
 meMA.Ode5C33.incipit = "…"
-meMA.Ode5C33.text = ""
+meMA.Ode5C33.text = "The proclamation of your divine thunder ⁄ went out and encompassed all the ends of the earth! ⁄ As David said, your lightning has appeared to all the world."
 
 meMA.Ode5C34.ode = misc_en_US_oca.Ode5
 meMA.Ode5C34.mode = misc_en_US_oca.Mode1
 meMA.Ode5C34.melody = he.h.m1_en_US_oca.KatavgasonImon.notmetered
 meMA.Ode5C34.incipit = "…"
-meMA.Ode5C34.text = ""
+meMA.Ode5C34.text = "Remember us, disciple of Christ, ⁄ as we celebrate your memory and venerate your relics. ⁄ Ever pray with fervor on behalf of the flock ⁄ which you have preserved and saved from the beginning!"
 
 meMA.Ode5C3Tr.ode = misc_en_US_oca.Ode5
 meMA.Ode5C3Tr.mode = misc_en_US_oca.Mode1
 meMA.Ode5C3Tr.melody = he.h.m1_en_US_oca.KatavgasonImon.notmetered
 meMA.Ode5C3Tr.incipit = "…"
-meMA.Ode5C3Tr.text = ""
+meMA.Ode5C3Tr.text = "Faithful, let us together glorify God: ⁄ the Father, Son and Holy Spirit, ⁄ the indivisible Trinity, the tri-personal Kingdom, ⁄ glorifying Him in faith with eternal theology."
 
 meMA.Ode5C3T.ode = misc_en_US_oca.Ode5
 meMA.Ode5C3T.mode = misc_en_US_oca.Mode1
 meMA.Ode5C3T.melody = he.h.m1_en_US_oca.KatavgasonImon.notmetered
 meMA.Ode5C3T.incipit = "…"
-meMA.Ode5C3T.text = ""
+meMA.Ode5C3T.text = "You gave birth to the Light beyond understanding; ⁄ you bear the lamp of the Light of the Sun! ⁄ You were a new tabernacle of divine light, ⁄ sending rays of divine knowledge out to all the world."
 
 meMA.Ode6C1H.ode = misc_en_US_oca.Ode6
 meMA.Ode6C1H.mode = misc_en_US_oca.Mode1
@@ -598,38 +598,38 @@ meMA.Ode6C2T.text = ""
 meMA.Ode6C31.ode = misc_en_US_oca.Ode6
 meMA.Ode6C31.mode = misc_en_US_oca.Mode1
 meMA.Ode6C31.melody = he.h.m1_en_US_oca.TonProfitinIonan.notmetered
-meMA.Ode6C31.incipit = "…"
-meMA.Ode6C31.text = ""
+meMA.Ode6C31.incipit = "The one who was called…"
+meMA.Ode6C31.text = "The one who was called from Bethsaida ⁄ summons us to keep the feast! ⁄ He sets before us in splendor ⁄ the commemoration of his struggles."
 
 meMA.Ode6C32.ode = misc_en_US_oca.Ode6
 meMA.Ode6C32.mode = misc_en_US_oca.Mode1
 meMA.Ode6C32.melody = he.h.m1_en_US_oca.TonProfitinIonan.notmetered
 meMA.Ode6C32.incipit = "…"
-meMA.Ode6C32.text = ""
+meMA.Ode6C32.text = "By trade a fisherman, by faith a disciple, ⁄ he plumbed the depths of the heart of the faithful. ⁄ He lowers the hook of the Word and catches us!"
 
 meMA.Ode6C33.ode = misc_en_US_oca.Ode6
 meMA.Ode6C33.mode = misc_en_US_oca.Mode1
 meMA.Ode6C33.melody = he.h.m1_en_US_oca.TonProfitinIonan.notmetered
 meMA.Ode6C33.incipit = "…"
-meMA.Ode6C33.text = ""
+meMA.Ode6C33.text = "Spreading the fire of the love of Christ within your heart, ⁄ you went out to the gentiles, disciple. ⁄ Your flame burns for Christ, who has truly appeared!"
 
 meMA.Ode6C34.ode = misc_en_US_oca.Ode6
 meMA.Ode6C34.mode = misc_en_US_oca.Mode1
 meMA.Ode6C34.melody = he.h.m1_en_US_oca.TonProfitinIonan.notmetered
 meMA.Ode6C34.incipit = "…"
-meMA.Ode6C34.text = ""
+meMA.Ode6C34.text = "You seasoned your mind with the salt of Christ; ⁄ your wages have sweetened the heavenly teachings ⁄ bringing us unfading delight."
 
 meMA.Ode6C3Tr.ode = misc_en_US_oca.Ode6
 meMA.Ode6C3Tr.mode = misc_en_US_oca.Mode1
 meMA.Ode6C3Tr.melody = he.h.m1_en_US_oca.TonProfitinIonan.notmetered
 meMA.Ode6C3Tr.incipit = "…"
-meMA.Ode6C3Tr.text = ""
+meMA.Ode6C3Tr.text = "Faithful, let us worship the Father, Son and true Spirit, ⁄ the tri-personal, indivisible Essence. ⁄ Let us cry out: Glory to God in Trinity!"
 
 meMA.Ode6C3T.ode = misc_en_US_oca.Ode6
 meMA.Ode6C3T.mode = misc_en_US_oca.Mode1
 meMA.Ode6C3T.melody = he.h.m1_en_US_oca.TonProfitinIonan.notmetered
 meMA.Ode6C3T.incipit = "…"
-meMA.Ode6C3T.text = ""
+meMA.Ode6C3T.text = "The Son was incarnate in your womb, O pure one, ⁄ by the good pleasure of the Father and through the Holy Spirit. ⁄ He openly saved mankind that had been created in His image."
 
 meMA.Kontakion1.mode = misc_en_US_oca.Mode6
 meMA.Kontakion1.melody = he.a.m6_en_US_oca.TinEnPresveiais.notmetered
@@ -696,37 +696,37 @@ meMA.Ode7C31.ode = misc_en_US_oca.Ode7
 meMA.Ode7C31.mode = misc_en_US_oca.Mode1
 meMA.Ode7C31.melody = he.h.m1_en_US_oca.TousEnKaminoPaidas.notmetered
 meMA.Ode7C31.incipit = "…"
-meMA.Ode7C31.text = ""
+meMA.Ode7C31.text = "The fire of the Holy Spirit, descending from on high, ⁄  commanded you, apostle of Christ, to proclaim His mighty works ⁄ in new languages which you had never spoken before ⁄ to the ends of the earth!"
 
 meMA.Ode7C32.ode = misc_en_US_oca.Ode7
 meMA.Ode7C32.mode = misc_en_US_oca.Mode1
 meMA.Ode7C32.melody = he.h.m1_en_US_oca.TousEnKaminoPaidas.notmetered
 meMA.Ode7C32.incipit = "…"
-meMA.Ode7C32.text = ""
+meMA.Ode7C32.text = "Initiates of the mysteries of Christ ⁄ and beholders of exalted things, ⁄ as the twelve, you have enlightened the darkness of the earth, ⁄ astonishing the minds of all ⁄ by the proclamation you trumpeted out to all the world!"
 
 meMA.Ode7C33.ode = misc_en_US_oca.Ode7
 meMA.Ode7C33.mode = misc_en_US_oca.Mode1
 meMA.Ode7C33.melody = he.h.m1_en_US_oca.TousEnKaminoPaidas.notmetered
 meMA.Ode7C33.incipit = "…"
-meMA.Ode7C33.text = ""
+meMA.Ode7C33.text = "Wondrous was your grace, O Master Christ, ⁄ in Your divinely wise disciples. ⁄ As simple and humble men, ⁄ they traveled through all the ends of the earth!"
 
 meMA.Ode7C34.ode = misc_en_US_oca.Ode7
 meMA.Ode7C34.mode = misc_en_US_oca.Mode1
 meMA.Ode7C34.melody = he.h.m1_en_US_oca.TousEnKaminoPaidas.notmetered
 meMA.Ode7C34.incipit = "…"
-meMA.Ode7C34.text = ""
+meMA.Ode7C34.text = "Who taught you to speak as you do, apostle? ⁄ Who enlightened your mind ⁄ to behold clearly the radiance of unapproachable Glory ⁄ which shines the light of truth into our hearts?"
 
 meMA.Ode7C3Tr.ode = misc_en_US_oca.Ode7
 meMA.Ode7C3Tr.mode = misc_en_US_oca.Mode1
 meMA.Ode7C3Tr.melody = he.h.m1_en_US_oca.TousEnKaminoPaidas.notmetered
 meMA.Ode7C3Tr.incipit = "…"
-meMA.Ode7C3Tr.text = ""
+meMA.Ode7C3Tr.text = "Faithful, let us sing hymns to the Trinity, ⁄ glorifying the unoriginate Father, ⁄ the Son and the righteous Spirit: ⁄ the single Essence! ⁄ Let us chant: Holy, holy, holy are You forever!"
 
 meMA.Ode7C3T.ode = misc_en_US_oca.Ode7
 meMA.Ode7C3T.mode = misc_en_US_oca.Mode1
 meMA.Ode7C3T.melody = he.h.m1_en_US_oca.TousEnKaminoPaidas.notmetered
 meMA.Ode7C3T.incipit = "…"
-meMA.Ode7C3T.text = ""
+meMA.Ode7C3T.text = "We glorify You, O Christ, as One of the Trinity, ⁄ for without change, You were incarnate of the Virgin. ⁄ Jesus, You bore all things as a man, united to us, ⁄ without departing from the essence of the Father!"
 
 meMA.Ode8C1H.ode = misc_en_US_oca.Ode8
 meMA.Ode8C1H.mode = misc_en_US_oca.Mode1
@@ -792,37 +792,37 @@ meMA.Ode8C31.ode = misc_en_US_oca.Ode8
 meMA.Ode8C31.mode = misc_en_US_oca.Mode1
 meMA.Ode8C31.melody = he.h.m1_en_US_oca.TonEnSinaTinVaton.notmetered
 meMA.Ode8C31.incipit = "…"
-meMA.Ode8C31.text = ""
+meMA.Ode8C31.text = "You drew fish from the sea, most wise one, ⁄ by the craft of fishing. ⁄ Now by faith, you draw men to Christ from the deception of the enemy! ⁄ For deception is an abyss drowning the nations in a storm of impiety."
 
 meMA.Ode8C32.ode = misc_en_US_oca.Ode8
 meMA.Ode8C32.mode = misc_en_US_oca.Mode1
 meMA.Ode8C32.melody = he.h.m1_en_US_oca.TonEnSinaTinVaton.notmetered
 meMA.Ode8C32.incipit = "…"
-meMA.Ode8C32.text = ""
+meMA.Ode8C32.text = "You sailed the Spiritual sea of life by faith in Christ ⁄ and were not capsized, O apostle. ⁄ You were propelled by the sail of the Spirit ⁄ and rejoicing, you have reached the eternal harbor of life!"
 
 meMA.Ode8C33.ode = misc_en_US_oca.Ode8
 meMA.Ode8C33.mode = misc_en_US_oca.Mode1
 meMA.Ode8C33.melody = he.h.m1_en_US_oca.TonEnSinaTinVaton.notmetered
 meMA.Ode8C33.incipit = "…"
-meMA.Ode8C33.text = ""
+meMA.Ode8C33.text = "After the Spiritual Sun set of His own will upon the Tree, ⁄ the great Andrew, the lamp of the Church and beacon of the Sun, ⁄ sought to end his own life with Christ and set in Him. ⁄ He, too, was hung upon the wood of a cross."
 
 meMA.Ode8C34.ode = misc_en_US_oca.Ode8
 meMA.Ode8C34.mode = misc_en_US_oca.Mode1
 meMA.Ode8C34.melody = he.h.m1_en_US_oca.TonEnSinaTinVaton.notmetered
 meMA.Ode8C34.incipit = "…"
-meMA.Ode8C34.text = ""
+meMA.Ode8C34.text = "Disciple and beloved friend of Christ ⁄ and one of His apostles: ⁄ when the Judge sits upon His throne with you, His twelve, ⁄ to give judgment as he has promised, ⁄ be a fortress for us of love for mankind."
 
 meMA.Ode8C3Tr.ode = misc_en_US_oca.Ode8
 meMA.Ode8C3Tr.mode = misc_en_US_oca.Mode1
 meMA.Ode8C3Tr.melody = he.h.m1_en_US_oca.TonEnSinaTinVaton.notmetered
 meMA.Ode8C3Tr.incipit = "…"
-meMA.Ode8C3Tr.text = ""
+meMA.Ode8C3Tr.text = "Let us glorify the three-fold radiance of Unity, ⁄ the equally enthroned Trinity. ⁄ Let us not separate It, but unite It consubstantially, ⁄ as One Essence, united in three Persons without confusion!"
 
 meMA.Ode8C3T.ode = misc_en_US_oca.Ode8
 meMA.Ode8C3T.mode = misc_en_US_oca.Mode1
 meMA.Ode8C3T.melody = he.h.m1_en_US_oca.TonEnSinaTinVaton.notmetered
 meMA.Ode8C3T.incipit = "…"
-meMA.Ode8C3T.text = ""
+meMA.Ode8C3T.text = "Pure one, you conceived and gave birth to one of the Trinity, ⁄ Who, incarnate of you, renews the laws of nature by your childbearing! ⁄ Theotokos, never cease to pray to Him ⁄ as God on our behalf."
 
 meMA.Ode9C1H.ode = misc_en_US_oca.Ode9
 meMA.Ode9C1H.mode = misc_en_US_oca.Mode1
@@ -887,38 +887,38 @@ meMA.Ode9C2T.text = ""
 meMA.Ode9C31.ode = misc_en_US_oca.Ode9
 meMA.Ode9C31.mode = misc_en_US_oca.Mode1
 meMA.Ode9C31.melody = he.h.m1_en_US_oca.TinFotoforonNefelin.notmetered
-meMA.Ode9C31.incipit = "…"
-meMA.Ode9C31.text = ""
+meMA.Ode9C31.incipit = "You spread out the net…"
+meMA.Ode9C31.text = "You spread out the net of the mystical knowledge of God. ⁄ You caught fish with the beauties of heavenly thoughts! ⁄ Entreat the Holy Trinity, holy one, ⁄ to pour out a cleansing stream on us."
 
 meMA.Ode9C32.ode = misc_en_US_oca.Ode9
 meMA.Ode9C32.mode = misc_en_US_oca.Mode1
 meMA.Ode9C32.melody = he.h.m1_en_US_oca.TinFotoforonNefelin.notmetered
 meMA.Ode9C32.incipit = "…"
-meMA.Ode9C32.text = ""
+meMA.Ode9C32.text = "The nations who are enlightened by you ⁄ and led up from earth to heaven, ⁄ give thanks to you, for wrested from the service of the enemy, ⁄ they have become companions of the holy angels ⁄ and partakers of the Glory of the Lord!"
 
 meMA.Ode9C33.ode = misc_en_US_oca.Ode9
 meMA.Ode9C33.mode = misc_en_US_oca.Mode1
 meMA.Ode9C33.melody = he.h.m1_en_US_oca.TinFotoforonNefelin.notmetered
 meMA.Ode9C33.incipit = "…"
-meMA.Ode9C33.text = ""
+meMA.Ode9C33.text = "Apostles and witnesses of ineffable things ⁄ and ministers of the Word, ⁄ performers of the mysteries and beholders of hidden things, ⁄ pray that we may become heirs of the Kingdom of Christ ⁄ and partakers of His divinity."
 
 meMA.Ode9C34.ode = misc_en_US_oca.Ode9
 meMA.Ode9C34.mode = misc_en_US_oca.Mode1
 meMA.Ode9C34.melody = he.h.m1_en_US_oca.TinFotoforonNefelin.notmetered
 meMA.Ode9C34.incipit = "…"
-meMA.Ode9C34.text = ""
+meMA.Ode9C34.text = "You received the power from Christ to bind and loose: ⁄ Free us all from the bonds of our many transgressions ⁄ when Christ shall come and you twelve will be seated upon thrones ⁄ to judge all the tribes of Israel!"
 
 meMA.Ode9C3Tr.ode = misc_en_US_oca.Ode9
 meMA.Ode9C3Tr.mode = misc_en_US_oca.Mode1
 meMA.Ode9C3Tr.melody = he.h.m1_en_US_oca.TinFotoforonNefelin.notmetered
 meMA.Ode9C3Tr.incipit = "…"
-meMA.Ode9C3Tr.text = ""
+meMA.Ode9C3Tr.text = "We unceasingly glorify in heaven and on earth ⁄ the incomprehensible Trinity: ⁄ the tri-personal Essence, ⁄ the indivisible Glory hymned in one Divinity. ⁄ With devotion, we worship the Father, Son and Holy Spirit!"
 
 meMA.Ode9C3T.ode = misc_en_US_oca.Ode9
 meMA.Ode9C3T.mode = misc_en_US_oca.Mode1
 meMA.Ode9C3T.melody = he.h.m1_en_US_oca.TinFotoforonNefelin.notmetered
 meMA.Ode9C3T.incipit = "…"
-meMA.Ode9C3T.text = ""
+meMA.Ode9C3T.text = "We run with faith to your loving-kindness, ⁄ worshiping your Son with devotion, Virgin Theotokos! ⁄ Entreat Him as the God and Lord of the world, ⁄ that He may deliver us from corruption, misfortune and all temptation."
 
 meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.EnPnevmatiToIero.notmetered
