@@ -21,49 +21,20 @@ meHO.note2 = ""
 meVE.Stichera01.poet = poets_en_US_oca.Anatoliou
 meVE.Stichera01.mode = misc_en_US_oca.Mode1
 meVE.Stichera01.melody = ""
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = "Let us celebrate, people,
-the Prefeast of Christ's Nativity!
-Let us raise our minds on high,
-in Spirit going up to Bethlehem.
-With the eyes of our soul, let us behold the Virgin
-as she hastens to the cave to give birth to the Lord and God of all.
-When Joseph first saw the mighty wonder,
-he thought that he saw only a human Child wrapped in swaddling clothes,
-but from all that came to pass he discovered the Child to be the true God//
-Who grants the world great mercy."
+meVE.Stichera01.incipit = "Let us celebrate, people…"
+meVE.Stichera01.text = "Let us celebrate, people, ⁄ the Prefeast of Christ's Nativity! ⁄ Let us raise our minds on high, ⁄ in Spirit going up to Bethlehem. ⁄ With the eyes of our soul, let us behold the Virgin ⁄ as she hastens to the cave to give birth to the Lord and God of all. ⁄ When Joseph first saw the mighty wonder, ⁄ he thought that he saw only a human Child wrapped in swaddling clothes, ⁄ but from all that came to pass he discovered the Child to be the true God ⁄⁄ Who grants the world great mercy."
 
 meVE.Stichera02.poet = poets_en_US_oca.Anatoliou
 meVE.Stichera02.mode = misc_en_US_oca.Mode1
 meVE.Stichera02.melody = ""
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = "Let us celebrate, people,
-the Prefeast of Christ's Nativity!
-Let us raise our minds on high
-in Spirit going up to Bethlehem.
-Let us behold the great mystery in the cavern,
-for Eden is opened once again,
-when God comes forth from a pure Virgin, 
-remaining the same perfect God, and perfect Man.
-Therefore, let us cry aloud to Him,
-Holy God, Father without beginning,
-Holy Mighty, incarnate Son,
-Holy Immortal, the Spirit and Comforter,//
-Holy Trinity, glory to You!"
+meVE.Stichera02.incipit = "Let us celebrate…"
+meVE.Stichera02.text = "Let us celebrate, people, ⁄ the Prefeast of Christ's Nativity! ⁄ Let us raise our minds on high ⁄ in Spirit going up to Bethlehem. ⁄ Let us behold the great mystery in the cavern, ⁄ for Eden is opened once again, ⁄ when God comes forth from a pure Virgin, ⁄ remaining the same perfect God, and perfect Man. ⁄ Therefore, let us cry aloud to Him, ⁄ Holy God, Father without beginning, ⁄ Holy Mighty, incarnate Son, ⁄ Holy Immortal, the Spirit and Comforter, ⁄⁄ Holy Trinity, glory to You!"
 
 meVE.Stichera03.poet = poets_en_US_oca.Anatoliou
 meVE.Stichera03.mode = misc_en_US_oca.Mode1
 meVE.Stichera03.melody = ""
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = "Listen, heaven, and give ear, O earth:
-Behold the Son and Word of the Father
-coming forth to be born of a maiden who has not known man
-at the good pleasure of the Father Who begot Him before all ages.
-He is conceived by the co-operation of the Holy Spirit;
-Bethlehem, make ready; Eden, open your gates, 
-for He Who is comes to be that which He was not,
-and He Who formed all creation takes the form of a man,//
-granting the world great mercy."
+meVE.Stichera03.incipit = "Listen, heaven…"
+meVE.Stichera03.text = "Listen, heaven, and give ear, O earth: ⁄ Behold the Son and Word of the Father ⁄ coming forth to be born of a maiden who has not known man ⁄ at the good pleasure of the Father Who begot Him before all ages. ⁄ He is conceived by the co-operation of the Holy Spirit; ⁄ Bethlehem, make ready; Eden, open your gates, ⁄ for He Who is comes to be that which He was not, ⁄ and He Who formed all creation takes the form of a man, ⁄⁄ granting the world great mercy."
 
 meVE.Stichera04.mode = misc_en_US_oca.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_oca.OExYpsistouKlitheis.notmetered
@@ -860,13 +831,13 @@ meMA.Aposticha3.text = me.m11.d30_en_US_oca.meVE.SticBoth.text
 meMA.AposGlory.poet = poets_en_US_oca.Stouditou
 meMA.AposGlory.mode = misc_en_US_oca.Mode1
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.incipit = me.m01.d29_en_US_oca.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m01.d29_en_US_oca.meMA.AposGlory.text
 
 meMA.AposBoth.poet = poets_en_US_oca.Vyzantos
 meMA.AposBoth.mode = misc_en_US_oca.Mode6
 meMA.AposBoth.melody = ""
-meMA.AposBoth.incipit = "…"
+meMA.AposBoth.incipit = me.m12.d06_en_US_oca.meVE.SticBoth.incipit
 meMA.AposBoth.text = me.m12.d06_en_US_oca.meVE.SticBoth.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
