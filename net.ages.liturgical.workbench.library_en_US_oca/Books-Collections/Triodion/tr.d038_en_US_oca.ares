@@ -70,7 +70,7 @@ trMA.C2.poet = poets_en_US_oca.Theodorou
 
 trMA.Ode2C1H.ode = misc_en_US_oca.Ode2
 trMA.Ode2C1H.mode = misc_en_US_oca.Mode1
-trMA.Ode2C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode2C1H.melody = he.h.m1_en_US_oca.IdeteIdete.melody
 trMA.Ode2C1H.incipit = he.h.m1_en_US_oca.IdeteIdete.incipit
 trMA.Ode2C1H.text = he.h.m1_en_US_oca.IdeteIdete.text
 
@@ -130,7 +130,7 @@ trMA.Ode2C2A1.text = ""
 
 trMA.Ode2C2H.ode = misc_en_US_oca.Ode2
 trMA.Ode2C2H.mode = misc_en_US_oca.Mode3
-trMA.Ode2C2H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode2C2H.melody = he.h.m3_en_US_oca.IdeteIdete.melody
 trMA.Ode2C2H.incipit = he.h.m3_en_US_oca.IdeteIdete.incipit
 trMA.Ode2C2H.text = he.h.m3_en_US_oca.IdeteIdete.text
 
@@ -190,7 +190,7 @@ trMA.Ode8C2A1.text = ""
 
 trMA.Ode8C2H.ode = misc_en_US_oca.Ode8
 trMA.Ode8C2H.mode = misc_en_US_oca.Mode3
-trMA.Ode8C2H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m3_en_US_oca.TonEnFlogi.melody
 trMA.Ode8C2H.incipit = he.h.m3_en_US_oca.TonEnFlogi.incipit
 trMA.Ode8C2H.text = he.h.m3_en_US_oca.TonEnFlogi.text
 
@@ -250,7 +250,7 @@ trMA.Ode9C2A1.text = ""
 
 trMA.Ode9C2H.ode = misc_en_US_oca.Ode9
 trMA.Ode9C2H.mode = misc_en_US_oca.Mode3
-trMA.Ode9C2H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m3_en_US_oca.EnSinaioToOrei.melody
 trMA.Ode9C2H.incipit = he.h.m3_en_US_oca.EnSinaioToOrei.incipit
 trMA.Ode9C2H.text = he.h.m3_en_US_oca.EnSinaioToOrei.text
 

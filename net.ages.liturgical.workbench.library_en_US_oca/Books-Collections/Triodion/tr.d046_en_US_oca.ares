@@ -91,7 +91,7 @@ trMA.C3.poet = poets_en_US_oca.Theodorou
 
 trMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 trMA.Ode1C1H.mode = misc_en_US_oca.Mode4
-trMA.Ode1C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode1C1H.melody = he.h.m4_en_US_oca.AnoixoToStomaMou.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_US_oca.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_en_US_oca.AnoixoToStomaMou.text
 
@@ -124,7 +124,7 @@ trMA.Ode1C1T.text = ""
 
 trMA.Ode3C1H.ode = misc_en_US_oca.Ode3
 trMA.Ode3C1H.mode = misc_en_US_oca.Mode4
-trMA.Ode3C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode3C1H.melody = he.h.m4_en_US_oca.TousSousYmnologous.melody
 trMA.Ode3C1H.incipit = he.h.m4_en_US_oca.TousSousYmnologous.incipit
 trMA.Ode3C1H.text = he.h.m4_en_US_oca.TousSousYmnologous.text
 
@@ -208,7 +208,7 @@ trMA.Ode3C3A1.text = ""
 
 trMA.Ode3C3H.ode = misc_en_US_oca.Ode3
 trMA.Ode3C3H.mode = misc_en_US_oca.Mode1
-trMA.Ode3C3H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode3C3H.melody = he.h.m1_en_US_oca.StereosonKyrie.melody
 trMA.Ode3C3H.incipit = he.h.m1_en_US_oca.StereosonKyrie.incipit
 trMA.Ode3C3H.text = he.h.m1_en_US_oca.StereosonKyrie.text
 
@@ -229,7 +229,7 @@ trMA.Ode3Kathisma3.text = ""
 
 trMA.Ode4C1H.ode = misc_en_US_oca.Ode4
 trMA.Ode4C1H.mode = misc_en_US_oca.Mode4
-trMA.Ode4C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode4C1H.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.melody
 trMA.Ode4C1H.incipit = he.h.m4_en_US_oca.OKathimenosEnDoxi.incipit
 trMA.Ode4C1H.text = he.h.m4_en_US_oca.OKathimenosEnDoxi.text
 
@@ -259,7 +259,7 @@ trMA.Ode4C1T.text = ""
 
 trMA.Ode5C1H.ode = misc_en_US_oca.Ode5
 trMA.Ode5C1H.mode = misc_en_US_oca.Mode4
-trMA.Ode5C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode5C1H.melody = he.h.m4_en_US_oca.ExestiTaSympanta.melody
 trMA.Ode5C1H.incipit = he.h.m4_en_US_oca.ExestiTaSympanta.incipit
 trMA.Ode5C1H.text = he.h.m4_en_US_oca.ExestiTaSympanta.text
 
@@ -289,7 +289,7 @@ trMA.Ode5C1T.text = ""
 
 trMA.Ode6C1H.ode = misc_en_US_oca.Ode6
 trMA.Ode6C1H.mode = misc_en_US_oca.Mode4
-trMA.Ode6C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode6C1H.melody = he.h.m4_en_US_oca.EvoiseProtypon.melody
 trMA.Ode6C1H.incipit = he.h.m4_en_US_oca.EvoiseProtypon.incipit
 trMA.Ode6C1H.text = he.h.m4_en_US_oca.EvoiseProtypon.text
 
@@ -326,7 +326,7 @@ trMA.Oikos1.text = tr.d043_en_US_oca.trMA.Oikos1.text
 
 trMA.Ode7C1H.ode = misc_en_US_oca.Ode7
 trMA.Ode7C1H.mode = misc_en_US_oca.Mode4
-trMA.Ode7C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode7C1H.melody = he.h.m4_en_US_oca.OukElatrefsan.melody
 trMA.Ode7C1H.incipit = he.h.m4_en_US_oca.OukElatrefsan.incipit
 trMA.Ode7C1H.text = he.h.m4_en_US_oca.OukElatrefsan.text
 
@@ -356,7 +356,7 @@ trMA.Ode7C1T.text = ""
 
 trMA.Ode8C1H.ode = misc_en_US_oca.Ode8
 trMA.Ode8C1H.mode = misc_en_US_oca.Mode4
-trMA.Ode8C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode8C1H.melody = he.h.m4_en_US_oca.PaidasEvageis.melody
 trMA.Ode8C1H.incipit = he.h.m4_en_US_oca.PaidasEvageis.incipit
 trMA.Ode8C1H.text = he.h.m4_en_US_oca.PaidasEvageis.text
 
@@ -440,13 +440,13 @@ trMA.Ode8C3A1.text = ""
 
 trMA.Ode8C3H.ode = misc_en_US_oca.Ode8
 trMA.Ode8C3H.mode = misc_en_US_oca.Mode1
-trMA.Ode8C3H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode8C3H.melody = he.h.m1_en_US_oca.CheirasEnToLakko.melody
 trMA.Ode8C3H.incipit = he.h.m1_en_US_oca.CheirasEnToLakko.incipit
 trMA.Ode8C3H.text = he.h.m1_en_US_oca.CheirasEnToLakko.text
 
 trMA.Ode9C1H.ode = misc_en_US_oca.Ode9
 trMA.Ode9C1H.mode = misc_en_US_oca.Mode4
-trMA.Ode9C1H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode9C1H.melody = he.h.m4_en_US_oca.ApasGigenis.melody
 trMA.Ode9C1H.incipit = he.h.m4_en_US_oca.ApasGigenis.incipit
 trMA.Ode9C1H.text = he.h.m4_en_US_oca.ApasGigenis.text
 
@@ -530,7 +530,7 @@ trMA.Ode9C3A1.text = ""
 
 trMA.Ode9C3H.ode = misc_en_US_oca.Ode9
 trMA.Ode9C3H.mode = misc_en_US_oca.Mode1
-trMA.Ode9C3H.melody = misc_en_US_oca.HeirmosNotMetered
+trMA.Ode9C3H.melody = he.h.m1_en_US_oca.OMiterParthene.melody
 trMA.Ode9C3H.incipit = he.h.m1_en_US_oca.OMiterParthene.incipit
 trMA.Ode9C3H.text = he.h.m1_en_US_oca.OMiterParthene.text
 

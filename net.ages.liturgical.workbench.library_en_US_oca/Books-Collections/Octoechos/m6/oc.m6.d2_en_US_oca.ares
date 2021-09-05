@@ -114,7 +114,7 @@ ocMA.C2.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_US_oca.Mode6
 ocMA.OdeW1C1H.ode = misc_en_US_oca.Ode1
-ocMA.OdeW1C1H.melody = misc_en_US_oca.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m6_en_US_oca.OAisthitosFarao.melody
 ocMA.OdeW1C1H.incipit = he.h.m6_en_US_oca.OAisthitosFarao.incipit
 ocMA.OdeW1C1H.text = he.h.m6_en_US_oca.OAisthitosFarao.text
 
@@ -168,7 +168,7 @@ ocMA.OdeW1C2T.text = ""
 
 ocMA.OdeW3C1H.mode = misc_en_US_oca.Mode6
 ocMA.OdeW3C1H.ode = misc_en_US_oca.Ode3
-ocMA.OdeW3C1H.melody = misc_en_US_oca.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m6_en_US_oca.EnTiSterraTisPisteos.melody
 ocMA.OdeW3C1H.incipit = he.h.m6_en_US_oca.EnTiSterraTisPisteos.incipit
 ocMA.OdeW3C1H.text = he.h.m6_en_US_oca.EnTiSterraTisPisteos.text
 
@@ -222,7 +222,7 @@ ocMA.OdeW3C2T.text = ""
 
 ocMA.OdeW4C1H.mode = misc_en_US_oca.Mode6
 ocMA.OdeW4C1H.ode = misc_en_US_oca.Ode4
-ocMA.OdeW4C1H.melody = misc_en_US_oca.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m6_en_US_oca.EkalypsenOuranous.melody
 ocMA.OdeW4C1H.incipit = he.h.m6_en_US_oca.EkalypsenOuranous.incipit
 ocMA.OdeW4C1H.text = he.h.m6_en_US_oca.EkalypsenOuranous.text
 
@@ -276,7 +276,7 @@ ocMA.OdeW4C2T.text = ""
 
 ocMA.OdeW5C1H.mode = misc_en_US_oca.Mode6
 ocMA.OdeW5C1H.ode = misc_en_US_oca.Ode5
-ocMA.OdeW5C1H.melody = misc_en_US_oca.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m6_en_US_oca.OToFosAnatellon.melody
 ocMA.OdeW5C1H.incipit = he.h.m6_en_US_oca.OToFosAnatellon.incipit
 ocMA.OdeW5C1H.text = he.h.m6_en_US_oca.OToFosAnatellon.text
 
@@ -330,7 +330,7 @@ ocMA.OdeW5C2T.text = ""
 
 ocMA.OdeW6C1H.mode = misc_en_US_oca.Mode6
 ocMA.OdeW6C1H.ode = misc_en_US_oca.Ode6
-ocMA.OdeW6C1H.melody = misc_en_US_oca.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m6_en_US_oca.ToKiteiKatapotheis.melody
 ocMA.OdeW6C1H.incipit = he.h.m6_en_US_oca.ToKiteiKatapotheis.incipit
 ocMA.OdeW6C1H.text = he.h.m6_en_US_oca.ToKiteiKatapotheis.text
 
@@ -384,7 +384,7 @@ ocMA.OdeW6C2T.text = ""
 
 ocMA.OdeW7C1H.mode = misc_en_US_oca.Mode6
 ocMA.OdeW7C1H.ode = misc_en_US_oca.Ode7
-ocMA.OdeW7C1H.melody = misc_en_US_oca.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m6_en_US_oca.OTonOsionSouPaidon.melody
 ocMA.OdeW7C1H.incipit = he.h.m6_en_US_oca.OTonOsionSouPaidon.incipit
 ocMA.OdeW7C1H.text = he.h.m6_en_US_oca.OTonOsionSouPaidon.text
 
@@ -444,7 +444,7 @@ ocMA.OdeW7C2T.text = ""
 
 ocMA.OdeW8C1H.mode = misc_en_US_oca.Mode6
 ocMA.OdeW8C1H.ode = misc_en_US_oca.Ode8
-ocMA.OdeW8C1H.melody = misc_en_US_oca.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m6_en_US_oca.OiOsioiSouPaides.melody
 ocMA.OdeW8C1H.incipit = he.h.m6_en_US_oca.OiOsioiSouPaides.incipit
 ocMA.OdeW8C1H.text = he.h.m6_en_US_oca.OiOsioiSouPaides.text
 
@@ -498,7 +498,7 @@ ocMA.OdeW8C2T.text = ""
 
 ocMA.OdeW9C1H.mode = misc_en_US_oca.Mode6
 ocMA.OdeW9C1H.ode = misc_en_US_oca.Ode9
-ocMA.OdeW9C1H.melody = misc_en_US_oca.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m6_en_US_oca.IToChaireDiAngelou.melody
 ocMA.OdeW9C1H.incipit = he.h.m6_en_US_oca.IToChaireDiAngelou.incipit
 ocMA.OdeW9C1H.text = he.h.m6_en_US_oca.IToChaireDiAngelou.text
 
