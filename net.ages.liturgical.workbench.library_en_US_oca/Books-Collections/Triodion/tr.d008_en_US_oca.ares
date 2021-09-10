@@ -1,0 +1,344 @@
+A_Resource_Whose_Name = tr.d008_en_US_oca
+
+trDA.commemoration.full = "" //full title of day
+trDA.commemoration.short = ""
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
+trHO.daytitle = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trCO.header = ""
+trDA.dismissal = dismissals_en_US_oca.dis00.resurrection
+
+trVE.Stichera01.mode = misc_en_US_oca.Mode1
+trVE.Stichera01.melody = misc_en_US_oca.Idiomelon
+trVE.Stichera01.incipit = "…"
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_en_US_oca.Mode1
+trVE.Stichera02.melody = misc_en_US_oca.Idiomelon
+trVE.Stichera02.incipit = "…"
+trVE.Stichera02.text = ""
+
+trVE.MM.Stichera112as567.text = properties_en_US_oca.media.key
+trVE.MM.Stichera112as8910.text = properties_en_US_oca.media.key
+
+trVE.SticGlory.mode = misc_en_US_oca.Mode2
+trVE.SticGlory.melody = misc_en_US_oca.Idiomelon
+trVE.SticGlory.incipit = "…"
+trVE.SticGlory.text = ""
+
+trVE.AposGlory.mode = misc_en_US_oca.Mode6
+trVE.AposGlory.melody = misc_en_US_oca.Idiomelon
+trVE.AposGlory.incipit = "…"
+trVE.AposGlory.text = ""
+
+trVE.AposTheotokion.mode = misc_en_US_oca.Mode6
+trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.incipit = oc.m6.d1_en_US_oca.ocVE.AposTheotokion.incipit
+trVE.AposTheotokion.text = oc.m6.d1_en_US_oca.ocVE.AposTheotokion.text
+
+trMA.PostGospelGlory.mode = misc_en_US_oca.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.incipit = tr.d001_en_US_oca.trMA.PostGospelGlory.incipit
+trMA.PostGospelGlory.text = tr.d001_en_US_oca.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_en_US_oca.Mode8
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.incipit = tr.d001_en_US_oca.trMA.PostGospelBoth.incipit
+trMA.PostGospelBoth.text = tr.d001_en_US_oca.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_US_oca.Mode6
+trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.incipit = tr.d001_en_US_oca.trMA.PostGospelIdiomelon.incipit
+trMA.PostGospelIdiomelon.text = tr.d001_en_US_oca.trMA.PostGospelIdiomelon.text
+
+trMA.C1.poet = poets_en_US_oca.KyriouIosif
+
+trMA.C1.title = titles_en_US_oca.KanonTouTriodiou
+trMA.C1.verse = prayers_en_US_oca.verse_God.text
+
+trMA.Ode1C11.ode = misc_en_US_oca.Ode1
+trMA.Ode1C11.mode = misc_en_US_oca.Mode2
+trMA.Ode1C11.melody = he.h.m2_en_US_oca.TinMoseosOdin.notmetered
+trMA.Ode1C11.incipit = "Jesus my God…"
+trMA.Ode1C11.text = "Jesus my God, accept me also now in repentance ⁄ as You did the Prodigal Son: ⁄ I have lived all my life in carelessness ⁄ and provoked You to anger."
+
+trMA.Ode1C12.ode = misc_en_US_oca.Ode1
+trMA.Ode1C12.mode = misc_en_US_oca.Mode2
+trMA.Ode1C12.melody = he.h.m2_en_US_oca.TinMoseosOdin.notmetered
+trMA.Ode1C12.incipit = "…"
+trMA.Ode1C12.text = "I have sinfully wasted the divine wealth that once You gave me; ⁄ I have departed far from You and lived as the Prodigal. ⁄ Compassionate Father, accept me now also as I return."
+
+trMA.Ode1C13.ode = misc_en_US_oca.Ode1
+trMA.Ode1C13.mode = misc_en_US_oca.Mode2
+trMA.Ode1C13.melody = he.h.m2_en_US_oca.TinMoseosOdin.notmetered
+trMA.Ode1C13.incipit = "…"
+trMA.Ode1C13.text = "Open Your arms to embrace me as a Father now, ⁄ accepting me also as the Prodigal Son, ⁄ that I may glorify You with thanksgiving ⁄ most merciful Lord!"
+
+trMA.Ode1C1T.ode = misc_en_US_oca.Ode1
+trMA.Ode1C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode1C1T.melody = he.h.m2_en_US_oca.TinMoseosOdin.notmetered
+trMA.Ode1C1T.incipit = "…"
+trMA.Ode1C1T.text = "Bestow the fullness of Your grace upon me, O God; ⁄ be a Benefactor to me, ⁄ and at the holy prayers of Your Mother ⁄ overlook the great number of my offenses."
+
+trMA.Ode3C11.ode = misc_en_US_oca.Ode3
+trMA.Ode3C11.mode = misc_en_US_oca.Mode2
+trMA.Ode3C11.melody = he.h.m2_en_US_oca.SteirothentaMouTonNoun.notmetered
+trMA.Ode3C11.incipit = "Completely beside myself…"
+trMA.Ode3C11.text = "Completely beside myself in madness, ⁄ I have clung to the sins suggested to me by the passions. ⁄ But accept me, O Christ, as the Prodigal."
+
+trMA.Ode3C12.ode = misc_en_US_oca.Ode3
+trMA.Ode3C12.mode = misc_en_US_oca.Mode2
+trMA.Ode3C12.melody = he.h.m2_en_US_oca.SteirothentaMouTonNoun.notmetered
+trMA.Ode3C12.incipit = "…"
+trMA.Ode3C12.text = "With the words of the Prodigal, I cry aloud: ⁄ I have sinned, O Father! ⁄ Receive me now like him in Your embrace ⁄ and do not reject me."
+
+trMA.Ode3C13.ode = misc_en_US_oca.Ode3
+trMA.Ode3C13.mode = misc_en_US_oca.Mode2
+trMA.Ode3C13.melody = he.h.m2_en_US_oca.SteirothentaMouTonNoun.notmetered
+trMA.Ode3C13.incipit = "…"
+trMA.Ode3C13.text = "Open Your arms, O Christ, and receive me in loving kindness ⁄ as I return from a far country of sin and passions."
+
+trMA.Ode3C1T.ode = misc_en_US_oca.Ode3
+trMA.Ode3C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode3C1T.melody = he.h.m2_en_US_oca.SteirothentaMouTonNoun.notmetered
+trMA.Ode3C1T.incipit = "…"
+trMA.Ode3C1T.text = "My sins have brought me to poverty, ⁄ O fairest among women: ⁄ Enrich me, pure Virgin, with the vision of beauty, ⁄ that I may glorify you."
+
+trMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode1
+trMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
+trMA.Ode3Kathisma1.incipit = oc.m1.d2_en_US_oca.ocMA.Kathisma21.incipit
+trMA.Ode3Kathisma1.text = oc.m1.d2_en_US_oca.ocMA.Kathisma21.text
+
+trMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode1
+trMA.Ode3Kathisma2.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
+trMA.Ode3Kathisma2.incipit = "You are the only guardian…"
+trMA.Ode3Kathisma2.text = "You are the only guardian and protection of the faithful, ⁄ pure and unwedded virgin Theotokos: ⁄ deliver from danger, distress and affliction ⁄ all who have put their hope in you ⁄ and by your divine intercession ⁄⁄ save our souls, O Maiden."
+
+trMA.Ode4C11.ode = misc_en_US_oca.Ode4
+trMA.Ode4C11.mode = misc_en_US_oca.Mode2
+trMA.Ode4C11.melody = he.h.m2_en_US_oca.TinEkParthenou.notmetered
+trMA.Ode4C11.incipit = "The wealth of blessings…"
+trMA.Ode4C11.text = "The wealth of blessings which You gave me, heavenly Father ⁄ I have wrongfully wasted, becoming the slave of strangers. ⁄ Therefore I cry aloud to You: ⁄ Father, I have sinned against You! ⁄ Receive me like the Prodigal of old, ⁄ and open Your arms to me."
+
+trMA.Ode4C12.ode = misc_en_US_oca.Ode4
+trMA.Ode4C12.mode = misc_en_US_oca.Mode2
+trMA.Ode4C12.melody = he.h.m2_en_US_oca.TinEkParthenou.notmetered
+trMA.Ode4C12.incipit = "…"
+trMA.Ode4C12.text = "I have become enslaved to every evil in my wretchedness, ⁄ bowing down before the demons that provoke the passions; ⁄ Through heedlessness I have lost possession of myself, O Savior; ⁄ Take pity on me as I flee to Your many mercies for refuge, heavenly Father."
+
+trMA.Ode4C13.ode = misc_en_US_oca.Ode4
+trMA.Ode4C13.mode = misc_en_US_oca.Mode2
+trMA.Ode4C13.melody = he.h.m2_en_US_oca.TinEkParthenou.notmetered
+trMA.Ode4C13.incipit = "…"
+trMA.Ode4C13.text = "Filled with shame, I dare not look up to the height of heaven, ⁄ for I have foolishly bowed down to sin. ⁄ But now I return and cry out in compunction: ⁄ I have sinned against You; receive me, O King of all."
+
+trMA.Ode4C1T.ode = misc_en_US_oca.Ode4
+trMA.Ode4C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode4C1T.melody = he.h.m2_en_US_oca.TinEkParthenou.notmetered
+trMA.Ode4C1T.incipit = "…"
+trMA.Ode4C1T.text = "You are the help of men, and the refuge of the saved, ⁄ the sure hope of all Christians, undefiled Virgin. ⁄ Save me as a Mother by your intercessions, ⁄ counting me worthy of the life to come."
+
+trMA.Ode5C11.ode = misc_en_US_oca.Ode5
+trMA.Ode5C11.mode = misc_en_US_oca.Mode2
+trMA.Ode5C11.melody = he.h.m2_en_US_oca.TisNyktosDielthousis.notmetered
+trMA.Ode5C11.incipit = "I was enslaved to strangers…"
+trMA.Ode5C11.text = "I was enslaved to strangers; ⁄ filled with shame, and an exile in the land of corruption. ⁄ But now I return, O merciful Lord, ⁄ and I cry to You: I have sinned!"
+
+trMA.Ode5C12.ode = misc_en_US_oca.Ode5
+trMA.Ode5C12.mode = misc_en_US_oca.Mode2
+trMA.Ode5C12.melody = he.h.m2_en_US_oca.TisNyktosDielthousis.notmetered
+trMA.Ode5C12.incipit = "…"
+trMA.Ode5C12.text = "Accept me now in Your compassion, heavenly Father, ⁄ as I return from evil ⁄ and in Your exceeding mercy, do not reject me."
+
+trMA.Ode5C13.ode = misc_en_US_oca.Ode5
+trMA.Ode5C13.mode = misc_en_US_oca.Mode2
+trMA.Ode5C13.melody = he.h.m2_en_US_oca.TisNyktosDielthousis.notmetered
+trMA.Ode5C13.incipit = "…"
+trMA.Ode5C13.text = "I have angered You beyond measure, O Christ, ⁄ and I dare not look up at the height of heaven. ⁄ But knowing Your compassion, merciful Lord, I cry: ⁄ I have sinned! Be merciful to me and save me!"
+
+trMA.Ode5C1T.ode = misc_en_US_oca.Ode5
+trMA.Ode5C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode5C1T.melody = he.h.m2_en_US_oca.TisNyktosDielthousis.notmetered
+trMA.Ode5C1T.incipit = "…"
+trMA.Ode5C1T.text = "All-holy Virgin, full of grace, ⁄ you have borne the Redemption of all! ⁄ By your prayers, lighten the great burden of my sins."
+
+trMA.Ode6C11.ode = misc_en_US_oca.Ode6
+trMA.Ode6C11.mode = misc_en_US_oca.Mode2
+trMA.Ode6C11.melody = he.h.m2_en_US_oca.VythoAmartimaton.notmetered
+trMA.Ode6C11.incipit = "The depths of sin…"
+trMA.Ode6C11.text = "The depths of sin ever hold me fast, ⁄ and the tempest of transgressions overwhelms me! ⁄ Pilot me, O Christ my God, to the haven of life ⁄ and save me, King of glory!"
+
+trMA.Ode6C12.ode = misc_en_US_oca.Ode6
+trMA.Ode6C12.mode = misc_en_US_oca.Mode2
+trMA.Ode6C12.melody = he.h.m2_en_US_oca.VythoAmartimaton.notmetered
+trMA.Ode6C12.incipit = "…"
+trMA.Ode6C12.text = "I have wasted in evil living the wealth which the Father gave me, ⁄ and now I am brought to poverty. ⁄ I am filled with shame and enslaved to fruitless thoughts. ⁄ Therefore I cry to You, Lover of mankind: ⁄ Take pity on me and save me!"
+
+trMA.Ode6C13.ode = misc_en_US_oca.Ode6
+trMA.Ode6C13.mode = misc_en_US_oca.Mode2
+trMA.Ode6C13.melody = he.h.m2_en_US_oca.VythoAmartimaton.notmetered
+trMA.Ode6C13.incipit = "…"
+trMA.Ode6C13.text = "I am wasted with hunger, deprived of every blessing, ⁄ and an exile from Your presence. ⁄ O Christ, supreme in loving kindness, ⁄ take pity on me now as I return and save me ⁄ as I sing Your praises, Lover of mankind!"
+
+trMA.Ode6C1T.ode = misc_en_US_oca.Ode6
+trMA.Ode6C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode6C1T.melody = he.h.m2_en_US_oca.VythoAmartimaton.notmetered
+trMA.Ode6C1T.incipit = "…"
+trMA.Ode6C1T.text = "Maiden who conceived Christ the Savior and Master, ⁄ count me worthy of salvation. ⁄ I lack all good in my poverty, pure Virgin: ⁄ Grant that I may sing the praises of your majesty!"
+
+trMA.Kontakion1.mode = misc_en_US_oca.Mode3
+trMA.Kontakion1.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
+trMA.Kontakion1.incipit = "…"
+trMA.Kontakion1.text = ""
+
+trMA.Oikos1.text = ""
+
+trSY.commemoration.text = ""
+trSY.commemoration.couplet1.title = titles_en_US_oca.Stichoi
+trSY.commemoration.couplet1.verse1 = ""
+trSY.commemoration.couplet1.verse2 = ""
+trSY.commemoration.narration.p01 = ""
+trSY.commemoration.narration.p02 = ""
+trSY.commemoration.narration.p03 = ""
+trSY.commemoration.narration.p04 = ""
+trSY.commemoration.narration.p05 = ""
+trSY.commemoration.narration.p06 = ""
+trSY.commemoration.narration.p07 = ""
+trSY.lastline = ""
+
+trMA.Ode7C11.ode = misc_en_US_oca.Ode7
+trMA.Ode7C11.mode = misc_en_US_oca.Mode2
+trMA.Ode7C11.melody = he.h.m2_en_US_oca.TaCherouvimMimoumenoi.notmetered
+trMA.Ode7C11.incipit = "I have miserably bowed down…"
+trMA.Ode7C11.text = "I have miserably bowed down to the pleasures of the body ⁄ becoming wholly enslaved to the demons that provoke the passions. ⁄ I have become a stranger to You, Lover of mankind. ⁄ But now I cry with the voice of the Prodigal: ⁄ I have sinned, O Christ, despise me not, ⁄ for You alone are merciful."
+
+trMA.Ode7C12.ode = misc_en_US_oca.Ode7
+trMA.Ode7C12.mode = misc_en_US_oca.Mode2
+trMA.Ode7C12.melody = he.h.m2_en_US_oca.TaCherouvimMimoumenoi.notmetered
+trMA.Ode7C12.incipit = "…"
+trMA.Ode7C12.text = "I do not dare look up at the height of heaven, O King of all: ⁄ I cry out: I have sinned; ⁄ for in my foolishness, I alone have angered You, ⁄ rejecting Your commandments. ⁄ Therefore, only Good One, ⁄ do not cast me away from Your presence."
+
+trMA.Ode7C13.ode = misc_en_US_oca.Ode7
+trMA.Ode7C13.mode = misc_en_US_oca.Mode2
+trMA.Ode7C13.melody = he.h.m2_en_US_oca.TaCherouvimMimoumenoi.notmetered
+trMA.Ode7C13.incipit = "…"
+trMA.Ode7C13.text = "At the prayers of the apostles, martyrs and prophets, ⁄ the holy saints and the righteous, O Christ my Lord, ⁄ forgive me all the offenses which have provoked You to anger in Your goodness, ⁄ and I shall sing Your praises for evermore."
+
+trMA.Ode7C1T.ode = misc_en_US_oca.Ode7
+trMA.Ode7C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode7C1T.melody = he.h.m2_en_US_oca.TaCherouvimMimoumenoi.notmetered
+trMA.Ode7C1T.incipit = "…"
+trMA.Ode7C1T.text = "Theotokos, more glorious than the cherubim and seraphim, ⁄ and all the heavenly hosts! ⁄ Together with them, undefiled Virgin, ⁄ entreat Him who took flesh from you: ⁄ God the Word from the Father without beginning, ⁄ that we may all be counted worthy of eternal blessings!"
+
+trMA.Ode8C11.ode = misc_en_US_oca.Ode8
+trMA.Ode8C11.mode = misc_en_US_oca.Mode2
+trMA.Ode8C11.melody = he.h.m2_en_US_oca.TonEnTiVatoMosi.notmetered
+trMA.Ode8C11.incipit = "In great mercy You came down…"
+trMA.Ode8C11.text = "In great mercy You came down upon earth ⁄ to save the world through Your voluntary poverty: ⁄ Save me in Your compassion, ⁄ for I am poor in all good works."
+
+trMA.Ode8C12.ode = misc_en_US_oca.Ode8
+trMA.Ode8C12.mode = misc_en_US_oca.Mode2
+trMA.Ode8C12.melody = he.h.m2_en_US_oca.TonEnTiVatoMosi.notmetered
+trMA.Ode8C12.incipit = "…"
+trMA.Ode8C12.text = "I have departed far from Your commandments, ⁄ and am enslaved to the deceiver in utter wretchedness. ⁄ But now I turn back as the Prodigal of old: ⁄ Accept me as I fall before You, heavenly Father."
+
+trMA.Ode8C13.ode = misc_en_US_oca.Ode8
+trMA.Ode8C13.mode = misc_en_US_oca.Mode2
+trMA.Ode8C13.melody = he.h.m2_en_US_oca.TonEnTiVatoMosi.notmetered
+trMA.Ode8C13.incipit = "…"
+trMA.Ode8C13.text = "I am full of darkness and cut off from You, ⁄ ruled by corrupting thoughts, ⁄ I have lost all possession of myself, merciful Lord. ⁄ Therefore save me as I fall before You in repentance."
+
+trMA.Ode8C1T.ode = misc_en_US_oca.Ode8
+trMA.Ode8C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode8C1T.melody = he.h.m2_en_US_oca.TonEnTiVatoMosi.notmetered
+trMA.Ode8C1T.incipit = "…"
+trMA.Ode8C1T.text = "Pure Mother of God, the only restoration of the fallen, ⁄ raise me up, for I am wholly crushed; ⁄ humbled by every kind of sin."
+
+trMA.C1.acrostic = "" //Acrostic for Ode 9
+trMA.Ode9C11.ode = misc_en_US_oca.Ode9
+trMA.Ode9C11.mode = misc_en_US_oca.Mode2
+trMA.Ode9C11.melody = he.h.m2_en_US_oca.TonGigenonTisIkouse.notmetered
+trMA.Ode9C11.incipit = "Behold the affliction of my heart…"
+trMA.Ode9C11.text = "Behold the affliction of my heart, O Christ: ⁄ look upon my turning back; ⁄ behold my tears, O Savior, and do not despise me, ⁄ but in Your compassion, embrace me once again, ⁄ and count me with the number of the saved, ⁄ that with thanksgiving I may sing the praises of Your mercy."
+
+trMA.Ode9C12.ode = misc_en_US_oca.Ode9
+trMA.Ode9C12.mode = misc_en_US_oca.Mode2
+trMA.Ode9C12.melody = he.h.m2_en_US_oca.TonGigenonTisIkouse.notmetered
+trMA.Ode9C12.incipit = "…"
+trMA.Ode9C12.text = "As the Thief I cry to You: Remember me! ⁄ As the Publican, with downcast eyes, I beat my breast and say: Be merciful! ⁄ As the Prodigal, deliver me from every evil, O King who pities all, ⁄ that I may sing the praises of Your boundless compassion."
+
+trMA.Ode9C13.ode = misc_en_US_oca.Ode9
+trMA.Ode9C13.mode = misc_en_US_oca.Mode2
+trMA.Ode9C13.melody = he.h.m2_en_US_oca.TonGigenonTisIkouse.notmetered
+trMA.Ode9C13.incipit = "…"
+trMA.Ode9C13.text = "Groan now, my all-wretched soul, and cry aloud to Christ: ⁄ Lord who for my sake voluntarily became poor, ⁄ in my poverty I lack every good work. ⁄ Make me rich with the abundance of Your blessings, ⁄ for You alone are full of love and mercy."
+
+trMA.Ode9C14.ode = misc_en_US_oca.Ode9
+trMA.Ode9C14.mode = misc_en_US_oca.Mode2
+trMA.Ode9C14.melody = he.h.m2_en_US_oca.TonGigenonTisIkouse.notmetered
+trMA.Ode9C14.incipit = "…"
+trMA.Ode9C14.text = "Once You rejoiced at the voluntary return of the Prodigal, loving Lord: ⁄ Rejoice now because of me, wretch though I am. ⁄ Open Your holy embrace to me, ⁄ that being saved I may sing the praises of Your boundless compassion."
+
+trMA.Ode9C1T.ode = misc_en_US_oca.Ode9
+trMA.Ode9C1T.mode = misc_en_US_oca.Mode2
+trMA.Ode9C1T.melody = he.h.m2_en_US_oca.TonGigenonTisIkouse.notmetered
+trMA.Ode9C1T.incipit = "…"
+trMA.Ode9C1T.text = "I pray you, Virgin, through your light-giving intercessions, ⁄ enlighten the eyes of my mind, darkened by evil. ⁄ Lead me into the paths of repentance, ⁄ so shall I rightly sing your praises, ⁄ for you gave flesh to the ineffable Word!"
+
+trMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
+trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
+trMA.Exaposteilarion1.incipit = "…"
+trMA.Exaposteilarion1.text = ""
+
+trMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
+trMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
+trMA.Exaposteilarion2.incipit = "…"
+trMA.Exaposteilarion2.text = ""
+
+trMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
+trMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
+trMA.ExapTheotokion.incipit = "…"
+trMA.ExapTheotokion.text = ""
+
+trMA.Lauds1.mode = misc_en_US_oca.Mode2
+trMA.Lauds1.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds1.incipit = "…"
+trMA.Lauds1.text = ""
+
+trMA.Lauds2.mode = misc_en_US_oca.Mode4
+trMA.Lauds2.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds2.incipit = "…"
+trMA.Lauds2.text = ""
+
+trMA.Lauds3.mode = misc_en_US_oca.Mode8
+trMA.Lauds3.melody = misc_en_US_oca.Idiomelon
+trMA.Lauds3.incipit = "…"
+trMA.Lauds3.text = ""
+
+trMA.MM.Lauds12as45.text = properties_en_US_oca.media.key
+
+trMA.LaudsGlory.mode = misc_en_US_oca.Mode6
+trMA.LaudsGlory.melody = misc_en_US_oca.Idiomelon
+trMA.LaudsGlory.incipit = "…"
+trMA.LaudsGlory.text = ""
+
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.incipit = oc.m2.d1_en_US_oca.ocMA.Kathisma23.incipit
+trMA.LaudsTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
+
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
+trLI.Kontakion1.text = trMA.Kontakion1.text
+
+trLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
+
+trMegalynarion.text = ""
+
