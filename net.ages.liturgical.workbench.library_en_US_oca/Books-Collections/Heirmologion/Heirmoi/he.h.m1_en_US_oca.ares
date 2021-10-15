@@ -628,9 +628,9 @@ StereosonKyrie.mode = misc_en_US_oca.Mode1
 StereosonKyrie.ode = misc_en_US_oca.Ode3
 StereosonKyrie.text = ""
 
-StereosonMeChriste.name = ""
+StereosonMeChriste.notmetered = "N/M (Establish me firmly.)"
+StereosonMeChriste.name = "Establish me firmly."
 StereosonMeChriste.incipit = "…"
-StereosonMeChriste.notmetered = "(N/M)"
 StereosonMeChriste.melody = misc_en_US_oca.HeirmosNotMetered
 StereosonMeChriste.mode = misc_en_US_oca.Mode1
 StereosonMeChriste.ode = misc_en_US_oca.Ode3
