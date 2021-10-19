@@ -42,7 +42,7 @@ AperripsasMe.text = ""
 
 AsomenPantesLaoi.name = ""
 AsomenPantesLaoi.incipit = "…"
-AsomenPantesLaoi.notmetered = "(N/M)"
+AsomenPantesLaoi.notmetered = "N/M (All people, sing to the Lord.)"
 AsomenPantesLaoi.melody = misc_en_US_oca.HeirmosNotMetered
 AsomenPantesLaoi.mode = misc_en_US_oca.Mode1
 AsomenPantesLaoi.ode = misc_en_US_oca.Ode1
@@ -129,6 +129,14 @@ EkNyktosOrthrizontes.melody = misc_en_US_oca.HeirmosNotMetered
 EkNyktosOrthrizontes.mode = misc_en_US_oca.Mode1
 EkNyktosOrthrizontes.ode = misc_en_US_oca.Ode5
 EkNyktosOrthrizontes.text = ""
+
+EkNyktosOrthrizontesYmnoumenSe.notmetered = "N/M (Rising from the night, we sing.)"
+EkNyktosOrthrizontesYmnoumenSe.name = "Rising from the night, we sing."
+EkNyktosOrthrizontesYmnoumenSe.incipit = "Rising from the night, we sing…"
+EkNyktosOrthrizontesYmnoumenSe.melody = misc_en_US_oca.Heirmos
+EkNyktosOrthrizontesYmnoumenSe.mode = misc_en_US_oca.Mode1
+EkNyktosOrthrizontesYmnoumenSe.ode = misc_en_US_oca.Ode5
+EkNyktosOrthrizontesYmnoumenSe.text = ""
 
 EkyklosenImas.name = ""
 EkyklosenImas.incipit = "The deepest abyss …"
@@ -316,9 +324,9 @@ LithonOnApedokimasan.mode = misc_en_US_oca.Mode1
 LithonOnApedokimasan.ode = misc_en_US_oca.Ode3
 LithonOnApedokimasan.text = ""
 
-MegaToMystirion.name = ""
+MegaToMystirion.name = "God-inspired Habakkuk."
 MegaToMystirion.incipit = "…"
-MegaToMystirion.notmetered = "(N/M)"
+MegaToMystirion.notmetered = "N/M (God-inspired Habakkuk.)"
 MegaToMystirion.melody = misc_en_US_oca.HeirmosNotMetered
 MegaToMystirion.mode = misc_en_US_oca.Mode1
 MegaToMystirion.ode = misc_en_US_oca.Ode4
@@ -628,8 +636,8 @@ StereosonKyrie.mode = misc_en_US_oca.Mode1
 StereosonKyrie.ode = misc_en_US_oca.Ode3
 StereosonKyrie.text = ""
 
-StereosonMeChriste.notmetered = "N/M (Establish me firmly.)"
-StereosonMeChriste.name = "Establish me firmly."
+StereosonMeChriste.notmetered = "N/M (Establish me on the rock.)"
+StereosonMeChriste.name = "Establish me on the rock."
 StereosonMeChriste.incipit = "…"
 StereosonMeChriste.melody = misc_en_US_oca.HeirmosNotMetered
 StereosonMeChriste.mode = misc_en_US_oca.Mode1
