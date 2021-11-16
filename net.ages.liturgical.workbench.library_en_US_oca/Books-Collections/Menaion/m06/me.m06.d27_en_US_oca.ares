@@ -35,8 +35,8 @@ meVE.Stichera03.text = "Father Samson, inspired by God, ⁄ you are a lamp illum
 
 meVE.SticTheotokion.mode = misc_en_US_oca.Mode1
 meVE.SticTheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.incipit = oc.m1.d2_en_US_oca.ocVE.SticTheotokion.incipit
+meVE.SticTheotokion.text = oc.m1.d2_en_US_oca.ocVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_oca.PaneffimoiMartyres.notmetered
