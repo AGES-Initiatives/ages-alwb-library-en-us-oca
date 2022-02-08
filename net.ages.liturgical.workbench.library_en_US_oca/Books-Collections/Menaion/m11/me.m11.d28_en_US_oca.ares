@@ -60,8 +60,8 @@ meVE.SticTheotokion.text = oc.m6.d3_en_US_oca.ocMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.incipit = me.m02.d17_en_US_oca.meMA.LaudsStavrotheotokion.incipit
+meVE.SticStavrotheotokion.text = me.m02.d17_en_US_oca.meMA.LaudsStavrotheotokion.text
 
 meVE.AposGlory.mode = misc_en_US_oca.Mode8
 meVE.AposGlory.melody = ""
