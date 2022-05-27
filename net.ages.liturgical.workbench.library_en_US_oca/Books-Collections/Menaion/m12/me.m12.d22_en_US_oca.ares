@@ -99,6 +99,10 @@ meVE.Apolytikion2.text = ""
 meCO.C1.title = ""
 meCO.C1.verse = prayers_en_US_oca.verse_God.text
 
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = ""
 
 meCO.Ode3C1H.ode = misc_en_US_oca.Ode3
@@ -177,11 +181,19 @@ meMA.Kathisma21.melody = he.a.m3_en_US_oca.IParthenosSimeron.notmetered
 meMA.Kathisma21.incipit = "Today the righteous Joseph…"
 meMA.Kathisma21.text = "Today the righteous Joseph cries out singing: ⁄ I see a Virgin with child become the temple of the Lord! ⁄ She bears Him Who comes in compassion to save all mankind, ⁄ as we sing hymns to Him, ⁄⁄ restoring us as temples of divine glory!"
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "whose acrostic is: I SING THE LONG SONG OF HOLY THURSDAY"
 
 meMA.C2.poet = poets_en_US_oca.Iosif
 //Acrostic text (although not in the COG): οὗ ἡ Ἀκροστιχίς, ἐλλιπὴς ὅμως τινῶν Τροπαρίων· Τοὺς εὐκλεεῖς σου, Μάρτυς, αἰνέσω πόνους ἐγὼ. Ὁ Ἰωσήφ.
 
+meMA.C3.acrostic.title = ""
+meMA.C3.acrostic.notice1 = ""
+meMA.C3.acrostic.text = ""
+//meMA.C3.acrostic.notice2 = ""
 meMA.C3.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1

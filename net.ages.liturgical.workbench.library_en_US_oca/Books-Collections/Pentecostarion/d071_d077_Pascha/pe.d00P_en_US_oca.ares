@@ -47,7 +47,12 @@ pePA.ChristIsRisenShort.text = "" //for media
 pePA.C1.poet = poets_en_US_oca.IoannouTouDamaskinou
 pePA.C1.text = "" //for media of entire canon
 
-pePA.CTh.acrostic = ""
+pePA.CTh.acrostic.title = ""
+pePA.CTh.acrostic.notice1 = ""
+pePA.CTh.acrostic.text = ""
+pePA.CTh.acrostic.notice2 = ""
+pePA.CTh.poet = ""
+pePA.CTh.title = ""
 
 pePA.Ode1H.ode = misc_en_US_oca.Ode1
 pePA.Ode1H.mode = misc_en_US_oca.Mode1

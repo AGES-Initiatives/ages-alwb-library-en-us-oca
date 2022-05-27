@@ -82,12 +82,20 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meCO.C1Poet = poets_en_US_oca.SymeonTouLogothetou
+meCO.C1.poet = poets_en_US_oca.SymeonTouLogothetou
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = ""
 meCO.C1.title = ""
 meCO.C1.verse = prayers_en_US_oca.verse_God.text
 
-meCO.C2Poet = ""
+meCO.C2.poet = ""
+meCO.C2.acrostic.title = ""
+meCO.C2.acrostic.notice1 = ""
+meCO.C2.acrostic.text = ""
+//meCO.C2.acrostic.notice2 = ""
 meCO.C2.acrostic = ""
 meCO.C2.title = ""
 meCO.C2.verse = prayers_en_US_oca.verse_God.text
@@ -215,8 +223,16 @@ meMA.Kathisma22.incipit = "Today the voice…"
 meMA.Kathisma22.text = "Today the voice of Isaiah is fulfilled, which said: ⁄ Prepare the way of the Lord! ⁄ Make straight His paths! ⁄ For the voice of John, the Lover of the desert, resounds as a trumpet ⁄⁄ calling us all together to behold a strange wonder!"
 
 meMA.C1.poet = poets_en_US_oca.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1

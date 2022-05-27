@@ -117,8 +117,10 @@ ocVE.ApolTheotokionVM.melody = he.a.m1_en_US_oca.TouLithouSfragisthentos.notmete
 ocVE.ApolTheotokionVM.incipit = "…"
 ocVE.ApolTheotokionVM.text = ""
 
+ocMO.title = ""
 ocMO.poet = poets_en_US_oca.MitrofanousSmirnis
-ocMO.acrostic = ""
+ocMO.acrostic.notice = ""
+ocMO.acrostic.text = ""
 
 ocMO.Ode11.mode = misc_en_US_oca.Mode1
 ocMO.Ode11.ode = misc_en_US_oca.Ode1

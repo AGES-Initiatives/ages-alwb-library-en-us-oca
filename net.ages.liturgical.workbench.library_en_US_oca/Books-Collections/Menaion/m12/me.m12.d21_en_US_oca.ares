@@ -86,6 +86,10 @@ meVE.Apolytikion2.text = ""
 meCO.C1.title = "The Canon of two odes"
 meCO.C1.verse = prayers_en_US_oca.verse_God.text
 
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = "whose acrostic is: I SING THE SONG OF HOLY TUESDAY."
 
 meCO.Ode8C1H.ode = misc_en_US_oca.Ode8
@@ -148,8 +152,16 @@ meMA.Kathisma21.incipit = "A strange mystery…"
 meMA.Kathisma21.text = "A strange mystery is revealed today: ⁄ In the cave our Savior presses forward to be born in the flesh! ⁄ The Magi are coming with gifts to worship the King; ⁄ the shepherds glorify Him with the angels! ⁄ Together with them let us cry aloud, ⁄⁄ Glory to Him Who for our sake has become a man!"
 
 meMA.C1.poet = poets_en_US_oca.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1

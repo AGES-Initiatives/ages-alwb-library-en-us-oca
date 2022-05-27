@@ -176,6 +176,10 @@ meMA.PostGospelIdiomelon.incipit = me.m11.d08_en_US_oca.meVE.LityBoth.incipit
 meMA.PostGospelIdiomelon.text = me.m11.d08_en_US_oca.meVE.LityBoth.text
 
 meMA.C1.poet = poets_en_US_oca.KyriouGeorgiou
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C2.poet = poets_en_US_oca.KyriouVasileiou

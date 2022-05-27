@@ -104,6 +104,10 @@ meVE.Apolytikion3.text = ""
 meCO.C1.title = "The Canon of three odes"
 meCO.C1.verse = prayers_en_US_oca.verse_God.text
 
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = "whose acrostic is: I SING THE SONG OF THE DAY OF PREPARATION"
 
 meCO.Ode5C1H.ode = misc_en_US_oca.Ode5
@@ -195,6 +199,10 @@ meMA.Kathisma21.incipit = "In days of old the…"
 meMA.Kathisma21.text = "In days of old the kings from Persia ⁄ brought gold, myrrh and frankincense to the new-born King and God! ⁄ Now with divine wisdom and all our soul, ⁄ as we celebrate the prefeast of His nativity, ⁄ let us offer Him hope and faith and love, ⁄⁄ as we sing hymns to the Virgin!"
 
 meMA.C1.poet = poets_en_US_oca.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
