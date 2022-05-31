@@ -197,30 +197,29 @@ meMA.PostGospelIdiomelon.text = meSV.SticGlory.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = me.m07.d27_en_US_oca.meMA.C1.acrostic
+meMA.C1.acrostic.notice2 = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.title = titles_en_US_oca.KanonTisTheotokou
+meMA.C1.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.poet = poets_en_US_oca.Theofanous
+meMA.C2.title = titles_en_US_oca.KanonATouAgiou
+meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = ""
+meMA.C3.title = titles_en_US_oca.KanonBTouAgiou
+meMA.C3.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode2
 meMA.Ode1C1H.melody = he.h.m2_en_US_oca.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_oca.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_oca.EnVythoKatestrose.text
-
-meMA.C1.title = titles_en_US_oca.KanonTisTheotokou
-meMA.C1.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode2
@@ -239,9 +238,6 @@ meMA.Ode1C13.mode = misc_en_US_oca.Mode2
 meMA.Ode1C13.melody = he.h.m2_en_US_oca.EnVythoKatestrose.notmetered
 meMA.Ode1C13.incipit = me.m07.d27_en_US_oca.meMA.Ode1C13.incipit
 meMA.Ode1C13.text = me.m07.d27_en_US_oca.meMA.Ode1C13.text
-
-meMA.C2.title = titles_en_US_oca.KanonATouAgiou
-meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode2
@@ -266,9 +262,6 @@ meMA.Ode1C2T.mode = misc_en_US_oca.Mode2
 meMA.Ode1C2T.melody = he.h.m2_en_US_oca.EnVythoKatestrose.notmetered
 meMA.Ode1C2T.incipit = "The choir of virgins sings…"
 meMA.Ode1C2T.text = "The choir of virgins sings of your beauty, Theotokos, ⁄ divine Lady, most blessed among women, ⁄ made glorious by the grace of divinity. ⁄ For beyond words, you conceived the Word, ⁄ the Author of all beauty."
-
-meMA.C3.title = titles_en_US_oca.KanonBTouAgiou
-meMA.C3.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_en_US_oca.Ode1
 meMA.Ode1C31.mode = misc_en_US_oca.Mode6

@@ -189,8 +189,12 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.Aposticha1.incipit
 meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
 
+meMA.C1.title = titles_en_US_oca.KanonATisEortis
+meMA.C1.verse = prayers_en_US_oca.verse_Theotokos.text
 meMA.C1.poet = poets_en_US_oca.KyriouIoannou
 
+meMA.C2.title = titles_en_US_oca.KanonBTisEortis
+meMA.C2.verse = prayers_en_US_oca.verse_Theotokos.text
 meMA.C2.poet = poets_en_US_oca.KyriouAndreou
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
@@ -198,9 +202,6 @@ meMA.Ode1C1H.mode = misc_en_US_oca.Mode2
 meMA.Ode1C1H.melody = he.h.m2_en_US_oca.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_oca.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_oca.DefteLaoi.text
-
-meMA.C1.title = titles_en_US_oca.KanonATisEortis
-meMA.C1.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode2
@@ -225,9 +226,6 @@ meMA.Ode1C2H.mode = misc_en_US_oca.Mode8
 meMA.Ode1C2H.melody = he.h.m8_en_US_oca.ToSyntripsantiPolemous.melody
 meMA.Ode1C2H.incipit = he.h.m8_en_US_oca.ToSyntripsantiPolemous.incipit
 meMA.Ode1C2H.text = he.h.m8_en_US_oca.ToSyntripsantiPolemous.text
-
-meMA.C2.title = titles_en_US_oca.KanonBTisEortis
-meMA.C2.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode8

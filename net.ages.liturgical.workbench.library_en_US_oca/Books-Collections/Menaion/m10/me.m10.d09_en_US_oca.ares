@@ -108,21 +108,18 @@ meVE.Apolytikion2.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meMA.C1.poet = poets_en_US_oca.Theofanous
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.title = titles_en_US_oca.KanonTouApostolou
+meMA.C1.verse = prayers_en_US_oca.verse_Apostle.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = titles_en_US_oca.KanonTouApostolou
-meMA.C1.verse = prayers_en_US_oca.verse_Apostle.text
+meMA.C2.title = titles_en_US_oca.KanonTonOsion
+meMA.C2.verse = prayers_en_US_oca.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode6
@@ -147,9 +144,6 @@ meMA.Ode1C1T.mode = misc_en_US_oca.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_US_oca.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C1T.incipit = "The Lord Who stretched out…"
 meMA.Ode1C1T.text = "The Lord Who stretched out the heavens ⁄ and founded the earth ⁄ has revealed you to us as an earthly heaven, ⁄ for He came forth from you in the flesh, all-pure Virgin."
-
-meMA.C2.title = titles_en_US_oca.KanonTonAgion
-meMA.C2.verse = prayers_en_US_oca.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode8

@@ -103,11 +103,9 @@ meMA.Kathisma21.text = "Your Cross, Lord, ⁄ shines forth like a light! ⁄ It 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.title = titles_en_US_oca.KanonTonAgion
+meMA.C1.verse = prayers_en_US_oca.verse_SaintsW.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode1
