@@ -83,14 +83,11 @@ meVE.Apolytikion2.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meCO.C1.title = "The Canon of two odes"
+meCO.C1.acrostic.title = "The Canon of two odes,"
+meCO.C1.acrostic.notice1 = "whose acrostic is:"
+meCO.C1.acrostic.text = "I SING THE SONG OF HOLY TUESDAY."
+meCO.C1.title = "The Canon of two odes."
 meCO.C1.verse = prayers_en_US_oca.verse_God.text
-
-meCO.C1.acrostic.title = ""
-meCO.C1.acrostic.notice1 = ""
-meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = "whose acrostic is: I SING THE SONG OF HOLY TUESDAY."
 
 meCO.Ode8C1H.ode = misc_en_US_oca.Ode8
 meCO.Ode8C1H.mode = misc_en_US_oca.Mode2
@@ -151,27 +148,23 @@ meMA.Kathisma21.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
 meMA.Kathisma21.incipit = "A strange mystery…"
 meMA.Kathisma21.text = "A strange mystery is revealed today: ⁄ In the cave our Savior presses forward to be born in the flesh! ⁄ The Magi are coming with gifts to worship the King; ⁄ the shepherds glorify Him with the angels! ⁄ Together with them let us cry aloud, ⁄⁄ Glory to Him Who for our sake has become a man!"
 
-meMA.C1.poet = poets_en_US_oca.Iosif
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_oca.Iosif
+meMA.C1.title = titles_en_US_oca.KanonProeortios
+meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = titles_en_US_oca.KanonTisAgias
+meMA.C2.verse = prayers_en_US_oca.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_oca.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_oca.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_oca.TristatasKrataious.text
-
-meMA.C1.title = titles_en_US_oca.KanonProeortios
-meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode4
@@ -190,9 +183,6 @@ meMA.Ode1C13.mode = misc_en_US_oca.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_oca.TristatasKrataious.notmetered
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
-
-meMA.C2.title = titles_en_US_oca.KanonTisAgias
-meMA.C2.verse = prayers_en_US_oca.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode4

@@ -96,14 +96,11 @@ meVE.Apolytikion2.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meCO.C1.title = ""
-meCO.C1.verse = prayers_en_US_oca.verse_God.text
-
 meCO.C1.acrostic.title = ""
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = ""
+meCO.C1.title = ""
+meCO.C1.verse = prayers_en_US_oca.verse_God.text
 
 meCO.Ode3C1H.ode = misc_en_US_oca.Ode3
 meCO.Ode3C1H.mode = misc_en_US_oca.Mode2
@@ -184,26 +181,24 @@ meMA.Kathisma21.text = "Today the righteous Joseph cries out singing: ⁄ I see 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "whose acrostic is: I SING THE LONG SONG OF HOLY THURSDAY"
+meMA.C1.title = titles_en_US_oca.KanonProeortios
+meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 meMA.C2.poet = poets_en_US_oca.Iosif
-//Acrostic text (although not in the COG): οὗ ἡ Ἀκροστιχίς, ἐλλιπὴς ὅμως τινῶν Τροπαρίων· Τοὺς εὐκλεεῖς σου, Μάρτυς, αἰνέσω πόνους ἐγὼ. Ὁ Ἰωσήφ.
+meMA.C2.title = titles_en_US_oca.KanonATisAgias
+meMA.C2.verse = prayers_en_US_oca.verse_SaintW.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = ""
+meMA.C3.title = titles_en_US_oca.KanonBTisAgias
+meMA.C3.verse = prayers_en_US_oca.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode6
 meMA.Ode1C1H.melody = he.h.m6_en_US_oca.TmitheisiTmatai.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_oca.TmitheisiTmatai.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_oca.TmitheisiTmatai.text
-
-meMA.C1.title = titles_en_US_oca.KanonProeortios
-meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode6
@@ -237,9 +232,6 @@ For she comes to give birth to the eternal One.
 The heavens bear witness of Him to the Magi, 
 as the angels reveal Him to the shepherds."
 
-meMA.C2.title = titles_en_US_oca.KanonATisAgias
-meMA.C2.verse = prayers_en_US_oca.verse_SaintW.text
-
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode1
 meMA.Ode1C21.melody = he.h.m1_en_US_oca.OdinEpinikion.notmetered
@@ -263,9 +255,6 @@ meMA.Ode1C2T.mode = misc_en_US_oca.Mode1
 meMA.Ode1C2T.melody = he.h.m1_en_US_oca.OdinEpinikion.notmetered
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = titles_en_US_oca.KanonBTisAgias
-meMA.C3.verse = prayers_en_US_oca.verse_SaintW.text
 
 meMA.Ode1C31.ode = misc_en_US_oca.Ode1
 meMA.Ode1C31.mode = misc_en_US_oca.Mode8

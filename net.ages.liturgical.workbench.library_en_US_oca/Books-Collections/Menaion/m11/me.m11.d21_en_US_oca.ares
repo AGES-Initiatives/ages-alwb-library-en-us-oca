@@ -175,23 +175,22 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m11.d08_en_US_oca.meVE.LityBoth.incipit
 meMA.PostGospelIdiomelon.text = me.m11.d08_en_US_oca.meVE.LityBoth.text
 
-meMA.C1.poet = poets_en_US_oca.KyriouGeorgiou
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "The First Canon."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_oca.KyriouGeorgiou
+meMA.C1.title = titles_en_US_oca.KanonATisEortis
+meMA.C1.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.C2.poet = poets_en_US_oca.KyriouVasileiou
+meMA.C2.title = titles_en_US_oca.KanonBTisEortis
+meMA.C2.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_oca.AnoixoToStomaMou_Eisodia.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_oca.AnoixoToStomaMou_Eisodia.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_oca.AnoixoToStomaMou_Eisodia.text
-
-meMA.C1.title = titles_en_US_oca.KanonATisEortis
-meMA.C1.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode4
@@ -216,9 +215,6 @@ meMA.Ode1C14.mode = misc_en_US_oca.Mode4
 meMA.Ode1C14.melody = he.h.m4_en_US_oca.AnoixoToStomaMou_Eisodia.notmetered
 meMA.Ode1C14.incipit = "Having opened the gates of…"
 meMA.Ode1C14.text = "Having opened the gates of the Temple of God, ⁄ the Glorious Gate through which human thoughts cannot pass ⁄ now urges us to enter with her ⁄ and to delight in her divine marvels."
-
-meMA.C2.title = titles_en_US_oca.KanonBTisEortis
-meMA.C2.verse = prayers_en_US_oca.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode1
