@@ -103,9 +103,11 @@ meMA.Kathisma21.incipit = "The time of God's manifestation…"
 meMA.Kathisma21.text = "The time of God's manifestation is come! ⁄ Christ is revealed to us in the Jordan: ⁄ Come, O faithful, ⁄ let us draw water and be delivered from our sins, ⁄ for Christ has compassionately clothed Himself in flesh. ⁄ He seeks the sheep caught in the jaws of the wolf. ⁄ He will find him and lead him back into paradise; ⁄ He is revealed in the Jordan, ⁄⁄ for the illumination of the universe."
 
 meMA.C1.poet = poets_en_US_oca.IoannouMonachou
-
 meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.verse = prayers_en_US_oca.verse_SaintM.text
+
+meMA.C2.title = ""
+meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode5
@@ -130,9 +132,6 @@ meMA.Ode1C1T.mode = misc_en_US_oca.Mode5
 meMA.Ode1C1T.melody = he.h.m5_en_US_oca.IpponKaiAnavatin.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode1

@@ -82,21 +82,16 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meCO.C1.poet = poets_en_US_oca.SymeonTouLogothetou
 meCO.C1.acrostic.title = ""
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = ""
+meCO.C1.poet = poets_en_US_oca.SymeonTouLogothetou
 meCO.C1.title = ""
 meCO.C1.verse = prayers_en_US_oca.verse_God.text
 
-meCO.C2.poet = ""
 meCO.C2.acrostic.title = ""
 meCO.C2.acrostic.notice1 = ""
 meCO.C2.acrostic.text = ""
-//meCO.C2.acrostic.notice2 = ""
-meCO.C2.acrostic = ""
 meCO.C2.title = ""
 meCO.C2.verse = prayers_en_US_oca.verse_God.text
 
@@ -222,27 +217,23 @@ meMA.Kathisma22.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meMA.Kathisma22.incipit = "Today the voice…"
 meMA.Kathisma22.text = "Today the voice of Isaiah is fulfilled, which said: ⁄ Prepare the way of the Lord! ⁄ Make straight His paths! ⁄ For the voice of John, the Lover of the desert, resounds as a trumpet ⁄⁄ calling us all together to behold a strange wonder!"
 
-meMA.C1.poet = poets_en_US_oca.Iosif
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "The Forefestal Canon."
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_oca.Iosif
+meMA.C1.title = titles_en_US_oca.KanonProeortios
+meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = titles_en_US_oca.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode2
 meMA.Ode1C1H.melody = he.h.m2_en_US_oca.ToTinAvaton.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_oca.ToTinAvaton.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_oca.ToTinAvaton.text
-
-meMA.C1.title = titles_en_US_oca.KanonProeortios
-meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode2
@@ -267,9 +258,6 @@ meMA.Ode1C14.mode = misc_en_US_oca.Mode2
 meMA.Ode1C14.melody = he.h.m2_en_US_oca.ToTinAvaton.notmetered
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = "The divinely eloquent Forerunner, ⁄ seeing all the people who were coming, cried out to them: ⁄ Who told you to flee from the wrath to come? ⁄ Show fruits of repentance, if you are saved by grace!"
-
-meMA.C2.title = titles_en_US_oca.KanonTouAgiou
-meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode8

@@ -212,28 +212,25 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "The sound of your teachings…"
 meMA.PostGospelIdiomelon.text = "The sound of your teachings has gone out into all the earth, ⁄ venerable Father! ⁄ Therefore you have found the reward of your labors in the heavens. ⁄ You destroyed the hosts of demons ⁄ and reached the ranks of angels whose life you blamelessly followed! ⁄ Since you have boldness before Christ our God, ⁄⁄ entreat peace for our souls!" //me.m01.d15_en_US_oca.meVE.AposGlory.text
 
-meMA.C1.poet = poets_en_US_oca.IoannouTouDamaskinou
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "First Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_oca.IoannouTouDamaskinou
+meMA.C1.title = titles_en_US_oca.KanonATouOsiou
+meMA.C1.verse = prayers_en_US_oca.verse_DevoutMan.text
 
-meMA.C2.poet = poets_en_US_oca.Theofanous
-meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.title = "Second Canon."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.poet = poets_en_US_oca.Theofanous
+meMA.C2.title = titles_en_US_oca.KanonBTouOsiou
+meMA.C2.verse = prayers_en_US_oca.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_oca.OukEstiSoiOmoios.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_oca.OukEstiSoiOmoios.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_oca.OukEstiSoiOmoios.text
-
-meMA.C1.title = titles_en_US_oca.KanonATouOsiou
-meMA.C1.verse = prayers_en_US_oca.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode4
@@ -246,9 +243,6 @@ meMA.Ode1C12.mode = misc_en_US_oca.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_oca.OukEstiSoiOmoios.notmetered
 meMA.Ode1C12.incipit = "The Church chants a hymn…"
 meMA.Ode1C12.text = "The Church chants a hymn of thanksgiving, venerable one, ⁄ having received you from God as foretold, ⁄ an offspring of peaceful and goodly courage!"
-
-meMA.C2.title = titles_en_US_oca.KanonBTouOsiou
-meMA.C2.verse = prayers_en_US_oca.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode8

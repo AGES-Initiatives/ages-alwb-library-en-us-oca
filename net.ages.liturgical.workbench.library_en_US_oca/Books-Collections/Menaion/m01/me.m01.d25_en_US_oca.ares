@@ -225,17 +225,16 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "Venerable, thrice-blessed and most holy…"
 meMA.PostGospelIdiomelon.text = "Venerable, thrice-blessed and most holy Father, ⁄ good pastor and teacher of Christ the chief shepherd: ⁄ You laid down your life for your sheep! ⁄ Now, all-praised Gregory the Theologian, ⁄⁄ entreat by your prayers that we may be granted great mercy!"
 
-meMA.C1.poet = poets_en_US_oca.Theofanous
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C2.poet = ""
-
+meMA.C1.poet = poets_en_US_oca.Theofanous
 meMA.C1.title = titles_en_US_oca.KanonATouAgiou
 meMA.C1.verse = prayers_en_US_oca.verse_SaintM.text
+
+meMA.C2.poet = poets_en_US_oca.AgiouKosma
+meMA.C2.title = titles_en_US_oca.KanonBTouAgiou
+meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode1
@@ -266,9 +265,6 @@ meMA.Ode1C2H.mode = misc_en_US_oca.Mode1
 meMA.Ode1C2H.melody = he.h.m1_en_US_oca.EpainonOTheoptis.melody
 meMA.Ode1C2H.incipit = he.h.m1_en_US_oca.EpainonOTheoptis.incipit
 meMA.Ode1C2H.text = he.h.m1_en_US_oca.EpainonOTheoptis.text
-
-meMA.C2.title = titles_en_US_oca.KanonBTouAgiou
-meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode1
