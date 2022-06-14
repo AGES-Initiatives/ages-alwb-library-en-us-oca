@@ -204,21 +204,18 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.SticGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
 
-meMA.C1.poet = poets_en_US_oca.KosmaMonachou
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_oca.KosmaMonachou
+meMA.C1.title = titles_en_US_oca.KanonTisEortis
+meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode3
 meMA.Ode1C1H.melody = he.h.m3_en_US_oca.ChersonAvyssotokon.melody
 meMA.Ode1C1H.incipit = he.h.m3_en_US_oca.ChersonAvyssotokon.incipit
 meMA.Ode1C1H.text = he.h.m3_en_US_oca.ChersonAvyssotokon.text
-
-meMA.C1.title = titles_en_US_oca.KanonTisEortis
-meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode3

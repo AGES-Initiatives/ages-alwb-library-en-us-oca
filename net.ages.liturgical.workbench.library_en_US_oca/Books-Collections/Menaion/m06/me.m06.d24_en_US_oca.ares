@@ -216,28 +216,25 @@ meMA.PostGospelIdiomelon.melody = misc_en_US_oca.Idiomelon
 meMA.PostGospelIdiomelon.incipit = "…"
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1.poet = poets_en_US_oca.IoannouTouDamaskinou
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "The Canon."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_oca.IoannouTouDamaskinou
+meMA.C1.title = titles_en_US_oca.KanonATouProdromou
+meMA.C1.verse = prayers_en_US_oca.verse_Baptist.text
 
-meMA.C2.poet = poets_en_US_oca.Georgiou
-meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.title = "Another Canon."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.poet = poets_en_US_oca.Georgiou
+meMA.C2.title = titles_en_US_oca.KanonBTouProdromou
+meMA.C2.verse = prayers_en_US_oca.verse_Baptist.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_oca.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_oca.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_oca.TristatasKrataious.text
-
-meMA.C1.title = titles_en_US_oca.KanonATouProdromou
-meMA.C1.verse = "Holy John, Baptist of Christ, pray to God for us!"
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode4
@@ -262,9 +259,6 @@ meMA.Ode1C1T.mode = misc_en_US_oca.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_oca.TristatasKrataious.notmetered
 meMA.Ode1C1T.incipit = "Spotless Theotokos: ⁄ the City…"
 meMA.Ode1C1T.text = "Spotless Theotokos: ⁄ the City of God, the King of all, ⁄ the pure and divine receiver, ⁄ ever guard your inheritance which praises you, ⁄ honoring your childbearing with faith."
-
-meMA.C2.title = titles_en_US_oca.KanonBTouProdromou
-meMA.C2.verse = "Holy John, Baptist of Christ, pray to God for us!"
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode4
