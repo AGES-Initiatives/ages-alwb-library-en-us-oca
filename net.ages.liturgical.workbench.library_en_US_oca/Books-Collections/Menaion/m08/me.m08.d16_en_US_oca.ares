@@ -87,15 +87,15 @@ meMA.Kathisma21.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
-meMA.C1.poet = poets_en_US_oca.GermanouPatriarchou
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
+meMA.C1.poet = poets_en_US_oca.GermanouPatriarchou
 meMA.C1.title = ""
 meMA.C1.verse = prayers_en_US_oca.verse_God.text
+
+meMA.C2.title = titles_en_US_oca.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode6
@@ -120,9 +120,6 @@ meMA.Ode1C1T.mode = misc_en_US_oca.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_US_oca.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = titles_en_US_oca.KanonTouAgiou
-meMA.C2.verse = prayers_en_US_oca.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode4

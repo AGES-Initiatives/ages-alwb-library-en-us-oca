@@ -156,18 +156,15 @@ meMA.PostGospelIdiomelon.text = me.m07.d17_en_US_oca.meVE.Lity3.text
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
 meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.title = titles_en_US_oca.KanonATisAgias
+meMA.C1.verse = prayers_en_US_oca.verse_SaintW.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.title = titles_en_US_oca.KanonBTisAgias
+meMA.C2.verse = prayers_en_US_oca.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_oca.Ode1
 meMA.Ode1C11.mode = misc_en_US_oca.Mode8
@@ -198,9 +195,6 @@ meMA.Ode1C1T.mode = misc_en_US_oca.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_oca.Ode1
 meMA.Ode1C21.mode = misc_en_US_oca.Mode4
