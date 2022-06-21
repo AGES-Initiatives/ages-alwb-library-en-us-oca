@@ -154,11 +154,10 @@ peMA.C2.poet = poets_en_US_oca.KyriouIoannouArkla
 peMA.C2.title = titles_en_US_oca.KanonBTisEortis
 peMA.C2.verse = prayers_en_US_oca.verse_God.text
 
-peMA.C2.Acrostic1.acrostic = ""
-peMA.C2.Acrostic2.acrostic = ""
-peMA.C2.Acrostic3.acrostic = ""
-peMA.C2.Acrostic4.acrostic = ""
-peMA.C2.Acrostic5.acrostic = ""
+peMA.C2.acrostic.line1.text = ""
+peMA.C2.acrostic.line2.text = ""
+peMA.C2.acrostic.line3.text = ""
+peMA.C2.acrostic.line4.text = ""
 
 peMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 peMA.Ode1C1H.mode = misc_en_US_oca.Mode7

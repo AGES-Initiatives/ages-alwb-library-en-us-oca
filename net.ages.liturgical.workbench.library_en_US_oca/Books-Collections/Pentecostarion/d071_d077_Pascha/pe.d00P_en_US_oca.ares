@@ -46,6 +46,8 @@ pePA.ChristIsRisenShort.text = "" //for media
 
 pePA.C1.poet = poets_en_US_oca.IoannouTouDamaskinou
 pePA.C1.text = "" //for media of entire canon
+pePA.C1.title = titles_en_US_oca.KanonTouPascha
+pePA.C1.verse = prayers_en_US_oca.verse_Resurrection.text
 
 pePA.CTh.acrostic.title = ""
 pePA.CTh.acrostic.notice1 = ""
@@ -59,9 +61,6 @@ pePA.Ode1H.mode = misc_en_US_oca.Mode1
 pePA.Ode1H.melody = misc_en_US_oca.HeirmosNotMetered
 pePA.Ode1H.incipit = he.h.m1_en_US_oca.AnastaseosImera.incipit
 pePA.Ode1H.text = he.h.m1_en_US_oca.AnastaseosImera.text
-
-pePA.C1.title = titles_en_US_oca.KanonTouPascha
-pePA.C1.verse = prayers_en_US_oca.verse_Resurrection.text
 
 pePA.Ode11.ode = misc_en_US_oca.Ode1
 pePA.Ode11.mode = misc_en_US_oca.Mode1
