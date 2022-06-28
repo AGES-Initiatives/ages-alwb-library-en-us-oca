@@ -40,10 +40,10 @@ AseveiasOrgana.mode = misc_en_US_oca.Mode8
 AseveiasOrgana.ode = misc_en_US_oca.Ode8
 AseveiasOrgana.text = ""
 
-AsmaAnapempsomen.notmetered = "N/M ()"
-AsmaAnapempsomen.name = ""
+AsmaAnapempsomen.notmetered = "N/M (All you people.)"
+AsmaAnapempsomen.name = "All you people."
 AsmaAnapempsomen.incipit = "…"
-AsmaAnapempsomen.melody = misc_en_US_oca.HeirmosNotMetered
+AsmaAnapempsomen.melody = misc_en_US_oca.Heirmos
 AsmaAnapempsomen.mode = misc_en_US_oca.Mode8
 AsmaAnapempsomen.ode = misc_en_US_oca.Ode1
 AsmaAnapempsomen.text = ""
@@ -146,7 +146,7 @@ EnPedioDeeira.text = ""
 
 EpevisEfIppous.name = "(N/M)"
 EpevisEfIppous.incipit = "(N/M)…"
-EpevisEfIppous.notmetered = "N/M (O Lord, You rode.)"
+EpevisEfIppous.notmetered = "N/M (You mounted Your horses.)"
 EpevisEfIppous.melody = misc_en_US_oca.HeirmosNotMetered
 EpevisEfIppous.mode = misc_en_US_oca.Mode8
 EpevisEfIppous.ode = misc_en_US_oca.Ode4
@@ -725,7 +725,7 @@ TonEnOreiAgio.text = ""
 
 TonFovonSouKyrie.name = "(N/M)"
 TonFovonSouKyrie.incipit = "(N/M)…"
-TonFovonSouKyrie.notmetered = "N/M (Plant the fear of You.)"
+TonFovonSouKyrie.notmetered = "N/M (O Lord, we Your servants.)"
 TonFovonSouKyrie.melody = misc_en_US_oca.HeirmosNotMetered
 TonFovonSouKyrie.mode = misc_en_US_oca.Mode8
 TonFovonSouKyrie.ode = misc_en_US_oca.Ode3
