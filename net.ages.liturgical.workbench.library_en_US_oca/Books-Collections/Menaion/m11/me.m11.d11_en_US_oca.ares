@@ -5,7 +5,9 @@ meDA.commemoration.full = "Martyrs Mennas of Egypt (304), Victor of Damascus (2n
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
 meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
@@ -619,4 +621,4 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
-
+meMegalynarion2.text = ""

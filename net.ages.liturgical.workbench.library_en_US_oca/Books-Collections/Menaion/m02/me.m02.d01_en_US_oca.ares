@@ -5,7 +5,9 @@ meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
 meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
@@ -616,4 +618,4 @@ meLI.Kontakion2.incipit = "…"
 meLI.Kontakion2.text = ""
 
 meMegalynarion.text = ""
-
+meMegalynarion2.text = ""
