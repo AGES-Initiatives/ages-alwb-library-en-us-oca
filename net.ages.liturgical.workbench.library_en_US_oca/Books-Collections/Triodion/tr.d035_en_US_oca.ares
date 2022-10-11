@@ -15,6 +15,8 @@ trCO.header = ""
 trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 trDA.dismissal = ""
 
+trR001 = ""
+
 trVE.AposIdiomelon1.mode = misc_en_US_oca.Mode4
 trVE.AposIdiomelon1.melody = ""
 trVE.AposIdiomelon1.incipit = "Now is the acceptable time!…"
