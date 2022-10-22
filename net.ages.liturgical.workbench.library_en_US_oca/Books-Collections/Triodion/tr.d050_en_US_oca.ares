@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d050_en_US_oca
 
 trDA.commemoration.full = "" //full title of day
 trDA.commemoration.short = ""
+trDA.title = ""
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
@@ -335,6 +336,7 @@ trMA.Kontakion1.text = "The Lord truly set you on the heights of abstinence, ⁄
 trMA.Oikos1.text = "You truly made yourself a house of God, O father, adorned with faith, hope and true love through your divine virtues, shining from a distance as with gold. You explained the laws of God, and practiced abstinence as though you were bodiless. You gained wisdom, courage, chastity and humility, and were raised to the heights. Illumined with unceasing prayer, you attained the dwelling places of heaven, our Father and Teacher John."
 
 trSY.commemoration.text = ""
+trSY.commemoration.onotherday.text = ""
 trSY.commemoration.couplet1.title = titles_en_US_oca.Stichoi
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""

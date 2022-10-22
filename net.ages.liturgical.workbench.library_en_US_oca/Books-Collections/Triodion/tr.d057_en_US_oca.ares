@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d057_en_US_oca
 
 trDA.commemoration.full = "" //full title of day
 trDA.commemoration.short = ""
+trDA.title = ""
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
@@ -333,6 +334,7 @@ trMA.Kontakion1.text = "Having been a sinful woman, ⁄ you became through repen
 trMA.Oikos1.text = "We praise you now in our hymns, all-honored Mary, as the lamb and daughter of Christ. Sprung from Egyptian stock, you fled from all their errors and were offered as a precious flower to the Church. You struggled in abstinence and prayer above the measure of human nature, and so you were exalted by Christ, for through your life and actions ⁄⁄ most glorious Mary, you are a bride of the kingdom!"
 
 trSY.commemoration.text = ""
+trSY.commemoration.onotherday.text = ""
 trSY.commemoration.couplet1.title = titles_en_US_oca.Stichoi
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
