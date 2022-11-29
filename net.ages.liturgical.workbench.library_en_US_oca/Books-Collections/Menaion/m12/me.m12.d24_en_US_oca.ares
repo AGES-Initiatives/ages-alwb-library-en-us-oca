@@ -88,7 +88,7 @@ meVE.Apolytikion2.text = ""
 
 meCO.C1.acrostic.title = "Forefestal Canon."
 meCO.C1.acrostic.notice1 = ""
-meCO.C1.title = titles_en_US_oca.KanonProeortios
+meCO.C1.title = titles_en_US_oca.ti.CanonForefeast
 meCO.C1.verse = prayers_en_US_oca.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_US_oca.Ode1
@@ -308,7 +308,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.acrostic.notice2 = ""
-meMA.C1.title = titles_en_US_oca.KanonProeortios
+meMA.C1.title = titles_en_US_oca.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 meMA.C2.acrostic.title = ""
@@ -320,7 +320,7 @@ meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
 meMA.C3.poet = poets_en_US_oca.Theofanous
-meMA.C3.title = titles_en_US_oca.KanonTisAgias
+meMA.C3.title = titles_en_US_oca.ti.CanonSaintW
 meMA.C3.verse = prayers_en_US_oca.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1

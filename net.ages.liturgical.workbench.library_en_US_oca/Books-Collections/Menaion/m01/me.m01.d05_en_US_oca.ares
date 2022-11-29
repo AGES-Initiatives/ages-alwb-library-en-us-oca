@@ -84,7 +84,7 @@ meVE.Apolytikion1.text = ""
 meCO.C1.acrostic.title = "Canon."
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-meCO.C1.title = titles_en_US_oca.OKanon
+meCO.C1.title = titles_en_US_oca.ti.TheCanon
 meCO.C1.verse = prayers_en_US_oca.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_US_oca.Ode1
@@ -306,13 +306,13 @@ meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
 
 meMA.C1.poet = poets_en_US_oca.Iosif
-meMA.C1.title = titles_en_US_oca.KanonProeortios
+meMA.C1.title = titles_en_US_oca.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_oca.verse_God.text
 
-meMA.C2.title = titles_en_US_oca.KanonTisOsias
+meMA.C2.title = titles_en_US_oca.ti.CanonDevoutW
 meMA.C2.verse = prayers_en_US_oca.verse_DevoutWoman.text
 
-meMA.C3.title = titles_en_US_oca.KanonTonMartyron
+meMA.C3.title = titles_en_US_oca.ti.CanonMartyrs
 meMA.C3.verse = prayers_en_US_oca.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1

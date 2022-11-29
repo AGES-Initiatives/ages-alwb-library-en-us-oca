@@ -70,7 +70,7 @@ trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.incipit = tr.d001_en_US_oca.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_oca.trMA.PostGospelIdiomelon.text
 
-trMA.C1.title = titles_en_US_oca.KanonTouTriodiou
+trMA.C1.title = titles_en_US_oca.ti.CanonTriodion
 trMA.C1.verse = prayers_en_US_oca.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_oca.Ode1
@@ -97,7 +97,7 @@ trMA.Ode1C1T.melody = he.h.m8_en_US_oca.YgranDiodefsas.notmetered
 trMA.Ode1C1T.incipit = "The hosts of angels and…"
 trMA.Ode1C1T.text = "The hosts of angels and mortal men praise you, Virgin Mother, ⁄ For you carried their Creator as a child in your arms!"
 
-trMA.C2.title = titles_en_US_oca.KanonTisOsias
+trMA.C2.title = titles_en_US_oca.ti.CanonDevoutW
 trMA.C2.verse = prayers_en_US_oca.verse_DevoutWoman.text
 
 trMA.Ode1C21.ode = misc_en_US_oca.Ode1
@@ -335,7 +335,7 @@ trMA.Oikos1.text = "We praise you now in our hymns, all-honored Mary, as the lam
 
 trSY.commemoration.text = ""
 trSY.commemoration.onotherday.text = ""
-trSY.commemoration.couplet1.title = titles_en_US_oca.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_oca.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""
