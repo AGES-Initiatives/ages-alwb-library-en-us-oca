@@ -107,7 +107,7 @@ meCO.C1.acrostic.title = "The Canon of three odes."
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
 meCO.C1.title = "The Canon of three odes."
-meCO.C1.verse = prayers_en_US_oca.verse_God.text
+meCO.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 meCO.Ode5C1H.ode = misc_en_US_oca.Ode5
 meCO.Ode5C1H.mode = misc_en_US_oca.Mode6
@@ -201,13 +201,13 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_US_oca.Iosif
 meMA.C1.title = titles_en_US_oca.ti.CanonForefeast
-meMA.C1.verse = prayers_en_US_oca.verse_God.text
+meMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 meMA.C2.title = titles_en_US_oca.ti.AnotherCanonForefeast
-meMA.C2.verse = prayers_en_US_oca.verse_God.text
+meMA.C2.verse = prayers_en_US_oca.pr.verse_God.text
 
 meMA.C3.title = titles_en_US_oca.ti.CanonMartyrs
-meMA.C3.verse = prayers_en_US_oca.verse_SaintsM.text
+meMA.C3.verse = prayers_en_US_oca.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode2

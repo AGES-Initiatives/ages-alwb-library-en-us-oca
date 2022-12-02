@@ -89,7 +89,7 @@ meCO.C1.acrostic.title = "The Canon of two odes,"
 meCO.C1.acrostic.notice1 = "whose acrostic is:"
 meCO.C1.acrostic.text = "I SING THE SONG OF HOLY TUESDAY."
 meCO.C1.title = "The Canon of two odes."
-meCO.C1.verse = prayers_en_US_oca.verse_God.text
+meCO.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 meCO.Ode8C1H.ode = misc_en_US_oca.Ode8
 meCO.Ode8C1H.mode = misc_en_US_oca.Mode2
@@ -153,13 +153,13 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_US_oca.Iosif
 meMA.C1.title = titles_en_US_oca.ti.CanonForefeast
-meMA.C1.verse = prayers_en_US_oca.verse_God.text
+meMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.title = titles_en_US_oca.ti.CanonSaintW
-meMA.C2.verse = prayers_en_US_oca.verse_SaintW.text
+meMA.C2.verse = prayers_en_US_oca.pr.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode4

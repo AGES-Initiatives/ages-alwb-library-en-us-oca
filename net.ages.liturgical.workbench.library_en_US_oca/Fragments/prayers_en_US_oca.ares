@@ -1,1073 +1,636 @@
-A_Resource_Whose_Name = prayers_en_US_oca
-
-Doxa.incipit = "…"
-Doxa = ""
-
-DoxaKaiNyn.incipit = "…"
-DoxaKaiNyn = ""
-
-KaiNyn.incipit = "…"
-KaiNyn = ""
-
-Allilouia1.incipit = "…"
-Allilouia1 = ""
-
-Allilouia3.incipit = "…"
-Allilouia3.text = ""
-
-Allilouia3Doxa.incipit = "…"
-Allilouia3Doxa.text = ""
-
-Axios.incipit = "…"
-Axios = ""
-
-DefteProskinisomen1.incipit = "…"
-DefteProskinisomen1 = ""
-
-DefteProskinisomen2.incipit = "…"
-DefteProskinisomen2 = ""
-
-DefteProskinisomen3.incipit = "…"
-DefteProskinisomen3 = ""
-
-DiEfchonDespotou.incipit = "…"
-DiEfchonDespotou.text = ""
-
-DiEfchonPateron.incipit = "…"
-DiEfchonPateron.text = ""
-
-DoxaPatri.incipit = "…"
-DoxaPatri.text = ""
-
-DoxaSoiChriste1.incipit = "…"
-DoxaSoiChriste1 = ""
-
-DoxaSoiChriste2.incipit = "…"
-DoxaSoiChriste2 = ""
-
-DoxaSoiKyrie.incipit = "…"
-DoxaSoiKyrie = ""
-
-DoxaSoiOTheos1.incipit = "…"
-DoxaSoiOTheos1 = ""
-
-DoxaSoiOTheosIElpis.incipit = ""
-DoxaSoiOTheosIElpis.text = ""
-
-DoxaSoiOTheosImon.incipit = "…"
-DoxaSoiOTheosImon.text = ""
-
-DoxaTiMakrothymia.incipit = "…"
-DoxaTiMakrothymia.text = ""
-
-DoxaToPatri.incipit = "…"
-DoxaToPatri.text = ""
-
-EisToOnoma.incipit = "…"
-EisToOnoma = ""
-
-EvlogitosOTheosImon.incipit = "…"
-EvlogitosOTheosImon.text = ""
-
-EvlogoumenPatera.incipit = "…"
-EvlogoumenPatera.text = ""
-
-IElpisImonKyrie.incipit = "…"
-IElpisImonKyrie = ""
-
-KaiNynKaiAei.incipit = "…"
-KaiNynKaiAei.text = ""
-
-Kelefson.incipit = "…"
-Kelefson = ""
-
-KelefsonDespota.incipit = "…"
-KelefsonDespota = ""
-
-KelefsonDespotaAgie.incipit = "…"
-KelefsonDespotaAgie = ""
-
-OTheosOiktirisai.incipit = "…"
-OTheosOiktirisai.text = ""
-
-PantoteNyn.incipit = "…"
-PantoteNyn.text = ""
-
-Evlogison.incipit = "…"
-Evlogison = ""
-
-EnOnomatiKyriou.incipit = "…"
-EnOnomatiKyriou.text = ""
-
-EvlogisonThymiama.incipit = "…"
-EvlogisonThymiama.text = ""
-
-EleisonMeOTheos.incipit = "…"
-EleisonMeOTheos.text = ""
-
-AxionEstinPart1.incipit = "…"
-AxionEstinPart1.text = ""
-
-AxionEstinComplete.incipit = "…"
-AxionEstinComplete.text = ""
-
-AgiosOTheos.incipit = "…"
-AgiosOTheos.text = ""
-
-EpouranieVasilef.incipit = "…"
-EpouranieVasilef.text = ""
-
-KyrieKaiDespota1.incipit = "…"
-KyrieKaiDespota1.text = ""
-
-KyrieKaiDespota2.incipit = "…"
-KyrieKaiDespota2.text = ""
-
-KyrieKaiDespota3.incipit = "…"
-KyrieKaiDespota3.text = ""
-
-KyrieKaiDespota4.incipit = "…"
-KyrieKaiDespota4.text = ""
-
-OEnPantiKairo.incipit = "…"
-OEnPantiKairo.text = ""
-
-OOnEvlogitos.incipit = "…"
-OOnEvlogitos.text = ""
-
-PanagiaTrias.incipit = "…"
-PanagiaTrias.text = ""
-
-PaschaDialog1.incipit = "…"
-PaschaDialog1.text = ""
-PaschaDialog2.incipit = "…"
-PaschaDialog2.text = ""
-PaschaDialog3.incipit = "…"
-PaschaDialog3.text = ""
-PaschaDialog4.incipit = "…"
-PaschaDialog4.text = ""
-PaschaDialog5.incipit = "…"
-PaschaDialog5.text = ""
-PaschaDialog6.incipit = "…"
-PaschaDialog6.text = ""
-
-PaterImon.incipit = "…"
-PaterImon.text = ""
-
-Pistevo.incipit = "…"
-Pistevo.text = ""
-
-StereosaiKyrios.incipit = "…"
-StereosaiKyrios.text = ""
-
-SoulSaturday.incipit = "…"
-SoulSaturday.text = ""
-
-TheotokeParthene.incipit = "…"
-TheotokeParthene.text = ""
-
-Thymiama.incipit = "…"
-Thymiama.text = ""
-
-TinTimioteranPrayer.incipit = "…"
-TinTimioteranPrayer.text = "" //he.h.m6_en_US_oca.TinTimioteranPrayer.text
-
-VasilefOuranie.incipit = "…"
-VasilefOuranie.text = ""
-
-trDiaTisTheotokou.incipit = "…"
-trDiaTisTheotokou = ""
-
-fePresveiaisTisTheotokou.incipit = "…"
-fePresveiaisTisTheotokou = ""
-
-fbPresveiaisKyrieTisTheotokou.incipit = "…"
-fbPresveiaisKyrieTisTheotokou = ""
-
-trPresveiaisTonAgion.incipit = "…"
-trPresveiaisTonAgion = ""
-
-fePresveiaisTonAgionKaiSosonMe.incipit = "…"
-fePresveiaisTonAgionKaiSosonMe = ""
-
-fbPresveiaisKyrieTonAgion.incipit = "…"
-fbPresveiaisKyrieTonAgion = ""
-
-enarxis01.incipit = "…"
-enarxis01 = ""
-
-enarxis02.incipit = "…"
-enarxis02 = ""
-
-enarxis03.incipit = "…"
-enarxis03 = ""
-
-pet00.incipit = "…"
-pet00 = ""
-
-pet01.incipit = "…"
-pet01 = "" // Great Litany
-
-pet02.incipit = "…"
-pet02 = ""
-
-pet03.incipit = "…"
-pet03 = ""
-
-pet04.incipit = "…"
-pet04 = ""
-
-pet04alt1.title.incipit = "…"
-pet04alt1.title = ""
-pet04alt1.incipit = "…"
-pet04alt1 = ""
-
-pet04alt2.title.incipit = "…"
-pet04alt2.title = ""
-pet04alt2.incipit = "…"
-pet04alt2 = ""
-
-pet05.incipit = "…"
-pet05 = ""
-
-pet06.incipit = "…"
-pet06 = ""
-
-pet06a.incipit = "…"
-pet06a = "" // supplement with client specific rank and name
-
-pet06b.incipit = "…"
-pet06b = ""
-
-pet07L.incipit = "…"
-pet07L = ""
-
-pet07S.incipit = "…"
-pet07S = ""
-
-pet07Sa.incipit = "…"
-pet07Sa = ""
-
-pet08.incipit = "…"
-pet08 = ""
-
-pet09.incipit = "…"
-pet09 = ""
-
-pet10.incipit = "…"
-pet10 = ""
-
-pet11.incipit = "…"
-pet11 = ""
-
-pet12.incipit = "…"
-pet12 = ""
-
-pet13.incipit = "…"
-pet13 = ""
-
-pet14.incipit = "…"
-pet14 = "" // Short Litany
-
-pet15.incipit = "…"
-pet15 = "" // Ektenia
-
-pet16.incipit = "…"
-pet16 = ""
-
-pet17.incipit = "…"
-pet17 = ""
-
-pet18.incipit = "…"
-pet18 = ""
-
-pet19S.incipit = "…"
-pet19S = ""
-pet19Sa.incipit = "…"
-pet19Sa = ""
-
-pet19a.incipit = "…"
-pet19a = ""
-pet19b.incipit = "…"
-pet19b = ""
-
-pet19m.incipit = "…" //for monastery
-pet19m = ""
-
-pet20.incipit = "…"
-pet20 = ""
-
-pet21.incipit = "…"
-pet21 = ""
-
-pet21a.incipit = "…"
-pet21a = ""
-
-pet21b.incipit = "…"
-pet21b = "" // for baptism
-
-pet21c.incipit = "…"
-pet21c = "" // for wedding
-
-pet21d.incipit = "…"
-pet21d = "" // for unction
-
-pet21p.incipit = "…"
-pet21p = ""
-
-pet22.incipit = "…"
-pet22 = ""
-
-pet23.incipit = "…"
-pet23 = ""
-
-pet24.incipit = "…"
-pet24 = "" // Complementary
-
-pet24v.incipit = "…"
-pet24v = ""
-
-pet24m.incipit = "…"
-pet24m = ""
-
-pet25v.incipit = "…"
-pet25v = ""
-
-pet25m.incipit = "…"
-pet25m = ""
-
-pet26.incipit = "…"
-pet26 = ""
-
-pet27.incipit = "…"
-pet27 = ""
-
-pet28.incipit = "…"
-pet28 = ""
-
-pet29.incipit = "…"
-pet29 = ""
-
-pet30.incipit = "…"
-pet30 = ""
-
-pet31.incipit = "…"
-pet31 = ""
-
-pet32.incipit = "…"
-pet32 = ""
-
-pet33.incipit = "…"
-pet33 = "" // Lity
-
-pet34.incipit = "…"
-pet34 = ""
-
-pet35.incipit = "…"
-pet35 = ""
-
-pet36.incipit = "…"
-pet36 = ""
-
-pet37.incipit = "…"
-pet37 = "" // Dismissal
-
-pet37a.incipit = "…"
-pet37a = ""
-
-pet37b.incipit = "…"
-pet37b = ""
-
-petBap01.incipit = "…"
-petBap01 = ""
-
-petBap02.incipit = "…"
-petBap02 = ""
-
-petBap03.incipit = "…"
-petBap03 = ""
-
-petBap04.incipit = "…"
-petBap04 = ""
-
-petBap05.incipit = "…"
-petBap05 = ""
-
-petBap06.incipit = "…"
-petBap06 = ""
-
-petBap07.incipit = "…"
-petBap07 = ""
-
-petCatechumens01.incipit = "…"
-petCatechumens01 = ""
-
-petCatechumens02.incipit = "…"
-petCatechumens02 = ""
-
-petCatechumens03.incipit = "…"
-petCatechumens03 = ""
-
-petCatechumens04.incipit = "…"
-petCatechumens04 = ""
-
-petCatechumens05.incipit = "…"
-petCatechumens05 = ""
-
-petCatechumens06.incipit = "…"
-petCatechumens06 = ""
-
-petCatechumens07.incipit = "…"
-petCatechumens07 = ""
-
-petCatechumens08.incipit = "…"
-petCatechumens08 = ""
-
-petCatechumens09.incipit = "…"
-petCatechumens09 = ""
-
-petCatechumens10.incipit = "…"
-petCatechumens10 = ""
-
-petCatechumens11.incipit = "…"
-petCatechumens11 = ""
-
-petCatechumens12.incipit = "…"
-petCatechumens12 = ""
-
-petCatechumens13.incipit = "…"
-petCatechumens13 = ""
-
-petCatechumens14.incipit = "…"
-petCatechumens14 = ""
-
-petCatechumens15.incipit = "…"
-petCatechumens15 = ""
-
-petCatechumens16.incipit = "…"
-petCatechumens16 = ""
-
-petCatechumens17.incipit = "…"
-petCatechumens17 = ""
-
-petCatechumens18.incipit = "…"
-petCatechumens18 = ""
-
-petCatechumens19.incipit = "…"
-petCatechumens19 = ""
-
-petCatechumens20.incipit = "…"
-petCatechumens20 = ""
-
-petCatechumens21.incipit = "…"
-petCatechumens21 = ""
-
-petCatechumens22.incipit = "…"
-petCatechumens22 = ""
-
-petCatechumens23.incipit = "…"
-petCatechumens23 = ""
-
-petCatechumens24.incipit = "…"
-petCatechumens24 = ""
-
-petCompline01.incipit = "…"
-petCompline01 = ""
-
-petCompline02.incipit = "…"
-petCompline02 = ""
-
-petCompline03.incipit = "…"
-petCompline03 = ""
-
-petCompline04.incipit = "…"
-petCompline04 = ""
-
-petCompline05.incipit = "…"
-petCompline05 = ""
-
-petCompline06.incipit = "…"
-petCompline06 = ""
-
-petCompline07.incipit = "…"
-petCompline07 = ""
-
-petCompline08.incipit = "…"
-petCompline08 = ""
-
-petCompline09.incipit = "…"
-petCompline09 = ""
-
-petCompline10.incipit = "…"
-petCompline10 = ""
-
-petCompline11.incipit = "…"
-petCompline11 = ""
-
-petCompline12.incipit = "…"
-petCompline12 = ""
-
-petCompline13.incipit = "…"
-petCompline13 = ""
-
-petCompline14.incipit = "…"
-petCompline14 = ""
-
-petCompline15.incipit = "…"
-petCompline15 = ""
-
-petConsecration01.incipit = "…"
-petConsecration01 = ""
-
-petConsecration02.incipit = "…"
-petConsecration02 = ""
-
-petConsecration13a = ""
-petConsecration13b = ""
-
-petCross05.incipit = "…"
-petCross05 = ""
-
-petFuneral01.incipit = "…"
-petFuneral01 = ""
-
-petFuneral02.incipit = "…"
-petFuneral02 = ""
-
-petKneel01.incipit = "…"
-petKneel01 = ""
-
-petKneel02.incipit = "…"
-petKneel02 = ""
-
-petKneel03.incipit = "…"
-petKneel03 = ""
-
-petKneel04.incipit = "…"
-petKneel04 = ""
-
-petKneel05.incipit = "…"
-petKneel05 = ""
-
-petKneel06.incipit = "…"
-petKneel06 = ""
-
-petKneel07.incipit = "…"
-petKneel07 = ""
-
-petKneel08.incipit = "…"
-petKneel08 = ""
-
-petSouls01.incipit = "…"
-petSouls01 = ""
-
-petSouls02.incipit = "…"
-petSouls02 = ""
-
-petUnction01.incipit = "…"
-petUnction01 = ""
-
-petUnction02.incipit = "…"
-petUnction02 = ""
-
-petUnction03.incipit = "…"
-petUnction03 = ""
-
-petWater01.incipit = "…"
-petWater01 = ""
-
-petWater02.incipit = "…"
-petWater02 = ""
-
-petWater03.incipit = "…"
-petWater03 = ""
-
-petWater03alt.incipit = "…"
-petWater03alt = ""
-
-petWater04.incipit = "…"
-petWater04 = ""
-
-petWater05.incipit = "…"
-petWater05 = ""
-
-petWater06.incipit = "…"
-petWater06 = ""
-
-petWater07.incipit = "…"
-petWater07 = ""
-
-petWater07alt.incipit = "…"
-petWater07alt = ""
-
-petWater08.incipit = "…"
-petWater08 = ""
-
-petWater09.incipit = "…"
-petWater09 = ""
-
-petWater10.incipit = "…"
-petWater10 = ""
-
-petWater11.incipit = "…"
-petWater11 = ""
-
-petWater12.incipit = "…"
-petWater12 = ""
-
-petWater13.incipit = "…"
-petWater13 = ""
-
-petWater14.incipit = "…"
-petWater14 = ""
-
-petWater15.incipit = "…"
-petWater15 = ""
-
-petWater16.incipit = "…"
-petWater16 = ""
-
-petWed01.incipit = "…"
-petWed01 = ""
-
-petWed02.incipit = "…"
-petWed02 = ""
-
-petWed03.incipit = "…"
-petWed03 = ""
-
-petWed04.incipit = "…"
-petWed04 = ""
-
-petWed05.incipit = "…"
-petWed05 = ""
-
-petWed06.incipit = "…"
-petWed06 = ""
-
-petWed07.incipit = "…"
-petWed07 = ""
-
-petWed08.incipit = "…"
-petWed08 = ""
-
-petWed09.incipit = "…"
-petWed09 = ""
-
-petWed10.incipit = "…"
-petWed10 = ""
-
-petWed11.incipit = "…"
-petWed11 = ""
-
-petWed12.incipit = "…"
-petWed12 = ""
-
-petWed13.incipit = "…"
-petWed13 = ""
-
-petWed14.incipit = "…"
-petWed14 = ""
-
-sup00.incipit = "…"
-sup00 = ""
-
-sup00a.incipit = "…"
-sup00a = ""
-
-sup01.incipit = "…"
-sup01 = ""
-
-sup02.incipit = "…"
-sup02 = ""
-
-sup03.incipit = "…"
-sup03 = ""
-
-sup04.incipit = "…"
-sup04 = ""
-
-sup05.incipit = "…"
-sup05 = ""
-
-sup06.incipit = "…"
-sup06 = ""
-
-sup06a.incipit = "…"
-sup06a = ""
-
-sup06b.incipit = "…"
-sup06b = ""
-
-sup06_basil.incipit = "…"
-sup06_basil = ""
-sup06_gregory.incipit = "…"
-sup06_gregory = ""
-sup06_john.incipit = "…"
-sup06_john = ""
-sup07.incipit = "…"
-sup07 = ""
-sup07_athanasios_cyril.incipit = "…"
-sup07_athanasios_cyril = ""
-sup07_athanasios.incipit = "…"
-sup07_athanasios = ""
-sup07_cyril.incipit = "…"
-sup07_cyril = ""
-sup07_john.incipit = "…"
-sup07_john = ""
-sup08.incipit = "…"
-sup08 = ""
-sup08_nicholas.incipit = "…"
-sup08_nicholas = ""
-sup08_spyridon.incipit = "…"
-sup08_spyridon = ""
-sup08_nektarios.incipit = "…"
-sup08_nektarios = ""
-
-sup09.incipit = "…"
-sup09 = ""
-sup09_demetrios.incipit = "…"
-sup09_demetrios = ""
-sup09_george.incipit = "…"
-sup09_george = ""
-sup09_tyro.incipit = "…"
-sup09_tyro = ""
-sup09_general.incipit = "…"
-sup09_general = ""
-sup09_minas.incipit = "…"
-sup09_minas = ""
-sup10.incipit = "…"
-sup10 = ""
-sup10_haralambos.incipit = "…"
-sup10_haralambos = ""
-sup10_eleutherios.incipit = "…"
-sup10_eleutherios = ""
-sup11.incipit = "…"
-sup11 = ""
-
-sup11_eufimia.incipit = "…"
-sup11_eufimia = ""
-sup11_thekla.incipit = "…"
-sup11_thekla = ""
-sup11_barbara.incipit = "…"
-sup11_barbara = ""
-sup11_anastasia.incipit = "…"
-sup11_anastasia = ""
-sup11_catherine.incipit = "…"
-sup11_catherine = ""
-sup11_kyriaki.incipit = "…"
-sup11_kyriaki = ""
-sup11_photeini.incipit = "…"
-sup11_photeini = ""
-sup11_marina.incipit = "…"
-sup11_marina = ""
-sup11_paraskevi.incipit = "…"
-sup11_paraskevi = ""
-sup11_irene.incipit = "…"
-sup11_irene = ""
-
-sup12.incipit = "…"
-sup12 = ""
-
-sup13.incipit = "…"
-sup13 = ""
-
-sup14.incipit = "…"
-sup14 = ""
-
-sup15.incipit = "…"
-sup15 = ""
-
-sup16a.incipit = "…"
-sup16a = ""
-sup16b.incipit = "…"
-sup16b = ""
-
-sup99.incipit = "…"
-sup99 = ""
-
-res01.incipit = "…"
-res01 = ""
-
-res02.incipit = "…"
-res02 = ""
-
-res03.incipit = "…"
-res03 = ""
-
-res04.incipit = "…"
-res04 = ""
-
-res05.incipit = "…"
-res05 = ""
-
-res06.incipit = "…"
-res06 = ""
-
-res07.incipit = "…"
-res07 = ""
-
-res08.incipit = "…"
-res08 = ""
-
-res09.incipit = "…"
-res09 = ""
-
-res10.incipit = "…"
-res10 = ""
-
-res11.incipit = "…"
-res11 = ""
-
-res12.incipit = "…"
-res12 = ""
-
-res13.incipit = "…"
-res13 = ""
-
-res14.incipit = "…"
-res14 = ""
-
-res15.incipit = "…"
-res15 = ""
-
-res16.incipit = "…"
-res16 = ""
-
-exc01.incipit = "…"
-exc01 = ""
-
-exc01a.incipit = "…"
-exc01a = ""
-
-exc02.incipit = "…"
-exc02 = ""
-
-exc03.incipit = "…"
-exc03 = ""
-
-exc04.incipit = "…"
-exc04 = ""
-
-exc04a.incipit = "…"
-exc04a = ""
-
-exc05.incipit = "…"
-exc05 = ""
-
-exc05a.incipit = "…"
-exc05a = "" // split exclamation for Trisagios Hymn at Liturgy
-
-exc05b.incipit = "…"
-exc05b = ""
-
-exc06.incipit = "…"
-exc06 = ""
-
-exc07.incipit = "…"
-exc07 = ""
-
-exc07a.incipit = "…"
-exc07a = ""
-
-exc07b.incipit = "…"
-exc07b = ""
-
-exc07c.incipit = "…"
-exc07c = ""
-
-exc08.incipit = "…"
-exc08 = ""
-
-exc09.incipit = "…"
-exc09 = ""
-
-exc10.incipit = "…"
-exc10 = ""
-
-exc11.incipit = "…"
-exc11 = ""
-
-exc11a.incipit = "…"
-exc11a = ""
-
-exc12.incipit = "…"
-exc12 = ""
-
-exc13.incipit = "…"
-exc13 = ""
-
-exc14.incipit = "…"
-exc14 = ""
-
-exc15.incipit = "…"
-exc15 = ""
-
-exc16.incipit = "…"
-exc16 = ""
-
-exc16a.incipit = "…"
-exc16a = ""
-
-exc17.incipit = "…"
-exc17 = ""
-
-exc18.incipit = "…"
-exc18 = ""
-
-exc19.incipit = "…"
-exc19 = ""
-
-exc20.incipit = "…"
-exc20 = ""
-
-exc22.incipit = "…"
-exc22 = ""
-
-exc23.incipit = "…"
-exc23 = ""
-
-exc24.incipit = "…"
-exc24 = ""
-
-exc25.incipit = "…"
-exc25 = ""
-
-exc26.incipit = "…"
-exc26 = ""
-
-exc27.incipit = "…"
-exc27 = ""
-
-exc28.incipit = "…"
-exc28 = ""
-
-exc28a.incipit = "…"
-exc28a = ""
-
-exc29.incipit = "…"
-exc29 = ""
-
-epi01a.incipit = "…"
-epi01a = ""
-
-epi01b.incipit = "…"
-epi01b = "" // leave blank in English
-
-epi02.incipit = "…"
-epi02 = ""
-
-epi03.incipit = "…"
-epi03 = ""
-
-gos01.incipit = "…"
-gos01 = ""
-
-gos02.incipit = "…"
-gos02 = ""
-
-gos03a.incipit = "…"
-gos03a = ""
-
-gos03b.incipit = "…"
-gos03b = ""
-
-gos04.incipit = "…"
-gos04 = ""
-
-gos05.incipit = "…"
-gos05 = ""
-
-gos06.incipit = ""
-gos06 = ""
-
-otr01a.incipit = "…"
-otr01a = ""
-
-otr01b.incipit = "…"
-otr01b = ""
-
-verse_Angels.incipit = "…"
-verse_Angels.text = ""
-
-verse_Apostle.incipit = "…"
-verse_Apostle.text = ""
-
-verse_Apostles.incipit = "…"
-verse_Apostles.text = ""
-
-verse_ApostlesMartyrs.incipit = "…"
-verse_ApostlesMartyrs.text = ""
-
-verse_Archangel.incipit = "…"
-verse_Archangel.text = ""
-
-verse_Archangels.incipit = "…"
-verse_Archangels.text = ""
-
-verse_Baptist.incipit = "…"
-verse_Baptist.text = ""
-
-verse_Cross.incipit = "…"
-verse_Cross.text = ""
-
-verse_Crucifixion.incipit = "…"
-verse_Crucifixion.text = ""
-
-verse_DevoutMan.incipit = "…"
-verse_DevoutMan.text = ""
-
-verse_DevoutMen.incipit = "…"
-verse_DevoutMen.text = ""
-
-verse_DevoutWoman.incipit = "…"
-verse_DevoutWoman.text = ""
-
-verse_God.incipit = "…"
-verse_God.text = ""
-
-verse_GreatMartyrs.incipit = "…"
-verse_GreatMartyrs.text = ""
-
-verse_Hierarchs.incipit = "…"
-verse_Hierarchs.text = ""
-
-verse_Nicholas.incipit = "…"
-verse_Nicholas.text = ""
-
-verse_Panteleimon.incipit = "…"
-verse_Panteleimon.text = ""
-
-verse_Prophet.incipit = "…"
-verse_Prophet.text = ""
-
-verse_Resurrection.incipit = "…"
-verse_Resurrection.text = ""
-
-verse_Righteous.incipit = "…"
-verse_Righteous.text = ""
-
-verse_SaintM.incipit = "…"
-verse_SaintM.text = ""
-
-verse_SaintW.incipit = "…"
-verse_SaintW.text = ""
-
-verse_SaintsM.incipit = "…"
-verse_SaintsM.text = ""
-
-verse_SaintsW.incipit = "…"
-verse_SaintsW.text = ""
-
-verse_SoulSaturday.incipit = "…"
-verse_SoulSaturday.text = ""
-
-verse_Theotokos.incipit = "…"
-verse_Theotokos.text = ""
-
-verse_Trinity.incipit = "…"
-verse_Trinity.text = ""
-
-verse_Unmercenaries.incipit = "…"
-verse_Unmercenaries.text = ""
-
+A_Resource_Whose_Name = prayers_en_US_oca 
+
+pr.Alleluia1.text = ""
+pr.Alleluia3.text = ""
+pr.Alleluia3Glory.text = ""
+pr.AllHolyTrinity.incipit = "…"
+pr.AllHolyTrinity.text = ""
+pr.AlwaysNow.incipit = "…"
+pr.AlwaysNow.text = ""
+pr.antiphon2.annunciation.text = ""
+pr.antiphon2.ascension.text = ""
+pr.antiphon2.christmas.text = ""
+pr.antiphon2.circumcision.text = ""
+pr.antiphon2.cross.text = ""
+pr.antiphon2.epiphany.text = ""
+pr.antiphon2.meeting.text = ""
+pr.antiphon2.palm.text = ""
+pr.antiphon2.pentecost.text = ""
+pr.antiphon2.resurrection.text = ""
+pr.antiphon2.saints.text = ""
+pr.antiphon2.transfiguration.text = ""
+pr.Axios.text = ""
+pr.Bless_father.text = ""
+pr.BlessedIsOurGod.text = ""
+pr.BlessIncense_bishop.text = ""
+pr.BothNowAndEver.incipit = "…"
+pr.BothNowAndEver.text = ""
+pr.ComeLetUsWorship1.incipit = "…"
+pr.ComeLetUsWorship1.text = ""
+pr.ComeLetUsWorship2.text = ""
+pr.ComeLetUsWorship3.text = ""
+pr.Command_bishop.text = ""
+pr.Command_holybishop.text = ""
+pr.Command.text = ""
+pr.Creed.incipit = "…"
+pr.Creed.text = ""
+pr.DismissalPrayer1.incipit = "…"
+pr.DismissalPrayer1.text = ""
+pr.DismissalPrayer2_lent.incipit = "…"
+pr.DismissalPrayer2_lent.text = ""
+pr.DismissalPrayer2.incipit = "…"
+pr.DismissalPrayer2.text = ""
+pr.enarxis01.text = "…"
+pr.enarxis01.text = ""
+pr.enarxis02.text = "…"
+pr.enarxis02.text = ""
+pr.enarxis03.text = "…"
+pr.enarxis03.text = ""
+pr.epi01a.text = "" // leave blank in Greek
+pr.epi01b.text = ""
+pr.epi02_cog.text = ""
+pr.epi02.text = ""
+pr.epi03.incipit = "…"
+pr.epi03.text = ""
+pr.exc01.incipit = "…"
+pr.exc01.text = ""
+pr.exc01a.incipit = "…"
+pr.exc01a.text = ""
+pr.exc02.incipit = "…"
+pr.exc02.text = ""
+pr.exc03.incipit = "…"
+pr.exc03.text = ""
+pr.exc04.incipit = "…"
+pr.exc04.text = ""
+pr.exc04a.incipit = "…"
+pr.exc04a.text = ""
+pr.exc05.incipit = "…"
+pr.exc05.text = ""
+pr.exc05a.text = "" // split exclamation for Trisagios Hymn at Liturgy
+pr.exc05b.text = ""
+pr.exc06.incipit = "…"
+pr.exc06.text = ""
+pr.exc07.incipit = "…"
+pr.exc07.text = ""
+pr.exc07a.incipit = "…"
+pr.exc07a.text = ""
+pr.exc07b.incipit = "…"
+pr.exc07b.text = ""
+pr.exc07c.incipit = "…"
+pr.exc07c.text = ""
+pr.exc08.incipit = "…"
+pr.exc08.text = ""
+pr.exc09.incipit = "…"
+pr.exc09.text = ""
+pr.exc10.incipit = "…"
+pr.exc10.text = ""
+pr.exc11.incipit = "…"
+pr.exc11.text = ""
+pr.exc11a.incipit = "…"
+pr.exc11a.text = ""
+pr.exc12.incipit = "…"
+pr.exc12.text = ""
+pr.exc13.incipit = "…"
+pr.exc13.text = ""
+pr.exc14.incipit = "…"
+pr.exc14.text = ""
+pr.exc15.incipit = "…"
+pr.exc15.text = ""
+pr.exc16.incipit = "…"
+pr.exc16.text = ""
+pr.exc16a.incipit = "…"
+pr.exc16a.text = ""
+pr.exc17.text = ""
+pr.exc18.text = ""
+pr.exc19.text = ""
+pr.exc20.incipit = "…"
+pr.exc20.text = ""
+pr.exc22.incipit = "…"
+pr.exc22.text = ""
+pr.exc23.incipit = "…"
+pr.exc23.text = ""
+pr.exc24.incipit = "…"
+pr.exc24.text = ""
+pr.exc25.incipit = "…"
+pr.exc25.text = ""
+pr.exc26.incipit = "…"
+pr.exc26.text = ""
+pr.exc27.incipit = "…"
+pr.exc27.text = ""
+pr.exc28.incipit = "…"
+pr.exc28.text = ""
+pr.exc28a.incipit = "…"
+pr.exc28a.text = ""
+pr.exc29.incipit = "…"
+pr.exc29.text = ""
+pr.GloryToTheFather.incipit = "…"
+pr.GloryToTheFather.text = ""
+pr.GloryToTheFather2.incipit = "…"
+pr.GloryToTheFather2.text = ""
+pr.GloryToYouChrist.incipit = "…"
+pr.GloryToYouChrist.text = ""
+pr.GloryToYouChristHope.incipit = "…"
+pr.GloryToYouChristHope.text = ""
+pr.GloryToYouGod.text = ""
+pr.GloryToYouGodHope.incipit = "…"
+pr.GloryToYouGodHope.text = ""
+pr.GloryToYouLord.text = ""
+pr.GloryToYouOurGod.incipit = "…"
+pr.GloryToYouOurGod.text = ""
+pr.GloryToYourForbearance.incipit = "…"
+pr.GloryToYourForbearance.text = ""
+pr.gos01.incipit = "…"
+pr.gos01.text = ""
+pr.gos02.text = ""
+pr.gos03a.text = ""
+pr.gos03b.text = ""
+pr.gos04.text = ""
+pr.gos05.text = ""
+pr.gos06.text = ""
+pr.gos07.text = pr.GloryToYouLord.text
+pr.GreaterInHonor.incipit = "…"
+pr.GreaterInHonor.text = ""
+pr.HeavenlyKing.incipit = "…"
+pr.HeavenlyKing.text = ""
+pr.HolyGod.incipit = "…"
+pr.HolyGod.text = ""
+pr.InTheNameOfFather.incipit = "…"
+pr.InTheNameOfFather.text = ""
+pr.InTheNameOfLordBless_father.incipit = "…"
+pr.InTheNameOfLordBless_father.text = ""
+pr.ItIsTrulyRight_complete.incipit = "…"
+pr.ItIsTrulyRight_complete.text = ""
+pr.ItIsTrulyRight_part1.incipit = "…"
+pr.ItIsTrulyRight_part1.text = ""
+pr.MayGodHaveCompassion.incipit = "…"
+pr.MayGodHaveCompassion.text = ""
+pr.otr01a.incipit = "…"
+pr.otr01a.text = "" // leave blank in Greek
+pr.otr01b.incipit = "…"
+pr.otr01b.text = ""
+pr.OurFather.incipit = "…"
+pr.OurFather.text = ""
+pr.OurHopeLord.text = ""
+pr.PaschaDialog1.incipit = "…"
+pr.PaschaDialog1.text = ""
+pr.PaschaDialog2.text = ""
+pr.PaschaDialog3.text = ""
+pr.PaschaDialog4.text = ""
+pr.PaschaDialog5.text = ""
+pr.PaschaDialog6.text = ""
+pr.pet00.text = ""
+pr.pet01.text = ""
+pr.pet02.incipit = "…"
+pr.pet02.text = ""
+pr.pet03.incipit = "…"
+pr.pet03.text = ""
+pr.pet04.incipit = "…"
+pr.pet04.text = ""
+pr.pet04alt1.incipit = "…"
+pr.pet04alt1.text = ""
+pr.pet04alt1.title = ""
+pr.pet04alt2.incipit = "…"
+pr.pet04alt2.text = ""
+pr.pet04alt2.title = ""
+pr.pet05.incipit = "…"
+pr.pet05.text = ""
+pr.pet06.incipit = "…"
+pr.pet06.text = ""
+pr.pet06a.text = "" // supplement with client specific rank and name
+pr.pet06b.incipit = "…"
+pr.pet06b.text = ""
+pr.pet07L_goa.incipit = "…"
+pr.pet07L_goa.text = ""
+pr.pet07L.incipit = "…"
+pr.pet07L.text = ""
+pr.pet07S.incipit = "…"
+pr.pet07S.text = ""
+pr.pet07Sa.incipit = "…"
+pr.pet07Sa.text = ""
+pr.pet08_goa.incipit = "…"
+pr.pet08_goa.text = ""
+pr.pet08.incipit = "…"
+pr.pet08.text = ""
+pr.pet09.incipit = "…"
+pr.pet09.text = ""
+pr.pet10.incipit = "…"
+pr.pet10.text = ""
+pr.pet11_coronavirus1.text = ""
+pr.pet11_coronavirus2.text = ""
+pr.pet11.text = ""
+pr.pet12.incipit = "…"
+pr.pet12.text = ""
+pr.pet13.incipit = "…"
+pr.pet13.text = ""
+pr.pet14.incipit = "…"
+pr.pet14.text = ""
+pr.pet15.incipit = "…"
+pr.pet15.text = ""
+pr.pet16.incipit = "…"
+pr.pet16.text = ""
+pr.pet17.incipit = "…"
+pr.pet17.text = ""
+pr.pet18.incipit = "…"
+pr.pet18.text = ""
+pr.pet19a.text = ""
+pr.pet19b.text = ""
+pr.pet19m.text = ""
+pr.pet19S.text = ""
+pr.pet19Sa.text = ""
+pr.pet20.incipit = "…"
+pr.pet20.text = ""
+pr.pet21.incipit = "…"
+pr.pet21.text = ""
+pr.pet21a.incipit = "…"
+pr.pet21a.text = ""
+pr.pet21b.incipit = "…"
+pr.pet21b.text = "" // for baptism
+pr.pet21c.incipit = "…"
+pr.pet21c.text = "" // for wedding
+pr.pet21d.incipit = "…"
+pr.pet21d.text = "" // for unction
+pr.pet21p.incipit = "…"
+pr.pet21p.text = ""
+pr.pet22.incipit = "…"
+pr.pet22.text = ""
+pr.pet23.incipit = "…"
+pr.pet23.text = ""
+pr.pet24.incipit = "…"
+pr.pet24.text = "" // Complementary
+pr.pet24m.incipit = "…"
+pr.pet24m.text = ""
+pr.pet24v.incipit = "…"
+pr.pet24v.text = ""
+pr.pet25m.incipit = "…"
+pr.pet25m.text = ""
+pr.pet25v.incipit = "…"
+pr.pet25v.text = ""
+pr.pet26.incipit = "…"
+pr.pet26.text = ""
+pr.pet27.incipit = "…"
+pr.pet27.text = ""
+pr.pet28.incipit = "…"
+pr.pet28.text = ""
+pr.pet29.incipit = "…"
+pr.pet29.text = ""
+pr.pet30.incipit = "…"
+pr.pet30.text = ""
+pr.pet31.text = ""
+pr.pet32.incipit = "…"
+pr.pet32.text = ""
+pr.pet33_goa.incipit = "…"
+pr.pet33_goa.text = ""
+pr.pet33.incipit = "…"
+pr.pet33.text = "" // Lity
+pr.pet34.incipit = "…"
+pr.pet34.text = ""
+pr.pet35.incipit = "…"
+pr.pet35.text = ""
+pr.pet36.incipit = "…"
+pr.pet36.text = ""
+pr.pet37_goa.incipit = "…"
+pr.pet37_goa.text = "" // Dismissal
+pr.pet37.incipit = "…"
+pr.pet37.text = "" // Dismissal
+pr.pet37a_goa.incipit = "…"
+pr.pet37a_goa.text = ""
+pr.pet37a.incipit = "…"
+pr.pet37a.text = ""
+//pr.pet37b.incipit = "…"
+//pr.pet37b.text = ""
+pr.petBap01.incipit = "…"
+pr.petBap01.text = ""
+pr.petBap02.incipit = "…"
+pr.petBap02.text = ""
+pr.petBap03.incipit = "…"
+pr.petBap03.text = ""
+pr.petBap04.incipit = "…"
+pr.petBap04.text = ""
+pr.petBap05.incipit = "…"
+pr.petBap05.text = ""
+pr.petBap06.incipit = "…"
+pr.petBap06.text = ""
+pr.petBap07.incipit = "…"
+pr.petBap07.text = ""
+pr.petCatechumens01.text = ""
+pr.petCatechumens02.text = ""
+pr.petCatechumens03.text = ""
+pr.petCatechumens04.text = ""
+pr.petCatechumens05.text = ""
+pr.petCatechumens06.text = ""
+pr.petCatechumens07.text = ""
+pr.petCatechumens08.text = ""
+pr.petCatechumens09.text = ""
+pr.petCatechumens10.text = ""
+pr.petCatechumens11.text = ""
+pr.petCatechumens12.text = ""
+pr.petCatechumens13.text = ""
+pr.petCatechumens14.text = ""
+pr.petCatechumens15.text = ""
+pr.petCatechumens16.text = ""
+pr.petCatechumens17.text = ""
+pr.petCatechumens18.text = ""
+pr.petCatechumens19.text = ""
+pr.petCatechumens20.text = ""
+pr.petCatechumens21.text = ""
+pr.petCatechumens22.text = ""
+pr.petCatechumens23.text = ""
+pr.petCatechumens24.text = ""
+pr.petCompline01.text = ""
+pr.petCompline02.text = ""
+pr.petCompline03.text = "" //hierarch
+pr.petCompline04.text = ""
+pr.petCompline05.text = ""
+pr.petCompline06.text = ""
+pr.petCompline07.text = ""
+pr.petCompline08.text = ""
+pr.petCompline09.text = ""
+pr.petCompline10.text = ""
+pr.petCompline11.text = ""
+pr.petCompline12.text = ""
+pr.petCompline13.text = ""
+pr.petCompline14.text = ""
+pr.petCompline15.text = ""
+pr.petConsecration01.text = ""
+pr.petConsecration02.incipit = "…"
+pr.petConsecration02.text = ""
+pr.petConsecration13a.text = ""
+pr.petConsecration13b.text = ""
+pr.petCross05.incipit = "…"
+pr.petCross05.text = ""
+pr.petFuneral01.incipit = "…"
+pr.petFuneral01.text = ""
+pr.petFuneral02.incipit = "…"
+pr.petFuneral02.text = ""
+pr.petKneel01.incipit = "…"
+pr.petKneel01.text = ""
+pr.petKneel02.incipit = "…"
+pr.petKneel02.text = ""
+pr.petKneel03.incipit = "…"
+pr.petKneel03.text = ""
+pr.petKneel04.incipit = "…"
+pr.petKneel04.text = ""
+pr.petKneel05.incipit = "…"
+pr.petKneel05.text = ""
+pr.petKneel06.incipit = "…"
+pr.petKneel06.text = ""
+pr.petKneel07.incipit = "…"
+pr.petKneel07.text = ""
+pr.petKneel08.incipit = "…"
+pr.petKneel08.text = ""
+pr.petMonastery01a.text = ""
+pr.petMonastery01b.text = ""
+pr.petMonastery02a.text = ""
+pr.petMonastery02b.text = ""
+pr.petMonastery22.text = ""
+pr.petMonastery23.text = ""
+pr.petMonasteryLity01.text = ""
+pr.petMonasteryLity02.text = ""
+pr.petMonasteryLity03.text = ""
+pr.petOrdination01a.text = "" // supplement with client specific rank and name
+pr.petOrdination01b.text = ""
+pr.petOrdination02_bishop.text = ""
+pr.petOrdination02_deacon.text = ""
+pr.petOrdination02_priest.text = ""
+pr.petOrdination03_bishop.text = ""
+pr.petOrdination03_deacon.text = ""
+pr.petOrdination03_priest.text = ""
+pr.petOrdination04.text = ""
+pr.petSouls01.incipit = "…"
+pr.petSouls01.text = ""
+pr.petSouls02.incipit = "…"
+pr.petSouls02.text = ""
+pr.petUnction01.incipit = "…"
+pr.petUnction01.text = ""
+pr.petUnction02.incipit = "…"
+pr.petUnction02.text = ""
+pr.petUnction03.incipit = "…"
+pr.petUnction03.text = ""
+pr.petWater01.incipit = "…"
+pr.petWater01.text = ""
+pr.petWater02.incipit = "…"
+pr.petWater02.text = ""
+pr.petWater03.incipit = "…"
+pr.petWater03.text = ""
+pr.petWater03alt.incipit = "…"
+pr.petWater03alt.text = ""
+pr.petWater04.incipit = "…"
+pr.petWater04.text = ""
+pr.petWater05.incipit = "…"
+pr.petWater05.text = ""
+pr.petWater06.incipit = "…"
+pr.petWater06.text = ""
+pr.petWater07.incipit = "…"
+pr.petWater07.text = ""
+pr.petWater07alt.incipit = "…"
+pr.petWater07alt.text = ""
+pr.petWater08.incipit = "…"
+pr.petWater08.text = ""
+pr.petWater09.incipit = "…"
+pr.petWater09.text = ""
+pr.petWater10.incipit = "…"
+pr.petWater10.text = ""
+pr.petWater11.incipit = "…"
+pr.petWater11.text = ""
+pr.petWater12.incipit = "…"
+pr.petWater12.text = ""
+pr.petWater13.incipit = "…"
+pr.petWater13.text = ""
+pr.petWater14.incipit = "…"
+pr.petWater14.text = ""
+pr.petWater15.incipit = "…"
+pr.petWater15.text = ""
+pr.petWater16.incipit = "…"
+pr.petWater16.text = ""
+pr.petWed01.incipit = "…"
+pr.petWed01.text = ""
+pr.petWed02.incipit = "…"
+pr.petWed02.text = ""
+pr.petWed03.incipit = "…"
+pr.petWed03.text = ""
+pr.petWed04.incipit = "…"
+pr.petWed04.text = ""
+pr.petWed05.incipit = "…"
+pr.petWed05.text = ""
+pr.petWed06.incipit = "…"
+pr.petWed06.text = ""
+pr.petWed07.incipit = "…"
+pr.petWed07.text = ""
+pr.petWed08.incipit = "…"
+pr.petWed08.text = ""
+pr.petWed09.incipit = "…"
+pr.petWed09.text = ""
+pr.petWed10.incipit = "…"
+pr.petWed10.text = ""
+pr.petWed11.incipit = "…"
+pr.petWed11.text = ""
+pr.petWed12.incipit = "…"
+pr.petWed12.text = ""
+pr.petWed13.incipit = "…"
+pr.petWed13.text = ""
+pr.petWed14.incipit = "…"
+pr.petWed14.text = ""
+pr.photagogic_begin_Saints.incipit = "…"
+pr.photagogic_begin_Saints.text = ""
+pr.photagogic_begin_Theotokos.incipit = "…"
+pr.photagogic_begin_Theotokos.text = ""
+pr.photagogic_end_Saints.incipit = "…"
+pr.photagogic_end_Saints.text = ""
+pr.photagogic_end_Theotokos.incipit = "…"
+pr.photagogic_end_Theotokos.text = ""
+pr.PrayerForDeceased.incipit = "…"
+pr.PrayerForDeceased.text = ""
+pr.PrayerOfHours.incipit = "…"
+pr.PrayerOfHours.text = ""
+pr.PrayerOfIncense.incipit = "…"
+pr.PrayerOfIncense.text = ""
+pr.PrayerOfStEphrem1.incipit = "…"
+pr.PrayerOfStEphrem1.text = ""
+pr.PrayerOfStEphrem2.incipit = "…"
+pr.PrayerOfStEphrem2.text = ""
+pr.PrayerOfStEphrem3.incipit = "…"
+pr.PrayerOfStEphrem3.text = ""
+pr.PrayerOfStEphrem4.incipit = "…"
+pr.PrayerOfStEphrem4.text = ""
+pr.res01.text = ""
+pr.res02.text = ""
+pr.res03.text = ""
+pr.res04.text = ""
+pr.res05.text = ""
+pr.res06.MM.long.sos.text = properties_en_US_oca.media.key
+pr.res06.text = ""
+pr.res07.MM.long.text = properties_en_US_oca.media.key
+pr.res07.text = ""
+pr.res08.text = ""
+pr.res09.text = ""
+pr.res10.text = ""
+pr.res11.text = ""
+pr.res12.text = ""
+pr.res13.incipit = "…"
+pr.res13.text = ""
+pr.res14.incipit = "…"
+pr.res14.text = ""
+pr.res15.incipit = "…"
+pr.res15.text = ""
+pr.res16.incipit = "…"
+pr.res16.text = ""
+pr.sup00.incipit = "…"
+pr.sup00.text = ""
+pr.sup00a.incipit = "…"
+pr.sup00a.text = ""
+pr.sup01.text = ""
+pr.sup02.text = ""
+pr.sup03.text = ""
+pr.sup04.text = ""
+pr.sup05.text = ""
+pr.sup06_basil.text = ""
+pr.sup06_gregory.text = ""
+pr.sup06_john.text = ""
+pr.sup06.text = ""
+pr.sup06a.text = ""
+pr.sup06b.text = ""
+pr.sup07_athanasios_cyril.text = ""
+pr.sup07_athanasios.text = ""
+pr.sup07_cyril.text = ""
+pr.sup07_john.text = ""
+pr.sup07.text = ""
+pr.sup08_nektarios.text = ""
+pr.sup08_nicholas.text = ""
+pr.sup08_spyridon.text = ""
+pr.sup08.text = ""
+pr.sup09_demetrios.text = ""
+pr.sup09_general.text = ""
+pr.sup09_george.text = ""
+pr.sup09_minas.text = ""
+pr.sup09_tyro.text = ""
+pr.sup09.text = ""
+pr.sup10_eleutherios.text = ""
+pr.sup10_haralambos.text = ""
+pr.sup10.text = ""
+pr.sup11_anastasia.text = ""
+pr.sup11_barbara.text = ""
+pr.sup11_catherine.text = ""
+pr.sup11_eufimia.text = ""
+pr.sup11_irene.text = ""
+pr.sup11_kyriaki.text = ""
+pr.sup11_marina.text = ""
+pr.sup11_paraskevi.text = ""
+pr.sup11_photeini.text = ""
+pr.sup11_thekla.text = ""
+pr.sup11.text = ""
+pr.sup12.text = ""
+pr.sup13.text = ""
+pr.sup14.text = ""
+pr.sup15.text = ""
+pr.sup16a.text = ""
+pr.sup16b.text = ""
+pr.sup99.incipit = "…"
+pr.sup99.text = ""
+pr.ThroughThePrayers_bishop.incipit = "…"
+pr.ThroughThePrayers_bishop.text = ""
+pr.ThroughThePrayers_fathers.incipit = "…"
+pr.ThroughThePrayers_fathers.text = ""
+pr.triadic_end_Saints.incipit = "…"
+pr.triadic_end_Saints.text = ""
+pr.triadic_end_Theotokos.incipit = "…"
+pr.triadic_end_Theotokos.text = ""
+pr.verse_Angels.incipit = "…"
+pr.verse_Angels.text = ""
+pr.verse_Apostle.incipit = "…"
+pr.verse_Apostle.text = ""
+pr.verse_Apostles.incipit = "…"
+pr.verse_Apostles.text = ""
+pr.verse_ApostlesMartyrs.incipit = "…"
+pr.verse_ApostlesMartyrs.text = ""
+pr.verse_Archangel.incipit = "…"
+pr.verse_Archangel.text = ""
+pr.verse_Archangels.incipit = "…"
+pr.verse_Archangels.text = ""
+pr.verse_Baptist.incipit = "…"
+pr.verse_Baptist.text = ""
+pr.verse_Cross.incipit = "…"
+pr.verse_Cross.text = ""
+pr.verse_Crucifixion.incipit = "…"
+pr.verse_Crucifixion.text = ""
+pr.verse_DevoutMan.incipit = "…"
+pr.verse_DevoutMan.text = ""
+pr.verse_DevoutMen.incipit = "…"
+pr.verse_DevoutMen.text = ""
+pr.verse_DevoutWoman.incipit = "…"
+pr.verse_DevoutWoman.text = ""
+pr.verse_God.incipit = "…"
+pr.verse_God.text = ""
+pr.verse_GreatMartyrs.incipit = "…"
+pr.verse_GreatMartyrs.text = ""
+pr.verse_Hierarchs.incipit = "…"
+pr.verse_Hierarchs.text = ""
+pr.verse_Mercy.incipit = "…"
+pr.verse_Mercy.text = ""
+pr.verse_Nicholas.incipit = "…"
+pr.verse_Nicholas.text = ""
+pr.verse_Panteleimon.incipit = "…"
+pr.verse_Panteleimon.text = ""
+pr.verse_Prophet.incipit = "…"
+pr.verse_Prophet.text = ""
+pr.verse_Resurrection.incipit = "…"
+pr.verse_Resurrection.text = ""
+pr.verse_Righteous.incipit = "…"
+pr.verse_Righteous.text = ""
+pr.verse_SaintM.incipit = "…"
+pr.verse_SaintM.text = ""
+pr.verse_SaintsM.incipit = "…"
+pr.verse_SaintsM.text = ""
+pr.verse_SaintsW.incipit = "…"
+pr.verse_SaintsW.text = ""
+pr.verse_SaintW.incipit = "…"
+pr.verse_SaintW.text = ""
+pr.verse_SoulSaturday.incipit = "…"
+pr.verse_SoulSaturday.text = ""
+pr.verse_Theotokos.incipit = "…"
+pr.verse_Theotokos.text = ""
+pr.verse_Trinity.incipit = "…"
+pr.verse_Trinity.text = ""
+pr.verse_Unmercenaries.incipit = "…"
+pr.verse_Unmercenaries.text = ""
+pr.WeBlessFather.incipit = "…"
+pr.WeBlessFather.text = ""

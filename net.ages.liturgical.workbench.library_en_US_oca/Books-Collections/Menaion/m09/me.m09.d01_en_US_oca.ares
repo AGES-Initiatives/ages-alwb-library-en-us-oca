@@ -187,20 +187,20 @@ meMA.PostGospelIdiomelon.text = meVE.Aposticha4.text
 
 meMA.C1.poet = poets_en_US_oca.IoannouMonachou
 meMA.C1.title = ""
-meMA.C1.verse = prayers_en_US_oca.verse_God.text
+meMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.title = ""
-meMA.C2.verse = prayers_en_US_oca.verse_SaintsW.text
+meMA.C2.verse = prayers_en_US_oca.pr.verse_SaintsW.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
 meMA.C3.poet = poets_en_US_oca.IoannouMonachou
 meMA.C3.title = titles_en_US_oca.ti.CanonDevoutM
-meMA.C3.verse = prayers_en_US_oca.verse_SaintM.text
+meMA.C3.verse = prayers_en_US_oca.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode1

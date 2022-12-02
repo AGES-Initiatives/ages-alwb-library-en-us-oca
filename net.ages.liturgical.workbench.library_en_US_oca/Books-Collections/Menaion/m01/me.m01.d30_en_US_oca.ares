@@ -241,18 +241,18 @@ meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_oca.IoannouEfchaiton
 meMA.C1.title = titles_en_US_oca.ti.CanonTheotokos
-meMA.C1.verse = prayers_en_US_oca.verse_Theotokos.text
+meMA.C1.verse = prayers_en_US_oca.pr.verse_Theotokos.text
 
 meMA.C2.acrostic.title = "Canon for the Saints."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_oca.IoannouEfchaiton
 meMA.C2.title = titles_en_US_oca.ti.Canon1Saints
-meMA.C2.verse = prayers_en_US_oca.verse_SaintsM.text
+meMA.C2.verse = prayers_en_US_oca.pr.verse_SaintsM.text
 
 meMA.C3.poet = poets_en_US_oca.IoannouEfchaiton
 meMA.C3.title = titles_en_US_oca.ti.Canon2Saints
-meMA.C3.verse = prayers_en_US_oca.verse_SaintsM.text
+meMA.C3.verse = prayers_en_US_oca.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_oca.Ode1
 meMA.Ode1C1H.mode = misc_en_US_oca.Mode2
