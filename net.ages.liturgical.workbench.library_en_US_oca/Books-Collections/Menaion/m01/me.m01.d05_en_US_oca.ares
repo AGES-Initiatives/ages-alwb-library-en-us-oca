@@ -20,32 +20,32 @@ meHO.note1 = rubrical_en_US_oca.ru.FastButNotSaturday
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = miscellanea_en_US_oca.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = miscellanea_en_US_oca.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = miscellanea_en_US_oca.misc.Mode1
-meVE.Stichera04.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meVE.Stichera04.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meVE.Stichera04.incipit = "…"
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = miscellanea_en_US_oca.misc.Mode1
-meVE.Stichera05.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meVE.Stichera05.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meVE.Stichera05.incipit = "…"
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = miscellanea_en_US_oca.misc.Mode1
-meVE.Stichera06.melody = he.a.m1_en_US_oca.TonOuranionTagmaton.notmetered
+meVE.Stichera06.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meVE.Stichera06.incipit = "…"
 meVE.Stichera06.text = ""
 
@@ -56,17 +56,17 @@ meVE.SticGlory.incipit = me.m01.d02_en_US_oca.meMA.Aposticha2.incipit
 meVE.SticGlory.text = me.m01.d02_en_US_oca.meMA.Aposticha2.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.Aposticha1.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
+meVE.Aposticha1.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.Aposticha2.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
+meVE.Aposticha2.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered
 meVE.Aposticha2.incipit = "…"
 meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.Aposticha3.melody = he.a.m6_en_US_oca.TriimerosAnestis.notmetered
+meVE.Aposticha3.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered
 meVE.Aposticha3.incipit = "…"
 meVE.Aposticha3.text = ""
 
@@ -77,7 +77,7 @@ meVE.AposGlory.incipit = me.m01.d02_en_US_oca.meMA.Aposticha3.incipit
 meVE.AposGlory.text = me.m01.d02_en_US_oca.meMA.Aposticha3.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
+meVE.Apolytikion1.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
@@ -90,218 +90,218 @@ meCO.C1.verse = prayers_en_US_oca.pr.verse_God.text
 meCO.Ode1C1H.ode = miscellanea_en_US_oca.misc.Ode1
 meCO.Ode1C1H.mode = miscellanea_en_US_oca.misc.Mode6
 meCO.Ode1C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
-meCO.Ode1C1H.incipit = he.h.m6_en_US_oca.KymatiThalassis_Epiphany.incipit
-meCO.Ode1C1H.text = he.h.m6_en_US_oca.KymatiThalassis_Epiphany.text
+meCO.Ode1C1H.incipit = he.h.m6_en_US_oca.heHE.KymatiThalassis_Epiphany.incipit
+meCO.Ode1C1H.text = he.h.m6_en_US_oca.heHE.KymatiThalassis_Epiphany.text
 
 meCO.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 meCO.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode1C11.melody = he.h.m6_en_US_oca.KymatiThalassis_Epiphany.notmetered
+meCO.Ode1C11.melody = he.h.m6_en_US_oca.heHE.KymatiThalassis_Epiphany.notmetered
 meCO.Ode1C11.incipit = "Lord my God, I sing…"
 meCO.Ode1C11.text = "Lord my God, I sing to You a hymn of light, ⁄ rejoicing in the vigil of the feast, ⁄ for by Your Theophany You have given me divine rebirth, ⁄ raising me up to divine brightness."
 
 meCO.Ode1C12.ode = miscellanea_en_US_oca.misc.Ode1
 meCO.Ode1C12.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode1C12.melody = he.h.m6_en_US_oca.KymatiThalassis_Epiphany.notmetered
+meCO.Ode1C12.melody = he.h.m6_en_US_oca.heHE.KymatiThalassis_Epiphany.notmetered
 meCO.Ode1C12.incipit = "All things in heaven and…"
 meCO.Ode1C12.text = "All things in heaven and on earth were amazed, ⁄ beholding You manifest above before the ages ⁄ and now newly manifest below! ⁄ They sing praises to your ineffable condescension!"
 
 meCO.Ode1C13.ode = miscellanea_en_US_oca.misc.Ode1
 meCO.Ode1C13.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode1C13.melody = he.h.m6_en_US_oca.KymatiThalassis_Epiphany.notmetered
+meCO.Ode1C13.melody = he.h.m6_en_US_oca.heHE.KymatiThalassis_Epiphany.notmetered
 meCO.Ode1C13.incipit = "Wishing to fill all things…"
 meCO.Ode1C13.text = "Wishing to fill all things with Your glory, ⁄ You have emptied Yourself and taken the form of a servant! ⁄ Now as a Servant You bow Your head beneath the servant’s hand; ⁄ to cleanse me and restore me!"
 
 meCO.Ode3C1H.ode = miscellanea_en_US_oca.misc.Ode3
 meCO.Ode3C1H.mode = miscellanea_en_US_oca.misc.Mode6
 meCO.Ode3C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
-meCO.Ode3C1H.incipit = he.h.m6_en_US_oca.SeTonEpiYdaton_Epiphany.incipit
-meCO.Ode3C1H.text = he.h.m6_en_US_oca.SeTonEpiYdaton_Epiphany.text
+meCO.Ode3C1H.incipit = he.h.m6_en_US_oca.heHE.SeTonEpiYdaton_Epiphany.incipit
+meCO.Ode3C1H.text = he.h.m6_en_US_oca.heHE.SeTonEpiYdaton_Epiphany.text
 
 meCO.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 meCO.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode3C11.melody = he.h.m6_en_US_oca.SeTonEpiYdaton_Epiphany.notmetered
+meCO.Ode3C11.melody = he.h.m6_en_US_oca.heHE.SeTonEpiYdaton_Epiphany.notmetered
 meCO.Ode3C11.incipit = "Manifesting the signs of Your…"
 meCO.Ode3C11.text = "Manifesting the signs of Your Theophany, merciful Lord, ⁄ You have unfolded visions and breathed forth prophecies. ⁄ Now You have come, fulfilling them all: ⁄ revealing Yourself today to men and granting them a new rebirth."
 
 meCO.Ode3C12.ode = miscellanea_en_US_oca.misc.Ode3
 meCO.Ode3C12.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode3C12.melody = he.h.m6_en_US_oca.SeTonEpiYdaton_Epiphany.notmetered
+meCO.Ode3C12.melody = he.h.m6_en_US_oca.heHE.SeTonEpiYdaton_Epiphany.notmetered
 meCO.Ode3C12.incipit = "Jordan has spread out its…"
 meCO.Ode3C12.text = "Jordan has spread out its waters to receive the Creator; ⁄ He is baptized in the flesh to sanctify all who cry: ⁄ None is holy but You, O Lord!"
 
 meCO.Ode3C13.ode = miscellanea_en_US_oca.misc.Ode3
 meCO.Ode3C13.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode3C13.melody = he.h.m6_en_US_oca.SeTonEpiYdaton_Epiphany.notmetered
+meCO.Ode3C13.melody = he.h.m6_en_US_oca.heHE.SeTonEpiYdaton_Epiphany.notmetered
 meCO.Ode3C13.incipit = "By Baptism Christ grants salvation…"
 meCO.Ode3C13.text = "By Baptism Christ grants salvation ⁄ to all who behold His divine brightness and sing in joy: ⁄ None is holy but You, Lord and Lover of mankind!"
 
 meCO.Ode4C1H.ode = miscellanea_en_US_oca.misc.Ode4
 meCO.Ode4C1H.mode = miscellanea_en_US_oca.misc.Mode6
 meCO.Ode4C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
-meCO.Ode4C1H.incipit = he.h.m6_en_US_oca.TinProsToBaptismaSou.incipit
-meCO.Ode4C1H.text = he.h.m6_en_US_oca.TinProsToBaptismaSou.text
+meCO.Ode4C1H.incipit = he.h.m6_en_US_oca.heHE.TinProsToBaptismaSou.incipit
+meCO.Ode4C1H.text = he.h.m6_en_US_oca.heHE.TinProsToBaptismaSou.text
 
 meCO.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 meCO.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode4C11.melody = he.h.m6_en_US_oca.TinProsToBaptismaSou.notmetered
+meCO.Ode4C11.melody = he.h.m6_en_US_oca.heHE.TinProsToBaptismaSou.notmetered
 meCO.Ode4C11.incipit = "At Your manifestation in the…"
 meCO.Ode4C11.text = "At Your manifestation in the flesh, ⁄ the earth was sanctified, and the waters were blessed. ⁄ Heaven was enlightened ⁄ and mankind was set free from the oppression of the enemy!"
 
 meCO.Ode4C12.ode = miscellanea_en_US_oca.misc.Ode4
 meCO.Ode4C12.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode4C12.melody = he.h.m6_en_US_oca.TinProsToBaptismaSou.notmetered
+meCO.Ode4C12.melody = he.h.m6_en_US_oca.heHE.TinProsToBaptismaSou.notmetered
 meCO.Ode4C12.incipit = "The Forerunner now comes from…"
 meCO.Ode4C12.text = "The Forerunner now comes from the wilderness to the Jordan ⁄ at a divine command. ⁄ He cries: Repent, for the Kingdom of heaven is at hand! ⁄ Calling all to the glory of God!"
 
 meCO.Ode4C13.ode = miscellanea_en_US_oca.misc.Ode4
 meCO.Ode4C13.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode4C13.melody = he.h.m6_en_US_oca.TinProsToBaptismaSou.notmetered
+meCO.Ode4C13.melody = he.h.m6_en_US_oca.heHE.TinProsToBaptismaSou.notmetered
 meCO.Ode4C13.incipit = "He Who turned the sea…"
 meCO.Ode4C13.text = "He Who turned the sea into dry land ⁄ and caused springs of water to flow from the rock, ⁄ now makes Jordan’s stream a flaming furnace ⁄ and burns our sins with the fire of the Spirit!"
 
 meCO.Ode5C1H.ode = miscellanea_en_US_oca.misc.Ode5
 meCO.Ode5C1H.mode = miscellanea_en_US_oca.misc.Mode6
 meCO.Ode5C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
-meCO.Ode5C1H.incipit = he.h.m6_en_US_oca.TheofaneiasSouChriste_Epiphany.incipit
-meCO.Ode5C1H.text = he.h.m6_en_US_oca.TheofaneiasSouChriste_Epiphany.text
+meCO.Ode5C1H.incipit = he.h.m6_en_US_oca.heHE.TheofaneiasSouChriste_Epiphany.incipit
+meCO.Ode5C1H.text = he.h.m6_en_US_oca.heHE.TheofaneiasSouChriste_Epiphany.text
 
 meCO.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 meCO.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode5C11.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste_Epiphany.notmetered
+meCO.Ode5C11.melody = he.h.m6_en_US_oca.heHE.TheofaneiasSouChriste_Epiphany.notmetered
 meCO.Ode5C11.incipit = "You are the new Adam…"
 meCO.Ode5C11.text = "You are the new Adam, Creator; ⁄ You renewed those born on earth! ⁄ You show a mysterious regeneration ⁄ and wonderful restoration by fire, the Spirit and water! ⁄ Without destruction or confusion ⁄ You renew mankind through the sacrament of Baptism!"
 
 meCO.Ode5C12.ode = miscellanea_en_US_oca.misc.Ode5
 meCO.Ode5C12.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode5C12.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste_Epiphany.notmetered
+meCO.Ode5C12.melody = he.h.m6_en_US_oca.heHE.TheofaneiasSouChriste_Epiphany.notmetered
 meCO.Ode5C12.incipit = "You renew our souls through…"
 meCO.Ode5C12.text = "You renew our souls through the Spirit ⁄ and sanctify our body through the element of water: ⁄ You refashion man as a living being! ⁄ For in Your wisdom and knowledge, as the Physician of souls and bodies, ⁄ You provide remedies that are good and fitting for both."
 
 meCO.Ode5C13.ode = miscellanea_en_US_oca.misc.Ode5
 meCO.Ode5C13.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode5C13.melody = he.h.m6_en_US_oca.TheofaneiasSouChriste_Epiphany.notmetered
+meCO.Ode5C13.melody = he.h.m6_en_US_oca.heHE.TheofaneiasSouChriste_Epiphany.notmetered
 meCO.Ode5C13.incipit = "You came forth from a…"
 meCO.Ode5C13.text = "You came forth from a painless birth, ⁄ Word co-eternal with the Father. ⁄ You approach a man born from a barren mother ⁄ and as Man You ask him for Baptism. ⁄ Through water and the Spirit, Savior, ⁄ You make the barren Church mystically the Mother of many children!"
 
 meCO.Ode6C1H.ode = miscellanea_en_US_oca.misc.Ode6
 meCO.Ode6C1H.mode = miscellanea_en_US_oca.misc.Mode6
 meCO.Ode6C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
-meCO.Ode6C1H.incipit = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi_Epiphany.incipit
-meCO.Ode6C1H.text = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi_Epiphany.text
+meCO.Ode6C1H.incipit = he.h.m6_en_US_oca.heHE.SyneschethiAllOuKateschethi_Epiphany.incipit
+meCO.Ode6C1H.text = he.h.m6_en_US_oca.heHE.SyneschethiAllOuKateschethi_Epiphany.text
 
 meCO.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 meCO.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode6C11.melody = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi_Epiphany.notmetered
+meCO.Ode6C11.melody = he.h.m6_en_US_oca.heHE.SyneschethiAllOuKateschethi_Epiphany.notmetered
 meCO.Ode6C11.incipit = "Obeying the decree of Caesar…"
 meCO.Ode6C11.text = "Obeying the decree of Caesar, ⁄ You were enrolled but You were not enslaved. ⁄ You give us comfort in our captivity, ⁄ for You freely submitted Yourself and paid tribute. ⁄ Now You have set free those sold under the law of sin, ⁄ making us worthy to be sons by adoption."
 
 meCO.Ode6C12.ode = miscellanea_en_US_oca.misc.Ode6
 meCO.Ode6C12.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode6C12.melody = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi_Epiphany.notmetered
+meCO.Ode6C12.melody = he.h.m6_en_US_oca.heHE.SyneschethiAllOuKateschethi_Epiphany.notmetered
 meCO.Ode6C12.incipit = "You reign, but not in…"
 meCO.Ode6C12.text = "You reign, but not in conformity to the world, ⁄ for You are King by nature! ⁄ You are born in the flesh from the tribe of David; ⁄ You have inherited the throne of his kingdom, Deliverer. ⁄ You are vested with eternal power: ⁄ You shall reign to all ages with the Father and the Spirit!"
 
 meCO.Ode6C13.ode = miscellanea_en_US_oca.misc.Ode6
 meCO.Ode6C13.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode6C13.melody = he.h.m6_en_US_oca.SyneschethiAllOuKateschethi_Epiphany.notmetered
+meCO.Ode6C13.melody = he.h.m6_en_US_oca.heHE.SyneschethiAllOuKateschethi_Epiphany.notmetered
 meCO.Ode6C13.incipit = "Of old, the prince of…"
 meCO.Ode6C13.text = "Of old, the prince of this world ⁄ was also named king of all within the waters: ⁄ but by Your cleansing he is strangled and destroyed ⁄ like the legion of demons in the sea! ⁄ With Your mighty arm, Savior, ⁄ You grant freedom to Your creation which he had enslaved!"
 
 meCO.Ode7C1H.ode = miscellanea_en_US_oca.misc.Ode7
 meCO.Ode7C1H.mode = miscellanea_en_US_oca.misc.Mode6
 meCO.Ode7C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
-meCO.Ode7C1H.incipit = he.h.m6_en_US_oca.AfrastonThavma_Epiphany.incipit
-meCO.Ode7C1H.text = he.h.m6_en_US_oca.AfrastonThavma_Epiphany.text
+meCO.Ode7C1H.incipit = he.h.m6_en_US_oca.heHE.AfrastonThavma_Epiphany.incipit
+meCO.Ode7C1H.text = he.h.m6_en_US_oca.heHE.AfrastonThavma_Epiphany.text
 
 meCO.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 meCO.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode7C11.melody = he.h.m6_en_US_oca.AfrastonThavma.notmetered
+meCO.Ode7C11.melody = he.h.m6_en_US_oca.heHE.AfrastonThavma.notmetered
 meCO.Ode7C11.incipit = "Of old the stream of…"
 meCO.Ode7C11.text = "Of old the stream of Jordan was cut in two by Elijah’s mantle. ⁄ This foreshadowed the cutting of the passions by Your Baptism; ⁄ You wove a mantle of incorruption for those who sing: ⁄ Blessed are You, O God, our Redeemer!"
 
 meCO.Ode7C12.ode = miscellanea_en_US_oca.misc.Ode7
 meCO.Ode7C12.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode7C12.melody = he.h.m6_en_US_oca.AfrastonThavma.notmetered
+meCO.Ode7C12.melody = he.h.m6_en_US_oca.heHE.AfrastonThavma.notmetered
 meCO.Ode7C12.incipit = "Happy River! ⁄ Receiving the…"
 meCO.Ode7C12.text = "Happy River! ⁄ Receiving the Creator at His Baptism, ⁄ you are made a fountain of life-giving water, ⁄ for the salvation of us who sing: ⁄ Blessed are You, O God, our Redeemer!"
 
 meCO.Ode7C13.ode = miscellanea_en_US_oca.misc.Ode7
 meCO.Ode7C13.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode7C13.melody = he.h.m6_en_US_oca.AfrastonThavma.notmetered
+meCO.Ode7C13.melody = he.h.m6_en_US_oca.heHE.AfrastonThavma.notmetered
 meCO.Ode7C13.incipit = "Prefiguring a divine death by…"
 meCO.Ode7C13.text = "Prefiguring a divine death by triple immersion in water, ⁄ we are buried with Christ in Baptism: ⁄ United with His Resurrection on the third day, we cry aloud: ⁄ Blessed are You, O God, our Redeemer!"
 
 meCO.Ode7C14.ode = miscellanea_en_US_oca.misc.Ode7
 meCO.Ode7C14.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode7C14.melody = he.h.m6_en_US_oca.AfrastonThavma.notmetered
+meCO.Ode7C14.melody = he.h.m6_en_US_oca.heHE.AfrastonThavma.notmetered
 meCO.Ode7C14.incipit = "Those who in faith desire…"
 meCO.Ode7C14.text = "Those who in faith desire the gift of divine Baptism, ⁄ are made perfect by the one grace of the Father, Son and Spirit. ⁄ They receive the power of adoption as sons as they sing: ⁄ Blessed are You, O God, our Redeemer!"
 
 meCO.Ode8C1H.ode = miscellanea_en_US_oca.misc.Ode8
 meCO.Ode8C1H.mode = miscellanea_en_US_oca.misc.Mode6
 meCO.Ode8C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
-meCO.Ode8C1H.incipit = he.h.m6_en_US_oca.EkstithiFrittonOurane_Epiphany.incipit
-meCO.Ode8C1H.text = he.h.m6_en_US_oca.EkstithiFrittonOurane_Epiphany.text
+meCO.Ode8C1H.incipit = he.h.m6_en_US_oca.heHE.EkstithiFrittonOurane_Epiphany.incipit
+meCO.Ode8C1H.text = he.h.m6_en_US_oca.heHE.EkstithiFrittonOurane_Epiphany.text
 
 meCO.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 meCO.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode8C11.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane_Epiphany.notmetered
+meCO.Ode8C11.melody = he.h.m6_en_US_oca.heHE.EkstithiFrittonOurane_Epiphany.notmetered
 meCO.Ode8C11.incipit = "Fallen Adam is cleansed and…"
 meCO.Ode8C11.text = "Fallen Adam is cleansed and lifted up; ⁄ deliverance is given to all the faithful through Baptism, ⁄ for Christ comes to shame the destroying tyrant! ⁄ He opens the heavens and sends down the divine Spirit, ⁄ granting mankind a share in incorruption."
 
 meCO.Ode8C12.ode = miscellanea_en_US_oca.misc.Ode8
 meCO.Ode8C12.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode8C12.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane_Epiphany.notmetered
+meCO.Ode8C12.melody = he.h.m6_en_US_oca.heHE.EkstithiFrittonOurane_Epiphany.notmetered
 meCO.Ode8C12.incipit = "The error of the enemy…"
 meCO.Ode8C12.text = "The error of the enemy shall cease, ⁄ for the voice of one crying in the wilderness calls out: ⁄ Prepare the way of the Lord; make straight His paths! ⁄ The humble nature of mortal man is exalted ⁄ while the mountains and hills of the adversary are brought low!"
 
 meCO.Ode8C13.ode = miscellanea_en_US_oca.misc.Ode8
 meCO.Ode8C13.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode8C13.melody = he.h.m6_en_US_oca.EkstithiFrittonOurane_Epiphany.notmetered
+meCO.Ode8C13.melody = he.h.m6_en_US_oca.heHE.EkstithiFrittonOurane_Epiphany.notmetered
 meCO.Ode8C13.incipit = "O strange wonder! ⁄ Goodness…"
 meCO.Ode8C13.text = "O strange wonder! ⁄ Goodness and boundless forbearance! ⁄ The Creator and Master now wears my nature in the Jordan; ⁄ Yet He is without sin. ⁄ He cleanses me through water and enlightens me through fire! ⁄ He perfects me through the divine Spirit!"
 
 meCO.Ode9C1H.ode = miscellanea_en_US_oca.misc.Ode9
 meCO.Ode9C1H.mode = miscellanea_en_US_oca.misc.Mode6
 meCO.Ode9C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
-meCO.Ode9C1H.incipit = he.h.m6_en_US_oca.MiEpodyrestheMatin.incipit
-meCO.Ode9C1H.text = he.h.m6_en_US_oca.MiEpodyrestheMatin.text
+meCO.Ode9C1H.incipit = he.h.m6_en_US_oca.heHE.MiEpodyrestheMatin.incipit
+meCO.Ode9C1H.text = he.h.m6_en_US_oca.heHE.MiEpodyrestheMatin.text
 
 meCO.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 meCO.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode9C11.melody = he.h.m6_en_US_oca.MiEpodyrestheMatin.notmetered
+meCO.Ode9C11.melody = he.h.m6_en_US_oca.heHE.MiEpodyrestheMatin.notmetered
 meCO.Ode9C11.incipit = "You have filled us with…"
 meCO.Ode9C11.text = "You have filled us with wonder ⁄ by Your strange birth beyond nature from a Virgin, Word of God; ⁄ now You exalt a great mystery: ⁄ By Your holy participation in the waters of Baptism, ⁄ You enrich the font with children through the divine Spirit!"
 
 meCO.Ode9C12.ode = miscellanea_en_US_oca.misc.Ode9
 meCO.Ode9C12.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode9C12.melody = he.h.m6_en_US_oca.MiEpodyrestheMatin.notmetered
+meCO.Ode9C12.melody = he.h.m6_en_US_oca.heHE.MiEpodyrestheMatin.notmetered
 meCO.Ode9C12.incipit = "The earth has been sanctified…"
 meCO.Ode9C12.text = "The earth has been sanctified, O Word, ⁄ by Your holy Birth. ⁄ The heavens with stars declared Your glory; ⁄ now the nature of the waters is blessed by Your Baptism in the flesh, ⁄ and human nature is restored once more to its first nobility! ⁄ Let the creation rejoice exceedingly!"
 
 meCO.Ode9C13.ode = miscellanea_en_US_oca.misc.Ode9
 meCO.Ode9C13.mode = miscellanea_en_US_oca.misc.Mode6
-meCO.Ode9C13.melody = he.h.m6_en_US_oca.MiEpodyrestheMatin.notmetered
+meCO.Ode9C13.melody = he.h.m6_en_US_oca.heHE.MiEpodyrestheMatin.notmetered
 meCO.Ode9C13.incipit = "Let the heavens be glad…"
 meCO.Ode9C13.text = "Let the heavens be glad and the earth leap for joy! ⁄ Let the rivers clap their hands and rejoice ⁄ with the springs, the lakes and depths of the sea! ⁄ For Christ comes to cleanse and save Adam by divine Baptism!"
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Kathisma11.melody = he.a.m1_en_US_oca.ChorosAngelikos.notmetered
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.notmetered
 meMA.Kathisma11.incipit = "Rejoice, river Jordan, for the…"
 meMA.Kathisma11.text = "Rejoice, river Jordan, for the Maker of all draws near! ⁄ In His compassion, He desires to receive Baptism in your streams from a servant. ⁄ Rejoice and be glad Adam, and Eve the mother of mankind! ⁄⁄ For the Redeemer of all has come: God, supreme in goodness!"
 
 meMA.Kathisma12.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Kathisma12.melody = he.a.m1_en_US_oca.ChorosAngelikos.notmetered
+meMA.Kathisma12.melody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.notmetered
 meMA.Kathisma12.incipit = "The mighty Rain comes forth…"
 meMA.Kathisma12.text = "The mighty Rain comes forth to the streams of the River, ⁄ desiring Baptism in the flesh. ⁄ Filled with amazement, the divine Forerunner said to Him: ⁄ How shall I baptize You, immaculate One? ⁄ How shall I stretch out my right hand upon Your head, ⁄⁄ for all things tremble before You?"
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode3
-meMA.Kathisma21.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
+meMA.Kathisma21.melody = he.a.m3_en_US_oca.heAU.TinOraiotita.notmetered
 meMA.Kathisma21.incipit = "Together let us sing the…"
 meMA.Kathisma21.text = "Together let us sing the praises of Him Who is beyond understanding: ⁄ In the flesh, He was made poor and came to Baptism ⁄ thus working our restoration, for He is God, rich in mercy! ⁄ Let us magnify His condescension, crying aloud with thankful hearts: ⁄⁄ Glory to Your Epiphany, O Christ!"
 
 meMA.Kathisma22.mode = miscellanea_en_US_oca.misc.Mode3
-meMA.Kathisma22.melody = he.a.m3_en_US_oca.TinOraiotita.notmetered
+meMA.Kathisma22.melody = he.a.m3_en_US_oca.heAU.TinOraiotita.notmetered
 meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
 
@@ -323,67 +323,67 @@ meMA.Ode1C1H.text = ""
 
 meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode1C11.melody = he.h.m1_en_US_oca.ChristosGennatai.notmetered
+meMA.Ode1C11.melody = he.h.m1_en_US_oca.heHE.ChristosGennatai.notmetered
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode1C12.melody = he.h.m1_en_US_oca.ChristosGennatai.notmetered
+meMA.Ode1C12.melody = he.h.m1_en_US_oca.heHE.ChristosGennatai.notmetered
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode1C13.melody = he.h.m1_en_US_oca.ChristosGennatai.notmetered
+meMA.Ode1C13.melody = he.h.m1_en_US_oca.heHE.ChristosGennatai.notmetered
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode1C21.melody = he.h.m2_en_US_oca.DefteLaoi.notmetered
+meMA.Ode1C21.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C22.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode1C22.melody = he.h.m2_en_US_oca.DefteLaoi.notmetered
+meMA.Ode1C22.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 meMA.Ode1C22.incipit = "…"
 meMA.Ode1C22.text = ""
 
 meMA.Ode1C23.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C23.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode1C23.melody = he.h.m2_en_US_oca.DefteLaoi.notmetered
+meMA.Ode1C23.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 meMA.Ode1C23.incipit = "…"
 meMA.Ode1C23.text = ""
 
 meMA.Ode1C2T.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C2T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode1C2T.melody = he.h.m2_en_US_oca.DefteLaoi.notmetered
+meMA.Ode1C2T.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
 
 meMA.Ode1C31.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode1C31.melody = he.h.m7_en_US_oca.AsomenToKyrio.notmetered
+meMA.Ode1C31.melody = he.h.m7_en_US_oca.heHE.AsomenToKyrio.notmetered
 meMA.Ode1C31.incipit = "…"
 meMA.Ode1C31.text = ""
 
 meMA.Ode1C32.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C32.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode1C32.melody = he.h.m7_en_US_oca.AsomenToKyrio.notmetered
+meMA.Ode1C32.melody = he.h.m7_en_US_oca.heHE.AsomenToKyrio.notmetered
 meMA.Ode1C32.incipit = "…"
 meMA.Ode1C32.text = ""
 
 meMA.Ode1C33.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C33.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode1C33.melody = he.h.m7_en_US_oca.AsomenToKyrio.notmetered
+meMA.Ode1C33.melody = he.h.m7_en_US_oca.heHE.AsomenToKyrio.notmetered
 meMA.Ode1C33.incipit = "…"
 meMA.Ode1C33.text = ""
 
 meMA.Ode1C3T.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C3T.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode1C3T.melody = he.h.m7_en_US_oca.AsomenToKyrio.notmetered
+meMA.Ode1C3T.melody = he.h.m7_en_US_oca.heHE.AsomenToKyrio.notmetered
 meMA.Ode1C3T.incipit = "…"
 meMA.Ode1C3T.text = ""
 
@@ -395,88 +395,88 @@ meMA.Ode3C1H.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode3C11.melody = he.h.m1_en_US_oca.ToProTonAionon.notmetered
+meMA.Ode3C11.melody = he.h.m1_en_US_oca.heHE.ToProTonAionon.notmetered
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode3C12.melody = he.h.m1_en_US_oca.ToProTonAionon.notmetered
+meMA.Ode3C12.melody = he.h.m1_en_US_oca.heHE.ToProTonAionon.notmetered
 meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode3C13.melody = he.h.m1_en_US_oca.ToProTonAionon.notmetered
+meMA.Ode3C13.melody = he.h.m1_en_US_oca.heHE.ToProTonAionon.notmetered
 meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = ""
 
 meMA.Ode3C21.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode3C21.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C21.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
 
 meMA.Ode3C22.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C22.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode3C22.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C22.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C22.incipit = "…"
 meMA.Ode3C22.text = ""
 
 meMA.Ode3C23.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C23.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode3C23.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C23.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C23.incipit = "…"
 meMA.Ode3C23.text = ""
 
 meMA.Ode3C2T.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C2T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode3C2T.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C2T.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3C31.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C31.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode3C31.melody = he.h.m7_en_US_oca.EstereothiIKardiaMou.notmetered
+meMA.Ode3C31.melody = he.h.m7_en_US_oca.heHE.EstereothiIKardiaMou.notmetered
 meMA.Ode3C31.incipit = "…"
 meMA.Ode3C31.text = ""
 
 meMA.Ode3C32.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C32.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode3C32.melody = he.h.m7_en_US_oca.EstereothiIKardiaMou.notmetered
+meMA.Ode3C32.melody = he.h.m7_en_US_oca.heHE.EstereothiIKardiaMou.notmetered
 meMA.Ode3C32.incipit = "…"
 meMA.Ode3C32.text = ""
 
 meMA.Ode3C33.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C33.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode3C33.melody = he.h.m7_en_US_oca.EstereothiIKardiaMou.notmetered
+meMA.Ode3C33.melody = he.h.m7_en_US_oca.heHE.EstereothiIKardiaMou.notmetered
 meMA.Ode3C33.incipit = "…"
 meMA.Ode3C33.text = ""
 
 meMA.Ode3C3T.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C3T.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode3C3T.melody = he.h.m7_en_US_oca.EstereothiIKardiaMou.notmetered
+meMA.Ode3C3T.melody = he.h.m7_en_US_oca.heHE.EstereothiIKardiaMou.notmetered
 meMA.Ode3C3T.incipit = "…"
 meMA.Ode3C3T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode3H.melody = he.h.m7_en_US_oca.EstereothiIKardiaMou.melody
-meMA.Ode3H.incipit = he.h.m7_en_US_oca.EstereothiIKardiaMou.incipit
-meMA.Ode3H.text = he.h.m7_en_US_oca.EstereothiIKardiaMou.text
+meMA.Ode3H.melody = he.h.m7_en_US_oca.heHE.EstereothiIKardiaMou.melody
+meMA.Ode3H.incipit = he.h.m7_en_US_oca.heHE.EstereothiIKardiaMou.incipit
+meMA.Ode3H.text = he.h.m7_en_US_oca.heHE.EstereothiIKardiaMou.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode5
-meMA.Ode3Kathisma1.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
+meMA.Ode3Kathisma1.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode3Kathisma2.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
+meMA.Ode3Kathisma2.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode3Kathisma3.melody = he.a.m1_en_US_oca.TonTafonSouSotir.notmetered
+meMA.Ode3Kathisma3.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""
 
@@ -488,67 +488,67 @@ meMA.Ode4C1H.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode4C11.melody = he.h.m1_en_US_oca.RavdosEkTisRizis.notmetered
+meMA.Ode4C11.melody = he.h.m1_en_US_oca.heHE.RavdosEkTisRizis.notmetered
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode4C12.melody = he.h.m1_en_US_oca.RavdosEkTisRizis.notmetered
+meMA.Ode4C12.melody = he.h.m1_en_US_oca.heHE.RavdosEkTisRizis.notmetered
 meMA.Ode4C12.incipit = "…"
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode4C13.melody = he.h.m1_en_US_oca.RavdosEkTisRizis.notmetered
+meMA.Ode4C13.melody = he.h.m1_en_US_oca.heHE.RavdosEkTisRizis.notmetered
 meMA.Ode4C13.incipit = "…"
 meMA.Ode4C13.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C21.melody = he.h.m2_en_US_oca.ElilythasEkParthenou.notmetered
+meMA.Ode4C21.melody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.notmetered
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
 
 meMA.Ode4C22.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C22.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C22.melody = he.h.m2_en_US_oca.ElilythasEkParthenou.notmetered
+meMA.Ode4C22.melody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.notmetered
 meMA.Ode4C22.incipit = "…"
 meMA.Ode4C22.text = ""
 
 meMA.Ode4C23.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C23.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C23.melody = he.h.m2_en_US_oca.ElilythasEkParthenou.notmetered
+meMA.Ode4C23.melody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.notmetered
 meMA.Ode4C23.incipit = "…"
 meMA.Ode4C23.text = ""
 
 meMA.Ode4C2T.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C2T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C2T.melody = he.h.m2_en_US_oca.ElilythasEkParthenou.notmetered
+meMA.Ode4C2T.melody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.notmetered
 meMA.Ode4C2T.incipit = "…"
 meMA.Ode4C2T.text = ""
 
 meMA.Ode4C31.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C31.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode4C31.melody = he.h.m7_en_US_oca.EisakikoaTinAkoin.notmetered
+meMA.Ode4C31.melody = he.h.m7_en_US_oca.heHE.EisakikoaTinAkoin.notmetered
 meMA.Ode4C31.incipit = "…"
 meMA.Ode4C31.text = ""
 
 meMA.Ode4C32.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C32.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode4C32.melody = he.h.m7_en_US_oca.EisakikoaTinAkoin.notmetered
+meMA.Ode4C32.melody = he.h.m7_en_US_oca.heHE.EisakikoaTinAkoin.notmetered
 meMA.Ode4C32.incipit = "…"
 meMA.Ode4C32.text = ""
 
 meMA.Ode4C33.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C33.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode4C33.melody = he.h.m7_en_US_oca.EisakikoaTinAkoin.notmetered
+meMA.Ode4C33.melody = he.h.m7_en_US_oca.heHE.EisakikoaTinAkoin.notmetered
 meMA.Ode4C33.incipit = "…"
 meMA.Ode4C33.text = ""
 
 meMA.Ode4C3T.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C3T.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode4C3T.melody = he.h.m7_en_US_oca.EisakikoaTinAkoin.notmetered
+meMA.Ode4C3T.melody = he.h.m7_en_US_oca.heHE.EisakikoaTinAkoin.notmetered
 meMA.Ode4C3T.incipit = "…"
 meMA.Ode4C3T.text = ""
 
@@ -560,67 +560,67 @@ meMA.Ode5C1H.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode5C11.melody = he.h.m1_en_US_oca.TheosOnEirinis.notmetered
+meMA.Ode5C11.melody = he.h.m1_en_US_oca.heHE.TheosOnEirinis.notmetered
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode5C12.melody = he.h.m1_en_US_oca.TheosOnEirinis.notmetered
+meMA.Ode5C12.melody = he.h.m1_en_US_oca.heHE.TheosOnEirinis.notmetered
 meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode5C13.melody = he.h.m1_en_US_oca.TheosOnEirinis.notmetered
+meMA.Ode5C13.melody = he.h.m1_en_US_oca.heHE.TheosOnEirinis.notmetered
 meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode5C21.melody = he.h.m2_en_US_oca.OTouFotosChorigos.notmetered
+meMA.Ode5C21.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
 
 meMA.Ode5C22.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C22.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode5C22.melody = he.h.m2_en_US_oca.OTouFotosChorigos.notmetered
+meMA.Ode5C22.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C22.incipit = "…"
 meMA.Ode5C22.text = ""
 
 meMA.Ode5C23.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C23.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode5C23.melody = he.h.m2_en_US_oca.OTouFotosChorigos.notmetered
+meMA.Ode5C23.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C23.incipit = "…"
 meMA.Ode5C23.text = ""
 
 meMA.Ode5C2T.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C2T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode5C2T.melody = he.h.m2_en_US_oca.OTouFotosChorigos.notmetered
+meMA.Ode5C2T.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C2T.incipit = "…"
 meMA.Ode5C2T.text = ""
 
 meMA.Ode5C31.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C31.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode5C31.melody = he.h.m7_en_US_oca.OiOrthrizontesLoge.notmetered
+meMA.Ode5C31.melody = he.h.m7_en_US_oca.heHE.OiOrthrizontesLoge.notmetered
 meMA.Ode5C31.incipit = "…"
 meMA.Ode5C31.text = ""
 
 meMA.Ode5C32.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C32.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode5C32.melody = he.h.m7_en_US_oca.OiOrthrizontesLoge.notmetered
+meMA.Ode5C32.melody = he.h.m7_en_US_oca.heHE.OiOrthrizontesLoge.notmetered
 meMA.Ode5C32.incipit = "…"
 meMA.Ode5C32.text = ""
 
 meMA.Ode5C33.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C33.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode5C33.melody = he.h.m7_en_US_oca.OiOrthrizontesLoge.notmetered
+meMA.Ode5C33.melody = he.h.m7_en_US_oca.heHE.OiOrthrizontesLoge.notmetered
 meMA.Ode5C33.incipit = "…"
 meMA.Ode5C33.text = ""
 
 meMA.Ode5C3T.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C3T.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode5C3T.melody = he.h.m7_en_US_oca.OiOrthrizontesLoge.notmetered
+meMA.Ode5C3T.melody = he.h.m7_en_US_oca.heHE.OiOrthrizontesLoge.notmetered
 meMA.Ode5C3T.incipit = "…"
 meMA.Ode5C3T.text = ""
 
@@ -632,78 +632,78 @@ meMA.Ode6C1H.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode6C11.melody = he.h.m1_en_US_oca.SplanchnonIonan.notmetered
+meMA.Ode6C11.melody = he.h.m1_en_US_oca.heHE.SplanchnonIonan.notmetered
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode6C12.melody = he.h.m1_en_US_oca.SplanchnonIonan.notmetered
+meMA.Ode6C12.melody = he.h.m1_en_US_oca.heHE.SplanchnonIonan.notmetered
 meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode6C13.melody = he.h.m1_en_US_oca.SplanchnonIonan.notmetered
+meMA.Ode6C13.melody = he.h.m1_en_US_oca.heHE.SplanchnonIonan.notmetered
 meMA.Ode6C13.incipit = "…"
 meMA.Ode6C13.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode6C21.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C21.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
 
 meMA.Ode6C22.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C22.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode6C22.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C22.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
 meMA.Ode6C23.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C23.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode6C23.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C23.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C23.incipit = "…"
 meMA.Ode6C23.text = ""
 
 meMA.Ode6C2T.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C2T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode6C2T.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C2T.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Ode6C31.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C31.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode6C31.melody = he.h.m7_en_US_oca.OIonasEkKoilias.notmetered
+meMA.Ode6C31.melody = he.h.m7_en_US_oca.heHE.OIonasEkKoilias.notmetered
 meMA.Ode6C31.incipit = "…"
 meMA.Ode6C31.text = ""
 
 meMA.Ode6C32.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C32.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode6C32.melody = he.h.m7_en_US_oca.OIonasEkKoilias.notmetered
+meMA.Ode6C32.melody = he.h.m7_en_US_oca.heHE.OIonasEkKoilias.notmetered
 meMA.Ode6C32.incipit = "…"
 meMA.Ode6C32.text = ""
 
 meMA.Ode6C33.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C33.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode6C33.melody = he.h.m7_en_US_oca.OIonasEkKoilias.notmetered
+meMA.Ode6C33.melody = he.h.m7_en_US_oca.heHE.OIonasEkKoilias.notmetered
 meMA.Ode6C33.incipit = "…"
 meMA.Ode6C33.text = ""
 
 meMA.Ode6C3T.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C3T.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode6C3T.melody = he.h.m7_en_US_oca.OIonasEkKoilias.notmetered
+meMA.Ode6C3T.melody = he.h.m7_en_US_oca.heHE.OIonasEkKoilias.notmetered
 meMA.Ode6C3T.incipit = "…"
 meMA.Ode6C3T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode6H.melody = he.h.m7_en_US_oca.OIonasEkKoilias.melody
-meMA.Ode6H.incipit = he.h.m7_en_US_oca.OIonasEkKoilias.incipit
-meMA.Ode6H.text = he.h.m7_en_US_oca.OIonasEkKoilias.text
+meMA.Ode6H.melody = he.h.m7_en_US_oca.heHE.OIonasEkKoilias.melody
+meMA.Ode6H.incipit = he.h.m7_en_US_oca.heHE.OIonasEkKoilias.incipit
+meMA.Ode6H.text = he.h.m7_en_US_oca.heHE.OIonasEkKoilias.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
+meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = me.m01.d02_en_US_oca.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m01.d02_en_US_oca.meMA.Kontakion1.text
 
@@ -717,67 +717,67 @@ meMA.Ode7C1H.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode7C11.melody = he.h.m1_en_US_oca.OiPaidesEfseveia.notmetered
+meMA.Ode7C11.melody = he.h.m1_en_US_oca.heHE.OiPaidesEfseveia.notmetered
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode7C12.melody = he.h.m1_en_US_oca.OiPaidesEfseveia.notmetered
+meMA.Ode7C12.melody = he.h.m1_en_US_oca.heHE.OiPaidesEfseveia.notmetered
 meMA.Ode7C12.incipit = "…"
 meMA.Ode7C12.text = ""
 
 meMA.Ode7C13.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode7C13.melody = he.h.m1_en_US_oca.OiPaidesEfseveia.notmetered
+meMA.Ode7C13.melody = he.h.m1_en_US_oca.heHE.OiPaidesEfseveia.notmetered
 meMA.Ode7C13.incipit = "…"
 meMA.Ode7C13.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C21.melody = he.h.m2_en_US_oca.AntitheonProstagma.notmetered
+meMA.Ode7C21.melody = he.h.m2_en_US_oca.heHE.AntitheonProstagma.notmetered
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
 
 meMA.Ode7C22.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C22.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C22.melody = he.h.m2_en_US_oca.AntitheonProstagma.notmetered
+meMA.Ode7C22.melody = he.h.m2_en_US_oca.heHE.AntitheonProstagma.notmetered
 meMA.Ode7C22.incipit = "…"
 meMA.Ode7C22.text = ""
 
 meMA.Ode7C23.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C23.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C23.melody = he.h.m2_en_US_oca.AntitheonProstagma.notmetered
+meMA.Ode7C23.melody = he.h.m2_en_US_oca.heHE.AntitheonProstagma.notmetered
 meMA.Ode7C23.incipit = "…"
 meMA.Ode7C23.text = ""
 
 meMA.Ode7C2T.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C2T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C2T.melody = he.h.m2_en_US_oca.AntitheonProstagma.notmetered
+meMA.Ode7C2T.melody = he.h.m2_en_US_oca.heHE.AntitheonProstagma.notmetered
 meMA.Ode7C2T.incipit = "…"
 meMA.Ode7C2T.text = ""
 
 meMA.Ode7C31.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C31.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode7C31.melody = he.h.m7_en_US_oca.KaminonKaiomenin.notmetered
+meMA.Ode7C31.melody = he.h.m7_en_US_oca.heHE.KaminonKaiomenin.notmetered
 meMA.Ode7C31.incipit = "…"
 meMA.Ode7C31.text = ""
 
 meMA.Ode7C32.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C32.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode7C32.melody = he.h.m7_en_US_oca.KaminonKaiomenin.notmetered
+meMA.Ode7C32.melody = he.h.m7_en_US_oca.heHE.KaminonKaiomenin.notmetered
 meMA.Ode7C32.incipit = "…"
 meMA.Ode7C32.text = ""
 
 meMA.Ode7C33.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C33.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode7C33.melody = he.h.m7_en_US_oca.KaminonKaiomenin.notmetered
+meMA.Ode7C33.melody = he.h.m7_en_US_oca.heHE.KaminonKaiomenin.notmetered
 meMA.Ode7C33.incipit = "…"
 meMA.Ode7C33.text = ""
 
 meMA.Ode7C3T.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C3T.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode7C3T.melody = he.h.m7_en_US_oca.KaminonKaiomenin.notmetered
+meMA.Ode7C3T.melody = he.h.m7_en_US_oca.heHE.KaminonKaiomenin.notmetered
 meMA.Ode7C3T.incipit = "…"
 meMA.Ode7C3T.text = ""
 
@@ -789,75 +789,75 @@ meMA.Ode8C1H.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode8C11.melody = he.h.m1_en_US_oca.ThavmatosYperfyous.notmetered
+meMA.Ode8C11.melody = he.h.m1_en_US_oca.heHE.ThavmatosYperfyous.notmetered
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode8C12.melody = he.h.m1_en_US_oca.ThavmatosYperfyous.notmetered
+meMA.Ode8C12.melody = he.h.m1_en_US_oca.heHE.ThavmatosYperfyous.notmetered
 meMA.Ode8C12.incipit = "…"
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode8C13.melody = he.h.m1_en_US_oca.ThavmatosYperfyous.notmetered
+meMA.Ode8C13.melody = he.h.m1_en_US_oca.heHE.ThavmatosYperfyous.notmetered
 meMA.Ode8C13.incipit = "…"
 meMA.Ode8C13.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C21.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C21.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C22.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C22.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C22.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C22.incipit = "…"
 meMA.Ode8C22.text = ""
 
 meMA.Ode8C23.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C23.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C23.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C23.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C23.incipit = "…"
 meMA.Ode8C23.text = ""
 
 meMA.Ode8C2T.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C2T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C2T.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C2T.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C2T.incipit = "…"
 meMA.Ode8C2T.text = ""
 
 meMA.Ode8C31.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C31.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode8C31.melody = he.h.m7_en_US_oca.TonMononAnarchon.notmetered
+meMA.Ode8C31.melody = he.h.m7_en_US_oca.heHE.TonMononAnarchon.notmetered
 meMA.Ode8C31.incipit = "…"
 meMA.Ode8C31.text = ""
 
 meMA.Ode8C32.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C32.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode8C32.melody = he.h.m7_en_US_oca.TonMononAnarchon.notmetered
+meMA.Ode8C32.melody = he.h.m7_en_US_oca.heHE.TonMononAnarchon.notmetered
 meMA.Ode8C32.incipit = "…"
 meMA.Ode8C32.text = ""
 
 meMA.Ode8C33.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C33.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode8C33.melody = he.h.m7_en_US_oca.TonMononAnarchon.notmetered
+meMA.Ode8C33.melody = he.h.m7_en_US_oca.heHE.TonMononAnarchon.notmetered
 meMA.Ode8C33.incipit = "…"
 meMA.Ode8C33.text = ""
 
 meMA.Ode8C3T.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C3T.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode8C3T.melody = he.h.m7_en_US_oca.TonMononAnarchon.notmetered
+meMA.Ode8C3T.melody = he.h.m7_en_US_oca.heHE.TonMononAnarchon.notmetered
 meMA.Ode8C3T.incipit = "…"
 meMA.Ode8C3T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode8H.melody = he.h.m7_en_US_oca.TonMononAnarchon.melody
-meMA.Ode8H.incipit = he.h.m7_en_US_oca.TonMononAnarchon.incipit
-meMA.Ode8H.text = he.h.m7_en_US_oca.TonMononAnarchon.text
+meMA.Ode8H.melody = he.h.m7_en_US_oca.heHE.TonMononAnarchon.melody
+meMA.Ode8H.incipit = he.h.m7_en_US_oca.heHE.TonMononAnarchon.incipit
+meMA.Ode8H.text = he.h.m7_en_US_oca.heHE.TonMononAnarchon.text
 
 meMA.Ode9C1H.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_oca.misc.Mode1
@@ -867,136 +867,136 @@ meMA.Ode9C1H.text = ""
 
 meMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode9C11.melody = he.h.m1_en_US_oca.MystirionXenon.notmetered
+meMA.Ode9C11.melody = he.h.m1_en_US_oca.heHE.MystirionXenon.notmetered
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode9C12.melody = he.h.m1_en_US_oca.MystirionXenon.notmetered
+meMA.Ode9C12.melody = he.h.m1_en_US_oca.heHE.MystirionXenon.notmetered
 meMA.Ode9C12.incipit = "…"
 meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode9C13.melody = he.h.m1_en_US_oca.MystirionXenon.notmetered
+meMA.Ode9C13.melody = he.h.m1_en_US_oca.heHE.MystirionXenon.notmetered
 meMA.Ode9C13.incipit = "…"
 meMA.Ode9C13.text = ""
 
 meMA.Ode9C1T.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode9C1T.melody = he.h.m1_en_US_oca.MystirionXenon.notmetered
+meMA.Ode9C1T.melody = he.h.m1_en_US_oca.heHE.MystirionXenon.notmetered
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C21.melody = he.h.m2_en_US_oca.AnarchouGennitoros.notmetered
+meMA.Ode9C21.melody = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.notmetered
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
 
 meMA.Ode9C22.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C22.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C22.melody = he.h.m2_en_US_oca.AnarchouGennitoros.notmetered
+meMA.Ode9C22.melody = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.notmetered
 meMA.Ode9C22.incipit = "…"
 meMA.Ode9C22.text = ""
 
 meMA.Ode9C23.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C23.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C23.melody = he.h.m2_en_US_oca.AnarchouGennitoros.notmetered
+meMA.Ode9C23.melody = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.notmetered
 meMA.Ode9C23.incipit = "…"
 meMA.Ode9C23.text = ""
 
 meMA.Ode9C2T.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C2T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C2T.melody = he.h.m2_en_US_oca.AnarchouGennitoros.notmetered
+meMA.Ode9C2T.melody = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.notmetered
 meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Ode9C31.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C31.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode9C31.melody = he.h.m7_en_US_oca.TinYperFysinMitera.notmetered
+meMA.Ode9C31.melody = he.h.m7_en_US_oca.heHE.TinYperFysinMitera.notmetered
 meMA.Ode9C31.incipit = "…"
 meMA.Ode9C31.text = ""
 
 meMA.Ode9C32.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C32.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode9C32.melody = he.h.m7_en_US_oca.TinYperFysinMitera.notmetered
+meMA.Ode9C32.melody = he.h.m7_en_US_oca.heHE.TinYperFysinMitera.notmetered
 meMA.Ode9C32.incipit = "…"
 meMA.Ode9C32.text = ""
 
 meMA.Ode9C33.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C33.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode9C33.melody = he.h.m7_en_US_oca.TinYperFysinMitera.notmetered
+meMA.Ode9C33.melody = he.h.m7_en_US_oca.heHE.TinYperFysinMitera.notmetered
 meMA.Ode9C33.incipit = "…"
 meMA.Ode9C33.text = ""
 
 meMA.Ode9C3T.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C3T.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode9C3T.melody = he.h.m7_en_US_oca.TinYperFysinMitera.notmetered
+meMA.Ode9C3T.melody = he.h.m7_en_US_oca.heHE.TinYperFysinMitera.notmetered
 meMA.Ode9C3T.incipit = "…"
 meMA.Ode9C3T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_oca.misc.Mode7
-meMA.Ode9H.melody = he.h.m7_en_US_oca.TinYperFysinMitera.melody
-meMA.Ode9H.incipit = he.h.m7_en_US_oca.TinYperFysinMitera.incipit
-meMA.Ode9H.text = he.h.m7_en_US_oca.TinYperFysinMitera.text
+meMA.Ode9H.melody = he.h.m7_en_US_oca.heHE.TinYperFysinMitera.melody
+meMA.Ode9H.incipit = he.h.m7_en_US_oca.heHE.TinYperFysinMitera.incipit
+meMA.Ode9H.text = he.h.m7_en_US_oca.heHE.TinYperFysinMitera.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
-meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
-meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.OOuranonToisAstrois.notmetered
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion2.incipit = "You have shone forth in…"
 meMA.Exaposteilarion2.text = "You have shone forth in the flesh from a Virgin in Bethlehem; ⁄ now You hasten towards the Jordan. ⁄ You will wash clean through holy Baptism ⁄ the filth of all the earth-born. ⁄⁄ You lead them out of darkness to the light!"
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.Lauds1.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.Lauds1.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds1.incipit = "Baptist, why do you doubt…"
 meMA.Lauds1.text = "Baptist, why do you doubt the dispensation ⁄ that I fulfill for the salvation of all? ⁄ Set aside the old now and believe in the new! ⁄ Believe in God Who has come down to earth! ⁄ Draw near and obey me, ⁄⁄ for as God, I have come to cleanse fallen Adam in My compassion."
 
 meMA.Lauds2.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.Lauds2.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.Lauds2.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds2.incipit = "Taking our sins upon Your…"
 meMA.Lauds2.text = "Taking our sins upon Your shoulders, Jesus, ⁄ You have come to the streams of Jordan. ⁄ I am afraid at Your awesome appearing! ⁄ How do You ask me to baptize You? ⁄ You have come to cleanse me; ⁄⁄ how do You, the Cleanser of all, seek Baptism from me?"
 
 meMA.Lauds3.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.Lauds3.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.Lauds3.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds3.incipit = "My nature is beyond all…"
 meMA.Lauds3.text = "My nature is beyond all understanding: ⁄ clothed in the form of a servant I have come to Jordan. ⁄ Do not doubt at all concerning Me. ⁄ Come to Me and do not fear! ⁄ Place your right hand on My head and cry aloud: ⁄⁄ Blessed are You, our God made manifest: Glory to You!"
 
 meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.Lauds4.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.Lauds4.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds4.incipit = "Your poverty is beyond all…"
 meMA.Lauds4.text = "Your poverty is beyond all thought and without measure, Word of God! ⁄ I know that in pity for my fallen sake, ⁄ You have clothed yourself in Adam; ⁄ You renew all the seed of Adam. ⁄ Obeying Your command I cry to You in faith: ⁄⁄ Blessed are You, our God made manifest: Glory to You!"
 
 meMA.LaudsGlory.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.LaudsGlory.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.LaudsGlory.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.LaudsGlory.incipit = "John, minister in trembling to…"
 meMA.LaudsGlory.text = "John, minister in trembling to the Master! ⁄ Rejoice in soul and cry with gladness: ⁄ Rejoice with me, all generations of Adam the forefather! ⁄ Our Expectation has come: ⁄ He is filled with loving kindness! ⁄⁄ Christ has come to Jordan to cleanse all from the sin of Adam!"
 
 meMA.LaudsBoth.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.LaudsBoth.melody = he.a.m6_en_US_oca.AiAngelikai.notmetered
+meMA.LaudsBoth.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.LaudsBoth.incipit = "Peoples, let us sing to…"
 meMA.LaudsBoth.text = "Peoples, let us sing to the One born of a Virgin! ⁄ He was baptized in the river Jordan! ⁄ Let us cry aloud to Him: ⁄ King of all creation, ⁄ grant us in faith, that with clear conscience and uncondemned, ⁄⁄ We may reach Your holy Resurrection from the dead on the third day."
 
 meMA.MM.Apos1123as5678.text = properties_en_US_oca.media.key
 
 meMA.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Aposticha1.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
+meMA.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha1.incipit = "…"
 meMA.Aposticha1.text = ""
 
 meMA.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Aposticha2.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
+meMA.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha2.incipit = "…"
 meMA.Aposticha2.text = ""
 
 meMA.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Aposticha3.melody = he.a.m2_en_US_oca.OikosTouEfratha.notmetered
+meMA.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha3.incipit = "…"
 meMA.Aposticha3.text = ""
 

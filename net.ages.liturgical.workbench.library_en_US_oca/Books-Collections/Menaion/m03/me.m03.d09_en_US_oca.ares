@@ -50,7 +50,7 @@ meVE.SticGlory.incipit = meVE.Stichera01.incipit
 meVE.SticGlory.text = meVE.Stichera01.text
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
-meVE.SticTheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
+meVE.SticTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
@@ -81,17 +81,17 @@ alt1.meVE.LityBoth.incipit = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.incipit
 alt1.meVE.LityBoth.text = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode5
-meVE.Aposticha1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha1.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.name
 meVE.Aposticha1.incipit = meMA.Lauds1.incipit
 meVE.Aposticha1.text = meMA.Lauds1.text
 
 meVE.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode5
-meVE.Aposticha2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha2.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.name
 meVE.Aposticha2.incipit = meMA.Lauds2.incipit
 meVE.Aposticha2.text = meMA.Lauds2.text
 
 meVE.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode5
-meVE.Aposticha3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.name
+meVE.Aposticha3.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.name
 meVE.Aposticha3.incipit = meMA.Lauds3.incipit
 meVE.Aposticha3.text = meMA.Lauds3.text
 
@@ -107,50 +107,50 @@ meVE.AposTheotokion.text = "Theotokos, ⁄ you are the true vine who blossomed f
 
 meVE.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode1
 meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.incipit = he.ga_en_US_oca.TasAlgidonas.incipit
-meVE.Apolytikion1.text = he.ga_en_US_oca.TasAlgidonas.text
+meVE.Apolytikion1.incipit = he.ga_en_US_oca.heGA.TasAlgidonas.incipit
+meVE.Apolytikion1.text = he.ga_en_US_oca.heGA.TasAlgidonas.text
 
 meVE.Apolytikion2.poet = poets_en_US_oca.po.Gerasimou
 meVE.Apolytikion2.mode = miscellanea_en_US_oca.misc.Mode3
-meVE.Apolytikion2.melody = he.a.m3_en_US_oca.TheiasPisteos.notmetered
+meVE.Apolytikion2.melody = he.a.m3_en_US_oca.heAU.TheiasPisteos.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
 meVE.Apolytikion3.poet = poets_en_US_oca.po.Gerasimou
 meVE.Apolytikion3.mode = miscellanea_en_US_oca.misc.Mode1
-meVE.Apolytikion3.melody = he.a.m1_en_US_oca.TisErimouPolitis.name
+meVE.Apolytikion3.melody = he.a.m1_en_US_oca.heAU.TisErimouPolitis.name
 meVE.Apolytikion3.incipit = "…"
 meVE.Apolytikion3.text = ""
 
 meCO.SupplicationVerse.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode4
-meMA.Kathisma11.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = miscellanea_en_US_oca.misc.Mode4
-meMA.Kathisma1T.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
+meMA.Kathisma1T.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 meMA.Kathisma1T.incipit = "…"
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
+meMA.Kathisma21.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = miscellanea_en_US_oca.misc.Mode4
-meMA.Kathisma2T.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
+meMA.Kathisma2T.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma2T.incipit = "…"
 meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode5
-meMA.Kathisma31.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
+meMA.Kathisma31.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = miscellanea_en_US_oca.misc.Mode5
-meMA.Kathisma3T.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
+meMA.Kathisma3T.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma3T.incipit = oc.m5.d3_en_US_oca.ocVE.ApolTheotokionVM.incipit
 meMA.Kathisma3T.text = oc.m5.d3_en_US_oca.ocVE.ApolTheotokionVM.text
 
@@ -180,172 +180,172 @@ meMA.C1.verse = prayers_en_US_oca.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode1C1H.melody = he.h.m2_en_US_oca.DefteLaoi.melody
-meMA.Ode1C1H.incipit = he.h.m2_en_US_oca.DefteLaoi.incipit
-meMA.Ode1C1H.text = he.h.m2_en_US_oca.DefteLaoi.text
+meMA.Ode1C1H.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.melody
+meMA.Ode1C1H.incipit = he.h.m2_en_US_oca.heHE.DefteLaoi.incipit
+meMA.Ode1C1H.text = he.h.m2_en_US_oca.heHE.DefteLaoi.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode1C11.melody = he.h.m2_en_US_oca.DefteLaoi.notmetered
+meMA.Ode1C11.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 meMA.Ode1C11.incipit = "I praise the divinely-crowned regiment…"
 meMA.Ode1C11.text = "I praise the divinely-crowned regiment of the martyrs of Christ ⁄ with hymns inspired by God, ⁄ radiantly celebrating the annual commemoration of the forty, ⁄ for He has been glorified!"
 
 meMA.Ode1C12.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode1C12.melody = he.h.m2_en_US_oca.DefteLaoi.notmetered
+meMA.Ode1C12.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 meMA.Ode1C12.incipit = "The forty desired the title…"
 meMA.Ode1C12.text = "The forty desired the title of Christian ⁄ and rejected every title on earth. ⁄ Therefore, now they dwell in the highest!"
 
 meMA.Ode1C13.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode1C13.melody = he.h.m2_en_US_oca.DefteLaoi.notmetered
+meMA.Ode1C13.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 meMA.Ode1C13.incipit = "You lived in Christ and…"
 meMA.Ode1C13.text = "You lived in Christ and despised the world and the flesh. ⁄ You put off the old man and this temporal garment, ⁄ clothing yourselves in the garment of incorruption."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode1C1T.melody = he.h.m2_en_US_oca.DefteLaoi.notmetered
+meMA.Ode1C1T.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 meMA.Ode1C1T.incipit = "Who is able fittingly to…"
 meMA.Ode1C1T.text = "Who is able fittingly to describe your ineffable conceiving? ⁄ You gave birth in the flesh, all pure one, ⁄ to God, the Savior of us all, ⁄ who has revealed Himself to us!"
 
 meMA.Ode3C1H.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode3C1H.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.melody
-meMA.Ode3C1H.incipit = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.incipit
-meMA.Ode3C1H.text = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.text
+meMA.Ode3C1H.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.melody
+meMA.Ode3C1H.incipit = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.incipit
+meMA.Ode3C1H.text = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode3C11.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C11.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C11.incipit = "They despised life and the…"
 meMA.Ode3C11.text = "They despised life and the army, ⁄ the beauty of their bodies and their wealth. ⁄ The truly glorious forty martyrs inherited Christ in place of all these!"
 
 meMA.Ode3C12.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode3C12.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C12.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C12.incipit = "When the forty martyrs were…"
 meMA.Ode3C12.text = "When the forty martyrs were beaten by stones without mercy, ⁄ through the Spirit of God they turned back on their tormentors!"
 
 meMA.Ode3C13.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode3C13.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C13.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C13.incipit = "The serpent of the one…"
 meMA.Ode3C13.text = "The serpent of the one who invented blasphemy ⁄ spoke through the lips of the tormentors, ⁄ but his mouth, opposed to God, ⁄ was broken by the rocks hurled against the martyrs!"
 
 meMA.Ode3C1T.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode3C1T.melody = he.h.m2_en_US_oca.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C1T.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C1T.incipit = "You conceived God in your…"
 meMA.Ode3C1T.text = "You conceived God in your womb without seed, ⁄ giving birth to Him who was ineffably incarnate. ⁄ Even the hosts of Heaven dare not look on Him, pure Ever-Virgin!"
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode8
-meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Having served Christ as warriors…"
 meMA.Ode3Kathisma1.text = "Having served Christ as warriors in martyrdom ⁄ and casting down the enemy through your suffering, ⁄ by your deeds you fulfilled the words of the prophet: ⁄ You courageously went through fire and water, ⁄ finding refreshment and life incorruptible! ⁄ Therefore you are adorned with heavenly crowns ⁄ and rejoice with the bodiless choirs, blessed and all-praised passion-bearers. ⁄ Entreat Christ God that He may grant remission of sins ⁄⁄ to those who honor your holy memory with love!"
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_oca.misc.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.incipit = "I have fallen into the…"
 meMA.Ode3KathismaT.text = "I have fallen into the subtle snares set for me ⁄ by enemies, visible and invisible. ⁄ I am caught in the tempest of my countless offenses. ⁄ I flee to the harbor of your goodness, ⁄ for you are my fervent help and protection, pure one. ⁄ Therefore, all-pure one, earnestly pray on behalf of your servants ⁄ to Him Who was incarnate of you without seed. ⁄ All-pure Theotokos, ever entreat Him to grant remission of sins ⁄⁄ to those who fittingly sing hymns to your glory!"
 
 meMA.Ode4C1H.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C1H.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.melody
-meMA.Ode4C1H.incipit = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.incipit
-meMA.Ode4C1H.text = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.text
+meMA.Ode4C1H.melody = he.h.m2_en_US_oca.heHE.EisakikoaKyrieTinAkoin.melody
+meMA.Ode4C1H.incipit = he.h.m2_en_US_oca.heHE.EisakikoaKyrieTinAkoin.incipit
+meMA.Ode4C1H.text = he.h.m2_en_US_oca.heHE.EisakikoaKyrieTinAkoin.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C11.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C11.melody = he.h.m2_en_US_oca.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C11.incipit = "The sufferers said to the…"
 meMA.Ode4C11.text = "The sufferers said to the tormentors: ⁄ Most sinful ones, you vainly offer a bad bargain!"
 
 meMA.Ode4C12.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C12.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C12.melody = he.h.m2_en_US_oca.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C12.incipit = "The tormentors offered the saints…"
 meMA.Ode4C12.text = "The tormentors offered the saints of Christ ⁄ sharpened swords, wild beasts, the Cross and fire!"
 
 meMA.Ode4C13.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C13.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C13.melody = he.h.m2_en_US_oca.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C13.incipit = "The fire of Gehenna is…"
 meMA.Ode4C13.text = "The fire of Gehenna is frightful to us, ⁄ but we are not afraid of any fellow servants! said the athletes."
 
 meMA.Ode4C14.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C14.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C14.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C14.melody = he.h.m2_en_US_oca.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C14.incipit = "Let our arms be cut…"
 meMA.Ode4C14.text = "Let our arms be cut off, let our feet be burned, ⁄ the holy ones cried out, ⁄ for we shall receive them back incorruptible!"
 
 meMA.Ode4C1T.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode4C1T.melody = he.h.m2_en_US_oca.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C1T.melody = he.h.m2_en_US_oca.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C1T.incipit = "We beseech you, all-pure One…"
 meMA.Ode4C1T.text = "We beseech you, all-pure One who conceived God without seed: ⁄ ever pray for your servants!"
 
 meMA.Ode5C1H.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode5C1H.melody = he.h.m2_en_US_oca.OTouFotosChorigos.melody
-meMA.Ode5C1H.incipit = he.h.m2_en_US_oca.OTouFotosChorigos.incipit
-meMA.Ode5C1H.text = he.h.m2_en_US_oca.OTouFotosChorigos.text
+meMA.Ode5C1H.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.melody
+meMA.Ode5C1H.incipit = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.incipit
+meMA.Ode5C1H.text = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode5C11.melody = he.h.m2_en_US_oca.OTouFotosChorigos.notmetered
+meMA.Ode5C11.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C11.incipit = "Through the insane savagery of…"
 meMA.Ode5C11.text = "Through the insane savagery of the tormentors, ⁄ the athletes were condemned to spend the night in the cold and open air. ⁄ They chanted a hymn of thanksgiving to God!"
 
 meMA.Ode5C12.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode5C12.melody = he.h.m2_en_US_oca.OTouFotosChorigos.notmetered
+meMA.Ode5C12.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C12.incipit = "The forty martyrs rejoiced to…"
 meMA.Ode5C12.text = "The forty martyrs rejoiced to endure the painful ice, ⁄ standing on the lake. ⁄ Yet they were strengthened by the hope of divine crowns."
 
 meMA.Ode5C13.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode5C13.melody = he.h.m2_en_US_oca.OTouFotosChorigos.notmetered
+meMA.Ode5C13.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C13.incipit = "The serpent who before had…"
 meMA.Ode5C13.text = "The serpent who before had made his nest in the waters ⁄ was driven out and became an object of scorn ⁄ for the forty martyrs of Christ. ⁄ He was deprived of his deadly strength!"
 
 meMA.Ode5C1T.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode5C1T.melody = he.h.m2_en_US_oca.OTouFotosChorigos.notmetered
+meMA.Ode5C1T.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C1T.incipit = "We cry aloud to you…"
 meMA.Ode5C1T.text = "We cry aloud to you, for you gave birth to Christ, the Creator of all: ⁄ Rejoice, pure one! ⁄ Rejoice, for you have shone the Light on us! ⁄ Rejoice, for you contained the infinite God!"
 
 meMA.Ode6C1H.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode6C1H.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.melody
-meMA.Ode6C1H.incipit = he.h.m2_en_US_oca.EnAvyssoPtaismaton.incipit
-meMA.Ode6C1H.text = he.h.m2_en_US_oca.EnAvyssoPtaismaton.text
+meMA.Ode6C1H.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.melody
+meMA.Ode6C1H.incipit = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.incipit
+meMA.Ode6C1H.text = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode6C11.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C11.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "The author of enmity snatched…"
 meMA.Ode6C11.text = "The author of enmity snatched the one who fell away from the forty with joy ⁄ just as he took the wretched Judas from the twelve apostles ⁄ and Adam from Eden."
 
 meMA.Ode6C12.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode6C12.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C12.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C12.incipit = "The shameless devil rages in…"
 meMA.Ode6C12.text = "The shameless devil rages in vain, ⁄ for as of old by the good thief and Matthias, ⁄ so now a guard tears the tyrant apart!"
 
 meMA.Ode6C13.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode6C13.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C13.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C13.incipit = "The man who missed both…"
 meMA.Ode6C13.text = "The man who missed both lives is empty minded and lamentable, ⁄ for when he was thawed by the fire, ⁄ he departed into the fire unquenchable."
 
 meMA.Ode6C1T.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode6C1T.melody = he.h.m2_en_US_oca.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C1T.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C1T.incipit = "Virgin, you gave birth without…"
 meMA.Ode6C1T.text = "Virgin, you gave birth without knowing a man ⁄ and you remain ever Virgin, ⁄ revealing images of your Son and God, the true Deity!"
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.Kontakion1.melody = he.a.m6_en_US_oca.TinYperImon.notmetered
+meMA.Kontakion1.melody = he.a.m6_en_US_oca.heAU.TinYperImon.notmetered
 meMA.Kontakion1.incipit = "Holy and triumphant forty martyrs…"
 meMA.Kontakion1.text = "Holy and triumphant forty martyrs, ⁄ you renounced every honor of military life to follow the Lord of heaven. ⁄ blessed ones, you suffered by both fire and water, ⁄⁄ therefore you received justly from heaven your crowns of eternal glory."
 
@@ -353,140 +353,140 @@ meMA.Oikos1.text = "I fall down before Christ the Almighty, our Creator and God,
 
 meMA.Ode7C1H.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C1H.melody = he.h.m2_en_US_oca.EikonosChrysis.melody
-meMA.Ode7C1H.incipit = he.h.m2_en_US_oca.EikonosChrysis.incipit
-meMA.Ode7C1H.text = he.h.m2_en_US_oca.EikonosChrysis.text
+meMA.Ode7C1H.melody = he.h.m2_en_US_oca.heHE.EikonosChrysis.melody
+meMA.Ode7C1H.incipit = he.h.m2_en_US_oca.heHE.EikonosChrysis.incipit
+meMA.Ode7C1H.text = he.h.m2_en_US_oca.heHE.EikonosChrysis.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C11.melody = he.h.m2_en_US_oca.EikonosChrysis.notmetered
+meMA.Ode7C11.melody = he.h.m2_en_US_oca.heHE.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "The guard set over the…"
 meMA.Ode7C11.text = "The guard set over the forty martyrs was struck with awe ⁄ as he beheld their crowns. ⁄ He rejected the things that bound him to life. ⁄ He took wing with the love of Your manifest glory ⁄ and together with the martyrs he sang: ⁄ Blessed are You, the God of our fathers!"
 
 meMA.Ode7C12.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C12.melody = he.h.m2_en_US_oca.EikonosChrysis.notmetered
+meMA.Ode7C12.melody = he.h.m2_en_US_oca.heHE.EikonosChrysis.notmetered
 meMA.Ode7C12.incipit = "The one who loved his…"
 meMA.Ode7C12.text = "The one who loved his life died as he hastened to the soul-destroying bath. ⁄ The one who loved Christ most perfectly understood what he saw. ⁄ Together with the martyrs, as in an incorruptible bath, he sang: ⁄ Blessed are You, the God of our fathers!"
 
 meMA.Ode7C13.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C13.melody = he.h.m2_en_US_oca.EikonosChrysis.notmetered
+meMA.Ode7C13.melody = he.h.m2_en_US_oca.heHE.EikonosChrysis.notmetered
 meMA.Ode7C13.incipit = "When the spiritual fire burned…"
 meMA.Ode7C13.text = "When the spiritual fire burned in the minds of the forty, ⁄ the subtle madness of the impious was consumed as melting wax. ⁄ Together they sang to you, O Christ: ⁄ Blessed are You, the God of our fathers!"
 
 meMA.Ode7C14.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C14.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C14.melody = he.h.m2_en_US_oca.EikonosChrysis.notmetered
+meMA.Ode7C14.melody = he.h.m2_en_US_oca.heHE.EikonosChrysis.notmetered
 meMA.Ode7C14.incipit = "The power of Your Cross…"
 meMA.Ode7C14.text = "The power of Your Cross is truly splendid and pre-eminent, O Christ! ⁄ It weaves crowns for the forty martyrs with opposite things, ⁄ for having passed through fire and water they cry out in purity: ⁄ Blessed are You, the God of our fathers!"
 
 meMA.Ode7C1T.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode7C1T.melody = he.h.m2_en_US_oca.EikonosChrysis.notmetered
+meMA.Ode7C1T.melody = he.h.m2_en_US_oca.heHE.EikonosChrysis.notmetered
 meMA.Ode7C1T.incipit = "Moses foresaw you, pure one…"
 meMA.Ode7C1T.text = "Moses foresaw you, pure one, as a burning bush, ⁄ which was not consumed, yet bore the unbearable radiance of ineffable Being. ⁄ He is One of the holy Persons who has united Himself to our flesh!"
 
 meMA.Ode8C1H.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C1H.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.melody
-meMA.Ode8C1H.incipit = he.h.m2_en_US_oca.TonEnKaminoTouPyros.incipit
-meMA.Ode8C1H.text = he.h.m2_en_US_oca.TonEnKaminoTouPyros.text
+meMA.Ode8C1H.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.melody
+meMA.Ode8C1H.incipit = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.incipit
+meMA.Ode8C1H.text = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C11.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C11.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "Cruelly inciting every creature against…"
 meMA.Ode8C11.text = "Cruelly inciting every creature against the athletes, ⁄ the enemy has been put to shame by them all! ⁄ The forty martyrs ever praise the Lord ⁄ and exalt Him above all forever!"
 
 meMA.Ode8C12.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C12.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C12.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C12.incipit = "The members of your bodies…"
 meMA.Ode8C12.text = "The members of your bodies were viciously crushed for Christ. ⁄ You were offered to God as a divine holocaust. ⁄ You ever join the choir of angels, martyrs, ⁄ singing hymns to Christ throughout all ages!"
 
 meMA.Ode8C13.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C13.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C13.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C13.incipit = "Make your journey and run…"
 meMA.Ode8C13.text = "Make your journey and run straight to everlasting life, my Son, ⁄ the Christ-loving mother cried to her Christ-loving child. ⁄ For I could not bear to see you appear in second place ⁄ before Christ, the Judge of the contest!"
 
 meMA.Ode8C14.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C14.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C14.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C14.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C14.incipit = "Make your journey and run…"
 meMA.Ode8C14.text = "Make your journey and run straight to everlasting life, my Son, ⁄ the Christ-loving mother cried to her Christ-loving child. ⁄ For I could not bear to see you appear in second place ⁄ before Christ, the Judge of the contest!"
 
 meMA.Ode8C1Tr.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C1Tr.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C1Tr.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C1Tr.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C1Tr.incipit = "…"
 meMA.Ode8C1Tr.text = ""
 
 meMA.Ode8C1T.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode8C1T.melody = he.h.m2_en_US_oca.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C1T.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C1T.incipit = "The Son who is not…"
 meMA.Ode8C1T.text = "The Son who is not parted from the bosom of the Father, ⁄ made his dwelling in your maternal womb, pure Virgin Bride of God. ⁄ We hymn and highly exalt Him throughout all ages!"
 
 meMA.Ode9C1H.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C1H.melody = he.h.m2_en_US_oca.TonEkTheouTheonLogon.melody
-meMA.Ode9C1H.incipit = he.h.m2_en_US_oca.TonEkTheouTheonLogon.incipit
-meMA.Ode9C1H.text = he.h.m2_en_US_oca.TonEkTheouTheonLogon.text
+meMA.Ode9C1H.melody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.melody
+meMA.Ode9C1H.incipit = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.incipit
+meMA.Ode9C1H.text = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C11.melody = he.h.m2_en_US_oca.TonEkTheouTheonLogon.notmetered
+meMA.Ode9C11.melody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C11.incipit = "You were stripped naked and…"
 meMA.Ode9C11.text = "You were stripped naked and stoned for the sake of Christ. ⁄ You endured the wintry air, icy water and the crushing of your limbs. ⁄ You were consumed by fire, forty martyrs. ⁄ You shine like beacons in the rushing river!"
 
 meMA.Ode9C12.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C12.melody = he.h.m2_en_US_oca.TonEkTheouTheonLogon.notmetered
+meMA.Ode9C12.melody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C12.incipit = "They acquired the Cross as…"
 meMA.Ode9C12.text = "They acquired the Cross as a staff of divine power ⁄ and the forty athletes cried out to Christ: ⁄ Master, almighty Conqueror, ⁄ crown us with Your own hand, ⁄ that we may unceasingly magnify You with hymns!"
 
 meMA.Ode9C13.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C13.melody = he.h.m2_en_US_oca.TonEkTheouTheonLogon.notmetered
+meMA.Ode9C13.melody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C13.incipit = "You endured the pain of…"
 meMA.Ode9C13.text = "You endured the pain of ice the boundless cruelty of cold. ⁄ But Paradise is sweet! ⁄ The bosom of the patriarch Abraham warms you in the eternal mansions!"
 
 meMA.Ode9C14.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C14.melody = he.h.m2_en_US_oca.TonEkTheouTheonLogon.notmetered
+meMA.Ode9C14.melody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C14.incipit = "You conquered through sufferings ⁄…"
 meMA.Ode9C14.text = "You conquered through sufferings ⁄ and received crowns from the divine right hand of the Master. ⁄ Forty martyrs, now pray that peace may be given to the world ⁄ and to us, victory and salvation!"
 
 meMA.Ode9C1T.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Ode9C1T.melody = he.h.m2_en_US_oca.TonEkTheouTheonLogon.notmetered
+meMA.Ode9C1T.melody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C1T.incipit = "The hosts of angels entreat…"
 meMA.Ode9C1T.text = "The hosts of angels entreat your Son, Virgin Bride and Mother. ⁄ Accept our prayers, for you alone re the hope of the faithful. ⁄ Grant peace to the world and victory and salvation to us who love you!"
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode5
-meMA.Lauds1.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
+meMA.Lauds1.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.notmetered
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = miscellanea_en_US_oca.misc.Mode5
-meMA.Lauds2.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
+meMA.Lauds2.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.notmetered
 meMA.Lauds2.incipit = "…"
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = miscellanea_en_US_oca.misc.Mode5
-meMA.Lauds3.melody = he.a.m5_en_US_oca.ChairoisAskitikon.notmetered
+meMA.Lauds3.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.notmetered
 meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
