@@ -19,74 +19,74 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = misc_en_US_oca.Mode4
+meVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.incipit = "Your hand probed the side…"
 meVE.Stichera01.text = "Your hand probed the side of the Lord, ⁄ finding the perfection of all goodness and joy. ⁄ Like a sponge you have thirsted for the Water of Life, ⁄ the Fount of blessing and everlasting gladness. ⁄ Now you wash away ignorance from the minds of men ⁄⁄ giving us to drink of the knowledge of the Lord."
 
-meVE.Stichera02.mode = misc_en_US_oca.Mode4
+meVE.Stichera02.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.incipit = "By your doubt overcome by…"
 meVE.Stichera02.text = "By your doubt overcome by faith, ⁄ you have strengthened our faintheartedness. ⁄ You proclaim to all men: Behold my Lord and my God! ⁄ He took flesh and came to earth for us, ⁄ enduring Crucifixion and death! ⁄ We take refuge in His side pierced with the lance ⁄⁄ joyfully drawing the water of life from the spring of salvation."
 
-meVE.Stichera03.mode = misc_en_US_oca.Mode4
+meVE.Stichera03.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.incipit = "Most blessed Thomas, ⁄ for…"
 meVE.Stichera03.text = "Most blessed Thomas, ⁄ for the godly-minded you are a fountain of divine knowledge: ⁄ You have touched the side of the Master of all: ⁄ An act of boldness taught you that He is two natures in one Person. ⁄ You cried out: You are both my Master and my eternal God! ⁄⁄ The Lord of glory Who took flesh for my sake."
 
-meVE.SticGlory.mode = misc_en_US_oca.Mode6
+meVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Apostle Thomas, faithful servant of…"
 meVE.SticGlory.text = "Apostle Thomas, faithful servant of the Lord, ⁄ witness of His wondrous incarnation, ⁄ you have sounded the depths of divine wisdom ⁄ with the cross as your staff and measure; ⁄ you have rescued us from the abyss of delusion. ⁄ The net of your teachings has captured many souls: ⁄ Enlightening the inhabited earth with the knowledge of God ⁄ radiantly illumining the Indies. ⁄ Now you delight in the glory of Christ our God: ⁄⁄ Pray that He may have mercy on our souls!"
 
-meVE.SticTheotokion.mode = misc_en_US_oca.Mode6
+meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.SticTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.name
 meVE.SticTheotokion.incipit = he.o_en_US_oca.TheotokeSyEi.incipit
 meVE.SticTheotokion.text = he.o_en_US_oca.TheotokeSyEiApostolou.text
 
-meVE.Aposticha1.mode = misc_en_US_oca.Mode4
+meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha1.incipit = "Blessed apostle Thomas, ⁄ you…"
 meVE.Aposticha1.text = "Blessed apostle Thomas, ⁄ you are a pearl of great price drawn from the sea of doubt. ⁄ Christ, the merciful Lover of mankind, ⁄ has fashioned your poverty and homeless wandering into riches and splendor. ⁄ Celebrating your memory, we rejoice, ⁄⁄ blessing you unto all ages, faithful one!"
 
-meVE.Aposticha2.mode = misc_en_US_oca.Mode4
+meVE.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha2.incipit = "Holy apostle Thomas, ⁄ the…"
 meVE.Aposticha2.text = "Holy apostle Thomas, ⁄ the blessed disciple who saw God in the flesh: ⁄ You have made the Indies shine as bright as the sun. ⁄ You enlightened the people revealing them to be children of the light and the day. ⁄ You overthrew their idols by the power of the Holy Spirit. ⁄ You led men to partake of the perfect love of God, ⁄ for through you they became the glory and honor of the Church, ⁄⁄ so may we also be saved through your intercessions!"
 
-meVE.Aposticha3.mode = misc_en_US_oca.Mode4
+meVE.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_US_oca.EdokasSimeiosin.notmetered
 meVE.Aposticha3.incipit = "Your hand, directed with fearful…"
 meVE.Aposticha3.text = "Your hand, directed with fearful boldness, ⁄ dared to probe the wounds of the immortal Lord of glory. ⁄ Most glorious wonder! ⁄ Your doubt was transformed into faith. ⁄ You cried out: You are my Lord and my God! ⁄ I glorify you, Lover of mankind, ⁄ for by Your passion ⁄⁄ You have caused freedom from passion to flow for all those who believe in You!"
 
-meVE.AposGlory.poet = poets_en_US_oca.Anatoliou
-meVE.AposGlory.mode = misc_en_US_oca.Mode6
+meVE.AposGlory.poet = poets_en_US_oca.po.Anatoliou
+meVE.AposGlory.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
-meVE.AposTheotokion.mode = misc_en_US_oca.Mode6
+meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
-meVE.GeneralApolytikion1.mode = misc_en_US_oca.Mode3
+meVE.GeneralApolytikion1.mode = miscellanea_en_US_oca.misc.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_en_US_oca.ApostoleAgie.name
 meVE.MM.GeneralApolytikion1.text = properties_en_US_oca.media.key
 meVE.GeneralApolytikion1.name = ""
 
-meVE.Apolytikion2.poet = poets_en_US_oca.Gerasimou
-meVE.Apolytikion2.mode = misc_en_US_oca.Mode4
+meVE.Apolytikion2.poet = poets_en_US_oca.po.Gerasimou
+meVE.Apolytikion2.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Apolytikion2.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meMA.Kathisma21.mode = misc_en_US_oca.Mode5
+meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.Kathisma21.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma21.incipit = "Let us praise in hymns…"
 meMA.Kathisma21.text = "Let us praise in hymns the memory of the apostle and disciple of Christ! ⁄ In a godly manner he touched the print of the nails, ⁄ seeking out the true faith! ⁄ He has steadied our thoughts in this world! ⁄⁄ He intercedes with the Savior that our souls may find mercy."
 
-meMA.Kathisma2T.mode = misc_en_US_oca.Mode5
+meMA.Kathisma2T.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.Kathisma2T.melody = he.a.m5_en_US_oca.TonSynanarchonLogon.notmetered
 meMA.Kathisma2T.incipit = "…"
 meMA.Kathisma2T.text = ""
@@ -94,280 +94,280 @@ meMA.Kathisma2T.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.poet = poets_en_US_oca.po.Theofanous
 meMA.C1.title = titles_en_US_oca.ti.CanonApostle
 meMA.C1.verse = prayers_en_US_oca.pr.verse_Apostle.text
 
-meMA.Ode1C11.ode = misc_en_US_oca.Ode1
-meMA.Ode1C11.mode = misc_en_US_oca.Mode4
+meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_oca.TristatasKrataious.notmetered
 meMA.Ode1C11.incipit = "You beheld and touched…"
 meMA.Ode1C11.text = "You beheld and touched the hands and side ⁄ of the unoriginate Son of God, God the Word, ⁄ Who appeared on earth in a form like ours. ⁄ Beseech Him, glorious one, that He may save your flock."
 
-meMA.Ode1C12.ode = misc_en_US_oca.Ode1
-meMA.Ode1C12.mode = misc_en_US_oca.Mode4
+meMA.Ode1C12.ode = miscellanea_en_US_oca.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_oca.TristatasKrataious.notmetered
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = "Jesus, my God, Who knows all that is hidden; ⁄ Who tries the reins and test the hearts, ⁄ chose you, most blessed Thomas, ⁄ to be a divine apostle and minister, ⁄ a witness of His manifestation as God."
 
-meMA.Ode1C13.ode = misc_en_US_oca.Ode1
-meMA.Ode1C13.mode = misc_en_US_oca.Mode4
+meMA.Ode1C13.ode = miscellanea_en_US_oca.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_oca.TristatasKrataious.notmetered
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = "You were shown to be a river of mystical waters ⁄ falling with streams of the knowledge of God ⁄ and the rushing of the Spirit upon the face of the earth, ⁄ upon the assembly of the Church, ⁄ dispelling the delusion of idolatry."
 
-meMA.Ode1C1T.ode = misc_en_US_oca.Ode1
-meMA.Ode1C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode1C1T.ode = miscellanea_en_US_oca.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_oca.TristatasKrataious.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = "All-hymned Theotokos, destroyer of death and corruption, ⁄ you gave birth to Christ, the Source of incorruption. ⁄ He has adorned human nature, all-pure one, ⁄ with the grace of immortality!"
 
-meMA.Ode3C11.ode = misc_en_US_oca.Ode3
-meMA.Ode3C11.mode = misc_en_US_oca.Mode4
+meMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3C11.melody = he.h.m4_en_US_oca.OukEnSofia.notmetered
 meMA.Ode3C11.incipit = "You were great…"
 meMA.Ode3C11.text = "You were great in the distinction of virtues, ⁄ for you yourself had beheld Christ. ⁄ You enlightened the formless darkness of the Indians with divine light, ⁄ enlightening them with faith."
 
-meMA.Ode3C12.ode = misc_en_US_oca.Ode3
-meMA.Ode3C12.mode = misc_en_US_oca.Mode4
+meMA.Ode3C12.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_oca.OukEnSofia.notmetered
 meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = "Burning with radiance through the activity of the Spirit, ⁄ you were launched like a bolt of divine light. ⁄ You were pleasing to God, O Thomas, ⁄ enlightening the world with miracles."
 
-meMA.Ode3C13.ode = misc_en_US_oca.Ode3
-meMA.Ode3C13.mode = misc_en_US_oca.Mode4
+meMA.Ode3C13.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3C13.melody = he.h.m4_en_US_oca.OukEnSofia.notmetered
 meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = "You were instructed in the mysteries of the teachings of divine wisdom ⁄ which surpasses the brilliance of lightning. ⁄ Apostle Thomas, you illumined the ends of the earth!"
 
-meMA.Ode3C1T.ode = misc_en_US_oca.Ode3
-meMA.Ode3C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode3C1T.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_oca.OukEnSofia.notmetered
 meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = "All-pure, unwedded one, ⁄ you gave birth to God in the flesh: ⁄ make me steadfast, for I am shaken by the assaults of the passions ⁄ and I have no other helper but you."
 
-meMA.Ode3H.ode = misc_en_US_oca.Ode3
-meMA.Ode3H.mode = misc_en_US_oca.Mode4
+meMA.Ode3H.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3H.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3H.melody = he.h.m4_en_US_oca.OukEnSofia.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_oca.OukEnSofia.incipit
 meMA.Ode3H.text = he.h.m4_en_US_oca.OukEnSofia.text
 
-meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode8
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = "You set nets of divine words and caught reason endowed fish; ⁄ you offered them to our God as firstfruits. ⁄ You wished to be clothed in the wounds of Christ ⁄ and showed yourself to be an imitator of His suffering. ⁄ Therefore, we assemble together and fittingly honor your festive memorial, ⁄ and cry out to you, glorious Apostle, with one accord: ⁄ Entreat Christ God that He may grant remission of sins ⁄⁄ to those who honor your holy memory with love!"
 
-meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
+meMA.Ode3KathismaT.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.incipit = "…"
 meMA.Ode3KathismaT.text = ""
 
-meMA.Ode4C11.ode = misc_en_US_oca.Ode4
-meMA.Ode4C11.mode = misc_en_US_oca.Mode4
+meMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode4C11.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.notmetered
 meMA.Ode4C11.incipit = "Beginning with a most splendid…"
 meMA.Ode4C11.text = "Beginning with a most splendid manifestation of wonders, ⁄ and brilliantly interpreting the glory of the teachings of God, ⁄ with your preaching you embraced the whole world which cries: ⁄ Glory to Your power, O Christ!"
 
-meMA.Ode4C12.ode = misc_en_US_oca.Ode4
-meMA.Ode4C12.mode = misc_en_US_oca.Mode4
+meMA.Ode4C12.ode = miscellanea_en_US_oca.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode4C12.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.notmetered
 meMA.Ode4C12.incipit = "…"
 meMA.Ode4C12.text = "Blessed and most honored Thomas, ⁄ we praise you, for you yourself beheld the Word. ⁄ You are an apostle and fervent minister and witness ⁄ to His glory and majesty."
 
-meMA.Ode4C13.ode = misc_en_US_oca.Ode4
-meMA.Ode4C13.mode = misc_en_US_oca.Mode4
+meMA.Ode4C13.ode = miscellanea_en_US_oca.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode4C13.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.notmetered
 meMA.Ode4C13.incipit = "…"
 meMA.Ode4C13.text = "You set a foundation firmly upon the chief Cornerstone, ⁄ blessed and all-memorable one. ⁄ You built a bridal chamber and heavenly tabernacle for those who cry: ⁄ Glory to Your power, O Christ!"
 
-meMA.Ode4C1T.ode = misc_en_US_oca.Ode4
-meMA.Ode4C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode4C1T.ode = miscellanea_en_US_oca.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode4C1T.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.notmetered
 meMA.Ode4C1T.incipit = "…"
 meMA.Ode4C1T.text = "We call the all-holy Virgin the unplowed soil ⁄ which put forth the Grain of life, ⁄ the light cloud which let down the Giver of life as a shower and we cry: ⁄ Glory to Your power, O Christ!"
 
-meMA.Ode5C11.ode = misc_en_US_oca.Ode5
-meMA.Ode5C11.mode = misc_en_US_oca.Mode4
+meMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode5C11.melody = he.h.m4_en_US_oca.AseveisOukOpsontai.notmetered
 meMA.Ode5C11.incipit = "You were radiant…"
 meMA.Ode5C11.text = "You were radiant with the glory of Christ, apostle, ⁄ for you touched the life-creating side. ⁄ You drew out an unfathomable abyss of theology, ⁄ enriching the world."
 
-meMA.Ode5C12.ode = misc_en_US_oca.Ode5
-meMA.Ode5C12.mode = misc_en_US_oca.Mode4
+meMA.Ode5C12.ode = miscellanea_en_US_oca.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode5C12.melody = he.h.m4_en_US_oca.AseveisOukOpsontai.notmetered
 meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = "Thomas, who had not been present at Your first entrance, ⁄ did not believe the disciples, greatly Merciful One, ⁄ but believing later, he cried out, rejoicing, ⁄ proclaiming You to be God and Lord!"
 
-meMA.Ode5C13.ode = misc_en_US_oca.Ode5
-meMA.Ode5C13.mode = misc_en_US_oca.Mode4
+meMA.Ode5C13.ode = miscellanea_en_US_oca.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode5C13.melody = he.h.m4_en_US_oca.AseveisOukOpsontai.notmetered
 meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = "Like a living heaven, ⁄ Thomas proclaimed Your glory with spiritual thunder, O Christ. ⁄ He confessed YOu to be God and Lord, ⁄ announcing the glad tidings to the faithful."
 
-meMA.Ode5C1T.ode = misc_en_US_oca.Ode5
-meMA.Ode5C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode5C1T.ode = miscellanea_en_US_oca.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode5C1T.melody = he.h.m4_en_US_oca.AseveisOukOpsontai.notmetered
 meMA.Ode5C1T.incipit = "…"
 meMA.Ode5C1T.text = "All-undefiled one, reveal our mind to be a conqueror of the passions; ⁄ put down the attacks of its thoughts, Bride of God, ⁄ for you gave birth to God, the Savior of our souls."
 
-meMA.Ode6C11.ode = misc_en_US_oca.Ode6
-meMA.Ode6C11.mode = misc_en_US_oca.Mode4
+meMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6C11.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "Blessed Thomas, your unbelief…"
 meMA.Ode6C11.text = "Blessed Thomas, your unbelief ⁄ heals the soul-destroying unbelief of all, ⁄ for without doubt, you probed the wounds ⁄ made by the nails and the spear."
 
-meMA.Ode6C12.ode = misc_en_US_oca.Ode6
-meMA.Ode6C12.mode = misc_en_US_oca.Mode4
+meMA.Ode6C12.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6C12.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = "You launched Your apostle, powerful Christ, ⁄ like a swift arrow into the hearts of Your enemies. ⁄ He has brought them to you as the spoils of war!"
 
-meMA.Ode6C13.ode = misc_en_US_oca.Ode6
-meMA.Ode6C13.mode = misc_en_US_oca.Mode4
+meMA.Ode6C13.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6C13.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C13.incipit = "…"
 meMA.Ode6C13.text = "Compassionate One, You abolished the sacrifices of idols, ⁄ by being killed Yourself on a tree ⁄ and by the holy sacrifices of the God-inspired apostles ⁄ who imitated Your sufferings."
 
-meMA.Ode6C1T.ode = misc_en_US_oca.Ode6
-meMA.Ode6C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode6C1T.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "New wonder, more than all wonders! ⁄ As a Virgin, without knowing a man, ⁄ you conceived in your womb Him Who contains all things, ⁄ yet you did not confine Him."
 
-meMA.Ode6H.ode = misc_en_US_oca.Ode6
-meMA.Ode6H.mode = misc_en_US_oca.Mode4
+meMA.Ode6H.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6H.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6H.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_oca.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_oca.ThysoSoiMetaFonis.text
 
-meMA.Kontakion1.mode = misc_en_US_oca.Mode4
+meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "Thomas, the faithful servant…"
 meMA.Kontakion1.text = "Thomas, the faithful servant and disciple of Christ, ⁄ filled with divine grace, cried out from the depth of his love: ⁄⁄ You are my Lord and my God!"
 
 meMA.Oikos1.text = "Peter called out to the divinely eloquent Thomas, the disciple of the Lord and great initiate of the mysteries:  We have seen the Lord!  His friend said to him, crying out: Unless I see the wounds of His hands, I will not believe!  Then the Master of all, in His desire to save all, came as a servant and said to Thomas: Touch My hands and My side and do not be unbelieving, for I am your Lord and God.  In repentance he cried out: ⁄⁄ You are my Lord and my God!"
 
-meMA.Ode7C11.ode = misc_en_US_oca.Ode7
-meMA.Ode7C11.mode = misc_en_US_oca.Mode4
+meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C11.incipit = "You rejoice as an apostle…"
 meMA.Ode7C11.text = "You rejoice as an apostle ⁄ joining the chorus with the choirs on high in the heavens, blessed one. ⁄ You sing out in gladness: ⁄ Blessed are You, Lord, in the temple of Your glory!"
 
-meMA.Ode7C12.ode = misc_en_US_oca.Ode7
-meMA.Ode7C12.mode = misc_en_US_oca.Mode4
+meMA.Ode7C12.ode = miscellanea_en_US_oca.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C12.incipit = "…"
 meMA.Ode7C12.text = "Your proclamation and the speech of your divine words ⁄ have gone out to the ends of the earth. ⁄ You give instruction to those who cry: ⁄ Blessed are You, Lord, in the temple of Your glory!"
 
-meMA.Ode7C13.ode = misc_en_US_oca.Ode7
-meMA.Ode7C13.mode = misc_en_US_oca.Mode4
+meMA.Ode7C13.ode = miscellanea_en_US_oca.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C13.incipit = "…"
 meMA.Ode7C13.text = "You became a temple of the Trinity, all-honored Apostle. ⁄ You destroyed the temples and altars of idols, ⁄ and you raised temples for the praise and worship of Christ God."
 
-meMA.Ode7C1T.ode = misc_en_US_oca.Ode7
-meMA.Ode7C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode7C1T.ode = miscellanea_en_US_oca.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode7C1T.melody = he.h.m4_en_US_oca.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C1T.incipit = "…"
 meMA.Ode7C1T.text = "By your childbearing we have been delivered from slavery to the Law, ⁄ for You, Theotokos, without knowing man, ⁄ gave birth to the Deliverer for us. ⁄ Blessed are you among women, all-undefiled Lady!"
 
-meMA.Ode8C11.ode = misc_en_US_oca.Ode8
-meMA.Ode8C11.mode = misc_en_US_oca.Mode4
+meMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8C11.melody = he.h.m4_en_US_oca.PaidasEvageis.notmetered
 meMA.Ode8C11.incipit = "You spoke with the incarnate God…"
 meMA.Ode8C11.text = "You spoke with the incarnate God while forgetting the flesh. ⁄ You were enriched with deification beyond this world, ⁄ for you were deified by your closeness to God, crying out: ⁄ All works of the Lord, bless the Lord ⁄ and exalt Him above all forever!"
 
-meMA.Ode8C12.ode = misc_en_US_oca.Ode8
-meMA.Ode8C12.mode = misc_en_US_oca.Mode4
+meMA.Ode8C12.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_oca.PaidasEvageis.notmetered
 meMA.Ode8C12.incipit = "…"
 meMA.Ode8C12.text = "Uniting yourself to Christ with love, ⁄ you loved enough to die with Him, blessed one, ⁄ saying to your fellow apostles: ⁄ Come, let us accept death with Him, crying out: ⁄ All works of the Lord, bless the Lord ⁄ and exalt Him above all forever!"
 
-meMA.Ode8C13.ode = misc_en_US_oca.Ode8
-meMA.Ode8C13.mode = misc_en_US_oca.Mode4
+meMA.Ode8C13.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8C13.melody = he.h.m4_en_US_oca.PaidasEvageis.notmetered
 meMA.Ode8C13.incipit = "…"
 meMA.Ode8C13.text = "Christ has show you, most wise apostles, ⁄ to be clouds filled with the rain of His will, ⁄ watering the Church with showers of divine knowledge, ⁄ giving drink to those who sing: ⁄ All works of the Lord, bless the Lord ⁄ and exalt Him above all forever!"
 
-meMA.Ode8C1T.ode = misc_en_US_oca.Ode8
-meMA.Ode8C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode8C1T.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_oca.PaidasEvageis.notmetered
 meMA.Ode8C1T.incipit = "…"
 meMA.Ode8C1T.text = "You are empty of lusts and defilement, Virgin, ⁄ as the temple of the All-holy Word Who sanctifies all things ⁄ and is co-unoriginate with the Father. ⁄ Therefore we bless and exalt you above all forever!"
 
-meMA.Ode8H.ode = misc_en_US_oca.Ode8
-meMA.Ode8H.mode = misc_en_US_oca.Mode4
+meMA.Ode8H.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8H.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8H.melody = he.h.m4_en_US_oca.PaidasEvageis.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_oca.PaidasEvageis.incipit
 meMA.Ode8H.text = he.h.m4_en_US_oca.PaidasEvageis.text
 
-meMA.Ode9C11.ode = misc_en_US_oca.Ode9
-meMA.Ode9C11.mode = misc_en_US_oca.Mode4
+meMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9C11.melody = he.h.m4_en_US_oca.LithosAcheirotmitos.notmetered
 meMA.Ode9C11.incipit = "You were shown…"
 meMA.Ode9C11.text = "You were shown to be a splendid chariot, glorious one, ⁄ bearing the Word seated upon your beautiful and God-bearing soul. ⁄ You turn towards salvation those who magnify you."
 
-meMA.Ode9C12.ode = misc_en_US_oca.Ode9
-meMA.Ode9C12.mode = misc_en_US_oca.Mode4
+meMA.Ode9C12.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9C12.melody = he.h.m4_en_US_oca.LithosAcheirotmitos.notmetered
 meMA.Ode9C12.incipit = "…"
 meMA.Ode9C12.text = "As we celebrate your most blessed memory, ⁄ we pray that we may be delivered from every stormy wave ⁄ by the boldness which you have as an apostle of Christ, ⁄ all-honored God-seer."
 
-meMA.Ode9C13.ode = misc_en_US_oca.Ode9
-meMA.Ode9C13.mode = misc_en_US_oca.Mode4
+meMA.Ode9C13.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9C13.melody = he.h.m4_en_US_oca.LithosAcheirotmitos.notmetered
 meMA.Ode9C13.incipit = "…"
 meMA.Ode9C13.text = "Today we celebrate your memory, apostle Thomas. ⁄ Sanctify and forgive us, delivering us by faith ⁄ from all temptations, evil circumstances and passions ⁄ through your supplications."
 
-meMA.Ode9C1T.ode = misc_en_US_oca.Ode9
-meMA.Ode9C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode9C1T.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_oca.LithosAcheirotmitos.notmetered
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "God the Word, the beautiful ear of Grain, ⁄ sprang forth from the soil of the Virgin. ⁄ Tasting of Him, faithful, we live and are established in Him. ⁄ Therefore, we magnify you, for you gave Him birth!"
 
-meMA.Ode9H.ode = misc_en_US_oca.Ode9
-meMA.Ode9H.mode = misc_en_US_oca.Mode4
+meMA.Ode9H.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9H.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9H.melody = he.h.m4_en_US_oca.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_oca.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_oca.LithosAcheirotmitos.text
 
-meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
+meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
-meMA.Exaposteilarion2.mode = misc_en_US_oca.Mode2
+meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
-meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
+meMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
-meMA.Lauds1.poet = poets_en_US_oca.Anatoliou
-meMA.Lauds1.mode = misc_en_US_oca.Mode2
+meMA.Lauds1.poet = poets_en_US_oca.po.Anatoliou
+meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.Lauds1.melody = ""
 meMA.Lauds1.incipit = "You followed after Christ…"
 meMA.Lauds1.text = "You followed after Christ, apostle Thomas, ⁄ despising the world. ⁄ You laid up His teachings in your treasury, ⁄ and were shown to be sent by Him! ⁄ Living among pagans whose souls were darkened by deception and passions, ⁄ you enlightened them with the Savior's commandments, ⁄⁄ that they might believe in the consubstantial Trinity!"
 
-meMA.Lauds2.mode = misc_en_US_oca.Mode4
+meMA.Lauds2.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Lauds2.melody = ""
 meMA.Lauds2.incipit = "You enlightened your mind…"
 meMA.Lauds2.text = "You enlightened your mind with the divine fire of the Master, ⁄ as a true disciple, apostle Thomas, ⁄ for with the Cross as a rod you drew the souls of the wicked ⁄ from the depths of ignorance. ⁄ With the pole of the divine Spirit ⁄ you fished for the darkened conscience of the people of India! ⁄ Ever pray to Christ God to deliver us from the sight of the evil enemy, ⁄⁄ that our souls may be saved!"
 
-meMA.Lauds3.mode = misc_en_US_oca.Mode4
+meMA.Lauds3.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Lauds3.melody = ""
 meMA.Lauds3.incipit = "Abandoning the depths…"
 meMA.Lauds3.text = "Abandoning the depths you had already fished, ⁄ with faith you hastened to the rod of the Cross! ⁄ With it, you fished for men, apostle Thomas. ⁄ Having touched the all-pure side of the Word, ⁄ you were granted also to feel with your fingers ⁄ the wounds where the nails had entered. ⁄⁄ Ever entreat Christ God with fervor that He may save our souls!"
 
-meMA.LaudsGlory.mode = misc_en_US_oca.Mode6
+meMA.LaudsGlory.mode = miscellanea_en_US_oca.misc.Mode6
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = meVE.AposGlory.incipit
 meMA.LaudsGlory.text = meVE.AposGlory.text
 
-meMA.LaudsTheotokion.mode = misc_en_US_oca.Mode6
+meMA.LaudsTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_US_oca.TheotokeSyEi.name
 meMA.LaudsTheotokion.incipit = he.o_en_US_oca.TheotokeSyEi.incipit
 meMA.LaudsTheotokion.text = he.o_en_US_oca.TheotokeSyEiApostolou.text

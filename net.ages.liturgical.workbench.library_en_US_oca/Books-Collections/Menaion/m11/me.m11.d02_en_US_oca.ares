@@ -19,61 +19,61 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = misc_en_US_oca.Mode4
+meVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.incipit = "Let us hymn the company…"
 meVE.Stichera01.text = "Let us hymn the company of the five martyrs: ⁄ The wise Acindynus ⁄ with Pegasus and Elpidephorus, ⁄ Aphthonius and Anempodistus! ⁄ They are valiant athletes and fervent protectors. ⁄ They pour forth abundant grace and unfailing hope, ⁄ granting them freely to the faithful!"
 
-meVE.Stichera02.mode = misc_en_US_oca.Mode4
+meVE.Stichera02.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.incipit = "Neither hunger, nor tribulation, ⁄…"
 meVE.Stichera02.text = "Neither hunger, nor tribulation, ⁄ nor boiling cauldrons nor the depths of the earth, ⁄ neither life nor death ⁄ nor even the mouths of wild beasts ⁄ could separate your brave deeds of patient endurance from the love of Christ! ⁄ You continually directed your gaze towards Him: ⁄⁄ Desiring Him alone, you vanquished the enemy!"
 
-meVE.Stichera03.mode = misc_en_US_oca.Mode4
+meVE.Stichera03.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.incipit = "As you delight in sweetness…"
 meVE.Stichera03.text = "As you delight in sweetness and are filled with light, ⁄ inheriting eternal life, divinely wise ones, ⁄ deliver those who pray to you and honor your place of martyrdom ⁄ from misfortunes, bondage and imprisonment! ⁄ For you have boldness before God and great mercy ⁄⁄ as true imitators and followers of Christ!"
 
 meVE.MM.Stichera1123as78910.text = ""
 
-meVE.SticGlory.poet = poets_en_US_oca.Antoniou
-meVE.SticGlory.mode = misc_en_US_oca.Mode6
+meVE.SticGlory.poet = poets_en_US_oca.po.Antoniou
+meVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Today the martyrs' choir of…"
 meVE.SticGlory.text = "Today the martyrs' choir of fivefold splendor ⁄ illumines the faithful like a constellation of stars! ⁄ It summons all to mystical joy! ⁄ Today the servants of the spiritual Sun ⁄ lead all to righteousness: ⁄ They destroyed the traditions of the Persians ⁄ who adored the material sun and worshipped fire! ⁄ They filled to overflowing the cup of their suffering; ⁄ they have been crowned with their blood shed for the sake of Christ! ⁄ They call us, lovers of piety, saying: ⁄ Come, feast as you behold our sufferings: ⁄ Look upon our crowns and honors! ⁄ For Christ has truly said: ⁄ He who endures to the end is saved! ⁄⁄ Come, share our crowns and take us as intercessors before the Lord!"
 
-meVE.SticTheotokion.mode = misc_en_US_oca.Mode6
+meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //me.m01.d21_en_US_oca.meVE.SticTheotokion.text
 
-meVE.SticStavrotheotokion.mode = misc_en_US_oca.Mode6
+meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_oca.OlinApothemenoi.notmetered
 meVE.SticStavrotheotokion.incipit = me.m02.d17_en_US_oca.meMA.LaudsStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d17_en_US_oca.meMA.LaudsStavrotheotokion.text
 
-meVE.AposGlory.mode = misc_en_US_oca.Mode2
+meVE.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Come, let us rejoice in…"
 meVE.AposGlory.text = "Come, let us rejoice in the Lord today: ⁄ The day of the commemoration of the passion-bearers! ⁄ Come, all who love the feasts of the Church! ⁄ Let us give glory, offering them mystical praise: ⁄ Rejoice, Acindynus! ⁄ Rejoice, Pegasus and Anempodistus! ⁄ Rejoice, Elpidephorus! ⁄ Rejoice, Apthonius! ⁄ You drowned the deceits of idolotry in the depths of the sea; ⁄ you preached Christ the Lord openly in the arena! ⁄ Therefore, most blessed, greatly suffering ones, ⁄⁄ ever intercede for our souls!"
 
-meVE.AposTheotokion.mode = misc_en_US_oca.Mode2
+meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.incipit = ho.s23_en_US_oca.hoCA.Troparion7.incipit
 meVE.AposTheotokion.text = ho.s23_en_US_oca.hoCA.Troparion7.text
 
-meVE.AposStavrotheotokion.mode = misc_en_US_oca.Mode2
+meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_oca.OteEkTouXylou.notmetered
 meVE.AposStavrotheotokion.incipit = me.m10.d02_en_US_oca.meVE.SticStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m10.d02_en_US_oca.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1.mode = misc_en_US_oca.Mode2
+meVE.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = oc.m2.d4_en_US_oca.ocMA.Kathisma32.incipit
 meVE.Apolytikion1.text = oc.m2.d4_en_US_oca.ocMA.Kathisma32.text
 
-meVE.Apolytikion2.poet = poets_en_US_oca.Gerasimou
-meVE.Apolytikion2.mode = misc_en_US_oca.Mode4
+meVE.Apolytikion2.poet = poets_en_US_oca.po.Gerasimou
+meVE.Apolytikion2.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Apolytikion2.melody = he.a.m4_en_US_oca.TachyProkatalave.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
@@ -81,297 +81,297 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.poet = poets_en_US_oca.Theofanous
+meMA.C1.poet = poets_en_US_oca.po.Theofanous
 meMA.C1.title = titles_en_US_oca.ti.CanonSaints
 meMA.C1.verse = prayers_en_US_oca.pr.verse_SaintsM.text
 
-meMA.Ode1C11.ode = misc_en_US_oca.Ode1
-meMA.Ode1C11.mode = misc_en_US_oca.Mode4
+meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_oca.AnoixoToStomaMou.notmetered
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
 
-meMA.Ode1C12.ode = misc_en_US_oca.Ode1
-meMA.Ode1C12.mode = misc_en_US_oca.Mode4
+meMA.Ode1C12.ode = miscellanea_en_US_oca.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_oca.AnoixoToStomaMou.notmetered
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = ""
 
-meMA.Ode1C13.ode = misc_en_US_oca.Ode1
-meMA.Ode1C13.mode = misc_en_US_oca.Mode4
+meMA.Ode1C13.ode = miscellanea_en_US_oca.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_oca.AnoixoToStomaMou.notmetered
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
 
-meMA.Ode1C1T.ode = misc_en_US_oca.Ode1
-meMA.Ode1C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode1C1T.ode = miscellanea_en_US_oca.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_oca.AnoixoToStomaMou.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
 
-meMA.Ode3C11.ode = misc_en_US_oca.Ode3
-meMA.Ode3C11.mode = misc_en_US_oca.Mode4
+meMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3C11.melody = he.h.m4_en_US_oca.OukEnSofia.notmetered
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
 
-meMA.Ode3C12.ode = misc_en_US_oca.Ode3
-meMA.Ode3C12.mode = misc_en_US_oca.Mode4
+meMA.Ode3C12.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_oca.OukEnSofia.notmetered
 meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = ""
 
-meMA.Ode3C13.ode = misc_en_US_oca.Ode3
-meMA.Ode3C13.mode = misc_en_US_oca.Mode4
+meMA.Ode3C13.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3C13.melody = he.h.m4_en_US_oca.OukEnSofia.notmetered
 meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = ""
 
-meMA.Ode3C1T.ode = misc_en_US_oca.Ode3
-meMA.Ode3C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode3C1T.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_oca.OukEnSofia.notmetered
 meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
-meMA.Ode3H.ode = misc_en_US_oca.Ode3
-meMA.Ode3H.mode = misc_en_US_oca.Mode4
+meMA.Ode3H.ode = miscellanea_en_US_oca.misc.Ode3
+meMA.Ode3H.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3H.melody = he.h.m4_en_US_oca.OukEnSofia.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_oca.OukEnSofia.incipit
 meMA.Ode3H.text = he.h.m4_en_US_oca.OukEnSofia.text
 
-meMA.Ode3Kathisma1.mode = misc_en_US_oca.Mode4
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
-meMA.Ode3Kathisma2.mode = misc_en_US_oca.Mode8
+meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
-meMA.Ode3KathismaT.mode = misc_en_US_oca.Mode8
-meMA.Ode3KathismaT.melody = misc_en_US_oca.Automelon
+meMA.Ode3KathismaT.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3KathismaT.melody = miscellanea_en_US_oca.misc.Automelon
 meMA.Ode3KathismaT.incipit = he.a.m8_en_US_oca.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_US_oca.TinSofianKaiLogon.text
 
-meMA.Ode3KathismaSt.mode = misc_en_US_oca.Mode8
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_oca.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaSt.incipit = oc.m8.d4_en_US_oca.ocMA.Kathisma13.incipit
 meMA.Ode3KathismaSt.text = oc.m8.d4_en_US_oca.ocMA.Kathisma13.text
 
-meMA.Ode4C11.ode = misc_en_US_oca.Ode4
-meMA.Ode4C11.mode = misc_en_US_oca.Mode4
+meMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode4C11.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.notmetered
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
 
-meMA.Ode4C12.ode = misc_en_US_oca.Ode4
-meMA.Ode4C12.mode = misc_en_US_oca.Mode4
+meMA.Ode4C12.ode = miscellanea_en_US_oca.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode4C12.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.notmetered
 meMA.Ode4C12.incipit = "…"
 meMA.Ode4C12.text = ""
 
-meMA.Ode4C13.ode = misc_en_US_oca.Ode4
-meMA.Ode4C13.mode = misc_en_US_oca.Mode4
+meMA.Ode4C13.ode = miscellanea_en_US_oca.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode4C13.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.notmetered
 meMA.Ode4C13.incipit = "…"
 meMA.Ode4C13.text = ""
 
-meMA.Ode4C14.ode = misc_en_US_oca.Ode4
-meMA.Ode4C14.mode = misc_en_US_oca.Mode4
+meMA.Ode4C14.ode = miscellanea_en_US_oca.misc.Ode4
+meMA.Ode4C14.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode4C14.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.notmetered
 meMA.Ode4C14.incipit = "…"
 meMA.Ode4C14.text = ""
 
-meMA.Ode4C1T.ode = misc_en_US_oca.Ode4
-meMA.Ode4C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode4C1T.ode = miscellanea_en_US_oca.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode4C1T.melody = he.h.m4_en_US_oca.OKathimenosEnDoxi.notmetered
 meMA.Ode4C1T.incipit = "…"
 meMA.Ode4C1T.text = ""
 
-meMA.Ode5C11.ode = misc_en_US_oca.Ode5
-meMA.Ode5C11.mode = misc_en_US_oca.Mode4
+meMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode5C11.melody = he.h.m4_en_US_oca.AseveisOukOpsontai.notmetered
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
 
-meMA.Ode5C12.ode = misc_en_US_oca.Ode5
-meMA.Ode5C12.mode = misc_en_US_oca.Mode4
+meMA.Ode5C12.ode = miscellanea_en_US_oca.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode5C12.melody = he.h.m4_en_US_oca.AseveisOukOpsontai.notmetered
 meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = ""
 
-meMA.Ode5C13.ode = misc_en_US_oca.Ode5
-meMA.Ode5C13.mode = misc_en_US_oca.Mode4
+meMA.Ode5C13.ode = miscellanea_en_US_oca.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode5C13.melody = he.h.m4_en_US_oca.AseveisOukOpsontai.notmetered
 meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = ""
 
-meMA.Ode5C14.ode = misc_en_US_oca.Ode5
-meMA.Ode5C14.mode = misc_en_US_oca.Mode4
+meMA.Ode5C14.ode = miscellanea_en_US_oca.misc.Ode5
+meMA.Ode5C14.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode5C14.melody = he.h.m4_en_US_oca.AseveisOukOpsontai.notmetered
 meMA.Ode5C14.incipit = "…"
 meMA.Ode5C14.text = ""
 
-meMA.Ode5C1T.ode = misc_en_US_oca.Ode5
-meMA.Ode5C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode5C1T.ode = miscellanea_en_US_oca.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode5C1T.melody = he.h.m4_en_US_oca.AseveisOukOpsontai.notmetered
 meMA.Ode5C1T.incipit = "…"
 meMA.Ode5C1T.text = ""
 
-meMA.Ode6C11.ode = misc_en_US_oca.Ode6
-meMA.Ode6C11.mode = misc_en_US_oca.Mode4
+meMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6C11.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
 
-meMA.Ode6C12.ode = misc_en_US_oca.Ode6
-meMA.Ode6C12.mode = misc_en_US_oca.Mode4
+meMA.Ode6C12.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6C12.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = ""
 
-meMA.Ode6C13.ode = misc_en_US_oca.Ode6
-meMA.Ode6C13.mode = misc_en_US_oca.Mode4
+meMA.Ode6C13.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6C13.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C13.incipit = "…"
 meMA.Ode6C13.text = ""
 
-meMA.Ode6C1T.ode = misc_en_US_oca.Ode6
-meMA.Ode6C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode6C1T.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
-meMA.Ode6H.ode = misc_en_US_oca.Ode6
-meMA.Ode6H.mode = misc_en_US_oca.Mode4
+meMA.Ode6H.ode = miscellanea_en_US_oca.misc.Ode6
+meMA.Ode6H.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode6H.melody = he.h.m4_en_US_oca.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_oca.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_oca.ThysoSoiMetaFonis.text
 
-meMA.Kontakion1.mode = misc_en_US_oca.Mode4
+meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Ode7C11.ode = misc_en_US_oca.Ode7
-meMA.Ode7C11.mode = misc_en_US_oca.Mode4
+meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_US_oca.ODiasosasEnPyri.notmetered
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
 
-meMA.Ode7C12.ode = misc_en_US_oca.Ode7
-meMA.Ode7C12.mode = misc_en_US_oca.Mode4
+meMA.Ode7C12.ode = miscellanea_en_US_oca.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_oca.ODiasosasEnPyri.notmetered
 meMA.Ode7C12.incipit = "…"
 meMA.Ode7C12.text = ""
 
-meMA.Ode7C13.ode = misc_en_US_oca.Ode7
-meMA.Ode7C13.mode = misc_en_US_oca.Mode4
+meMA.Ode7C13.ode = miscellanea_en_US_oca.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_oca.ODiasosasEnPyri.notmetered
 meMA.Ode7C13.incipit = "…"
 meMA.Ode7C13.text = ""
 
-meMA.Ode7C1T.ode = misc_en_US_oca.Ode7
-meMA.Ode7C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode7C1T.ode = miscellanea_en_US_oca.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode7C1T.melody = he.h.m4_en_US_oca.ODiasosasEnPyri.notmetered
 meMA.Ode7C1T.incipit = "…"
 meMA.Ode7C1T.text = ""
 
-meMA.Ode8C11.ode = misc_en_US_oca.Ode8
-meMA.Ode8C11.mode = misc_en_US_oca.Mode4
+meMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8C11.melody = he.h.m4_en_US_oca.PaidasEvageis.notmetered
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
 
-meMA.Ode8C12.ode = misc_en_US_oca.Ode8
-meMA.Ode8C12.mode = misc_en_US_oca.Mode4
+meMA.Ode8C12.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_oca.PaidasEvageis.notmetered
 meMA.Ode8C12.incipit = "…"
 meMA.Ode8C12.text = ""
 
-meMA.Ode8C13.ode = misc_en_US_oca.Ode8
-meMA.Ode8C13.mode = misc_en_US_oca.Mode4
+meMA.Ode8C13.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8C13.melody = he.h.m4_en_US_oca.PaidasEvageis.notmetered
 meMA.Ode8C13.incipit = "…"
 meMA.Ode8C13.text = ""
 
-meMA.Ode8C14.ode = misc_en_US_oca.Ode8
-meMA.Ode8C14.mode = misc_en_US_oca.Mode4
+meMA.Ode8C14.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8C14.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8C14.melody = he.h.m4_en_US_oca.PaidasEvageis.notmetered
 meMA.Ode8C14.incipit = "…"
 meMA.Ode8C14.text = ""
 
-meMA.Ode8C1T.ode = misc_en_US_oca.Ode8
-meMA.Ode8C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode8C1T.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_oca.PaidasEvageis.notmetered
 meMA.Ode8C1T.incipit = "…"
 meMA.Ode8C1T.text = ""
 
-meMA.Ode8H.ode = misc_en_US_oca.Ode8
-meMA.Ode8H.mode = misc_en_US_oca.Mode4
+meMA.Ode8H.ode = miscellanea_en_US_oca.misc.Ode8
+meMA.Ode8H.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode8H.melody = he.h.m4_en_US_oca.PaidasEvageis.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_oca.PaidasEvageis.incipit
 meMA.Ode8H.text = he.h.m4_en_US_oca.PaidasEvageis.text
 
-meMA.Ode9C11.ode = misc_en_US_oca.Ode9
-meMA.Ode9C11.mode = misc_en_US_oca.Mode4
+meMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9C11.melody = he.h.m4_en_US_oca.EvaMenToTisParakois.notmetered
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
 
-meMA.Ode9C12.ode = misc_en_US_oca.Ode9
-meMA.Ode9C12.mode = misc_en_US_oca.Mode4
+meMA.Ode9C12.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9C12.melody = he.h.m4_en_US_oca.EvaMenToTisParakois.notmetered
 meMA.Ode9C12.incipit = "…"
 meMA.Ode9C12.text = ""
 
-meMA.Ode9C13.ode = misc_en_US_oca.Ode9
-meMA.Ode9C13.mode = misc_en_US_oca.Mode4
+meMA.Ode9C13.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9C13.melody = he.h.m4_en_US_oca.EvaMenToTisParakois.notmetered
 meMA.Ode9C13.incipit = "…"
 meMA.Ode9C13.text = ""
 
-meMA.Ode9C1T.ode = misc_en_US_oca.Ode9
-meMA.Ode9C1T.mode = misc_en_US_oca.Mode4
+meMA.Ode9C1T.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_oca.EvaMenToTisParakois.notmetered
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
-meMA.Ode9H.ode = misc_en_US_oca.Ode9
-meMA.Ode9H.mode = misc_en_US_oca.Mode4
+meMA.Ode9H.ode = miscellanea_en_US_oca.misc.Ode9
+meMA.Ode9H.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode9H.melody = he.h.m4_en_US_oca.EvaMenToTisParakois.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_oca.EvaMenToTisParakois.incipit
 meMA.Ode9H.text = he.h.m4_en_US_oca.EvaMenToTisParakois.text
 
-meMA.Exaposteilarion1.mode = misc_en_US_oca.Mode2
+meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
-meMA.ExapTheotokion.mode = misc_en_US_oca.Mode2
+meMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
-meMA.Aposticha4.mode = misc_en_US_oca.Mode2
+meMA.Aposticha4.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.Aposticha4.melody = ""
 meMA.Aposticha4.incipit = "Your body was purple with…"
 meMA.Aposticha4.text = "Your body was purple with streams of your blood ⁄ as you trod the path of martyrdom without faltering! ⁄ Therefore, athlete Acindynus, ⁄ you were given the armor of divine strength, ⁄ cutting down the weapons of the enemy! ⁄⁄ Entreat Christ God on our behalf, that our souls may be saved!"
 
-meMA.AposGlory.mode = misc_en_US_oca.Mode4
+meMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "The five-lighted lamp of the…"
 meMA.AposGlory.text = "The five-lighted lamp of the athletes ⁄ cut down the deceit of the enemy ⁄ like an ax in a grove of trees, as David foretold! ⁄ Having confessed Christ before the emperor ⁄⁄ they ever pray on behalf of our souls!"
 
-meMA.AposTheotokion.mode = misc_en_US_oca.Mode4
+meMA.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.AposTheotokion.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meMA.AposTheotokion.incipit = me.m06.d02_en_US_oca.meVE.SticTheotokion.incipit
 meMA.AposTheotokion.text = me.m06.d02_en_US_oca.meVE.SticTheotokion.text
 
-meMA.AposStavrotheotokion.mode = misc_en_US_oca.Mode4
+meMA.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.AposStavrotheotokion.melody = he.a.m4_en_US_oca.OsGennaionEnMartysi.notmetered
 meMA.AposStavrotheotokion.incipit = me.m02.d27_en_US_oca.meVE.SticStavrotheotokion.incipit
 meMA.AposStavrotheotokion.text = me.m02.d27_en_US_oca.meVE.SticStavrotheotokion.text
