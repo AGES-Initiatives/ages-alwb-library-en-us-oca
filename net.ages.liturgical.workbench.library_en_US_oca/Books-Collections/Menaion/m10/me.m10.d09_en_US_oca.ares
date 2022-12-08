@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode4
+meVE.Stichera01.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.name
 meVE.Stichera01.incipit = me.m04.d30_en_US_oca.meMA.Lauds1.incipit
 meVE.Stichera01.text = me.m04.d30_en_US_oca.meMA.Lauds1.text
@@ -38,6 +39,7 @@ meVE.Stichera03.text = me.m04.d30_en_US_oca.meMA.Lauds3.text
 //meVE.Stichera03.text = "With the lightning bolts of your preaching, ⁄ you enlightened those who sat in the darkness of ignorance, glorious James. ⁄ Through faith, you revealed them to be the children of God the Master. ⁄ You loved Him through suffering and death ⁄ and so inherited His glory ⁄⁄ wise, faithful, and inspired disciple."
 
 meVE.Stichera04.mode = miscellanea_en_US_oca.misc.Mode6
+meVE.Stichera04.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 meVE.Stichera04.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 meVE.Stichera04.incipit = "…"
 meVE.Stichera04.text = ""
