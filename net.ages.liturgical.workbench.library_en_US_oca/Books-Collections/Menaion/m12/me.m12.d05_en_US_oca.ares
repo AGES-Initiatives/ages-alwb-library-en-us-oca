@@ -117,6 +117,7 @@ meVE.LityBoth.incipit = ho.s23_en_US_oca.hoCA.Troparion7.incipit
 meVE.LityBoth.text = ho.s23_en_US_oca.hoCA.Troparion7.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
 meVE.Aposticha1.incipit = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.incipit
 meVE.Aposticha1.text = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.text
@@ -450,11 +451,13 @@ meMA.Ode9C1T.incipit = "Pure one, you are more…"
 meMA.Ode9C1T.text = "Pure one, you are more highly exalted than all mortals ⁄ in your incomparable excellence, ⁄ for in your womb, you contained God, ⁄ the Creator of all creation. ⁄ Pray to Him, for He is merciful, ⁄ that He may grant His Churches unity of mind, peace and serene well-being."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.incipit = "You made the desert a…"
 meMA.Exaposteilarion1.text = "You made the desert a city, divinely-wise Father Sabbas, ⁄ with your ways of loving wisdom! ⁄ Adornment of the fathers, ⁄ you made it a perfect spiritual paradise, ⁄ blossoming with the divine flowers of those with similar ways, ⁄⁄ who fittingly celebrate your holy memory!"
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_oca.heAU.FosAnalloioton.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.FosAnalloioton.notmetered
 meMA.Exaposteilarion2.incipit = "You made the desert a…"
 meMA.Exaposteilarion2.text = "You made the desert a city, divinely-wise Father Sabbas, ⁄ with your ways of loving wisdom! ⁄ Adornment of the fathers, ⁄ you made it a perfect spiritual paradise, ⁄ blossoming with the divine flowers of those with similar ways, ⁄⁄ who fittingly celebrate your holy memory!"
@@ -465,6 +468,7 @@ meMA.ExapTheotokion.incipit = ho.s23_en_US_oca.hoCA.Exaposteilarion4.incipit
 meMA.ExapTheotokion.text = ho.s23_en_US_oca.hoCA.Exaposteilarion4.text
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meMA.Lauds1.incipit = "The divinely wise Sabbas who…"
 meMA.Lauds1.text = "The divinely wise Sabbas who scorned lower things, ⁄ a sojourner who loved the things above and dweller of the desert, ⁄ commands us all to celebrate with faith ⁄⁄ the saving day of his departure to God!"

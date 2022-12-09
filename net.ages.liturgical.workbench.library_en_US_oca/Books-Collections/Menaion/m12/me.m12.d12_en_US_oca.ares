@@ -47,6 +47,7 @@ meVE.SticBoth.incipit = me.m12.d06_en_US_oca.meVE.SticBoth.incipit
 meVE.SticBoth.text = me.m12.d06_en_US_oca.meVE.SticBoth.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode1
+meVE.Aposticha1.greekmelody = he.a.m1_en_US_oca.heAU.NefelinSeFotos.greekname
 meVE.Aposticha1.melody = he.a.m1_en_US_oca.heAU.NefelinSeFotos.notmetered
 meVE.Aposticha1.incipit = "Come, all you faithful! ⁄…"
 meVE.Aposticha1.text = "Come, all you faithful! ⁄ Let us join the sacred celebration of this radiant feast! ⁄ Come to the spiritual banquet to which Spiridon invites us: ⁄ A divine table, refreshing miracles and immortal works! ⁄ Let us imitate his gentleness and simplicity, ⁄ his openness and goodness, ⁄ the wisdom which he shared with all, ⁄ and the many virtues which caused him to shine as the sun ⁄⁄ in the midst of his fellow bishops!"
@@ -338,11 +339,13 @@ meMA.Ode9C1T.incipit = "The great mystery of your…"
 meMA.Ode9C1T.text = "The great mystery of your childbearing beyond understanding ⁄ astounded the angels, divinely joyous one, ⁄ delighting the assembly of the venerable ones ⁄ and bringing gladness to the holy fathers ⁄ who sing praises to you in a godly manner, as the hope of our souls!"
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.FosAnalloioton.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.FosAnalloioton.notmetered
 meMA.Exaposteilarion1.incipit = "You enlighten the world! ⁄…"
 meMA.Exaposteilarion1.text = "You enlighten the world! ⁄ You followed the calling of both Moses and David, ⁄ As the Spirit led you up from an unreasoning flock of sheep ⁄⁄ To care for His people, His rational flock."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
@@ -353,6 +356,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meMA.Lauds1.incipit = "Enlightened with the radiance of…"
 meMA.Lauds1.text = "Enlightened with the radiance of the Spirit, ⁄ you dispelled the darkness of the foolish talk of Arius. ⁄ Therefore, in simplicity, wise bishop, ⁄ you faithfully taught the holy Trinity. ⁄ You strengthened the council, ⁄⁄ and were glorified by the wise and learned!"

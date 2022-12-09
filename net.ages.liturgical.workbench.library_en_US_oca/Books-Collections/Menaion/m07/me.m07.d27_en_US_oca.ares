@@ -88,6 +88,7 @@ meVE.LityBoth.incipit = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode1
+meVE.Aposticha1.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -109,7 +110,8 @@ meVE.AposGlory.incipit = "You came to love the…"
 meVE.AposGlory.text = "You came to love the piety of your mother, ⁄ and reject the godlessness of your father. ⁄ You became a warrior; a true physician of souls! ⁄ You instructed yourself in the healing arts. ⁄ You were well skilled in matters of both soul and body: ⁄ a true physician and destroyer of sufferings. ⁄ As you acquired steadfastness in suffering and perseverance in prayer, ⁄⁄ Panteleimon, martyr of Christ, pray fervently that our souls may be saved!"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode8
-meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.greekmelody = he.a.m8_en_US_oca.heAU.OTouParadoxou.greekname
+meVE.AposTheotokion.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.name
 meVE.AposTheotokion.incipit = oc.m8.d2_en_US_oca.ocVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = oc.m8.d2_en_US_oca.ocVE.AposTheotokion.text
 
@@ -611,11 +613,13 @@ meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Lauds1.greekmelody = he.a.m8_en_US_oca.heAU.OTouParadoxou.greekname
 meMA.Lauds1.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.notmetered
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""

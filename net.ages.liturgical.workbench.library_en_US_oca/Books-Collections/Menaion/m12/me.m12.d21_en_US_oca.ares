@@ -57,6 +57,7 @@ meVE.SticGlory.incipit = "Triumph, Zion…"
 meVE.SticGlory.text = "Triumph, Zion! ⁄ Make glad, Jerusalem, city of Christ our God! ⁄ Receive the Creator contained within a cave and a manger. ⁄ Open the gates to me; ⁄ I will enter to see a Child wrapped in swaddling clothes ⁄ Who upholds the creation in the palm of His hand, ⁄ Whose praises the angels sing with unceasing voice: ⁄⁄ The Lord and Giver of life who saves the human race."
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = "The prophecy ⁄ of all the prophets is fulfilled: ⁄ Christ is being born ⁄ in the city of Bethlehem ⁄⁄ from a pure handmaiden of God."
@@ -600,16 +601,19 @@ meMA.Ode9H.incipit = he.h.m4_en_US_oca.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_oca.heHE.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.TonNymfonaSouVlepo.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.TonNymfonaSouVlepo.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_oca.heAU.TonNymfonaSouVlepo.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.TonNymfonaSouVlepo.notmetered
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds1.incipit = "Hail the Creator…"
 meMA.Lauds1.text = "Hail the Creator, the Wisdom of God, Who draws near! ⁄ The mist of the prophetic promise is dispersed. ⁄ Joy clears the skies; ⁄ truth shines; the dark shadows are restrained; ⁄ the gate of Eden is opened; ⁄ Adam dances in exultation; ⁄⁄ our Creator and God wills to fashion us anew."
@@ -625,6 +629,7 @@ meMA.Lauds3.incipit = "Jesus, desiring to cleanse…"
 meMA.Lauds3.text = "Jesus, desiring to cleanse the scarlet of my sins ⁄ and to restore my royal image, ⁄ You took my flesh and were fed at Your mother's breast; ⁄ You were wrapped in swaddling clothes, ⁄ Who by a nod of your head, control the revolution of the earth! ⁄ I glorify You, O Word, doer of mighty wonders, ⁄ the angel of great counsel of the Father, ⁄⁄ through Whom I have been made divine."
 
 meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds4.incipit = "King of all…"
 meMA.Lauds4.text = "King of all, without leaving the bosom of the Father, ⁄ You have adorned the mortal human race! ⁄ You are carried in the arms of the Virgin ⁄ by a star you summon the Magi from Persia: ⁄ They come to worship You, gaining Your friendship ⁄ You shall crush the wicked rulers of faithless nations, ⁄⁄ but the sheep of Your pasture You feed with the bread of life."
@@ -640,6 +645,7 @@ meMA.LaudsBoth.incipit = "Marvel that the oracles…"
 meMA.LaudsBoth.text = "Marvel that the oracles of the seer Balaam are fulfilled, ⁄ for the Persians marvel at an unfamiliar star ⁄ shining down upon Christ, the never-setting light, ⁄ our compassionate God, Who takes flesh in Bethlehem. ⁄ Beholding its radiance, they run to worship Him, ⁄⁄ foreseeing His voluntary death by their precious gifts."
 
 meMA.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha1.incipit = "The star shines brightly…"
 meMA.Aposticha1.text = "The star shines brightly; ⁄ the cavern is radiant. ⁄ The Magi advance with gifts. ⁄ With the shepherds and the angels, ⁄⁄ they prepare the way of the Lord."

@@ -48,11 +48,13 @@ meVE.SticGlory.incipit = "Clothed in the vestments of…"
 meVE.SticGlory.text = "Clothed in the vestments of a bishop, venerable Father, ⁄ you imitated your namesake, Paul. ⁄ You endured persecution and tribulations; ⁄ by constant toil you overthrew the blasphemous teachings of Arius! ⁄ You suffered for the unoriginate and consubstantial Trinity; ⁄ you cast down the impious Macedonius who fought against the Spirit! ⁄ You gave a clear explanation of the Orthodox Faith to all, ⁄ for you are united with the immaterial angels. ⁄⁄ Together with them, pray that our souls may be saved!"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+meVE.SticTheotokion.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meVE.SticTheotokion.melody = miscellanea_en_US_oca.misc.Automelon
 meVE.SticTheotokion.incipit = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.incipit
 meVE.SticTheotokion.text = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+meVE.SticStavrotheotokion.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
@@ -64,11 +66,13 @@ meVE.AposGlory.incipit = "Venerable one, ⁄ you sailed…"
 meVE.AposGlory.text = "Venerable one, ⁄ you sailed the deep of fasting with the sail of abstinence. ⁄ you escaped the storm of the passions. ⁄ Therefore, as the namesake of the divine Paul, ⁄ you endured persecution and tribulations. ⁄ You were maltreated amidst the blasphemies of the heretics. ⁄ You cast down the opinions of Arius ⁄ and vanquished the heresy of Nestorius. ⁄ Therefore you were revealed as a zealot of the Church of Christ! ⁄⁄ Entreat Him, blessed hierarch, that our souls may be saved!"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.AposTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.AposTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.AposStavrotheotokion.incipit = "…"
 meVE.AposStavrotheotokion.text = ""
@@ -328,6 +332,7 @@ meMA.Ode9H.incipit = he.h.m4_en_US_oca.heHE.ApasGigenis.incipit
 meMA.Ode9H.text = he.h.m4_en_US_oca.heHE.ApasGigenis.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
@@ -346,11 +351,13 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode7
+meMA.AposTheotokion.greekmelody = he.a.m7_en_US_oca.heAU.OukEtiKolyometha.greekname
 meMA.AposTheotokion.melody = he.a.m7_en_US_oca.heAU.OukEtiKolyometha.notmetered
 meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode7
+meMA.AposStavrotheotokion.greekmelody = he.a.m7_en_US_oca.heAU.OukEtiKolyometha.greekname
 meMA.AposStavrotheotokion.melody = he.a.m7_en_US_oca.heAU.OukEtiKolyometha.notmetered
 meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""

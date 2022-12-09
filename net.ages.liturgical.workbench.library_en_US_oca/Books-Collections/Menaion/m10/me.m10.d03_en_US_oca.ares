@@ -42,11 +42,13 @@ meVE.SticGlory.incipit = "Come, let us the faithful…"
 meVE.SticGlory.text = "Come, let us the faithful ⁄ praise the annual celebration of the hierarch Dionysius, with Cyprian! ⁄ When Dionysius had rejected the stoic philosophers, ⁄ he became an initiate of the gnostic hidden mysteries. ⁄ [And Cyprian] enlightened by the holy virgin Justina, ⁄ fled the treachery of demons! ⁄ After destroying books of sorcery, ⁄ he became a herald of the Gospel! ⁄ Therefore, as we sinners celebrate their glory, ⁄ we give glory to the Savior: ⁄ Christ God, You crowned your victors with glory: ⁄⁄ Through their supplications, save our souls!"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.SticTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.SticStavrotheotokion.incipit = oc.m4.d6_en_US_oca.ocMA.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m4.d6_en_US_oca.ocMA.AposTheotokion.text
@@ -57,11 +59,13 @@ meVE.AposGlory.incipit = "We call you the unseen…"
 meVE.AposGlory.text = "We call you the unseen depth of heavenly knowledge, ⁄ most splendid martyr of Christ! ⁄ We hymn you as a warrior and steadfast champion of the Church, wise one, ⁄ for you shone with most pure fire! ⁄ You were counted worthy to wear the garment of light with the armies on high, ⁄ having enlightened your mind with the radiance of the Holy Spirit, Dionysius! ⁄ Therefore with faith we celebrate your universal memorial, ⁄⁄ glorifying the Lord Who glorified you!"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode4
+meVE.AposTheotokion.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 meVE.AposTheotokion.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode4
+meVE.AposStavrotheotokion.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 meVE.AposStavrotheotokion.incipit = "…"
 meVE.AposStavrotheotokion.text = ""
@@ -324,6 +328,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_oca.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_oca.heHE.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
@@ -342,11 +347,13 @@ meMA.AposGlory.incipit = "Excelling among hierarchs and martyrs…"
 meMA.AposGlory.text = "Excelling among hierarchs and martyrs, venerable one, ⁄ you were revealed to be a faithful pastor, ⁄ having drunk of the cup of Christ! ⁄ Therefore, having pleased Him in both those ways, ⁄⁄ since you now dwell in light with the ministers of heaven, intercede for us!"
 
 meMA.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.AposTheotokion.greekmelody = he.a.m8_en_US_oca.heAU.OTouParadoxou.greekname
 meMA.AposTheotokion.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.notmetered
 meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.AposStavrotheotokion.greekmelody = he.a.m8_en_US_oca.heAU.KyrieEiKaiKritirio.greekname
 meMA.AposStavrotheotokion.melody = he.a.m8_en_US_oca.heAU.KyrieEiKaiKritirio.notmetered
 meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""

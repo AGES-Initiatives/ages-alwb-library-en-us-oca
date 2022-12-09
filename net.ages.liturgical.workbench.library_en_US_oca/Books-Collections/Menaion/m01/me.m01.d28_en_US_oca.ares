@@ -47,6 +47,7 @@ meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered
 meVE.SticStavrotheotokion.incipit = oc.m6.d4_en_US_oca.ocVE.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m6.d4_en_US_oca.ocVE.AposTheotokion.text
@@ -58,11 +59,13 @@ meVE.AposGlory.incipit = "You watered your bed…"
 meVE.AposGlory.text = "You watered your bed with tears, as the prophet said, ⁄ and sought repentance through the lessons of life. ⁄ You showed us through your words the fear of judgment by deeds! ⁄ As we gather together in honor of your memory, all-blessed one, ⁄ we celebrate the most glorious deeds you did alone in the Lord, ⁄ ever-memorable Ephraim! ⁄⁄ Therefore we pray that you will intercede with Christ for our souls!"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode4
+meVE.AposTheotokion.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 meVE.AposTheotokion.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode4
+meVE.AposStavrotheotokion.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 meVE.AposStavrotheotokion.incipit = me.m01.d16_en_US_oca.meMA.LaudsStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m01.d16_en_US_oca.meMA.LaudsStavrotheotokion.text
@@ -312,6 +315,7 @@ meMA.Ode9H.incipit = he.h.m6_en_US_oca.heHE.TheonAnthropois.incipit
 meMA.Ode9H.text = he.h.m6_en_US_oca.heHE.TheonAnthropois.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
@@ -328,11 +332,13 @@ meMA.AposGlory.incipit = "As David wrote…"
 meMA.AposGlory.text = "As David wrote, you flourished like the palm tree, ⁄ venerable Father Ephraim. ⁄ As with a sword, you cut off the tongues of those who blasphemed. ⁄ With abstinence, you dried up the depths of the passions. ⁄ You took up the cross as a weapon ⁄ and were shown to be the instrument of the Holy Spirit. ⁄ Ever pray to Christ on our behalf ⁄⁄ as we celebrate your honored memory with faith."
 
 meMA.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.AposTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meMA.AposTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meMA.AposTheotokion.incipit = oc.m2.d1_en_US_oca.ocSV.Aposticha1.incipit
 meMA.AposTheotokion.text = oc.m2.d1_en_US_oca.ocSV.Aposticha1.text
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.AposStavrotheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meMA.AposStavrotheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meMA.AposStavrotheotokion.incipit = me.m01.d22_en_US_oca.meVE.AposStavrotheotokion.incipit
 meMA.AposStavrotheotokion.text = me.m01.d22_en_US_oca.meVE.AposStavrotheotokion.text

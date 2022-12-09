@@ -42,11 +42,13 @@ meVE.SticGlory.incipit = "Come, lovers of the martyrs!…"
 meVE.SticGlory.text = "Come, lovers of the martyrs! ⁄ Let us clap our hands today and form a choir! ⁄ Let us sing songs to commemorate the most pious contenders ⁄ Zenobius and Zenobia! ⁄ They became champions of the Trinity, ⁄ and in the arena they courageously drowned the invisible enemy with their holy blood. ⁄ They have gloriously gained the crown of victory! ⁄ Therefore let us cry out to them: ⁄ Couple, holy before the Lord, both blessed and illumined, ⁄⁄ intercede with the Savior for the salvation of our souls!"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered
 meVE.SticStavrotheotokion.incipit = me.m01.d16_en_US_oca.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m01.d16_en_US_oca.meVE.SticStavrotheotokion.text
@@ -306,6 +308,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_oca.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_oca.heHE.EfrixePasaAkoi.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""

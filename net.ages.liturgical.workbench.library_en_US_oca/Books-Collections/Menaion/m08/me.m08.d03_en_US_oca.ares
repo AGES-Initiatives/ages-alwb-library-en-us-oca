@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "You appeared plainly as stars…"
 meVE.Stichera03.text = "You appeared plainly as stars in the firmament of ascetic endeavor, ⁄ illumining the souls of monastics, venerable fathers, ⁄ driving away the darkness of demons. ⁄ Therefore, even after your death you are called blessed, ⁄⁄ praying that all who celebrate your godly memory may be saved."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode8
+meVE.SticTheotokion.greekmelody = he.a.m8_en_US_oca.heAU.OiMartyresSouKyrie.greekname
 meVE.SticTheotokion.melody = he.a.m8_en_US_oca.heAU.OiMartyresSouKyrie.notmetered
 meVE.SticTheotokion.incipit = me.m02.d19_en_US_oca.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m02.d19_en_US_oca.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode8
+meVE.SticStavrotheotokion.greekmelody = he.a.m8_en_US_oca.heAU.OiMartyresSouKyrie.greekname
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_oca.heAU.OiMartyresSouKyrie.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //me.m07.d15_en_US_oca.meVE.AposStavrotheotokion.text
@@ -308,6 +310,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_oca.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_oca.heHE.EfrixePasaAkoi.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""

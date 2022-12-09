@@ -58,6 +58,7 @@ meVE.SticGlory.incipit = me.m01.d02_en_US_oca.meVE.Aposticha3.incipit
 meVE.SticGlory.text = me.m01.d02_en_US_oca.meVE.Aposticha3.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meVE.Aposticha1.incipit = "Candlestick of the Light…"
 meVE.Aposticha1.text = "Candlestick of the Light, ⁄ ray of the Sun, ⁄ Forerunner of the Word, ⁄ friend of the Bridegroom, ⁄⁄ fulfill your ministry, O Prophet!"
@@ -923,16 +924,19 @@ meMA.Ode9H.incipit = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.incipit
 meMA.Ode9H.text = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion2.incipit = "The Son Who is begotten…"
 meMA.Exaposteilarion2.text = "The Son Who is begotten from the Father before time, ⁄ wonderfully assumes our flesh from a woman. ⁄⁄ He comes to be baptized, for the rebirth of the world!"
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds1.incipit = "A voice rushes forward…"
 meMA.Lauds1.text = "A voice rushes forward to cry: ⁄ Christ has come to the streams of Jordan! ⁄ He says to the Forerunner: Wash Me in these waters! ⁄ Agree to baptize Me now! ⁄ I have come to wash away Adam's ancient fall! ⁄⁄ Blessed is our God made manifest! Glory to You!"
@@ -948,6 +952,7 @@ meMA.Lauds3.incipit = "I am upborne by armies…"
 meMA.Lauds3.text = "I am upborne by armies of angels; ⁄ I reign with the Father and the Spirit. ⁄ I was born an exile through love, ⁄ in a small cave of Bethlehem. ⁄ Lend your right hand to Me now! ⁄⁄ I wash away in My Own Person the sins of the world."
 
 meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds4.incipit = "Sins were washed away…"
 meMA.Lauds4.text = "Sins were washed away in Noah's day, ⁄ when Your word opened the floodgates of heaven. ⁄ If Jordan recognizes You, how could he bear You? ⁄ His streams turned back when they received less than You! ⁄ Let all creation proclaim as I cry to You: ⁄⁄ Blessed is our God made manifest! Glory to You!"
@@ -963,6 +968,7 @@ meMA.LaudsBoth.incipit = "You guided ancient Israel…"
 meMA.LaudsBoth.text = "You guided ancient Israel with the pillar of fire and cloud; ⁄ ou quenched their thirst in the desert! ⁄ You are the Master of all; Your nature cannot be described! ⁄ How can You take a servant's form? ⁄ How can grass touch Your fire? ⁄⁄ I myself need to be cleansed by You!"
 
 meMA.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha1.incipit = me.m01.d03_en_US_oca.meMA.AposGlory.incipit
 meMA.Aposticha1.text = me.m01.d03_en_US_oca.meMA.AposGlory.text

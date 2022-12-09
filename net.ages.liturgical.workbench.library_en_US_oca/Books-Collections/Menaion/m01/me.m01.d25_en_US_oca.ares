@@ -153,6 +153,7 @@ meVE.LityBoth.incipit = oc.m1.d3_en_US_oca.ocVE.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m1.d3_en_US_oca.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "Opening your mouth, directed by…"
 meVE.Aposticha1.text = "Opening your mouth, directed by the word of God, ⁄ you have partaken of the Spirit of wisdom: ⁄ Full of grace, you proclaimed divine doctrine, thrice-blessed Gregory. ⁄ You have imitated the ceaseless worship of the angelic host, ⁄ preaching on earth the triune and undivided Light. ⁄ Illumined by your divine teaching we confess the one Godhead in Trinity: ⁄⁄ Pray for the salvation of our souls."
@@ -173,6 +174,7 @@ meVE.AposGlory.incipit = "You have cultivated the hearts…"
 meVE.AposGlory.text = "You have cultivated the hearts of believers by your words, Gregory: ⁄ you have yielded abundant fruit for God: ⁄ An ever-green pasture of righteousness. ⁄ You have torn out by the roots the thorns of heresy, ⁄ cleansing the world by your divine reasoning. ⁄ We faithful in joy offer praise to you: ⁄ Inspired lyre and ever-vigilant mind, ⁄ faithful shepherd of the flock of Christ, ⁄ never cease to pray to the Word, Theologian, ⁄⁄ that He will deliver from the wolf all those who honor your memory."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode8
+meVE.AposTheotokion.greekmelody = he.a.m8_en_US_oca.heAU.TiYmasKalesomen.greekname
 meVE.AposTheotokion.melody = he.a.m8_en_US_oca.heAU.TiYmasKalesomen.notmetered
 meVE.AposTheotokion.incipit = "Lady, you are the protection…"
 meVE.AposTheotokion.text = "Lady, you are the protection of all: ⁄ calm my confusion and distress. ⁄ Deliver me from the darkness of sin. ⁄ Save me from the tempest of life and the raging of the sea. ⁄ Send down upon me the gentle rain of your mercy. ⁄ Stretch forth your hand to help me. ⁄ Make me worthy of the inheritance of the righteous elect. ⁄⁄ Bestow upon me the depth of your mercy, pure one."
@@ -666,11 +668,13 @@ meMA.Ode9C2T.incipit = "Beyond nature, you became a…"
 meMA.Ode9C2T.text = "Beyond nature, you became a dwelling of divine infinity, ⁄ for you lent flesh to God. ⁄ When He was born of you without seed, ⁄ He did not corrupt your virginal womb. ⁄ Pure one, we magnify you!"
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "All-wise Theologian, ⁄ you taught…"
 meMA.Exaposteilarion1.text = "All-wise Theologian, ⁄ you taught that the three Person Unity; ⁄ the perfect Trinity, one in divinity, ⁄ should be worshipped, calling the Father light, ⁄ the Son, also light and the Holy Spirit light! ⁄ But one light, inseparable and unconfused, ⁄ for God is one. ⁄ You proclaimed the one essence, blessed Gregory."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.incipit = "With your sublime teachings, all-wise…"
 meMA.Exaposteilarion2.text = "With your sublime teachings, all-wise one, ⁄ you triumphantly theologized the ineffable depth of the mysteries of Christ. ⁄ You preached orations on the martyrdoms and lives of the saints, ⁄ blessed Gregory. ⁄ Now that you are a God by participation, ⁄ as you proceed towards the divine, theologian, ⁄⁄ save and receive me also, in the places where you dwell!"
@@ -681,6 +685,7 @@ meMA.ExapTheotokion.incipit = "Great one, as you stand…"
 meMA.ExapTheotokion.text = "Great one, as you stand with the Theotokos and Virgin Mary, ⁄ together with Basil the great, before the unapproachable Trinity, ⁄ intercede now, all-wise one, for those who praise you, ⁄ hierarch Gregory, theologian and orator of the Church, ⁄ asking peace for the world, ⁄⁄ strength for our leaders, and salvation for our souls!"
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.notmetered
 meMA.Lauds1.incipit = "Cutting through the murkiness of…"
 meMA.Lauds1.text = "Cutting through the murkiness of the letter, ⁄ you entered with the spirit into the most sublime light! ⁄ By the flood of light you received from there, ⁄ you enriched all with theology, ⁄ all-wise Gregory, enlightener of the Church. ⁄ You diminished the dark clouds of heresies ⁄ with the lightning flashes of your words! ⁄ Therefore, companion of the angels, ⁄ you dwell where there is the sound of those who celebrate, ⁄⁄ ever interceding that our souls may be saved."
@@ -696,6 +701,7 @@ meMA.Lauds3.incipit = "Cultivating the furrows of the…"
 meMA.Lauds3.text = "Cultivating the furrows of the heart ⁄ and planting divine seed, preacher of God, ⁄ you enriched all the fullness of the Church ⁄ with the height of theology. ⁄ Then you burned the weeds of heresies with the fire of the Spirit! ⁄ Father of fathers, and pastor of pastors, ⁄ glory of the faithful, enlightener of priests, ⁄ you are the glory of the world, all-blessed Gregory, ⁄⁄ nourished by the desiring love of divine philosophy!"
 
 meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Lauds4.greekmelody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds4.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.notmetered
 meMA.Lauds4.incipit = "Approaching the large vessel of…"
 meMA.Lauds4.text = "Approaching the large vessel of wisdom, ⁄ you drew out the divine spring of theology. ⁄ You abundantly imparted it to the faithful! ⁄ You blocked the current filled with soul destroying blasphemy. ⁄ For the Holy Spirit found you as a ruling governor, ⁄ frightening and driving away as blasts of wind the assaults of the impious, ⁄⁄ proclaiming the Trinity to be one in essence."

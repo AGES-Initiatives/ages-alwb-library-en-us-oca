@@ -66,6 +66,7 @@ meVE.SticBoth.incipit = "Today Simeon receives…"
 meVE.SticBoth.text = "Today Simeon receives in his arms ⁄ the Lord of glory whom Moses saw of old on Sinai ⁄ when in the cloud and darkness he was given the tables of the law. ⁄ This is He Who has spoken through the prophets! ⁄ He is the Creator of the law! ⁄ This is He Whom David foretold: ⁄⁄ He is fearful to all, yet shows us great mercy!"
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode6
+meVE.Aposticha1.greekmelody = ""
 meVE.Aposticha1.melody = ""
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -578,11 +579,13 @@ meMA.Ode9H.incipit = he.h.m8_en_US_oca.heHE.SeTinApeirogamon.incipit
 meMA.Ode9H.text = he.h.m8_en_US_oca.heHE.SeTinApeirogamon.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
@@ -591,6 +594,7 @@ meMA.MM.Apos1123as5678.text = properties_en_US_oca.media.key
 meMA.MM.Apos123as678.text = properties_en_US_oca.media.key
 
 meMA.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha1.incipit = "Christ is born of the…"
 meMA.Aposticha1.text = "Christ is born of the Virgin: ⁄ the Son begotten of the Father ⁄ without corruption ⁄ before the morning star, ⁄⁄ to deliver Adam!"

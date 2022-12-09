@@ -49,6 +49,7 @@ meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //ho.s23_en_US_oca.hoCA.Troparion31.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.SticStavrotheotokion.incipit = me.m06.d01_en_US_oca.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m06.d01_en_US_oca.meVE.SticStavrotheotokion.text
@@ -60,11 +61,13 @@ meVE.AposGlory.incipit = "You indeed showed the twofold…"
 meVE.AposGlory.text = "You indeed showed the twofold might of your Christian name: ⁄ You betrothed yourself to Christ in the purity of your virginity, ⁄ with the blessing of the Father and the action of the Spirit, ⁄ and you shone forth more brightly than the rays of the sun ⁄ in your steadfast endurance of torture! ⁄ You offered yourself as a pure and unblemished sacrifice ⁄ on the altar of heaven! ⁄ Therefore you rejoice forever with the choirs of virgins and martyrs. ⁄ Together with them, Christina, namesake of Christ, ⁄⁄ pray that peace and great mercy be given to those who honor you!"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.AposTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.AposTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.AposStavrotheotokion.incipit = oc.m2.d4_en_US_oca.ocVE.SticTheotokion.incipit
 meVE.AposStavrotheotokion.text = oc.m2.d4_en_US_oca.ocVE.SticTheotokion.text
@@ -324,6 +327,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_oca.heHE.KyriosTheotokon.incipit
 meMA.Ode9H.text = he.h.m8_en_US_oca.heHE.KyriosTheotokon.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
@@ -365,6 +369,7 @@ meMA.LaudsTheotokion.incipit = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode5
+meMA.LaudsStavrotheotokion.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
 meMA.LaudsStavrotheotokion.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.notmetered
 meMA.LaudsStavrotheotokion.incipit = "…"
 meMA.LaudsStavrotheotokion.text = ""
@@ -381,6 +386,7 @@ meMA.AposTheotokion.incipit = oc.m1.d3_en_US_oca.ocVE.AposTheotokion.incipit
 meMA.AposTheotokion.text = oc.m1.d3_en_US_oca.ocVE.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.AposStavrotheotokion.greekmelody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.greekname
 meMA.AposStavrotheotokion.melody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.notmetered
 meMA.AposStavrotheotokion.incipit = oc.m1.d4_en_US_oca.ocVE.AposTheotokion.incipit
 meMA.AposStavrotheotokion.text = oc.m1.d4_en_US_oca.ocVE.AposTheotokion.text

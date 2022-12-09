@@ -65,6 +65,7 @@ meVE.SticBoth.incipit = me.m01.d06_en_US_oca.meVE.Aposticha3.incipit
 meVE.SticBoth.text = me.m01.d06_en_US_oca.meVE.Aposticha3.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode6
+meVE.Aposticha1.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered
 meVE.Aposticha1.incipit = "You drew near to the…"
 meVE.Aposticha1.text = "You drew near to the waters; ⁄ no one can touch You; yet You bowed Your head to the Forerunner! ⁄ You sanctified the world ⁄ releasing it from slavery to the enemy ⁄⁄ by Your baptism, sinless One."
@@ -354,16 +355,19 @@ meMA.Ode9H.incipit = he.h.m8_en_US_oca.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_oca.heHE.EfrixePasaAkoi.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion2.incipit = "You came in the form…"
 meMA.Exaposteilarion2.text = "You came in the form of a Servant, O Word; ⁄ You are the timeless one, yet You demand baptism as a mortal Man. ⁄ Heaven and earth, the ranks of angels and the nature of waters were amazed, ⁄⁄ while in fear and trembling, the Forerunner joyfully fulfilled his work."
 
 meMA.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Aposticha1.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Aposticha1.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Aposticha1.incipit = "Prophet Isaiah, explain your words!…"
 meMA.Aposticha1.text = "Prophet Isaiah, explain your words! ⁄ Who is this crying out in the desert: ⁄ Draw the waters of cleansing with joy! ⁄ He is none other than John the Baptist! ⁄ His cry pierces the desert: The Messiah comes! ⁄⁄ Blessed is our God made manifest! Glory to You!"

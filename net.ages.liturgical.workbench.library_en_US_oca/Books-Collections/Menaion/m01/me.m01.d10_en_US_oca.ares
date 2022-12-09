@@ -65,6 +65,7 @@ meVE.SticBoth.incipit = me.m01.d06_en_US_oca.meVE.Lity5.incipit
 meVE.SticBoth.text = me.m01.d06_en_US_oca.meVE.Lity5.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meVE.Aposticha1.incipit = "Let all creation…"
 meVE.Aposticha1.text = "Let all creation, ⁄ now set free from bondage, ⁄ sing a new song to Christ ⁄ Who shone from the Virgin, ⁄⁄ and was baptized in the Jordan today!"
@@ -539,11 +540,13 @@ meMA.Ode9H.incipit = he.h.m1_en_US_oca.heHE.TyponTisAgnis.incipit
 meMA.Ode9H.text = he.h.m1_en_US_oca.heHE.TyponTisAgnis.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.EpeskepsatoImas.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.EpeskepsatoImas.notmetered
 meMA.Exaposteilarion1.incipit = "Let us praise in songs…"
 meMA.Exaposteilarion1.text = "Let us praise in songs and hymns ⁄ the good shepherd Gregory, ⁄ bishop of Nyssa, ⁄ for by both blood and Spirit, ⁄ he is the brother of Basil."
 
 meMA.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha1.incipit = "Now the Savior grants ⁄…"
 meMA.Aposticha1.text = "Now the Savior grants ⁄ mortals a strange cleansing, ⁄ for without fire He casts anew; ⁄ without shattering He refashions ⁄⁄ souls that were divided from Him."

@@ -42,11 +42,13 @@ meVE.SticGlory.incipit = "Thrice-blessed Theodore, ⁄ I honor…"
 meVE.SticGlory.text = "Thrice-blessed Theodore, ⁄ I honor you as the namesake of the gifts of God! ⁄ Appearing as an unfading beacon of divine light, ⁄ you enlightened all creation with your sufferings! ⁄ You were shown to be stronger than the fire: ⁄ You extinguished the flame and crushed the head of the lying serpent! ⁄ Therefore Christ touched you in the midst of your sufferings, ⁄ crowning your divine head. ⁄ Great martyr and sufferer, ⁄ since you have boldness before God, ⁄ fervently pray for our souls!"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.SticTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //me.m02.d09_en_US_oca.meVE.SticStavrotheotokion.text
@@ -58,11 +60,13 @@ meVE.AposGlory.incipit = "You extend the divinely-granted grace…"
 meVE.AposGlory.text = "You extend the divinely-granted grace of your miracles ⁄ to all who run to you in faith, martyr Theodore. ⁄ Therefore we praise you in song: ⁄ You release the captives, ⁄ heal the sick, reward the poor, ⁄ and save those who are drowning. ⁄ You intercede for all who honor your sacred memory. ⁄ Entreat Christ to grant great mercy even to us ⁄⁄ who praise your suffering, holy Martyr!"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.AposTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.AposTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.AposStavrotheotokion.incipit = me.m02.d13_en_US_oca.meVE.SticStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m02.d13_en_US_oca.meVE.SticStavrotheotokion.text
@@ -342,6 +346,7 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
@@ -352,6 +357,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -372,11 +378,13 @@ meMA.LaudsGlory.incipit = "Theodore, you have revealed to…"
 meMA.LaudsGlory.text = "Theodore, you have revealed to the world ⁄ the gift of sanctification and the richness of divine life! ⁄ For Christ has glorified your memory, wise one. ⁄ Therefore, we the faithful rejoice together, ⁄⁄ singing hymns to the struggle of your sufferings!"
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.LaudsTheotokion.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 meMA.LaudsTheotokion.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 meMA.LaudsTheotokion.incipit = "…"
 meMA.LaudsTheotokion.text = ""
 
 meMA.LaudsStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.LaudsStavrotheotokion.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 meMA.LaudsStavrotheotokion.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 meMA.LaudsStavrotheotokion.incipit = "…"
 meMA.LaudsStavrotheotokion.text = ""
@@ -390,11 +398,13 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.AposTheotokion.greekmelody = he.a.m8_en_US_oca.heAU.OTouParadoxou.greekname
 meMA.AposTheotokion.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.notmetered
 meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.AposStavrotheotokion.greekmelody = he.a.m8_en_US_oca.heAU.OTouParadoxou.greekname
 meMA.AposStavrotheotokion.melody = miscellanea_en_US_oca.misc.Automelon
 meMA.AposStavrotheotokion.incipit = he.a.m8_en_US_oca.heAU.OTouParadoxou.incipit
 meMA.AposStavrotheotokion.text = he.a.m8_en_US_oca.heAU.OTouParadoxou.text

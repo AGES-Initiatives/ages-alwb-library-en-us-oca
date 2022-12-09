@@ -58,11 +58,13 @@ meVE.SticGlory.incipit = "You were led through the…"
 meVE.SticGlory.text = "You were led through the cities and countryside for twenty-eight years. ⁄ You were called by God, beaten, torn and crucified for Christ, ⁄ yet neither the fire, nor the sword nor wounds ⁄ broke the firmness of your soul. ⁄ You destroyed the power of the demons, hieromartyr Clement! ⁄⁄ Therefore, pray to Christ that our souls may be saved!"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode8
+meVE.SticTheotokion.greekmelody = he.a.m8_en_US_oca.heAU.OiMartyresSouKyrie.greekname
 meVE.SticTheotokion.melody = he.a.m8_en_US_oca.heAU.OiMartyresSouKyrie.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //me.m01.d21_en_US_oca.meVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode8
+meVE.SticStavrotheotokion.greekmelody = he.a.m8_en_US_oca.heAU.OiMartyresSouKyrie.greekname
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_oca.heAU.OiMartyresSouKyrie.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
@@ -74,11 +76,13 @@ meVE.AposGlory.incipit = "Among priests, the martyr Clement…"
 meVE.AposGlory.text = "Among priests, the martyr Clement was glorious! ⁄ Through long testing through torture, ⁄ he was granted ever to receive sweetness and divine riches ⁄ among the blessed. ⁄ He anointed many for the contest by his own example, ⁄ and subdued the flesh that his mind might be above death. ⁄ Faithful, let us cry out to him: ⁄ Glorious martyr, by your prayers to the Lord, ⁄ release us from our chronic passions ⁄⁄ and by your prayers, deliver us from evils!"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+meVE.AposTheotokion.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meVE.AposTheotokion.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+meVE.AposStavrotheotokion.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meVE.AposStavrotheotokion.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meVE.AposStavrotheotokion.incipit = "…"
 meVE.AposStavrotheotokion.text = ""
@@ -513,6 +517,7 @@ meMA.Ode9H.incipit = he.h.m4_en_US_oca.heHE.EpoiiseKratos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_oca.heHE.EpoiiseKratos.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""

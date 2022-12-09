@@ -58,6 +58,7 @@ meVE.SticGlory.incipit = me.m12.d25_en_US_oca.meVE.AposGlory.incipit
 meVE.SticGlory.text = me.m12.d25_en_US_oca.meVE.AposGlory.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -331,16 +332,19 @@ meMA.Ode9H.incipit = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.incipit
 meMA.Ode9H.text = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = //me.m09.d06_en_US_oca.meMA.ExapTheotokion.text
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -361,6 +365,7 @@ meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = //me.m12.d27_en_US_oca.meMA.LaudsBoth.text
 
 meMA.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Aposticha1.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Aposticha1.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Aposticha1.incipit = "All creation, celebrate the feast…"
 meMA.Aposticha1.text = "All creation, celebrate the feast with joy! ⁄ Rejoice with us, you heavens! ⁄ The Creator is born from the Virgin in the cave; ⁄ a young Child comes in the fullness of time. ⁄ Let us cry out to Him: ⁄⁄ Blessed are You, our newborn God; glory to You!"

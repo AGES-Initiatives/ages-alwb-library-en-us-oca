@@ -68,6 +68,7 @@ meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //me.m01.d21_en_US_oca.meVE.SticStavrotheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 meVE.Aposticha1.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -578,17 +579,19 @@ meMA.Ode9H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
 meMA.Ode9H.text = "" // he.h.m8_en_US_oca.heHE.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
-meMA.Exaposteilarion1.melody = //he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.greekname
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion1.incipit = "Jesus, the stars adorn the…"
 meMA.Exaposteilarion1.text = "Jesus, the stars adorn the heavens,  ⁄ and Mennas, Victor and Vincent adorn the Church!⁄⁄ For their sake grant orthodox Christians victory over their adversaries!"
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
-meMA.Exaposteilarion2.melody = //he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
-meMA.Exaposteilarion2.incipit = "In your piety, Theodore, ⁄…"
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.greekname
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
+meMA.Exaposteilarion2.incipit = "In your piety, Theodore…"
 meMA.Exaposteilarion2.text = "In your piety, Theodore, ⁄ you were revealed to be a living tower of the teachings of orthodoxy! ⁄ You denounced the deception of iconoclasts; ⁄ you ended your confession with suffering,⁄⁄ and now you are glorified!"
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode3
-meMA.ExapTheotokion.melody = //he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
+meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
 meMA.ExapTheotokion.incipit = "We, the faithful, all send…"
 meMA.ExapTheotokion.text = "We, the faithful, all send you now as mediator ⁄ to Him Who was born of you, and crucified for many!⁄⁄ Virgin, do not cease, to intercede for us!"
 
@@ -604,11 +607,13 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.AposTheotokion.greekmelody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.greekname
 meMA.AposTheotokion.melody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.notmetered
 meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.AposStavrotheotokion.greekmelody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.greekname
 meMA.AposStavrotheotokion.melody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.notmetered
 meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""

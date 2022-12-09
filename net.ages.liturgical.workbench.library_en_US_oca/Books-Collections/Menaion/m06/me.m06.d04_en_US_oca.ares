@@ -63,6 +63,7 @@ meVE.SticTheotokion.incipit = oc.m2.d1_en_US_oca.ocVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = oc.m2.d1_en_US_oca.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -597,6 +598,7 @@ meMA.Ode9H.incipit = he.h.m6_en_US_oca.heHE.TheonAnthropois.incipit
 meMA.Ode9H.text = he.h.m6_en_US_oca.heHE.TheonAnthropois.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.FosAnalloioton.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.FosAnalloioton.notmetered
 meMA.Exaposteilarion1.incipit = "We know you to be…"
 meMA.Exaposteilarion1.text = "We know you to be a greatly shining star of the Church, ⁄ holy hierarch Metrophanes, ⁄ for with the council you cast down the blasphemy of Arius, ⁄ enlightening the Church with Orthodox teachings. ⁄ Therefore, we sing hymns to you with faith!"
@@ -607,6 +609,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.notmetered
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -622,6 +625,7 @@ meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Lauds4.greekmelody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds4.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.notmetered
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""

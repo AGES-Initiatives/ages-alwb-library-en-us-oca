@@ -64,6 +64,7 @@ meVE.SticBoth.incipit = me.m12.d20_en_US_oca.meVE.Aposticha1.incipit
 meVE.SticBoth.text = me.m12.d20_en_US_oca.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode6
+meVE.Aposticha1.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered
 meVE.Aposticha1.incipit = "Christ, Who is the infinite…"
 meVE.Aposticha1.text = "Christ, Who is the infinite wisdom of God, ⁄ has wondrously built a house for Himself from the Virgin; ⁄ she comes into the cave and manger of dumb beasts: ⁄ There she will give birth in the flesh to Him ⁄⁄ in a manner beyond all understanding."
@@ -895,16 +896,19 @@ meMA.Ode9H.incipit = he.h.m3_en_US_oca.heHE.SeTinAthanaton.incipit
 meMA.Ode9H.text = he.h.m3_en_US_oca.heHE.SeTinAthanaton.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds1.incipit = "The will of the Father…"
 meMA.Lauds1.text = "The will of the Father before all ages; ⁄ the mystery foretold by the prophets ⁄ is brought to light in the latter days: ⁄ God is made man, taking flesh from the Virgin. ⁄ The uncreated one is pleased to create us anew. ⁄⁄ Behold, Christ the King of Israel draws near!"
@@ -920,6 +924,7 @@ meMA.Lauds3.incipit = "Light sent forth from light…"
 meMA.Lauds3.text = "Light sent forth from light, ⁄ shining from the Virgin to those on earth, ⁄ You have enlightened the Magi with a wondrous star: ⁄ Beholding it, they cast away the dark deceptions of stargazers, ⁄ singing in joy to the newborn God, ⁄⁄ blessed is He Who comes, our God, glory to You!"
 
 meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds4.incipit = "Herod was mocked by the…"
 meMA.Lauds4.text = "Herod was mocked by the shrewdness of the Magi; ⁄ in a rage he harvested the tender shoots of blameless infants; ⁄ he raised his murderous hand against You, O Lord, ⁄ but You departed to sojourn with the men of Egypt, ⁄ dispelling the abyss of their darkness. ⁄ With them we sing: ⁄⁄ Blessed is He Who comes, our God, glory to You!"
@@ -935,6 +940,7 @@ meMA.LaudsBoth.incipit = "You have appeared on earth…"
 meMA.LaudsBoth.text = "You have appeared on earth, living with mortal men; ⁄ obeying the decree of Caesar, You were enrolled with your servants. ⁄ You came as man; You did not abandon us, ⁄ remaining the true and changeless God, although incarnate. ⁄ Glory to your dispensation! ⁄ Worship, praise dominion, and majesty, ⁄⁄ now and ever and unto ages of ages. Amen!"
 
 meMA.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Aposticha1.greekmelody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.greekname
 meMA.Aposticha1.melody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.notmetered
 meMA.Aposticha1.incipit = "Earth, behold my descent as…"
 meMA.Aposticha1.text = "Earth, behold my descent as God and rejoice! ⁄ The Magi bear their gifts to Me; ⁄ the heavens bear witness by a star; ⁄ the hosts of angels glorify in song; ⁄ the shepherds from the fields marvel; ⁄ the cave, as a fiery throne, receives Me; ⁄⁄ my Mother rejoices exceedingly to behold Me!"

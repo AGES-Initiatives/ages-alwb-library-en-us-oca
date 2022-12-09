@@ -44,11 +44,13 @@ meVE.SticGlory.incipit = "You symbolically ascended the high…"
 meVE.SticGlory.text = "You symbolically ascended the high and wonderful mountain, ⁄ as one who enters the impenetrable holy ark. ⁄ You revealed most excellent conduct ⁄ and an entrance into contemplation. ⁄ You brightened your life with iron fetters ⁄ which adorned you like golden chains around your neck! ⁄ You saw God and were seen by Him, ⁄ addressing Him as one man speaks to another! ⁄⁄ Venerable Simeon, earnestly pray to Him on behalf of our souls!"
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.SticTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.SticStavrotheotokion.incipit = oc.m2.d4_en_US_oca.ocVE.SticTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m2.d4_en_US_oca.ocVE.SticTheotokion.text
@@ -332,6 +334,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_oca.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_oca.heHE.EfrixePasaAkoi.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.FosAnalloioton.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.FosAnalloioton.notmetered
 meMA.Exaposteilarion1.incipit = "You shone forth from the…"
 meMA.Exaposteilarion1.text = "You shone forth from the desert, ⁄ enlightening the whole world! ⁄ The multitudes of monastics rejoice in your memory! ⁄⁄ God-bearing Simeon, never cease to intercede for the world!"

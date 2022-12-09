@@ -145,6 +145,7 @@ meVE.LityBoth.text = ""
 
 meVE.Aposticha1.poet = poets_en_US_oca.po.NeilouTouXanthopoulou
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "Rejoice, Trinity of bishops! ⁄…"
 meVE.Aposticha1.text = "Rejoice, Trinity of bishops! ⁄ Great bulwark of the Church, ⁄ pillars of righteousness and strength of the faithful, ⁄ downfall of the heretics! ⁄ You shepherded the flock of Christ with godly teachings ⁄ and fed them with many virtues. ⁄ You were openly preachers of grace, ⁄ setting forth laws for the fullness of Christ's Church! ⁄ Heavenly guides and gates of paradise, ⁄⁄ pray to Christ that He may grant our souls great mercy!"
@@ -909,11 +910,13 @@ meMA.Ode9C3T.incipit = "The three chiefs of the…"
 meMA.Ode9C3T.text = "The three chiefs of the wise bishops proclaimed the Son of the living God ⁄ to be your Son, Mother of God! ⁄ The did not receive knowledge of the mystery from flesh and blood ⁄ but through the revelation of the Father. ⁄ They taught that you are the Virgin Mother and Theotokos and they magnify you!"
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion1.incipit = "Let us all now praise…"
 meMA.Exaposteilarion1.text = "Let us all now praise the vessels of light, ⁄ the lighting bolts of fire: ⁄⁄ Basil the Great, Gregory the Theologian and John Chrysostom!"
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion2.incipit = "One God: Father, Son and…"
 meMA.Exaposteilarion2.text = "One God: Father, Son and Spirit, ⁄ through the prayers of Basil, Gregory and John ⁄ and of the all-pure Theotokos, ⁄⁄ let me not be cut off from Your glory!"
@@ -923,6 +926,7 @@ meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmeter
 meMA.ExapTheotokion.text = "" //ho.s23_en_US_oca.hoCA.Exaposteilarion4.text
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Lauds1.greekmelody = he.a.m2_en_US_oca.heAU.PoioisEffimionStemmasin.greekname
 meMA.Lauds1.melody = he.a.m2_en_US_oca.heAU.PoioisEffimionStemmasin.notmetered
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -938,6 +942,7 @@ meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Lauds4.greekmelody = he.a.m2_en_US_oca.heAU.PoioisEffimionStemmasin.greekname
 meMA.Lauds4.melody = he.a.m2_en_US_oca.heAU.PoioisEffimionStemmasin.notmetered
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""

@@ -59,6 +59,7 @@ meVE.SticGlory.incipit = "Let the heavens be glad…"
 meVE.SticGlory.text = "Let the heavens be glad, and let the earth rejoice! ⁄ Today the Good Shepherd of angels and men has come. ⁄ Wonder! The Invisible One is seen. ⁄ the uncontainable one is held! ⁄ He Who has no beginning begins to be; ⁄ the Son of God becomes the Son of man. ⁄ The Virgin who has not known man is seen to be Mother of God. ⁄ After childbearing she remains a Virgin. ⁄ the Word of the Father takes flesh and is laid in a manger. ⁄ Shepherds become partakers and heralds of the mystery. ⁄ Magi from the east, led by a star, ⁄ worship the newborn Savior and offer precious gifts. ⁄ Come, lovers of feasts! ⁄ Let us hasten to open the treasures of our hearts. ⁄ Let us offer Him works of goodness: faith, hope and love. ⁄ These will be our gold, myrrh and frankincense. ⁄ Let us shout with the voice of the bodiless hosts: ⁄ Glory to God in the highest, ⁄ and on earth peace, good will to men, ⁄⁄ for You are come to save our human race from sin."
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "The Magi, kings from the…"
 meVE.Aposticha1.text = "The Magi, kings from the east, ⁄ brought gifts and worshipped the true king, Creator, and God of all ⁄ Who has shone forth from a royal Virgin. ⁄ The all-pure one spoke to them fearfully: ⁄ Look upon me, worshippers of fire and sun! ⁄ How will you, who walk in darkness, grasp what is beyond understanding? ⁄ Know Him, Who has assumed our flesh and enlightens all! ⁄ He is born on earth, in a cave. ⁄ In His compassion He has come into the world, ⁄⁄ granting us great mercy!"
@@ -546,21 +547,25 @@ meMA.Ode9H.incipit = he.h.m4_en_US_oca.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9H.text = he.h.m4_en_US_oca.heHE.EvaMenToTisParakois.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
 meMA.Exaposteilarion3.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion3.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion3.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion3.incipit = "He Who is with the…"
 meMA.Exaposteilarion3.text = "He Who is with the Father, ⁄ God before all ages, ⁄ appears in Bethlehem by the power of the Holy Spirit. ⁄ He is born of a Virgin, ⁄ and laid in a cave and manger of dumb beasts. ⁄ He is bound in swaddling bands, ⁄⁄ loosing me from the chains of sin."
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds1.incipit = "What great mysteries beyond understanding!…"
 meMA.Lauds1.text = "What great mysteries beyond understanding! ⁄ How is He wrapped in swaddling clothes Who cannot be touched? ⁄ How is He laid in a manger of dumb beasts, as an Infant, ⁄ Who frees all things from lack of reason and leads us up to heaven? ⁄ Let us cry to Him: ⁄⁄ Blessed are You, our newborn God: Glory to You!"
@@ -576,6 +581,7 @@ meMA.Lauds3.incipit = "Now on earth a Child…"
 meMA.Lauds3.text = "Now on earth a Child is revealed ⁄ Who was begotten from the Father before the ages. ⁄ Let all creation rejoice; let the heavens be glad! ⁄ Behold those who long ago were seduced by evil ⁄ now become members of God's household! ⁄ They cry to Him: ⁄⁄ Blessed are You, our newborn God: Glory to You!"
 
 meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Lauds4.incipit = "Lord, You bowed the heavens…"
 meMA.Lauds4.text = "Lord, You bowed the heavens and came down, ⁄ wondrously dwelling in the Virgin's womb. ⁄ As a newborn Child You were revealed in the cave. ⁄ You associated with men, ⁄ showing the way to those gone astray ⁄ who now cry to You: ⁄⁄ Blessed are You, our newborn God: Glory to You!"
@@ -586,6 +592,7 @@ meMA.LaudsGlory.incipit = "Behold the fearful and ineffable…"
 meMA.LaudsGlory.text = "Behold the fearful and ineffable childbearing of the all-pure one! ⁄ The Virgin cried out: Lord past understanding, ⁄ You, the all-powerful, are wrapped in swaddling clothes as a babe. ⁄ With the shepherds I glorify You! ⁄ With the faithful I cry to You: ⁄⁄ Blessed are You, our newborn God: Glory to You!"
 
 meMA.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Aposticha1.greekmelody = he.a.m6_en_US_oca.heAU.AiAngelikai.greekname
 meMA.Aposticha1.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.notmetered
 meMA.Aposticha1.incipit = "He will shepherd faithless Israel…"
 meMA.Aposticha1.text = "He will shepherd faithless Israel with a rod of iron. ⁄ He will judge those who strove against the prophets, ⁄ for the Father has given the inheritance to His only-begotten Son: ⁄ All nations and the ends of the earth are His possession. ⁄ He will crush you, Herod the murderer: ⁄ You would not believe, crying out: ⁄⁄ Christ the king of Israel has come!"

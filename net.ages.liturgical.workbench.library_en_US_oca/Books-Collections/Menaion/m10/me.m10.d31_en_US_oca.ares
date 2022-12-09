@@ -52,11 +52,13 @@ meVE.Stichera06.incipit = "…"
 meVE.Stichera06.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+meVE.SticTheotokion.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meVE.SticTheotokion.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //me.m10.d12_en_US_oca.meVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+meVE.SticStavrotheotokion.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 meVE.SticStavrotheotokion.incipit = me.m10.d25_en_US_oca.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m10.d25_en_US_oca.meVE.SticStavrotheotokion.text
@@ -535,6 +537,7 @@ meMA.Ode9H.incipit = he.h.m4_en_US_oca.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9H.text = he.h.m4_en_US_oca.heHE.EvaMenToTisParakois.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "Let the godly Aristobulus, ⁄…"
 meMA.Exaposteilarion1.text = "Let the godly Aristobulus, ⁄ the rich Stachys and divinely wise Apelles and Narcissus, ⁄ together with the most wise Amplius and Urban ⁄ now be honored by us as apostles of Christ! ⁄⁄ Through them the world has been delivered from delusion!"
