@@ -235,12 +235,14 @@ meMA.C2.verse = prayers_en_US_oca.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_US_oca.heHE.ToTinAvaton.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_US_oca.heHE.ToTinAvaton.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_oca.heHE.ToTinAvaton.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_oca.heHE.ToTinAvaton.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_US_oca.heHE.ToTinAvaton.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_oca.heHE.ToTinAvaton.notmetered
 meMA.Ode1C11.incipit = "The divine Forerunner…"
 meMA.Ode1C11.text = "The divine Forerunner, who knows of the coming of the Lord, ⁄ comes from the desert, crying out with glory: ⁄ Our Deliverance draws near and now appears! ⁄ Repent and cleanse yourselves with water!"
@@ -265,6 +267,7 @@ meMA.Ode1C14.text = "The divinely eloquent Forerunner, ⁄ seeing all the people
 
 meMA.Ode1C21.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode1C21.greekmelody = he.h.m8_en_US_oca.heHE.IKekommeni.greekname
 meMA.Ode1C21.melody = he.h.m8_en_US_oca.heHE.IKekommeni.notmetered
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -295,12 +298,14 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C1H.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C11.incipit = "Christ has appeared…"
 meMA.Ode3C11.text = "Christ has appeared! The Forerunner cries out: ⁄ And He comes to the streams of the Jordan! ⁄ Let us come quickly to greet Him, enlightened by pure thoughts!"
@@ -319,6 +324,7 @@ meMA.Ode3C13.text = "Let earth and heaven now sing together, ⁄ for the Benefac
 
 meMA.Ode3C21.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3C21.greekmelody = he.h.m8_en_US_oca.heHE.TonFovonSouKyrie.greekname
 meMA.Ode3C21.melody = he.h.m8_en_US_oca.heHE.TonFovonSouKyrie.notmetered
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -343,6 +349,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_oca.heHE.TonFovonSouKyrie.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_oca.heHE.TonFovonSouKyrie.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_oca.heHE.TonFovonSouKyrie.incipit
 meMA.Ode3H.text = he.h.m8_en_US_oca.heHE.TonFovonSouKyrie.text
@@ -359,12 +366,14 @@ meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode4C1H.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.notmetered
 meMA.Ode4C11.incipit = "The great Forerunner…"
 meMA.Ode4C11.text = "The great Forerunner marvels at Your coming, Jesus our Benefactor, ⁄ and in awe he cries out to You: ⁄ Master, You are fire! Do not burn me, for I am but grass!"
@@ -389,6 +398,7 @@ meMA.Ode4C14.text = "Human nature is enlightened and received deliverance from t
 
 meMA.Ode4C21.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode4C21.greekmelody = he.h.m8_en_US_oca.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C21.melody = he.h.m8_en_US_oca.heHE.EisakikoaKyrie.notmetered
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -419,12 +429,14 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C1H.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_oca.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C11.incipit = "The holy Forerunner…"
 meMA.Ode5C11.text = "The holy Forerunner appeared from the desert, ⁄ crying out: Repent, for the kingdom of heaven is at hand! ⁄ renewing those who had become wasted through evil deeds."
@@ -443,6 +455,7 @@ meMA.Ode5C13.text = "I behold strange and awesome things this day, said John, �
 
 meMA.Ode5C21.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode5C21.greekmelody = he.h.m8_en_US_oca.heHE.InaTiMeAposo.greekname
 meMA.Ode5C21.melody = he.h.m8_en_US_oca.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -467,12 +480,14 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C1H.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_US_oca.heHE.AvyssosAmartimaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_US_oca.heHE.AvyssosAmartimaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_oca.heHE.AvyssosAmartimaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_oca.heHE.AvyssosAmartimaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_US_oca.heHE.AvyssosAmartimaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_oca.heHE.AvyssosAmartimaton.notmetered
 meMA.Ode6C11.incipit = "Lover of mankind…"
 meMA.Ode6C11.text = "Lover of mankind, like rain into a fleece of wool, ⁄ You drop down remission of our offences ⁄ as You drowned the transgressions of those born on earth ⁄ in the streams of Jordan, in Your great mercy!"
@@ -491,6 +506,7 @@ meMA.Ode6C13.text = "How can the river's streams hold You, O Christ, ⁄ for You
 
 meMA.Ode6C21.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode6C21.greekmelody = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C21.melody = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.notmetered
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -515,6 +531,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.text
@@ -535,12 +552,14 @@ meMA.Oikos2.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_US_oca.heHE.EikonosChrysis.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_US_oca.heHE.EikonosChrysis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_oca.heHE.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_oca.heHE.EikonosChrysis.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_US_oca.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_oca.heHE.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "You clothed me…"
 meMA.Ode7C11.text = "You clothed me in holy garments, O Christ, ⁄ when I had been stripped naked through the counsel of the deceiver. ⁄ You have come in the richness of Your goodness ⁄ to pass naked through the waters. ⁄ I hymn Your loving kindness and worship your glorious dispensation!"
@@ -559,6 +578,7 @@ meMA.Ode7C13.text = "You lit Your precious flesh like a lamp in the midst of the
 
 meMA.Ode7C21.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode7C21.greekmelody = he.h.m8_en_US_oca.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C21.melody = he.h.m8_en_US_oca.heHE.OiEkTisIoudaias.notmetered
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -589,12 +609,14 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C1H.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "John stood forth…"
 meMA.Ode8C11.text = "John stood forth, his voice crying clearly in the wilderness, ⁄ turning the hearts of those who have fervently repented ⁄ to glorify the Savior and Master ⁄ Who appeared in the Jordan!"
@@ -619,6 +641,7 @@ meMA.Ode8C14.text = "Creator of the hours and the years, ⁄ in Your lovingkindn
 
 meMA.Ode8C21.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode8C21.greekmelody = he.h.m8_en_US_oca.heHE.NikitaiTyrannou.greekname
 meMA.Ode8C21.melody = he.h.m8_en_US_oca.heHE.NikitaiTyrannou.notmetered
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -649,18 +672,21 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_oca.heHE.NikitaiTyrannou.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_oca.heHE.NikitaiTyrannou.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_oca.heHE.NikitaiTyrannou.incipit
 meMA.Ode8H.text = he.h.m8_en_US_oca.heHE.NikitaiTyrannou.text
 
 meMA.Ode9C1H.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C11.incipit = "Seeing You, our Benefactor…"
 meMA.Ode9C11.text = "Seeing You, our Benefactor, coming to him ⁄ and asking Baptism of him with humility, ⁄ John marveled and was astonished! ⁄ In no way did he dare to touch You with his hand, ⁄ for You touch all the mountains and make them smoke!"
@@ -691,6 +717,7 @@ meMA.Ode9C15.text = "The voice of one crying out has been heard in the wildernes
 
 meMA.Ode9C21.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode9C21.greekmelody = he.h.m8_en_US_oca.heHE.KyriosTheotokon.greekname
 meMA.Ode9C21.melody = he.h.m8_en_US_oca.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -721,6 +748,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_oca.heHE.KyriosTheotokon.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_oca.heHE.KyriosTheotokon.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_oca.heHE.KyriosTheotokon.incipit
 meMA.Ode9H.text = he.h.m8_en_US_oca.heHE.KyriosTheotokon.text

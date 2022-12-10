@@ -171,12 +171,14 @@ meMA.C3.verse = prayers_en_US_oca.pr.verse_Apostle.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C1H.greekmelody = he.h.m1_en_US_oca.heHE.OdinEpinikion.greekname
 meMA.Ode1C1H.melody = he.h.m1_en_US_oca.heHE.OdinEpinikion.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_US_oca.heHE.OdinEpinikion.incipit
 meMA.Ode1C1H.text = he.h.m1_en_US_oca.heHE.OdinEpinikion.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C11.greekmelody = he.h.m1_en_US_oca.heHE.OdinEpinikion.greekname
 meMA.Ode1C11.melody = he.h.m1_en_US_oca.heHE.OdinEpinikion.notmetered
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
@@ -201,6 +203,7 @@ meMA.Ode1C14.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C21.greekmelody = he.h.m1_en_US_oca.heHE.SouITropaiouchos.greekname
 meMA.Ode1C21.melody = he.h.m1_en_US_oca.heHE.SouITropaiouchos.notmetered
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -225,6 +228,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode1C31.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C31.greekmelody = he.h.m1_en_US_oca.heHE.ODiaStylouPyros.greekname
 meMA.Ode1C31.melody = he.h.m1_en_US_oca.heHE.ODiaStylouPyros.notmetered
 meMA.Ode1C31.incipit = "You fished with the rod…"
 meMA.Ode1C31.text = "You fished with the rod of the Gospel, all-praised Andrew, ⁄ drawing men out from the sea of falsehood, as Christ promised. ⁄ He taught you to seek men instead of fish!"
@@ -261,12 +265,14 @@ meMA.Ode1C3T.text = "God is born to the Virgin as an Infant ⁄ and He renews th
 
 meMA.Ode3C1H.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C1H.greekmelody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.greekname
 meMA.Ode3C1H.melody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.melody
 meMA.Ode3C1H.incipit = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.incipit
 meMA.Ode3C1H.text = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C11.greekmelody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.greekname
 meMA.Ode3C11.melody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.notmetered
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
@@ -291,6 +297,7 @@ meMA.Ode3C14.text = ""
 
 meMA.Ode3C21.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C21.greekmelody = he.h.m1_en_US_oca.heHE.OMonosEidos.greekname
 meMA.Ode3C21.melody = he.h.m1_en_US_oca.heHE.OMonosEidos.notmetered
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -315,6 +322,7 @@ meMA.Ode3C2T.text = oc.m1.d1_en_US_oca.ocMA.OdeS3C1T.text
 
 meMA.Ode3C31.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C31.greekmelody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.greekname
 meMA.Ode3C31.melody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.notmetered
 meMA.Ode3C31.incipit = "Cephas and Andrew…"
 meMA.Ode3C31.text = "Cephas and Andrew immediately followed Christ, ⁄ Who called them, saying: Come, follow Me! ⁄ They left their Father, their boat and their nets, ⁄ for they were given a vision of the faith."
@@ -366,12 +374,14 @@ meMA.Ode3KathismaT.text = me.m08.d25_en_US_oca.meMA.Ode3KathismaT.text
 
 meMA.Ode4C1H.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C1H.greekmelody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.greekname
 meMA.Ode4C1H.melody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.melody
 meMA.Ode4C1H.incipit = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.incipit
 meMA.Ode4C1H.text = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C11.greekmelody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.greekname
 meMA.Ode4C11.melody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
@@ -396,6 +406,7 @@ meMA.Ode4C14.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C21.greekmelody = he.h.m1_en_US_oca.heHE.OrosSeTiChariti.greekname
 meMA.Ode4C21.melody = he.h.m1_en_US_oca.heHE.OrosSeTiChariti.notmetered
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -420,6 +431,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode4C31.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C31.greekmelody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.greekname
 meMA.Ode4C31.melody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C31.incipit = "…"
 meMA.Ode4C31.text = "You cast aside your nets and took up the Cross; ⁄ you followed after Christ Who called you. ⁄ Stretching out the net of the Spirit, ⁄ you caught men instead of fish. ⁄ Glory to Him Who gave you the Spirit!"
@@ -456,12 +468,14 @@ meMA.Ode4C3T.text = "You ineffably conceived One of the Trinity in your womb; �
 
 meMA.Ode5C1H.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C1H.greekmelody = he.h.m1_en_US_oca.heHE.TinSinEirinin.greekname
 meMA.Ode5C1H.melody = he.h.m1_en_US_oca.heHE.TinSinEirinin.melody
 meMA.Ode5C1H.incipit = he.h.m1_en_US_oca.heHE.TinSinEirinin.incipit
 meMA.Ode5C1H.text = he.h.m1_en_US_oca.heHE.TinSinEirinin.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C11.greekmelody = he.h.m1_en_US_oca.heHE.TinSinEirinin.greekname
 meMA.Ode5C11.melody = he.h.m1_en_US_oca.heHE.TinSinEirinin.notmetered
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
@@ -486,6 +500,7 @@ meMA.Ode5C14.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C21.greekmelody = he.h.m1_en_US_oca.heHE.OFotisasTiEllampsei.greekname
 meMA.Ode5C21.melody = he.h.m1_en_US_oca.heHE.OFotisasTiEllampsei.notmetered
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -510,6 +525,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode5C31.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C31.greekmelody = he.h.m1_en_US_oca.heHE.KatavgasonImon.greekname
 meMA.Ode5C31.melody = he.h.m1_en_US_oca.heHE.KatavgasonImon.notmetered
 meMA.Ode5C31.incipit = "…"
 meMA.Ode5C31.text = "You yearned for the Cross, disciple of Christ, ⁄ and through your cross you obtained the incorruptible kingdom ⁄ into which you draw all the initiates of God with the Cross. ⁄ As we proclaim God's own Words about the Cross, ⁄ you grant an inheritance to us!"
@@ -546,12 +562,14 @@ meMA.Ode5C3T.text = "You gave birth to the Light beyond understanding; ⁄ you b
 
 meMA.Ode6C1H.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C1H.greekmelody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.greekname
 meMA.Ode6C1H.melody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.melody
 meMA.Ode6C1H.incipit = he.h.m1_en_US_oca.heHE.TonProfitinIonan.incipit
 meMA.Ode6C1H.text = he.h.m1_en_US_oca.heHE.TonProfitinIonan.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C11.greekmelody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.greekname
 meMA.Ode6C11.melody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.notmetered
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
@@ -576,6 +594,7 @@ meMA.Ode6C14.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C21.greekmelody = he.h.m1_en_US_oca.heHE.EkyklosenImas.greekname
 meMA.Ode6C21.melody = he.h.m1_en_US_oca.heHE.EkyklosenImas.notmetered
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -600,6 +619,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6C31.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C31.greekmelody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.greekname
 meMA.Ode6C31.melody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.notmetered
 meMA.Ode6C31.incipit = "The one who was called…"
 meMA.Ode6C31.text = "The one who was called from Bethsaida ⁄ summons us to keep the feast! ⁄ He sets before us in splendor ⁄ the commemoration of his struggles."
@@ -643,12 +663,14 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C1H.greekmelody = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.greekname
 meMA.Ode7C1H.melody = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.melody
 meMA.Ode7C1H.incipit = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.incipit
 meMA.Ode7C1H.text = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C11.greekmelody = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.greekname
 meMA.Ode7C11.melody = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.notmetered
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
@@ -673,6 +695,7 @@ meMA.Ode7C14.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C21.greekmelody = he.h.m1_en_US_oca.heHE.SeNoitin.greekname
 meMA.Ode7C21.melody = he.h.m1_en_US_oca.heHE.SeNoitin.notmetered
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -697,6 +720,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode7C31.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C31.greekmelody = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.greekname
 meMA.Ode7C31.melody = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.notmetered
 meMA.Ode7C31.incipit = "…"
 meMA.Ode7C31.text = "The fire of the Holy Spirit, descending from on high, ⁄  commanded you, apostle of Christ, to proclaim His mighty works ⁄ in new languages which you had never spoken before ⁄ to the ends of the earth!"
@@ -733,12 +757,14 @@ meMA.Ode7C3T.text = "We glorify You, O Christ, as One of the Trinity, ⁄ for wi
 
 meMA.Ode8C1H.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C1H.greekmelody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.greekname
 meMA.Ode8C1H.melody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.melody
 meMA.Ode8C1H.incipit = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.incipit
 meMA.Ode8C1H.text = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C11.greekmelody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.greekname
 meMA.Ode8C11.melody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.notmetered
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
@@ -763,6 +789,7 @@ meMA.Ode8C14.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C21.greekmelody = he.h.m1_en_US_oca.heHE.EnKaminoPaides.greekname
 meMA.Ode8C21.melody = he.h.m1_en_US_oca.heHE.EnKaminoPaides.notmetered
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -793,6 +820,7 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8C31.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C31.greekmelody = he.h.m1_en_US_oca.heHE.TonEnSinaTinVaton.greekname
 meMA.Ode8C31.melody = he.h.m1_en_US_oca.heHE.TonEnSinaTinVaton.notmetered
 meMA.Ode8C31.incipit = "…"
 meMA.Ode8C31.text = "You drew fish from the sea, most wise one, ⁄ by the craft of fishing. ⁄ Now by faith, you draw men to Christ from the deception of the enemy! ⁄ For deception is an abyss drowning the nations in a storm of impiety."
@@ -829,12 +857,14 @@ meMA.Ode8C3T.text = "Pure one, you conceived and gave birth to one of the Trinit
 
 meMA.Ode9C1H.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C1H.greekmelody = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.greekname
 meMA.Ode9C1H.melody = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.melody
 meMA.Ode9C1H.incipit = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.incipit
 meMA.Ode9C1H.text = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C11.greekmelody = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.greekname
 meMA.Ode9C11.melody = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.notmetered
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
@@ -859,6 +889,7 @@ meMA.Ode9C14.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C21.greekmelody = he.h.m1_en_US_oca.heHE.TyponTisAgnis.greekname
 meMA.Ode9C21.melody = he.h.m1_en_US_oca.heHE.TyponTisAgnis.notmetered
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -889,6 +920,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9C31.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C31.greekmelody = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.greekname
 meMA.Ode9C31.melody = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.notmetered
 meMA.Ode9C31.incipit = "You spread out the net…"
 meMA.Ode9C31.text = "You spread out the net of the mystical knowledge of God. ⁄ You caught fish with the beauties of heavenly thoughts! ⁄ Entreat the Holy Trinity, holy one, ⁄ to pour out a cleansing stream on us."

@@ -260,12 +260,14 @@ meMA.C3.verse = prayers_en_US_oca.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C1H.greekmelody = he.h.m1_en_US_oca.heHE.OdinEpinikion.greekname
 meMA.Ode1C1H.melody = he.h.m1_en_US_oca.heHE.OdinEpinikion.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_US_oca.heHE.OdinEpinikion.incipit
 meMA.Ode1C1H.text = he.h.m1_en_US_oca.heHE.OdinEpinikion.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C11.greekmelody = he.h.m1_en_US_oca.heHE.OdinEpinikion.greekname
 meMA.Ode1C11.melody = he.h.m1_en_US_oca.heHE.OdinEpinikion.notmetered
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
@@ -278,6 +280,7 @@ meMA.Ode1C12.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode1C21.greekmelody = he.h.m2_en_US_oca.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C21.melody = he.h.m2_en_US_oca.heHE.EnVythoKatestrose.notmetered
 meMA.Ode1C21.incipit = "Wearing your crown, all-wise Nicholas…"
 meMA.Ode1C21.text = "Wearing your crown, all-wise Nicholas, ⁄ you stand with the angels before the throne of Christ! ⁄ Enlighten the darkness of my soul, ⁄ that I may rejoice, and praise your all-blessed memory."
@@ -296,6 +299,7 @@ meMA.Ode1C2T.text = "The wholly evil serpent stole me from the Creator, ⁄ taki
 
 meMA.Ode1C31.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C31.greekmelody = he.h.m1_en_US_oca.heHE.ChristosGennatai.greekname
 meMA.Ode1C31.melody = he.h.m1_en_US_oca.heHE.ChristosGennatai.notmetered
 meMA.Ode1C31.incipit = "I come before you, Nicholas…"
 meMA.Ode1C31.text = "I come before you, Nicholas, ⁄ for your greatness is divine. ⁄ My tongue and lips are not equal to offer you even a short hymn of praise. ⁄ But you are the giver of riches: ⁄⁄ Give me the Savior and God of mercies!"
@@ -326,12 +330,14 @@ meMA.Ode1C3T.text = "You conceived the Word, undefiled one, ⁄ and gave birth t
 
 meMA.Ode3C1H.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C1H.greekmelody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.greekname
 meMA.Ode3C1H.melody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.melody
 meMA.Ode3C1H.incipit = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.incipit
 meMA.Ode3C1H.text = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C11.greekmelody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.greekname
 meMA.Ode3C11.melody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.notmetered
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
@@ -344,6 +350,7 @@ meMA.Ode3C12.text = ""
 
 meMA.Ode3C21.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode3C21.greekmelody = he.h.m2_en_US_oca.heHE.ExinthisenIErimos.greekname
 meMA.Ode3C21.melody = he.h.m2_en_US_oca.heHE.ExinthisenIErimos.notmetered
 meMA.Ode3C21.incipit = "As a true disciple of…"
 meMA.Ode3C21.text = "As a true disciple of the Master, blessed Nicholas, ⁄ you preserve from great dangers and bitter death ⁄⁄ all those who run to you."
@@ -362,6 +369,7 @@ meMA.Ode3C2T.text = "Calm the tumult of my passions, Queen, ⁄ and direct my li
 
 meMA.Ode3C31.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C31.greekmelody = he.h.m1_en_US_oca.heHE.ToProTonAionon.greekname
 meMA.Ode3C31.melody = he.h.m1_en_US_oca.heHE.ToProTonAionon.notmetered
 meMA.Ode3C31.incipit = "Divinely wise one, ⁄ you…"
 meMA.Ode3C31.text = "Divinely wise one, ⁄ you acquired a tablet in your heart ⁄ inscribed with many virtues ⁄ by the immortal and all-pure finger of Christ your God. ⁄ And from your words, ⁄⁄ You let fall a sweetness sweeter than honey and the honeycomb!"
@@ -402,12 +410,14 @@ meMA.Ode3KathismaT.text = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.text
 
 meMA.Ode4C1H.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C1H.greekmelody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.greekname
 meMA.Ode4C1H.melody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.melody
 meMA.Ode4C1H.incipit = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.incipit
 meMA.Ode4C1H.text = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C11.greekmelody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.greekname
 meMA.Ode4C11.melody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
@@ -420,6 +430,7 @@ meMA.Ode4C12.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode4C21.greekmelody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C21.melody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.notmetered
 meMA.Ode4C21.incipit = "Living purely near the rays…"
 meMA.Ode4C21.text = "Living purely near the rays of the Spirit, ⁄ you are a lamp enlightening the universe, ⁄ defending and saving all who run to you with faith. ⁄ As you appeared to deliver the young men from death, Saint, ⁄⁄ now preserve me likewise from all calamity, temptation and danger."
@@ -444,6 +455,7 @@ meMA.Ode4C2T.text = "The Incarnate King and Lord came down on you, ⁄ and saved
 
 meMA.Ode4C31.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C31.greekmelody = he.h.m1_en_US_oca.heHE.RavdosEkTisRizis.greekname
 meMA.Ode4C31.melody = he.h.m1_en_US_oca.heHE.RavdosEkTisRizis.notmetered
 meMA.Ode4C31.incipit = "Just calling on your name…"
 meMA.Ode4C31.text = "Just calling on your name, holy Nicholas, ⁄ delivers swiftly from all the purposes of the enemy, ⁄ those why cry to you with fervor. ⁄ As you delivered the soldiers, ⁄⁄ so now preserve us from every calamity."
@@ -474,12 +486,14 @@ meMA.Ode4C3T.text = "You, Maiden and Theotokos, ⁄ were alone more honorable th
 
 meMA.Ode5C1H.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C1H.greekmelody = he.h.m1_en_US_oca.heHE.ToFaeinonIminExanateilon.greekname
 meMA.Ode5C1H.melody = he.h.m1_en_US_oca.heHE.ToFaeinonIminExanateilon.melody
 meMA.Ode5C1H.incipit = he.h.m1_en_US_oca.heHE.ToFaeinonIminExanateilon.incipit
 meMA.Ode5C1H.text = he.h.m1_en_US_oca.heHE.ToFaeinonIminExanateilon.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C11.greekmelody = he.h.m1_en_US_oca.heHE.ToFaeinonIminExanateilon.greekname
 meMA.Ode5C11.melody = he.h.m1_en_US_oca.heHE.ToFaeinonIminExanateilon.notmetered
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
@@ -492,6 +506,7 @@ meMA.Ode5C12.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode5C21.greekmelody = he.h.m2_en_US_oca.heHE.OFotismos.greekname
 meMA.Ode5C21.melody = he.h.m2_en_US_oca.heHE.OFotismos.notmetered
 meMA.Ode5C21.incipit = "Thrice-blessed Saint, shining with a…"
 meMA.Ode5C21.text = "Thrice-blessed Saint, shining with a divine way of life, ⁄ your presence delivered the unjustly condemned from death by the sword, ⁄ and they cried out to the Master Christ: ⁄⁄ We know no other God than You!"
@@ -510,6 +525,7 @@ meMA.Ode5C2T.text = "You have been made flesh of the Virgin ⁄ to seek out Your
 
 meMA.Ode5C31.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C31.greekmelody = he.h.m1_en_US_oca.heHE.TheosOnEirinis.greekname
 meMA.Ode5C31.melody = he.h.m1_en_US_oca.heHE.TheosOnEirinis.notmetered
 meMA.Ode5C31.incipit = "Father, the great city of…"
 meMA.Ode5C31.text = "Father, the great city of Myra now proclaims your miracles; ⁄ the diocese of Lysia and all the world ⁄ tell of the wonders you worked. ⁄ Through them, honorable Nicholas, ⁄⁄ you delivered all mankind from distress and affliction."
@@ -540,12 +556,14 @@ meMA.Ode5C3T.text = "You are the salvation of mortal men and the hope of all, �
 
 meMA.Ode6C1H.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C1H.greekmelody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.greekname
 meMA.Ode6C1H.melody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.melody
 meMA.Ode6C1H.incipit = he.h.m1_en_US_oca.heHE.TonProfitinIonan.incipit
 meMA.Ode6C1H.text = he.h.m1_en_US_oca.heHE.TonProfitinIonan.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C11.greekmelody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.greekname
 meMA.Ode6C11.melody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.notmetered
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
@@ -558,6 +576,7 @@ meMA.Ode6C12.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode6C21.greekmelody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C21.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C21.incipit = "The crown of victory, Nicholas…"
 meMA.Ode6C21.text = "The crown of victory, Nicholas, ⁄ is worthily placed upon your head! ⁄ As a most noble conqueror, ⁄⁄ preserve those who call out to you!"
@@ -576,6 +595,7 @@ meMA.Ode6C2T.text = "I have set my hope of salvation on you, ⁄ ever-Virgin Mot
 
 meMA.Ode6C31.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C31.greekmelody = he.h.m1_en_US_oca.heHE.SplanchnonIonan.greekname
 meMA.Ode6C31.melody = he.h.m1_en_US_oca.heHE.SplanchnonIonan.notmetered
 meMA.Ode6C31.incipit = "Holy Nicholas, you are revealed…"
 meMA.Ode6C31.text = "Holy Nicholas, you are revealed as a new Abraham, ⁄ for you brought your mind to your Master ⁄ as an only-begotten son for sacrifice, ⁄ continually offering a bloodless holocaust. ⁄ And as Abraham, you were blessed for your hospitality, ⁄ becoming the divine dwelling of the Holy Trinity, ⁄⁄ all-immaculate Father!"
@@ -613,12 +633,14 @@ meMA.Oikos1.text = "Let us now sing songs in praise of the bishop who was a shep
 
 meMA.Ode7C1H.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C1H.greekmelody = he.h.m1_en_US_oca.heHE.IKaminosSotirEdrosizeto.greekname
 meMA.Ode7C1H.melody = he.h.m1_en_US_oca.heHE.IKaminosSotirEdrosizeto.melody
 meMA.Ode7C1H.incipit = he.h.m1_en_US_oca.heHE.IKaminosSotirEdrosizeto.incipit
 meMA.Ode7C1H.text = he.h.m1_en_US_oca.heHE.IKaminosSotirEdrosizeto.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C11.greekmelody = he.h.m1_en_US_oca.heHE.IKaminosSotirEdrosizeto.greekname
 meMA.Ode7C11.melody = he.h.m1_en_US_oca.heHE.IKaminosSotirEdrosizeto.notmetered
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
@@ -631,6 +653,7 @@ meMA.Ode7C12.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode7C21.greekmelody = he.h.m2_en_US_oca.heHE.EikonosChrysis.greekname
 meMA.Ode7C21.melody = he.h.m2_en_US_oca.heHE.EikonosChrysis.notmetered
 meMA.Ode7C21.incipit = "I have fallen upon the…"
 meMA.Ode7C21.text = "I have fallen upon the razor edge of temptation ⁄ and have been grievously wounded. ⁄ I approach the gates of hell and am thrown into despair. ⁄ By your intercessions, blessed Saint, ⁄ save me, and raise me to sing: ⁄⁄ Blessed are You, Lord God of our fathers!"
@@ -649,6 +672,7 @@ meMA.Ode7C2T.text = "Pray to Christ your Son and God, Theotokos, ⁄ for those b
 
 meMA.Ode7C31.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C31.greekmelody = he.h.m1_en_US_oca.heHE.OiPaidesEfseveia.greekname
 meMA.Ode7C31.melody = he.h.m1_en_US_oca.heHE.OiPaidesEfseveia.notmetered
 meMA.Ode7C31.incipit = "You revealed yourself, Father Nicholas…"
 meMA.Ode7C31.text = "You revealed yourself, Father Nicholas ⁄ as a noble physician of a multitude of destroying sickness: ⁄ Heal the infirmity of my soul and grant me health to cry: ⁄⁄ Blessed are You, the God of our fathers!"
@@ -679,12 +703,14 @@ meMA.Ode7C3T.text = "As you accept the prayers of all, Theotokos, ⁄ intercede 
 
 meMA.Ode8C1H.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C1H.greekmelody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.greekname
 meMA.Ode8C1H.melody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.melody
 meMA.Ode8C1H.incipit = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.incipit
 meMA.Ode8C1H.text = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C11.greekmelody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.greekname
 meMA.Ode8C11.melody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.notmetered
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
@@ -697,6 +723,7 @@ meMA.Ode8C12.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode8C21.greekmelody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C21.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C21.incipit = "Blessed Saint, as you are…"
 meMA.Ode8C21.text = "Blessed Saint, as you are gracious and compassionate, ⁄ set free those held fast in the depth of trials. ⁄ By your intercessions to the Savior ⁄ bestow on them deliverance from the heavy ills possessing them, ⁄⁄ priest, initiate of the holy mysteries!"
@@ -715,6 +742,7 @@ meMA.Ode8C2T.text = "My mind has fallen into the depths of disgrace, ⁄ and is 
 
 meMA.Ode8C31.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C31.greekmelody = he.h.m1_en_US_oca.heHE.ThavmatosYperfyous.greekname
 meMA.Ode8C31.melody = he.h.m1_en_US_oca.heHE.ThavmatosYperfyous.notmetered
 meMA.Ode8C31.incipit = "The companies of patriarchs and…"
 meMA.Ode8C31.text = "The companies of patriarchs and apostles, ⁄ the assembly of martyrs and gathering of prophets, ⁄ the whole army of ascetics unite ⁄ and call your divine way of life blessed! ⁄ We join them to call out to you: ⁄ Never cease to pray to the Lord for us ⁄⁄ that we may be delivered from all harm!"
@@ -745,12 +773,14 @@ meMA.Ode8C3T.text = "In ancient times, the bush that strangely burned but was no
 
 meMA.Ode9C1H.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C1H.greekmelody = he.h.m1_en_US_oca.heHE.TinZoodochonPigin.greekname
 meMA.Ode9C1H.melody = he.h.m1_en_US_oca.heHE.TinZoodochonPigin.melody
 meMA.Ode9C1H.incipit = he.h.m1_en_US_oca.heHE.TinZoodochonPigin.incipit
 meMA.Ode9C1H.text = he.h.m1_en_US_oca.heHE.TinZoodochonPigin.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C11.greekmelody = he.h.m1_en_US_oca.heHE.TinZoodochonPigin.greekname
 meMA.Ode9C11.melody = he.h.m1_en_US_oca.heHE.TinZoodochonPigin.notmetered
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
@@ -763,6 +793,7 @@ meMA.Ode9C12.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Ode9C21.greekmelody = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.greekname
 meMA.Ode9C21.melody = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.notmetered
 meMA.Ode9C21.incipit = "Divinely wise and all-blessed Saint…"
 meMA.Ode9C21.text = "Divinely wise and all-blessed Saint, ⁄ you were a lamp burning with the light of godliness, ⁄ wonderfully preserving those severely tried. ⁄ Deliver those drowning in the depths of the sea ⁄⁄ and feed all the hungry!"
@@ -781,6 +812,7 @@ meMA.Ode9C2T.text = "Pure-Theotokos, you gave birth from your own undefiled bloo
 
 meMA.Ode9C31.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C31.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C31.greekmelody = he.h.m1_en_US_oca.heHE.MystirionXenon.greekname
 meMA.Ode9C31.melody = he.h.m1_en_US_oca.heHE.MystirionXenon.notmetered
 meMA.Ode9C31.incipit = "All lovers of the feasts…"
 meMA.Ode9C31.text = "All lovers of the feasts, rejoice in spirit, ⁄ mountains and valleys, Churches and choirs of ascetics, ⁄ celebrate the memorial of the all-blessed saint: ⁄ As we come together with joy today ⁄⁄ let us magnify the Savior!"

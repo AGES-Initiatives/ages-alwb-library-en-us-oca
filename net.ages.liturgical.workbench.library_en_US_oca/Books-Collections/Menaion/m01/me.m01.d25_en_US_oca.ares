@@ -244,6 +244,7 @@ meMA.C2.verse = prayers_en_US_oca.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C11.greekmelody = he.h.m1_en_US_oca.heHE.ChristosGennatai.greekname
 meMA.Ode1C11.melody = he.h.m1_en_US_oca.heHE.ChristosGennatai.notmetered
 meMA.Ode1C11.incipit = "Come, all who love the…"
 meMA.Ode1C11.text = "Come, all who love the words of the second Theologian, ⁄ the pillar of heavenly light, ⁄ the clarion of the wisdom of God! ⁄ Let us come together with love ⁄ and praise him as the preacher of God!"
@@ -268,12 +269,14 @@ meMA.Ode1C1T.text = "The Wisdom of God made Himself a temple, ⁄ taking up His 
 
 meMA.Ode1C2H.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C2H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C2H.greekmelody = he.h.m1_en_US_oca.heHE.EpainonOTheoptis.greekname
 meMA.Ode1C2H.melody = he.h.m1_en_US_oca.heHE.EpainonOTheoptis.melody
 meMA.Ode1C2H.incipit = he.h.m1_en_US_oca.heHE.EpainonOTheoptis.incipit
 meMA.Ode1C2H.text = he.h.m1_en_US_oca.heHE.EpainonOTheoptis.text
 
 meMA.Ode1C21.ode = miscellanea_en_US_oca.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode1C21.greekmelody = he.h.m1_en_US_oca.heHE.EpainonOTheoptis.greekname
 meMA.Ode1C21.melody = he.h.m1_en_US_oca.heHE.EpainonOTheoptis.notmetered
 meMA.Ode1C21.incipit = "You stood, offering up in…"
 meMA.Ode1C21.text = "You stood, offering up in sacrifice  ⁄ the blood divinely shed for our passions. ⁄ It delivered the first-born Adam ⁄ and now, most-wise Gregory, ⁄ reconcile all of us, the faithful, to God."
@@ -292,6 +295,7 @@ meMA.Ode1C2T.text = "Desiring in His compassion to call back human nature ⁄ fr
 
 meMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C11.greekmelody = he.h.m1_en_US_oca.heHE.ToProTonAionon.greekname
 meMA.Ode3C11.melody = he.h.m1_en_US_oca.heHE.ToProTonAionon.notmetered
 meMA.Ode3C11.incipit = "You possessed a well-spring of…"
 meMA.Ode3C11.text = "You possessed a well-spring of wisdom ⁄ which ever pours out your most wise teachings, blessed one. ⁄ You filled the Church of Christ with this ⁄ and it cries out to the God of all: ⁄ Holy are You, O Lord!"
@@ -316,12 +320,14 @@ meMA.Ode3C1T.text = "Theotokos, Queen of all creation, ⁄ You gave birth to Chr
 
 meMA.Ode3C2H.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C2H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C2H.greekmelody = he.h.m1_en_US_oca.heHE.ITonProSyllipseos.greekname
 meMA.Ode3C2H.melody = he.h.m1_en_US_oca.heHE.ITonProSyllipseos.melody
 meMA.Ode3C2H.incipit = he.h.m1_en_US_oca.heHE.ITonProSyllipseos.incipit
 meMA.Ode3C2H.text = he.h.m1_en_US_oca.heHE.ITonProSyllipseos.text
 
 meMA.Ode3C21.ode = miscellanea_en_US_oca.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3C21.greekmelody = he.h.m1_en_US_oca.heHE.ITonProSyllipseos.greekname
 meMA.Ode3C21.melody = he.h.m1_en_US_oca.heHE.ITonProSyllipseos.notmetered
 meMA.Ode3C21.incipit = "Venerable Father, of fitting name…"
 meMA.Ode3C21.text = "Venerable Father, of fitting name,  ⁄ you were announced even before you came from your mother's womb. ⁄ With all our soul, we cry to you:  ⁄ Rejoice, all-wise and holy bishop!"
@@ -350,6 +356,7 @@ meMA.Ode3KathismaT.text = "I have been made to stumble by wicked thoughts; ⁄ I
 
 meMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C11.greekmelody = he.h.m1_en_US_oca.heHE.RavdosEkTisRizis.greekname
 meMA.Ode4C11.melody = he.h.m1_en_US_oca.heHE.RavdosEkTisRizis.notmetered
 meMA.Ode4C11.incipit = "You were an initiate of…"
 meMA.Ode4C11.text = "You were an initiate of the mysteries of the Trinity; ⁄ You enlightened the world with your understanding, wise and venerable one. ⁄ You shone with rays of the dogmas of your splendid teaching. ⁄ Taught by this we all praise you in faith!"
@@ -380,12 +387,14 @@ meMA.Ode4C1T.text = "You gave birth to Life in Person from your virginal womb �
 
 meMA.Ode4C2H.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C2H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C2H.greekmelody = he.h.m1_en_US_oca.heHE.SynToThavmasioStas.greekname
 meMA.Ode4C2H.melody = he.h.m1_en_US_oca.heHE.SynToThavmasioStas.melody
 meMA.Ode4C2H.incipit = he.h.m1_en_US_oca.heHE.SynToThavmasioStas.incipit
 meMA.Ode4C2H.text = he.h.m1_en_US_oca.heHE.SynToThavmasioStas.text
 
 meMA.Ode4C21.ode = miscellanea_en_US_oca.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode4C21.greekmelody = he.h.m1_en_US_oca.heHE.SynToThavmasioStas.greekname
 meMA.Ode4C21.melody = he.h.m1_en_US_oca.heHE.SynToThavmasioStas.notmetered
 meMA.Ode4C21.incipit = "You imitated the ranks which…"
 meMA.Ode4C21.text = "You imitated the ranks which stand before God ⁄ and appear around Him. ⁄ You soared far above them in thought, most wise one. ⁄ You reached both the heights and the depths, ⁄ bringing men the riches which cannot be taken away."
@@ -404,6 +413,7 @@ meMA.Ode4C2T.text = "You were shown to be the spiritual mountain ⁄ from which 
 
 meMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C11.greekmelody = he.h.m1_en_US_oca.heHE.TheosOnEirinis.greekname
 meMA.Ode5C11.melody = he.h.m1_en_US_oca.heHE.TheosOnEirinis.notmetered
 meMA.Ode5C11.incipit = "The divine sound of your…"
 meMA.Ode5C11.text = "The divine sound of your words ⁄ and the inspired grace of your teachings ⁄ passed through the whole earth like swift lightning, theologian. ⁄ You speak of God and teach us to adore ⁄ the Trinity in Unity and Unity in Trinity!"
@@ -428,12 +438,14 @@ meMA.Ode5C1T.text = "You were descended, Theotokos and Mother of God, ⁄ from E
 
 meMA.Ode5C2H.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C2H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C2H.greekmelody = he.h.m1_en_US_oca.heHE.AnthrakaPyrosTonIsaiou.greekname
 meMA.Ode5C2H.melody = he.h.m1_en_US_oca.heHE.AnthrakaPyrosTonIsaiou.melody
 meMA.Ode5C2H.incipit = he.h.m1_en_US_oca.heHE.AnthrakaPyrosTonIsaiou.incipit
 meMA.Ode5C2H.text = he.h.m1_en_US_oca.heHE.AnthrakaPyrosTonIsaiou.text
 
 meMA.Ode5C21.ode = miscellanea_en_US_oca.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode5C21.greekmelody = he.h.m1_en_US_oca.heHE.AnthrakaPyrosTonIsaiou.greekname
 meMA.Ode5C21.melody = he.h.m1_en_US_oca.heHE.AnthrakaPyrosTonIsaiou.notmetered
 meMA.Ode5C21.incipit = "In purity of mind and…"
 meMA.Ode5C21.text = "In purity of mind and soul, most blessed Gregory, ⁄ you came near the whole fire of the vision of God. ⁄ With your own hand you insatiably drew out the Light ⁄ which shines equally from the Trinity."
@@ -452,6 +464,7 @@ meMA.Ode5C2T.text = "Virgin Mother, you received Light from Light, ⁄ the only-
 
 meMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C11.greekmelody = he.h.m1_en_US_oca.heHE.SplanchnonIonan.greekname
 meMA.Ode6C11.melody = he.h.m1_en_US_oca.heHE.SplanchnonIonan.notmetered
 meMA.Ode6C11.incipit = "With the streams of your…"
 meMA.Ode6C11.text = "With the streams of your wise teachings, most wise one, ⁄ you dried up the tempestuous mind of Arius. ⁄ You preserved your flock in peace, ⁄ a floating, spiritual ark in which you stored seeds of the faith ⁄ with the beauty of your sermons."
@@ -482,12 +495,14 @@ meMA.Ode6C1T.text = "You were foreknown to the prophets, Virgin Mary, ⁄ Mother
 
 meMA.Ode6C2H.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C2H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C2H.greekmelody = he.h.m1_en_US_oca.heHE.ODiapontion.greekname
 meMA.Ode6C2H.melody = he.h.m1_en_US_oca.heHE.ODiapontion.melody
 meMA.Ode6C2H.incipit = he.h.m1_en_US_oca.heHE.ODiapontion.incipit
 meMA.Ode6C2H.text = he.h.m1_en_US_oca.heHE.ODiapontion.text
 
 meMA.Ode6C21.ode = miscellanea_en_US_oca.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode6C21.greekmelody = he.h.m1_en_US_oca.heHE.ODiapontion.greekname
 meMA.Ode6C21.melody = he.h.m1_en_US_oca.heHE.ODiapontion.notmetered
 meMA.Ode6C21.incipit = "Your mind was not overwhelmed…"
 meMA.Ode6C21.text = "Your mind was not overwhelmed, ⁄ while you searched the depths of the abyss of God ⁄ to draw out the pearl, most noble Gregory. ⁄ You devoted your silence to the Master, as much as your words."
@@ -513,6 +528,7 @@ meMA.Oikos1.text = "Fill my poor and passionate mind with the exalted wisdom of 
 
 meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C11.greekmelody = he.h.m1_en_US_oca.heHE.OiPaidesEfseveia.greekname
 meMA.Ode7C11.melody = he.h.m1_en_US_oca.heHE.OiPaidesEfseveia.notmetered
 meMA.Ode7C11.incipit = "Your discourse is all desire…"
 meMA.Ode7C11.text = "Your discourse is all desire and sweetness, Gregory, ⁄ wholly filled with gladness and radiance, ⁄ filling with delight those who chant in faith: ⁄ Blessed are You, O God of our fathers!"
@@ -537,12 +553,14 @@ meMA.Ode7C1T.text = "Descending like dew upon the fleece, ⁄ the River of peace
 
 meMA.Ode7C2H.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C2H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C2H.greekmelody = he.h.m1_en_US_oca.heHE.YpilthonOsNymfona.greekname
 meMA.Ode7C2H.melody = he.h.m1_en_US_oca.heHE.YpilthonOsNymfona.melody
 meMA.Ode7C2H.incipit = he.h.m1_en_US_oca.heHE.YpilthonOsNymfona.incipit
 meMA.Ode7C2H.text = he.h.m1_en_US_oca.heHE.YpilthonOsNymfona.text
 
 meMA.Ode7C21.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode7C21.greekmelody = he.h.m1_en_US_oca.heHE.YpilthonOsNymfona.greekname
 meMA.Ode7C21.melody = he.h.m1_en_US_oca.heHE.YpilthonOsNymfona.notmetered
 meMA.Ode7C21.incipit = "Standing before the tribunals of…"
 meMA.Ode7C21.text = "Standing before the tribunals of the unjust rulers, Gregory, ⁄ by your piety, you burned to ashes  ⁄ the rushing and dangerous blaze of the heretic's fire. ⁄ You cried out to the Trinity: ⁄ Blessed are You, O God of our fathers!"
@@ -561,6 +579,7 @@ meMA.Ode7C2T.text = "Our forefather was killed like a plant pulled up unseasonab
 
 meMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C11.greekmelody = he.h.m1_en_US_oca.heHE.ThavmatosYperfyous.greekname
 meMA.Ode8C11.melody = he.h.m1_en_US_oca.heHE.ThavmatosYperfyous.notmetered
 meMA.Ode8C11.incipit = "With true piety you preached…"
 meMA.Ode8C11.text = "With true piety you preached that the Word and the Spirit ⁄ are equal to the Father in grace and sovereignty, ⁄ knowing their essential and natural identity and unity. ⁄ Therefore, you cry out, rejoicing: ⁄ Let the whole creation bless the Lord ⁄ and exalt Him above all forever!"
@@ -591,12 +610,14 @@ meMA.Ode8C1T.text = "The rich Word, Who is glorified by archangelic songs of pra
 
 meMA.Ode8C2H.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C2H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C2H.greekmelody = he.h.m1_en_US_oca.heHE.OiMiTiTrofiChranthentes.greekname
 meMA.Ode8C2H.melody = he.h.m1_en_US_oca.heHE.OiMiTiTrofiChranthentes.melody
 meMA.Ode8C2H.incipit = he.h.m1_en_US_oca.heHE.OiMiTiTrofiChranthentes.incipit
 meMA.Ode8C2H.text = he.h.m1_en_US_oca.heHE.OiMiTiTrofiChranthentes.text
 
 meMA.Ode8C21.ode = miscellanea_en_US_oca.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode8C21.greekmelody = he.h.m1_en_US_oca.heHE.OiMiTiTrofiChranthentes.greekname
 meMA.Ode8C21.melody = he.h.m1_en_US_oca.heHE.OiMiTiTrofiChranthentes.notmetered
 meMA.Ode8C21.incipit = "You soared higher than the…"
 meMA.Ode8C21.text = "You soared higher than the flame of Babylon,  ⁄ and in piety, burned more fiercely. ⁄ You showed yourself to be an initiate and preacher ⁄ of the heavenly mysteries of the Trinity, crying out: ⁄ Bless the Lord, all works of the Lord!"
@@ -615,6 +636,7 @@ meMA.Ode8C2T.text = "Your divine childbearing, immaculate and pure one, ⁄ show
 
 meMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C11.greekmelody = he.h.m1_en_US_oca.heHE.TyponTisAgnis.greekname
 meMA.Ode9C11.melody = he.h.m1_en_US_oca.heHE.TyponTisAgnis.notmetered
 meMA.Ode9C11.incipit = "You theologized about the sovereign…"
 meMA.Ode9C11.text = "You theologized about the sovereign Trinity ⁄ Which grants you incorruptible life. ⁄ You accepted struggles, teaching and contentions on His behalf ⁄ and now, Father, you stand in His presence ⁄ as a most noble ambassador on behalf of the world."
@@ -639,12 +661,14 @@ meMA.Ode9C1T.text = "How awe-inspiring is your miracle! ⁄ For you, Virgin Theo
 
 meMA.Ode9C2H.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C2H.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C2H.greekmelody = he.h.m1_en_US_oca.heHE.OTonAnoVython.greekname
 meMA.Ode9C2H.melody = he.h.m1_en_US_oca.heHE.OTonAnoVython.melody
 meMA.Ode9C2H.incipit = he.h.m1_en_US_oca.heHE.OTonAnoVython.incipit
 meMA.Ode9C2H.text = he.h.m1_en_US_oca.heHE.OTonAnoVython.text
 
 meMA.Ode9C21.ode = miscellanea_en_US_oca.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode9C21.greekmelody = he.h.m1_en_US_oca.heHE.OTonAnoVython.greekname
 meMA.Ode9C21.melody = he.h.m1_en_US_oca.heHE.OTonAnoVython.notmetered
 meMA.Ode9C21.incipit = "You have unraveled the threadbare…"
 meMA.Ode9C21.text = "You have unraveled the threadbare garment ⁄ of the writings of the Law, ⁄ interpreting for us the divine and mystical beauty ⁄ of the Godly Spirit of the Scriptures. ⁄ Most blessed Father, we magnify you!"
