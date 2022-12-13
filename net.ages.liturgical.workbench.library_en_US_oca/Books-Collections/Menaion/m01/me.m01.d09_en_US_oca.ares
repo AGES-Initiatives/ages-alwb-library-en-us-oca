@@ -97,11 +97,13 @@ meVE.Apolytikion2.incipit = me.m01.d06_en_US_oca.meVE.Apolytikion1.incipit
 meVE.Apolytikion2.text = me.m01.d06_en_US_oca.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma11.incipit = "Lover of mankind, In Your…"
 meMA.Kathisma11.text = "Lover of mankind, In Your tender mercy as God, ⁄ You diligently sought for us ⁄ when we lay in shame, deceived and destroyed. ⁄ You came to Jordan, revealing the mystery of the holy Trinity. ⁄ We cry out and sing to You: ⁄ You are come; You are made manifest, ⁄⁄ Light unapproachable!"
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_US_oca.heAU.AnestisEkNekron.greekname
 meMA.Kathisma21.melody = he.a.m8_en_US_oca.heAU.AnestisEkNekron.notmetered
 meMA.Kathisma21.incipit = "You are mystically revealed to…"
 meMA.Kathisma21.text = "You are mystically revealed to us, O Master of all: ⁄ You have burned away all our sins in the streams of Jordan, ⁄ most merciful and good Lord! ⁄ Let all creation leap for joy, for Christ is baptized! ⁄⁄ He is God, who delights to save the human race!"
@@ -172,11 +174,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_oca.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_oca.heHE.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode5
+meMA.Ode3Kathisma1.greekmelody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode5
+meMA.Ode3Kathisma2.greekmelody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

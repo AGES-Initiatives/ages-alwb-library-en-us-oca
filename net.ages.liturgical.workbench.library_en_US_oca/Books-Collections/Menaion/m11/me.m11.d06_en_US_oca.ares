@@ -49,7 +49,7 @@ meVE.SticGlory.text = "Clothed in the vestments of a bishop, venerable Father, �
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode1
 meVE.SticTheotokion.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
-meVE.SticTheotokion.melody = miscellanea_en_US_oca.misc.Automelon
+meVE.SticTheotokion.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.melody
 meVE.SticTheotokion.incipit = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.incipit
 meVE.SticTheotokion.text = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.text
 
@@ -78,7 +78,7 @@ meVE.AposStavrotheotokion.incipit = "…"
 meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode3
-meVE.Apolytikion1.melody = miscellanea_en_US_oca.misc.Automelon
+meVE.Apolytikion1.melody = he.a.m3_en_US_oca.heAU.TheiasPisteos.melody
 meVE.Apolytikion1.incipit = he.a.m3_en_US_oca.heAU.TheiasPisteos.incipit
 meVE.Apolytikion1.text = he.a.m3_en_US_oca.heAU.TheiasPisteos.text
 
@@ -147,11 +147,13 @@ meMA.Ode3H.incipit = he.h.m4_en_US_oca.heHE.TousSousYmnologous.incipit
 meMA.Ode3H.text = he.h.m4_en_US_oca.heHE.TousSousYmnologous.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_oca.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_oca.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

@@ -86,11 +86,13 @@ meVE.Apolytikion1.incipit = me.m01.d06_en_US_oca.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m01.d06_en_US_oca.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 meMA.Kathisma11.incipit = "Joshua, the Son of nun…"
 meMA.Kathisma11.text = "Joshua, the Son of nun, ⁄ led the people and the ark into the river Jordan ⁄ foreshadowing the goodness which was to come: ⁄ Their passing over was an image of our regeneration, ⁄ a sure type of the new creation accomplished by the Spirit, ⁄ for Christ has appeared in the Jordan ⁄⁄ to sanctify the waters!"
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_US_oca.heAU.AvlonPoimenikon.greekname
 meMA.Kathisma21.melody = he.a.m8_en_US_oca.heAU.AvlonPoimenikon.notmetered
 meMA.Kathisma21.incipit = "Christ is baptized! He enlightens…"
 meMA.Kathisma21.text = "Christ is baptized! He enlightens the world! ⁄ The Father testifies from heaven: ⁄ This is my Son, in whom I am well pleased; ⁄ listen to Him! ⁄ This is He who fills the universe with radiance! ⁄ He is baptized in His compassion, ⁄⁄ that as God He may save the human race!"
@@ -212,11 +214,13 @@ meMA.Ode3H.incipit = he.h.m2_en_US_oca.heHE.ExinthisenIErimos.incipit
 meMA.Ode3H.text = he.h.m2_en_US_oca.heHE.ExinthisenIErimos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma2.incipit = me.m01.d06_en_US_oca.meMA.Kathisma31.incipit
 meMA.Ode3Kathisma2.text = me.m01.d06_en_US_oca.meMA.Kathisma31.text

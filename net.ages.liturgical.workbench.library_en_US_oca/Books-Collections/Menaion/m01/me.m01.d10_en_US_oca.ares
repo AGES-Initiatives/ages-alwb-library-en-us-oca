@@ -98,11 +98,13 @@ meVE.Apolytikion1.incipit = he.ga_en_US_oca.heGA.OTheosTonPateronImon.incipit
 meVE.Apolytikion1.text = he.ga_en_US_oca.heGA.OTheosTonPateronImon.text
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Kathisma11.greekmelody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.greekname
 meMA.Kathisma11.melody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.notmetered
 meMA.Kathisma11.incipit = "Today the Master stands in…"
 meMA.Kathisma11.text = "Today the Master stands in the Jordan. ⁄ He is baptized in the waters by the holy Forerunner. ⁄ The Father testifies from on high: ⁄ This is my Son, my Beloved! ⁄ The Spirit is revealed in a strange visit, ⁄⁄ descending as a dove upon Him."
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 meMA.Kathisma21.incipit = "The time of God's manifestation…"
 meMA.Kathisma21.text = "The time of God's manifestation is come! ⁄ Christ is revealed to us in the Jordan: ⁄ Come, O faithful, ⁄ let us draw water and be delivered from our sins, ⁄ for Christ has compassionately clothed Himself in flesh. ⁄ He seeks the sheep caught in the jaws of the wolf. ⁄ He will find him and lead him back into paradise; ⁄ He is revealed in the Jordan, ⁄⁄ for the illumination of the universe."
@@ -216,16 +218,19 @@ meMA.Ode3H.incipit = he.h.m1_en_US_oca.heHE.OMonosEidos.incipit
 meMA.Ode3H.text = he.h.m1_en_US_oca.heHE.OMonosEidos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_oca.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_oca.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3Kathisma3.greekmelody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.greekname
 meMA.Ode3Kathisma3.melody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.notmetered
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""

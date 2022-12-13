@@ -110,11 +110,13 @@ meVE.Apolytikion2ger.incipit = "…"
 meVE.Apolytikion2ger.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.notmetered
 meMA.Kathisma11.incipit = "Virgins, give praise! ⁄ Mothers…"
 meMA.Kathisma11.text = "Virgins, give praise! ⁄ Mothers, keep the feast! ⁄ People, give glory! ⁄ Priests, bless the all-pure Mother of God! ⁄ For she who was before a little child in the flesh, ⁄ is brought to the Temple as the most holy temple of God! ⁄ Therefore we celebrate a spiritual feast ⁄ and we sing hymns to her, ⁄⁄ for she is an intercessor for the human race!"
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 meMA.Kathisma21.incipit = "Go before us, David, into…"
 meMA.Kathisma21.text = "Go before us, David, into the Temple of God, ⁄ and receive our Queen with rejoicing, crying out to her: ⁄ Enter, Lady! ⁄ Enter into the Temple of the King! ⁄ Her glory is understood allegorically, ⁄ for from her Christ the Light ⁄⁄ desires to pour Himself forth to all!"
@@ -236,16 +238,19 @@ meMA.Ode3H.incipit = he.h.m1_en_US_oca.heHE.ToProTonAionon.incipit
 meMA.Ode3H.text = he.h.m1_en_US_oca.heHE.ToProTonAionon.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3Kathisma3.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma3.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma3.incipit = me.m11.d21_en_US_oca.meMA.Kathisma11.incipit
 meMA.Ode3Kathisma3.text = me.m11.d21_en_US_oca.meMA.Kathisma11.text

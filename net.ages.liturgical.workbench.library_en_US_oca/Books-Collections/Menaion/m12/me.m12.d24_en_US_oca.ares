@@ -297,12 +297,14 @@ meCO.Ode9C13.incipit = "Let the creation rejoice exceedingly!…"
 meCO.Ode9C13.text = "Let the creation rejoice exceedingly! ⁄ The Creator now makes Himself to be created! ⁄ He Who is before all things now makes Himself known as God newly-revealed! ⁄ Let the Magi with their gifts make haste to meet Him! ⁄ Let the shepherds clap their hands in faith at the wonder! ⁄ Let mortals join the angels and celebrate in the feast!"
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Kathisma11.greekmelody = he.a.m6_en_US_oca.heAU.AngelikaiDynameis.greekname
 meMA.Kathisma11.melody = he.a.m6_en_US_oca.heAU.AngelikaiDynameis.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode8
-meMA.Kathisma21.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+meMA.Kathisma21.greekmelody = he.a.m8_en_US_oca.heAU.AvlonPoimenikon.greekname
+meMA.Kathisma21.melody = he.a.m8_en_US_oca.heAU.AvlonPoimenikon.name
 meMA.Kathisma21.incipit = he.a.m8_en_US_oca.heAU.AvlonPoimenikon.incipit
 meMA.Kathisma21.text = he.a.m8_en_US_oca.heAU.AvlonPoimenikon.text
 
@@ -477,16 +479,19 @@ meMA.Ode3H.incipit = he.h.m2_en_US_oca.heHE.EnPetraMeTisPisteos.incipit
 meMA.Ode3H.text = he.h.m2_en_US_oca.heHE.EnPetraMeTisPisteos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3Kathisma3.greekmelody = he.a.m8_en_US_oca.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma3.melody = he.a.m8_en_US_oca.heAU.ToProstachthen.notmetered
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""

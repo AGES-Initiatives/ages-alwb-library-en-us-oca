@@ -202,21 +202,25 @@ meCO.Ode9C2H.incipit = he.h.m2_en_US_oca.heHE.ITonAchoritonTheon.incipit
 meCO.Ode9C2H.text = he.h.m2_en_US_oca.heHE.ITonAchoritonTheon.text
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma11.incipit = "Jesus, You bear…"
 meMA.Kathisma11.text = "Jesus, You bear my poverty. ⁄ You come Yourself to ask for Baptism by a servant, ⁄ mingling with us Your servants, Lover of mankind. ⁄ When John saw You, he cried out: ⁄ How shall I baptize You, most good God, ⁄⁄ for You are wholly free from our filth!"
 
 meMA.Kathisma12.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Kathisma12.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma12.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma12.incipit = "You are about to come…"
 meMA.Kathisma12.text = "You are about to come to the streams of Jordan, O Christ; ⁄ in love accomplishing our refashioning in its waters. ⁄ Rejoice, holy Forerunner, for you behold upborne in the waters ⁄⁄ Him Who wishes to be baptized: the only Lover of mankind!"
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 meMA.Kathisma21.incipit = "He who is rich…"
 meMA.Kathisma21.text = "He who is rich has become poor, in his boundless compassion, ⁄ desiring to make rich those who fell of old into corruption. ⁄ He comes to enter the streams of Jordan, ⁄ to be baptized by John and made manifest. ⁄⁄ Let us sing, believers, praising His condescension!"
 
 meMA.Kathisma22.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma22.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 meMA.Kathisma22.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 meMA.Kathisma22.incipit = "Today the voice…"
 meMA.Kathisma22.text = "Today the voice of Isaiah is fulfilled, which said: ⁄ Prepare the way of the Lord! ⁄ Make straight His paths! ⁄ For the voice of John, the Lover of the desert, resounds as a trumpet ⁄⁄ calling us all together to behold a strange wonder!"
@@ -355,11 +359,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_oca.heHE.TonFovonSouKyrie.incipit
 meMA.Ode3H.text = he.h.m8_en_US_oca.heHE.TonFovonSouKyrie.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_oca.heAU.AnestisEkNekron.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.heAU.AnestisEkNekron.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

@@ -61,7 +61,7 @@ meSV.AposGlory.incipit = meVE.Lity5.incipit
 meSV.AposGlory.text = meVE.Lity5.text
 
 meVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode4
-meVE.Stichera01.melody = miscellanea_en_US_oca.misc.Automelon
+meVE.Stichera01.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.melody
 meVE.Stichera01.incipit = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.incipit
 meVE.Stichera01.text = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.text
 
@@ -170,16 +170,19 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Kathisma21.greekmelody = he.a.m3_en_US_oca.heAU.TheiasPisteos.greekname
 meMA.Kathisma21.melody = he.a.m3_en_US_oca.heAU.TheiasPisteos.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -337,11 +340,13 @@ meMA.Ode3C2T.incipit = "You gave birth in the…"
 meMA.Ode3C2T.text = "You gave birth in the flesh, all-pure one, ⁄ to the bodiless One who has enlightened the ends of the earth ⁄ and Who before all things is equally unoriginate with the Father. ⁄ Therefore we the faithful honor you, the Theotokos!"
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

@@ -131,11 +131,13 @@ meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode5
+meMA.Kathisma11.greekmelody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma11.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma12.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Kathisma12.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma12.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma12.incipit = "…"
 meMA.Kathisma12.text = ""
@@ -146,21 +148,25 @@ meMA.Kathisma13.incipit = "…"
 meMA.Kathisma13.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma21.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma22.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma22.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 meMA.Kathisma22.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma32.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kathisma32.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma32.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma32.incipit = "…"
 meMA.Kathisma32.text = ""
@@ -305,16 +311,19 @@ meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = "Pure and ever Virgin, ⁄ you conceived God in your womb without seed ⁄ and ineffably brought Him forth ⁄ upon whom the hosts of heaven dare not gaze!"
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_oca.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_oca.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma2.incipit = "Like water, you have given…"
 meMA.Ode3Kathisma2.text = "Like water, you have given the whole world to drink of your teachings: ⁄ the collected dogmas of piety, ⁄ for the well-spring of life truly lived within you, Basil! ⁄ Since you have gained boldness before Him, divinely inspired one, ⁄⁄ beseech Him to grant us great mercy!"
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Ode3Kathisma3.greekmelody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.greekname
 meMA.Ode3Kathisma3.melody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.notmetered
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""

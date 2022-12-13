@@ -174,16 +174,19 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Kathisma11.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.greekname
+meMA.Kathisma11.melody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.name
 meMA.Kathisma11.incipit = he.a.m1_en_US_oca.heAU.ChorosAngelikos.incipit
 meMA.Kathisma11.text = he.a.m1_en_US_oca.heAU.ChorosAngelikos.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -266,6 +269,7 @@ meMA.Ode3C13.incipit = "The Creator…"
 meMA.Ode3C13.text = "The Creator, become a young Child ⁄ without undergoing change in His divinity, ⁄ has reshaped our nature taken from the earth, ⁄ and destined to return to earth once more."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.incipit = "In days of old on…"
 meMA.Ode3Kathisma1.text = "In days of old on Mount Sinai, ⁄ Moses saw the back of God ⁄ and was counted worthy in darkness and a storm of wind ⁄ to hear faintly the divine voice. ⁄ But now Simeon has taken God in his arms, ⁄ Who for our sakes took flesh without change! ⁄ Joyfully he hastens to depart to the life eternal, ⁄ and therefore he cries aloud: ⁄⁄ Lord, now let Your servant depart in peace!"

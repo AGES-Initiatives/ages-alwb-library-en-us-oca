@@ -78,6 +78,7 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode5
+meMA.Kathisma11.greekmelody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma11.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma11.incipit = "Elizabeth has been freed…"
 meMA.Kathisma11.text = "Elizabeth has been freed from barrenness; ⁄ the Virgin remains a Virgin ⁄ though conceiving in her womb at the cry of Gabriel! ⁄ John the Forerunner leaps in his mother's womb, ⁄ foreknowing his God and Master ⁄ become incarnate within the Virgin's womb ⁄⁄ for our salvation!"
@@ -88,6 +89,7 @@ meMA.Kathisma1T.incipit = oc.m5.d1_en_US_oca.ocMA.Kathisma13.incipit
 meMA.Kathisma1T.text = oc.m5.d1_en_US_oca.ocMA.Kathisma13.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 meMA.Kathisma21.incipit = "The sacred Forerunner…"
 meMA.Kathisma21.text = "The sacred Forerunner has been born: ⁄ The dove that loves the wilderness. ⁄ He preaches repentance ⁄ and shows the incarnate Christ! ⁄ He is the intercessor for all sinners, ⁄ ever helping all who are tossed by storms! ⁄⁄ By his prayers, save Your world, O Christ!"
@@ -152,12 +154,13 @@ meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_oca.misc.Mode4
-meMA.Ode3KathismaT.melody = miscellanea_en_US_oca.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.melody
 meMA.Ode3KathismaT.incipit = he.a.m4_en_US_oca.heAU.KateplagiIosif.incipit
 meMA.Ode3KathismaT.text = he.a.m4_en_US_oca.heAU.KateplagiIosif.text
 
