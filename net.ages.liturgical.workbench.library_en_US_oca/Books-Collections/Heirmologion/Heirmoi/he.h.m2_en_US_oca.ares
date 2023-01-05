@@ -355,7 +355,7 @@ heHE.OAnthraxToIsaia.text = ""
 
 heHE.OFotismos.greekname = ""
 heHE.OFotismos.name = "(N/M)"
-heHE.OFotismos.incipit = "(N/M)…"
+heHE.OFotismos.incipit = "…"
 heHE.OFotismos.notmetered = "(N/M)"
 heHE.OFotismos.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
 heHE.OFotismos.mode = miscellanea_en_US_oca.misc.Mode2
@@ -553,10 +553,10 @@ heHE.TaCherouvimMimoumenoi.mode = miscellanea_en_US_oca.misc.Mode2
 heHE.TaCherouvimMimoumenoi.ode = miscellanea_en_US_oca.misc.Ode7
 heHE.TaCherouvimMimoumenoi.text = ""
 
-heHE.TinAchlynTisPsychisMou.greekname = ""
-heHE.TinAchlynTisPsychisMou.name = ""
+heHE.TinAchlynTisPsychisMou.notmetered = "N/M (I implore You to scatter.)"
+heHE.TinAchlynTisPsychisMou.greekname = "Τὴν ἀχλὺν τῆς ψυχῆς μου."
+heHE.TinAchlynTisPsychisMou.name = "I implore You to scatter."
 heHE.TinAchlynTisPsychisMou.incipit = "…"
-heHE.TinAchlynTisPsychisMou.notmetered = "(N/M)"
 heHE.TinAchlynTisPsychisMou.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
 heHE.TinAchlynTisPsychisMou.mode = miscellanea_en_US_oca.misc.Mode2
 heHE.TinAchlynTisPsychisMou.ode = miscellanea_en_US_oca.misc.Ode5
@@ -598,10 +598,11 @@ heHE.TinParthenianSou.mode = miscellanea_en_US_oca.misc.Mode2
 heHE.TinParthenianSou.ode = miscellanea_en_US_oca.misc.Ode9
 heHE.TinParthenianSou.text = ""
 
-heHE.TinYperfyosSarki.greekname = ""
+heHE.TinYperfyosSarki.greekname = "Τὴν ὑπερφυῶς σαρκί."
+heHE.TinYperfyosSarki.incipit = "You conceived within your womb…"
 heHE.TinYperfyosSarki.name = "Faithful, let us magnify. (N/M)"
-heHE.TinYperfyosSarki.incipit = "Faithful, let us magnify. (N/M)…"
-heHE.TinYperfyosSarki.notmetered = "(N/M)"
+heHE.TinYperfyosSarki.incipit = "Faithful, let us magnify…"
+heHE.TinYperfyosSarki.notmetered = "(N/M You conceived.)"
 heHE.TinYperfyosSarki.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
 heHE.TinYperfyosSarki.mode = miscellanea_en_US_oca.misc.Mode2
 heHE.TinYperfyosSarki.ode = miscellanea_en_US_oca.misc.Ode9
