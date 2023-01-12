@@ -41,16 +41,19 @@ trVE.AposMartyric.incipit = "…"
 trVE.AposMartyric.text = ""
 
 trVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode4
+trVE.AposTheotokion.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 trVE.AposTheotokion.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 trVE.AposTheotokion.incipit = "…"
 trVE.AposTheotokion.text = ""
 
 trMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Kathisma21.greekmelody = he.a.m2_en_US_oca.heAU.EfsplagchniasYparchousa.greekname
 trMA.Kathisma21.melody = he.a.m2_en_US_oca.heAU.EfsplagchniasYparchousa.notmetered
 trMA.Kathisma21.incipit = "Let us acquire compunction of…"
 trMA.Kathisma21.text = "Let us acquire compunction of soul ⁄ as God-given first-fruits of the fast. ⁄ Let us cry: Accept our prayer as pure incense, O Christ our Master. ⁄ Deliver us, we entreat you, from the stench of corruption ⁄ and from fearful torment. ⁄⁄ for you alone are ready to forgive!"
 
 trMA.Kathisma22.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Kathisma22.greekmelody = he.a.m2_en_US_oca.heAU.EfsplagchniasYparchousa.greekname
 trMA.Kathisma22.melody = he.a.m2_en_US_oca.heAU.EfsplagchniasYparchousa.melody
 trMA.Kathisma22.incipit = he.a.m2_en_US_oca.heAU.EfsplagchniasYparchousa.incipit
 trMA.Kathisma22.text = he.a.m2_en_US_oca.heAU.EfsplagchniasYparchousa.text
@@ -74,6 +77,7 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode1C11.greekmelody = he.h.m2_en_US_oca.heHE.DefteLaoi.greekname
 trMA.Ode1C11.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 trMA.Ode1C11.incipit = "How shall I begin to…"
 trMA.Ode1C11.text = "How shall I begin to weep for my failures? ⁄ Where can I make a start for salvation? ⁄ I have lived as a Prodigal. ⁄ Save me by the ways that are Your, Bountiful One."
@@ -107,6 +111,7 @@ trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C21.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode1C21.greekmelody = he.h.m2_en_US_oca.heHE.DefteLaoi.greekname
 trMA.Ode1C21.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.notmetered
 trMA.Ode1C21.incipit = "…"
 trMA.Ode1C21.text = ""
@@ -143,12 +148,14 @@ trMA.Ode1C2A2.text = "Adam ate the food ⁄ and was cast out of paradise for his
 
 trMA.Ode1C2H.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C2H.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode1C2H.greekmelody = he.h.m2_en_US_oca.heHE.DefteLaoi.greekname
 trMA.Ode1C2H.melody = he.h.m2_en_US_oca.heHE.DefteLaoi.melody
 trMA.Ode1C2H.incipit = he.h.m2_en_US_oca.heHE.DefteLaoi.incipit
 trMA.Ode1C2H.text = he.h.m2_en_US_oca.heHE.DefteLaoi.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode8C11.greekmelody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.greekname
 trMA.Ode8C11.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 trMA.Ode8C11.incipit = "Christ, by the light of…"
 trMA.Ode8C11.text = "Christ, by the light of the fear of You, ⁄ renew my soul, ⁄ which is in darkness and burning with bitterness; ⁄ show me the light of salvation so that I may glorify You forever."
@@ -173,6 +180,7 @@ trMA.Ode8C1T.text = "Pure Virgin, ⁄ you have transformed our earthly and corru
 
 trMA.Ode8C21.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode8C21.greekmelody = he.h.m2_en_US_oca.heHE.TonPalaiDrosisanta.greekname
 trMA.Ode8C21.melody = he.h.m2_en_US_oca.heHE.TonPalaiDrosisanta.notmetered
 trMA.Ode8C21.incipit = "Faithful, Let us enter the…"
 trMA.Ode8C21.text = "Faithful, Let us enter the fast with joy! ⁄ Let us not be sad, ⁄ but let us clean our faces with the waters of passionlessness, ⁄ blessing and exalting Christ forever!"
@@ -203,12 +211,14 @@ trMA.Ode8C2A1.text = "The Lord consecrated and sanctified these Forty Days of th
 
 trMA.Ode8C2H.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode8C2H.greekmelody = he.h.m2_en_US_oca.heHE.TonPalaiDrosisanta.greekname
 trMA.Ode8C2H.melody = he.h.m2_en_US_oca.heHE.TonPalaiDrosisanta.melody
 trMA.Ode8C2H.incipit = he.h.m2_en_US_oca.heHE.TonPalaiDrosisanta.incipit
 trMA.Ode8C2H.text = he.h.m2_en_US_oca.heHE.TonPalaiDrosisanta.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode9C11.greekmelody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.greekname
 trMA.Ode9C11.melody = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.notmetered
 trMA.Ode9C11.incipit = "This is the first day…"
 trMA.Ode9C11.text = "This is the first day of the Fast. ⁄ For you, soul, let it be the setting aside of sin, ⁄ the return to God; to life with Him. ⁄ Flee from the abyss of evil. ⁄ Love only those ways which lead to peace, ⁄ resting before and within God."
@@ -233,6 +243,7 @@ trMA.Ode9C1T.text = "Heal my wretched soul, ⁄ made weak by the attacks of the 
 
 trMA.Ode9C21.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode9C21.greekmelody = he.h.m2_en_US_oca.heHE.TinYperfyosSarki.greekname
 trMA.Ode9C21.melody = he.h.m2_en_US_oca.heHE.TinYperfyosSarki.notmetered
 trMA.Ode9C21.incipit = "Now the time of the…"
 trMA.Ode9C21.text = "Now the time of the holy Fast has come. ⁄ Let us begin it with a return to good actions, ⁄ for it is written, In quarrels and fights, you shall not fast."
@@ -263,6 +274,7 @@ trMA.Ode9C2A1.text = "Only one day, he said, ⁄ is the life of those on earth. 
 
 trMA.Ode9C2H.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode9C2H.greekmelody = he.h.m2_en_US_oca.heHE.TinYperfyosSarki.greekname
 trMA.Ode9C2H.melody = he.h.m2_en_US_oca.heHE.TinYperfyosSarki.melody
 trMA.Ode9C2H.incipit = he.h.m2_en_US_oca.heHE.TinYperfyosSarki.incipit
 trMA.Ode9C2H.text = he.h.m2_en_US_oca.heHE.TinYperfyosSarki.text

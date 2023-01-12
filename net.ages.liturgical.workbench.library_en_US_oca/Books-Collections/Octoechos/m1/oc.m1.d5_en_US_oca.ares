@@ -3,6 +3,7 @@ A_Resource_Whose_Name = oc.m1.d5_en_US_oca
 ocBK.ModeNaked = miscellanea_en_US_oca.misc.Mode1.naked
 
 ocVE.Stichera1.mode = miscellanea_en_US_oca.misc.Mode1
+ocVE.Stichera1.greekmelody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.greekname
 ocVE.Stichera1.melody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.notmetered
 ocVE.Stichera1.incipit = "…"
 ocVE.Stichera1.text = ""
@@ -18,6 +19,7 @@ ocVE.Stichera3.incipit = "…"
 ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = miscellanea_en_US_oca.misc.Mode1
+ocVE.Stichera4.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 ocVE.Stichera4.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 ocVE.Stichera4.incipit = "…"
 ocVE.Stichera4.text = ""
@@ -33,6 +35,7 @@ ocVE.Stichera6.incipit = "…"
 ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+ocVE.SticTheotokion.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 ocVE.SticTheotokion.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 ocVE.SticTheotokion.incipit = "…"
 ocVE.SticTheotokion.text = ""
@@ -43,16 +46,19 @@ ocVE.Aposticha1.incipit = "…"
 ocVE.Aposticha1.text = ""
 
 ocVE.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode1
+ocVE.Aposticha2.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 ocVE.Aposticha2.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 ocVE.Aposticha2.incipit = "…"
 ocVE.Aposticha2.text = ""
 
 ocVE.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode1
-ocVE.Aposticha3.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+ocVE.Aposticha3.greekmelody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.greekname
+ocVE.Aposticha3.melody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.melody
 ocVE.Aposticha3.incipit = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.incipit
 ocVE.Aposticha3.text = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.text
 
 ocVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+ocVE.AposTheotokion.greekmelody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.greekname
 ocVE.AposTheotokion.melody = he.a.m1_en_US_oca.heAU.PaneffimoiMartyres.notmetered
 ocVE.AposTheotokion.incipit = oc.m1.d3_en_US_oca.ocMA.AposTheotokion.incipit
 ocVE.AposTheotokion.text = oc.m1.d3_en_US_oca.ocMA.AposTheotokion.text
@@ -68,6 +74,7 @@ ocMA.Kathisma11.incipit = "…"
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = miscellanea_en_US_oca.misc.Mode1
+ocMA.Kathisma12.greekmelody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.greekname
 ocMA.Kathisma12.melody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.notmetered
 ocMA.Kathisma12.incipit = "…"
 ocMA.Kathisma12.text = ""
@@ -78,31 +85,37 @@ ocMA.Kathisma13.incipit = "…"
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode1
+ocMA.Kathisma21.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 ocMA.Kathisma21.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 ocMA.Kathisma21.incipit = "…"
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = miscellanea_en_US_oca.misc.Mode1
+ocMA.Kathisma22.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 ocMA.Kathisma22.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 ocMA.Kathisma22.incipit = "…"
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = miscellanea_en_US_oca.misc.Mode1
+ocMA.Kathisma23.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 ocMA.Kathisma23.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 ocMA.Kathisma23.incipit = "…"
 ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode1
+ocMA.Kathisma31.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 ocMA.Kathisma31.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 ocMA.Kathisma31.incipit = "…"
 ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = miscellanea_en_US_oca.misc.Mode1
+ocMA.Kathisma32.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 ocMA.Kathisma32.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 ocMA.Kathisma32.incipit = "…"
 ocMA.Kathisma32.text = ""
 
 ocMA.Kathisma33.mode = miscellanea_en_US_oca.misc.Mode1
+ocMA.Kathisma33.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 ocMA.Kathisma33.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 ocMA.Kathisma33.incipit = "…"
 ocMA.Kathisma33.text = ""
@@ -113,6 +126,7 @@ ocMA.C2.acrostic.text = ""
 
 ocMA.OdeW1C1H.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW1C1H.ode = miscellanea_en_US_oca.misc.Ode2
+ocMA.OdeW1C1H.greekmelody = he.h.m1_en_US_oca.heHE.SouITropaiouchos.greekname
 ocMA.OdeW1C1H.melody = he.h.m1_en_US_oca.heHE.SouITropaiouchos.melody
 ocMA.OdeW1C1H.incipit = he.h.m1_en_US_oca.heHE.SouITropaiouchos.incipit
 ocMA.OdeW1C1H.text = he.h.m1_en_US_oca.heHE.SouITropaiouchos.text
@@ -143,6 +157,7 @@ ocMA.OdeW1C1T.text = ""
 
 ocMA.OdeW1C21.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW1C21.ode = miscellanea_en_US_oca.misc.Ode1
+ocMA.OdeW1C21.greekmelody = he.h.m1_en_US_oca.heHE.OdinEpinikion.greekname
 ocMA.OdeW1C21.melody = he.h.m1_en_US_oca.heHE.OdinEpinikion.name
 ocMA.OdeW1C21.incipit = "…"
 ocMA.OdeW1C21.text = ""
@@ -167,6 +182,7 @@ ocMA.OdeW1C2T.text = ""
 
 ocMA.OdeW3C1H.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW3C1H.ode = miscellanea_en_US_oca.misc.Ode3
+ocMA.OdeW3C1H.greekmelody = he.h.m1_en_US_oca.heHE.OMonosEidos.greekname
 ocMA.OdeW3C1H.melody = he.h.m1_en_US_oca.heHE.OMonosEidos.melody
 ocMA.OdeW3C1H.incipit = he.h.m1_en_US_oca.heHE.OMonosEidos.incipit
 ocMA.OdeW3C1H.text = he.h.m1_en_US_oca.heHE.OMonosEidos.text
@@ -197,6 +213,7 @@ ocMA.OdeW3C1T.text = ""
 
 ocMA.OdeW3C21.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW3C21.ode = miscellanea_en_US_oca.misc.Ode3
+ocMA.OdeW3C21.greekmelody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.greekname
 ocMA.OdeW3C21.melody = he.h.m1_en_US_oca.heHE.StereothitoIKardiaMou.name
 ocMA.OdeW3C21.incipit = "…"
 ocMA.OdeW3C21.text = ""
@@ -221,6 +238,7 @@ ocMA.OdeW3C2T.text = ""
 
 ocMA.OdeW4C1H.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW4C1H.ode = miscellanea_en_US_oca.misc.Ode4
+ocMA.OdeW4C1H.greekmelody = he.h.m1_en_US_oca.heHE.OrosSeTiChariti.greekname
 ocMA.OdeW4C1H.melody = he.h.m1_en_US_oca.heHE.OrosSeTiChariti.melody
 ocMA.OdeW4C1H.incipit = he.h.m1_en_US_oca.heHE.OrosSeTiChariti.incipit
 ocMA.OdeW4C1H.text = he.h.m1_en_US_oca.heHE.OrosSeTiChariti.text
@@ -251,6 +269,7 @@ ocMA.OdeW4C1T.text = ""
 
 ocMA.OdeW4C21.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW4C21.ode = miscellanea_en_US_oca.misc.Ode4
+ocMA.OdeW4C21.greekmelody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.greekname
 ocMA.OdeW4C21.melody = he.h.m1_en_US_oca.heHE.EnPnevmatiProvlepon.name
 ocMA.OdeW4C21.incipit = "…"
 ocMA.OdeW4C21.text = ""
@@ -275,6 +294,7 @@ ocMA.OdeW4C2T.text = ""
 
 ocMA.OdeW5C1H.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW5C1H.ode = miscellanea_en_US_oca.misc.Ode5
+ocMA.OdeW5C1H.greekmelody = he.h.m1_en_US_oca.heHE.OFotisasTiEllampsei.greekname
 ocMA.OdeW5C1H.melody = he.h.m1_en_US_oca.heHE.OFotisasTiEllampsei.melody
 ocMA.OdeW5C1H.incipit = he.h.m1_en_US_oca.heHE.OFotisasTiEllampsei.incipit
 ocMA.OdeW5C1H.text = he.h.m1_en_US_oca.heHE.OFotisasTiEllampsei.text
@@ -305,6 +325,7 @@ ocMA.OdeW5C1T.text = ""
 
 ocMA.OdeW5C21.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW5C21.ode = miscellanea_en_US_oca.misc.Ode5
+ocMA.OdeW5C21.greekmelody = he.h.m1_en_US_oca.heHE.ToFaeinonIminExanateilon.greekname
 ocMA.OdeW5C21.melody = he.h.m1_en_US_oca.heHE.ToFaeinonIminExanateilon.name
 ocMA.OdeW5C21.incipit = "…"
 ocMA.OdeW5C21.text = ""
@@ -329,6 +350,7 @@ ocMA.OdeW5C2T.text = ""
 
 ocMA.OdeW6C1H.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW6C1H.ode = miscellanea_en_US_oca.misc.Ode6
+ocMA.OdeW6C1H.greekmelody = he.h.m1_en_US_oca.heHE.EkyklosenImas.greekname
 ocMA.OdeW6C1H.melody = he.h.m1_en_US_oca.heHE.EkyklosenImas.melody
 ocMA.OdeW6C1H.incipit = he.h.m1_en_US_oca.heHE.EkyklosenImas.incipit
 ocMA.OdeW6C1H.text = he.h.m1_en_US_oca.heHE.EkyklosenImas.text
@@ -359,6 +381,7 @@ ocMA.OdeW6C1T.text = ""
 
 ocMA.OdeW6C21.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW6C21.ode = miscellanea_en_US_oca.misc.Ode6
+ocMA.OdeW6C21.greekmelody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.greekname
 ocMA.OdeW6C21.melody = he.h.m1_en_US_oca.heHE.TonProfitinIonan.name
 ocMA.OdeW6C21.incipit = "…"
 ocMA.OdeW6C21.text = ""
@@ -383,6 +406,7 @@ ocMA.OdeW6C2T.text = ""
 
 ocMA.OdeW7C1H.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW7C1H.ode = miscellanea_en_US_oca.misc.Ode7
+ocMA.OdeW7C1H.greekmelody = he.h.m1_en_US_oca.heHE.SeNoitin.greekname
 ocMA.OdeW7C1H.melody = he.h.m1_en_US_oca.heHE.SeNoitin.melody
 ocMA.OdeW7C1H.incipit = he.h.m1_en_US_oca.heHE.SeNoitin.incipit
 ocMA.OdeW7C1H.text = he.h.m1_en_US_oca.heHE.SeNoitin.text
@@ -413,6 +437,7 @@ ocMA.OdeW7C1T.text = ""
 
 ocMA.OdeW7C21.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW7C21.ode = miscellanea_en_US_oca.misc.Ode7
+ocMA.OdeW7C21.greekmelody = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.greekname
 ocMA.OdeW7C21.melody = he.h.m1_en_US_oca.heHE.TousEnKaminoPaidas.name
 ocMA.OdeW7C21.incipit = "…"
 ocMA.OdeW7C21.text = ""
@@ -437,6 +462,7 @@ ocMA.OdeW7C2T.text = ""
 
 ocMA.OdeW8C1H.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW8C1H.ode = miscellanea_en_US_oca.misc.Ode8
+ocMA.OdeW8C1H.greekmelody = he.h.m1_en_US_oca.heHE.EnKaminoPaides.greekname
 ocMA.OdeW8C1H.melody = he.h.m1_en_US_oca.heHE.EnKaminoPaides.melody
 ocMA.OdeW8C1H.incipit = he.h.m1_en_US_oca.heHE.EnKaminoPaides.incipit
 ocMA.OdeW8C1H.text = he.h.m1_en_US_oca.heHE.EnKaminoPaides.text
@@ -467,6 +493,7 @@ ocMA.OdeW8C1T.text = ""
 
 ocMA.OdeW8C21.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW8C21.ode = miscellanea_en_US_oca.misc.Ode8
+ocMA.OdeW8C21.greekmelody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.greekname
 ocMA.OdeW8C21.melody = he.h.m1_en_US_oca.heHE.OnFrittousinAngeloi.name
 ocMA.OdeW8C21.incipit = "…"
 ocMA.OdeW8C21.text = ""
@@ -491,6 +518,7 @@ ocMA.OdeW8C2T.text = ""
 
 ocMA.OdeW9C1H.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW9C1H.ode = miscellanea_en_US_oca.misc.Ode9
+ocMA.OdeW9C1H.greekmelody = he.h.m1_en_US_oca.heHE.TyponTisAgnis.greekname
 ocMA.OdeW9C1H.melody = he.h.m1_en_US_oca.heHE.TyponTisAgnis.melody
 ocMA.OdeW9C1H.incipit = he.h.m1_en_US_oca.heHE.TyponTisAgnis.incipit
 ocMA.OdeW9C1H.text = he.h.m1_en_US_oca.heHE.TyponTisAgnis.text
@@ -521,6 +549,7 @@ ocMA.OdeW9C1T.text = ""
 
 ocMA.OdeW9C21.mode = miscellanea_en_US_oca.misc.Mode1
 ocMA.OdeW9C21.ode = miscellanea_en_US_oca.misc.Ode9
+ocMA.OdeW9C21.greekmelody = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.greekname
 ocMA.OdeW9C21.melody = he.h.m1_en_US_oca.heHE.TinFotoforonNefelin.name
 ocMA.OdeW9C21.incipit = "…"
 ocMA.OdeW9C21.text = ""
@@ -549,6 +578,7 @@ ocMA.Aposticha1.incipit = oc.m1.d5_en_US_oca.ocVE.Aposticha1.incipit
 ocMA.Aposticha1.text = oc.m1.d5_en_US_oca.ocVE.Aposticha1.text
 
 ocMA.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode1
+ocMA.Aposticha2.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 ocMA.Aposticha2.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 ocMA.Aposticha2.incipit = oc.m1.d5_en_US_oca.ocVE.Aposticha2.incipit
 ocMA.Aposticha2.text = oc.m1.d5_en_US_oca.ocVE.Aposticha2.text
@@ -559,6 +589,7 @@ ocMA.Aposticha3.incipit = "…"
 ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode1
+ocMA.AposTheotokion.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 ocMA.AposTheotokion.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
 ocMA.AposTheotokion.incipit = "…"
 ocMA.AposTheotokion.text = ""
@@ -613,6 +644,7 @@ octrMA.Triadic3.incipit = oc.m1.d2_en_US_oca.octrMA.Triadic3.incipit
 octrMA.Triadic3.text = oc.m1.d2_en_US_oca.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode1
+octrMA.Kathisma11.greekmelody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.greekname
 octrMA.Kathisma11.melody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.notmetered
 octrMA.Kathisma11.incipit = ocMA.Kathisma12.incipit
 octrMA.Kathisma11.text = ocMA.Kathisma12.text
@@ -628,6 +660,7 @@ octrMA.Kathisma1T.incipit = oc.m1.d4_en_US_oca.ocMA.Kathisma13.incipit
 octrMA.Kathisma1T.text = oc.m1.d4_en_US_oca.ocMA.Kathisma13.text
 
 octrMA.Ode7Martyricon.mode = miscellanea_en_US_oca.misc.Mode1
+octrMA.Ode7Martyricon.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 octrMA.Ode7Martyricon.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 octrMA.Ode7Martyricon.incipit = oc.m1.d5_en_US_oca.ocMA.Kathisma32.incipit
 octrMA.Ode7Martyricon.text = oc.m1.d5_en_US_oca.ocMA.Kathisma32.text

@@ -67,6 +67,7 @@ trMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode1C11.greekmelody = he.h.m2_en_US_oca.heHE.TinMoseosOdin.greekname
 trMA.Ode1C11.melody = he.h.m2_en_US_oca.heHE.TinMoseosOdin.notmetered
 trMA.Ode1C11.incipit = "Jesus my God…"
 trMA.Ode1C11.text = "Jesus my God, accept me also now in repentance ⁄ as You did the Prodigal Son: ⁄ I have lived all my life in carelessness ⁄ and provoked You to anger."
@@ -91,6 +92,7 @@ trMA.Ode1C1T.text = "Bestow the fullness of Your grace upon me, O God; ⁄ be a 
 
 trMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode3C11.greekmelody = he.h.m2_en_US_oca.heHE.SteirothentaMouTonNoun.greekname
 trMA.Ode3C11.melody = he.h.m2_en_US_oca.heHE.SteirothentaMouTonNoun.notmetered
 trMA.Ode3C11.incipit = "Completely beside myself…"
 trMA.Ode3C11.text = "Completely beside myself in madness, ⁄ I have clung to the sins suggested to me by the passions. ⁄ But accept me, O Christ, as the Prodigal."
@@ -114,17 +116,20 @@ trMA.Ode3C1T.incipit = "…"
 trMA.Ode3C1T.text = "My sins have brought me to poverty, ⁄ O fairest among women: ⁄ Enrich me, pure Virgin, with the vision of beauty, ⁄ that I may glorify you."
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 trMA.Ode3Kathisma1.incipit = oc.m1.d2_en_US_oca.ocMA.Kathisma21.incipit
 trMA.Ode3Kathisma1.text = oc.m1.d2_en_US_oca.ocMA.Kathisma21.text
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma2.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 trMA.Ode3Kathisma2.incipit = "You are the only guardian…"
 trMA.Ode3Kathisma2.text = "You are the only guardian and protection of the faithful, ⁄ pure and unwedded virgin Theotokos: ⁄ deliver from danger, distress and affliction ⁄ all who have put their hope in you ⁄ and by your divine intercession ⁄⁄ save our souls, O Maiden."
 
 trMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode4C11.greekmelody = he.h.m2_en_US_oca.heHE.TinEkParthenou.greekname
 trMA.Ode4C11.melody = he.h.m2_en_US_oca.heHE.TinEkParthenou.notmetered
 trMA.Ode4C11.incipit = "The wealth of blessings…"
 trMA.Ode4C11.text = "The wealth of blessings which You gave me, heavenly Father ⁄ I have wrongfully wasted, becoming the slave of strangers. ⁄ Therefore I cry aloud to You: ⁄ Father, I have sinned against You! ⁄ Receive me like the Prodigal of old, ⁄ and open Your arms to me."
@@ -149,6 +154,7 @@ trMA.Ode4C1T.text = "You are the help of men, and the refuge of the saved, ⁄ t
 
 trMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode5C11.greekmelody = he.h.m2_en_US_oca.heHE.TisNyktosDielthousis.greekname
 trMA.Ode5C11.melody = he.h.m2_en_US_oca.heHE.TisNyktosDielthousis.notmetered
 trMA.Ode5C11.incipit = "I was enslaved to strangers…"
 trMA.Ode5C11.text = "I was enslaved to strangers; ⁄ filled with shame, and an exile in the land of corruption. ⁄ But now I return, O merciful Lord, ⁄ and I cry to You: I have sinned!"
@@ -173,6 +179,7 @@ trMA.Ode5C1T.text = "All-holy Virgin, full of grace, ⁄ you have borne the Rede
 
 trMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode6C11.greekmelody = he.h.m2_en_US_oca.heHE.VythoAmartimaton.greekname
 trMA.Ode6C11.melody = he.h.m2_en_US_oca.heHE.VythoAmartimaton.notmetered
 trMA.Ode6C11.incipit = "The depths of sin…"
 trMA.Ode6C11.text = "The depths of sin ever hold me fast, ⁄ and the tempest of transgressions overwhelms me! ⁄ Pilot me, O Christ my God, to the haven of life ⁄ and save me, King of glory!"
@@ -217,6 +224,7 @@ trSY.lastline = ""
 
 trMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode7C11.greekmelody = he.h.m2_en_US_oca.heHE.TaCherouvimMimoumenoi.greekname
 trMA.Ode7C11.melody = he.h.m2_en_US_oca.heHE.TaCherouvimMimoumenoi.notmetered
 trMA.Ode7C11.incipit = "I have miserably bowed down…"
 trMA.Ode7C11.text = "I have miserably bowed down to the pleasures of the body ⁄ becoming wholly enslaved to the demons that provoke the passions. ⁄ I have become a stranger to You, Lover of mankind. ⁄ But now I cry with the voice of the Prodigal: ⁄ I have sinned, O Christ, despise me not, ⁄ for You alone are merciful."
@@ -241,6 +249,7 @@ trMA.Ode7C1T.text = "Theotokos, more glorious than the cherubim and seraphim, �
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode8C11.greekmelody = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.greekname
 trMA.Ode8C11.melody = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.notmetered
 trMA.Ode8C11.incipit = "In great mercy You came down…"
 trMA.Ode8C11.text = "In great mercy You came down upon earth ⁄ to save the world through Your voluntary poverty: ⁄ Save me in Your compassion, ⁄ for I am poor in all good works."
@@ -265,6 +274,7 @@ trMA.Ode8C1T.text = "Pure Mother of God, the only restoration of the fallen, ⁄
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode9C11.greekmelody = he.h.m2_en_US_oca.heHE.TonGigenonTisIkouse.greekname
 trMA.Ode9C11.melody = he.h.m2_en_US_oca.heHE.TonGigenonTisIkouse.notmetered
 trMA.Ode9C11.incipit = "Behold the affliction of my heart…"
 trMA.Ode9C11.text = "Behold the affliction of my heart, O Christ: ⁄ look upon my turning back; ⁄ behold my tears, O Savior, and do not despise me, ⁄ but in Your compassion, embrace me once again, ⁄ and count me with the number of the saved, ⁄ that with thanksgiving I may sing the praises of Your mercy."
@@ -294,16 +304,19 @@ trMA.Ode9C1T.incipit = "…"
 trMA.Ode9C1T.text = "I pray you, Virgin, through your light-giving intercessions, ⁄ enlighten the eyes of my mind, darkened by evil. ⁄ Lead me into the paths of repentance, ⁄ so shall I rightly sing your praises, ⁄ for you gave flesh to the ineffable Word!"
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 trMA.Exaposteilarion1.incipit = "…"
 trMA.Exaposteilarion1.text = ""
 
 trMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 trMA.Exaposteilarion2.incipit = "…"
 trMA.Exaposteilarion2.text = ""
 
 trMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.ExapTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 trMA.ExapTheotokion.incipit = "…"
 trMA.ExapTheotokion.text = ""

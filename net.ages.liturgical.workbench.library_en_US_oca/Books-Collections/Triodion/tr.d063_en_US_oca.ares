@@ -589,11 +589,13 @@ trCO.Ode9C1T.incipit = "…"
 trCO.Ode9C1T.text = ""
 
 trMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Kathisma11.greekmelody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma11.melody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.notmetered
 trMA.Kathisma11.incipit = "…"
 trMA.Kathisma11.text = ""
 
 trMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode5
+trMA.Kathisma21.greekmelody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.greekname
 trMA.Kathisma21.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
 trMA.Kathisma21.incipit = "…"
 trMA.Kathisma21.text = ""
@@ -604,6 +606,7 @@ trMA.C2.poet = poets_en_US_oca.po.KosmaMonachou
 
 trMA.Ode1C1H.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C1H.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode1C1H.greekmelody = he.h.m8_en_US_oca.heHE.AsomenToKyrio.greekname
 trMA.Ode1C1H.melody = he.h.m8_en_US_oca.heHE.AsomenToKyrio.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_US_oca.heHE.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_US_oca.heHE.AsomenToKyrio.text
@@ -613,6 +616,7 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode1C11.greekmelody = he.h.m8_en_US_oca.heHE.AsomenToKyrio.greekname
 trMA.Ode1C11.melody = he.h.m8_en_US_oca.heHE.AsomenToKyrio.notmetered
 trMA.Ode1C11.incipit = "…"
 trMA.Ode1C11.text = ""
@@ -640,6 +644,7 @@ trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C21.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode1C21.greekmelody = he.h.m8_en_US_oca.heHE.YgranDiodefsas.greekname
 trMA.Ode1C21.melody = he.h.m8_en_US_oca.heHE.YgranDiodefsas.notmetered
 trMA.Ode1C21.incipit = "In the beginning You have…"
 trMA.Ode1C21.text = "In the beginning You have created all things from nothing. ⁄ You know the secrets of our hearts. ⁄ Now, as Master, You have foretold to Your apostles ⁄ The falling-asleep of Lazarus."
@@ -670,12 +675,14 @@ trMA.Ode1K.text = he.h.m8_en_US_oca.heHE.YgranDiodefsas.text
 
 trMA.Ode3C1H.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode3C1H.greekmelody = he.h.m8_en_US_oca.heHE.SyEiToStereoma.greekname
 trMA.Ode3C1H.melody = he.h.m8_en_US_oca.heHE.SyEiToStereoma.melody
 trMA.Ode3C1H.incipit = he.h.m8_en_US_oca.heHE.SyEiToStereoma.incipit
 trMA.Ode3C1H.text = he.h.m8_en_US_oca.heHE.SyEiToStereoma.text
 
 trMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode3C11.greekmelody = he.h.m8_en_US_oca.heHE.SyEiToStereoma.greekname
 trMA.Ode3C11.melody = he.h.m8_en_US_oca.heHE.SyEiToStereoma.notmetered
 trMA.Ode3C11.incipit = "…"
 trMA.Ode3C11.text = ""
@@ -700,6 +707,7 @@ trMA.Ode3C14.text = ""
 
 trMA.Ode3C21.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C21.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode3C21.greekmelody = he.h.m8_en_US_oca.heHE.OuraniasApsidos.greekname
 trMA.Ode3C21.melody = he.h.m8_en_US_oca.heHE.OuraniasApsidos.notmetered
 trMA.Ode3C21.incipit = "Lord, Worker of Wonders, ⁄…"
 trMA.Ode3C21.text = "Lord, Worker of Wonders, ⁄ You stood in Bethany by the tomb of Lazarus, ⁄ Weeping for him, as is the way of mortal men, ⁄ Since You assumed the fullness of human weakness, ⁄ Jesus, my God."
@@ -729,23 +737,27 @@ trMA.Ode3K.incipit = he.h.m8_en_US_oca.heHE.OuraniasApsidos.incipit
 trMA.Ode3K.text = he.h.m8_en_US_oca.heHE.OuraniasApsidos.text
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 trMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 trMA.Ode3Kathisma1.incipit = "…"
 trMA.Ode3Kathisma1.text = ""
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 trMA.Ode3Kathisma2.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
 trMA.Ode3Kathisma2.incipit = "…"
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode4C1H.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode4C1H.greekmelody = he.h.m8_en_US_oca.heHE.EisakikoaKyrie.greekname
 trMA.Ode4C1H.melody = he.h.m8_en_US_oca.heHE.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_US_oca.heHE.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_US_oca.heHE.EisakikoaKyrie.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode4C11.greekmelody = he.h.m8_en_US_oca.heHE.EisakikoaKyrie.greekname
 trMA.Ode4C11.melody = he.h.m8_en_US_oca.heHE.EisakikoaKyrie.notmetered
 trMA.Ode4C11.incipit = "…"
 trMA.Ode4C11.text = ""
@@ -770,6 +782,7 @@ trMA.Ode4C1T.text = ""
 
 trMA.Ode4C21.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C21.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode4C21.greekmelody = he.h.m8_en_US_oca.heHE.SyMouIschys.greekname
 trMA.Ode4C21.melody = he.h.m8_en_US_oca.heHE.SyMouIschys.notmetered
 trMA.Ode4C21.incipit = "O Good Shepherd, Creator and…"
 trMA.Ode4C21.text = "O Good Shepherd, Creator and Savior, ⁄ You have seized Your lamb from the fierce and ravenous wolf. ⁄ Through him, by Your almighty power, ⁄ You have prefigured the universal glory of Your resurrection."
@@ -800,12 +813,14 @@ trMA.Ode4K.text = he.h.m8_en_US_oca.heHE.SyMouIschys.text
 
 trMA.Ode5C1H.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode5C1H.greekmelody = he.h.m8_en_US_oca.heHE.InaTiMeAposo.greekname
 trMA.Ode5C1H.melody = he.h.m8_en_US_oca.heHE.InaTiMeAposo.melody
 trMA.Ode5C1H.incipit = he.h.m8_en_US_oca.heHE.InaTiMeAposo.incipit
 trMA.Ode5C1H.text = he.h.m8_en_US_oca.heHE.InaTiMeAposo.text
 
 trMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode5C11.greekmelody = he.h.m8_en_US_oca.heHE.InaTiMeAposo.greekname
 trMA.Ode5C11.melody = he.h.m8_en_US_oca.heHE.InaTiMeAposo.notmetered
 trMA.Ode5C11.incipit = "…"
 trMA.Ode5C11.text = ""
@@ -824,6 +839,7 @@ trMA.Ode5C13.text = ""
 
 trMA.Ode5C21.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C21.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode5C21.greekmelody = he.h.m8_en_US_oca.heHE.InaTiMeAposo.greekname
 trMA.Ode5C21.melody = he.h.m8_en_US_oca.heHE.InaTiMeAposo.notmetered
 trMA.Ode5C21.incipit = "You have prayed to Your…"
 trMA.Ode5C21.text = "You have prayed to Your Father, and glorified His Name. ⁄ Your power is the same as His, O long-suffering Lord. ⁄ You thanked Him, confirming the faith of the crowd surrounding You, ⁄ And then Lazarus was raised by Your command!"
@@ -858,12 +874,14 @@ trMA.C4.poet = poets_en_US_oca.po.IoannouMonachou
 
 trMA.Ode6C1H.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode6C1H.greekmelody = he.h.m8_en_US_oca.heHE.TonIonanEnToKitei.greekname
 trMA.Ode6C1H.melody = he.h.m8_en_US_oca.heHE.TonIonanEnToKitei.melody
 trMA.Ode6C1H.incipit = he.h.m8_en_US_oca.heHE.TonIonanEnToKitei.incipit
 trMA.Ode6C1H.text = he.h.m8_en_US_oca.heHE.TonIonanEnToKitei.text
 
 trMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode6C11.greekmelody = he.h.m8_en_US_oca.heHE.TonIonanEnToKitei.greekname
 trMA.Ode6C11.melody = he.h.m8_en_US_oca.heHE.TonIonanEnToKitei.notmetered
 trMA.Ode6C11.incipit = "Love led You to Lazarus…"
 trMA.Ode6C11.text = "Love led You to Lazarus at Bethany, O Master. ⁄ Though his body was already corrupt, ⁄ You raised him up, for You are God. ⁄ You have rescued him from the bonds of hell."
@@ -876,6 +894,7 @@ trMA.Ode6C12.text = "Martha despaired, knowing that Lazarus had been dead four d
 
 trMA.Ode6C21.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C21.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode6C21.greekmelody = he.h.m8_en_US_oca.heHE.IlasthitiMoiSotir.greekname
 trMA.Ode6C21.melody = he.h.m8_en_US_oca.heHE.IlasthitiMoiSotir.notmetered
 trMA.Ode6C21.incipit = "…"
 trMA.Ode6C21.text = ""
@@ -915,12 +934,14 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C1H.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode7C1H.greekmelody = he.h.m8_en_US_oca.heHE.PaidesEvraion.greekname
 trMA.Ode7C1H.melody = he.h.m8_en_US_oca.heHE.PaidesEvraion.melody
 trMA.Ode7C1H.incipit = he.h.m8_en_US_oca.heHE.PaidesEvraion.incipit
 trMA.Ode7C1H.text = he.h.m8_en_US_oca.heHE.PaidesEvraion.text
 
 trMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode7C11.greekmelody = he.h.m8_en_US_oca.heHE.PaidesEvraion.greekname
 trMA.Ode7C11.melody = he.h.m8_en_US_oca.heHE.PaidesEvraion.notmetered
 trMA.Ode7C11.incipit = "…"
 trMA.Ode7C11.text = ""
@@ -933,6 +954,7 @@ trMA.Ode7C12.text = ""
 
 trMA.Ode7C21.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C21.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode7C21.greekmelody = he.h.m8_en_US_oca.heHE.OiEkTisIoudaias.greekname
 trMA.Ode7C21.melody = he.h.m8_en_US_oca.heHE.OiEkTisIoudaias.notmetered
 trMA.Ode7C21.incipit = "By Your weeping at the…"
 trMA.Ode7C21.text = "By Your weeping at the grave of Your friend, O Lord, ⁄ You have dried up the fountain of Martha's sorrow. ⁄ By Your voluntary passion You have wiped away all Your people's tears. ⁄ Blessed are You forever, O Lord, our God!"
@@ -957,12 +979,14 @@ trMA.Ode7K.text = he.h.m8_en_US_oca.heHE.OiEkTisIoudaias.text
 
 trMA.Ode8C1H.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode8C1H.greekmelody = he.h.m8_en_US_oca.heHE.MousikonOrganon.greekname
 trMA.Ode8C1H.melody = he.h.m8_en_US_oca.heHE.MousikonOrganon.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_US_oca.heHE.MousikonOrganon.incipit
 trMA.Ode8C1H.text = he.h.m8_en_US_oca.heHE.MousikonOrganon.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode8C11.greekmelody = he.h.m8_en_US_oca.heHE.MousikonOrganon.greekname
 trMA.Ode8C11.melody = he.h.m8_en_US_oca.heHE.MousikonOrganon.notmetered
 trMA.Ode8C11.incipit = "O Good Shepherd, You have…"
 trMA.Ode8C11.text = "O Good Shepherd, You have come to Bethany to find Your sheep. ⁄ You have seized him from the fierce jaws of the wolf. ⁄ You have brought him from corruption to life, and he cried to You: ⁄ Praise the Lord! Sing and exalt Him forever!"
@@ -975,6 +999,7 @@ trMA.Ode8C12.text = ""
 
 trMA.Ode8C21.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode8C21.greekmelody = he.h.m8_en_US_oca.heHE.TonVasileaTonOuranon.greekname
 trMA.Ode8C21.melody = he.h.m8_en_US_oca.heHE.TonVasileaTonOuranon.notmetered
 trMA.Ode8C21.incipit = "…"
 trMA.Ode8C21.text = ""
@@ -999,12 +1024,14 @@ trMA.Ode8K.text = he.h.m8_en_US_oca.heHE.TonVasileaTonOuranon.text
 
 trMA.Ode9C1H.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode9C1H.greekmelody = he.h.m8_en_US_oca.heHE.TinAgninEndoxos.greekname
 trMA.Ode9C1H.melody = he.h.m8_en_US_oca.heHE.TinAgninEndoxos.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_US_oca.heHE.TinAgninEndoxos.incipit
 trMA.Ode9C1H.text = he.h.m8_en_US_oca.heHE.TinAgninEndoxos.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode9C11.greekmelody = he.h.m8_en_US_oca.heHE.TinAgninEndoxos.greekname
 trMA.Ode9C11.melody = he.h.m8_en_US_oca.heHE.TinAgninEndoxos.notmetered
 trMA.Ode9C11.incipit = "The people saw a four-day…"
 trMA.Ode9C11.text = "The people saw a four-day corpse walking. ⁄ They were struck with wonder at the miracle. ⁄ They cried out to the Redeemer: ⁄ O God, we glorify You in song!"
@@ -1017,6 +1044,7 @@ trMA.Ode9C12.text = "You have confirmed my faith in Your resurrection, O my Savi
 
 trMA.Ode9C21.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Ode9C21.greekmelody = he.h.m8_en_US_oca.heHE.KyriosTheotokon.greekname
 trMA.Ode9C21.melody = he.h.m8_en_US_oca.heHE.KyriosTheotokon.notmetered
 trMA.Ode9C21.incipit = "…"
 trMA.Ode9C21.text = ""
@@ -1046,11 +1074,13 @@ trMA.Ode9K.incipit = he.h.m8_en_US_oca.heHE.KyriosTheotokon.incipit
 trMA.Ode9K.text = he.h.m8_en_US_oca.heHE.KyriosTheotokon.text
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
+trMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_oca.heAU.EpeskepsatoImas.greekname
 trMA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.EpeskepsatoImas.notmetered
 trMA.Exaposteilarion1.incipit = "…"
 trMA.Exaposteilarion1.text = ""
 
 trMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode3
+trMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_oca.heAU.EpeskepsatoImas.greekname
 trMA.Exaposteilarion2.melody = he.a.m3_en_US_oca.heAU.EpeskepsatoImas.notmetered
 trMA.Exaposteilarion2.incipit = "…"
 trMA.Exaposteilarion2.text = ""

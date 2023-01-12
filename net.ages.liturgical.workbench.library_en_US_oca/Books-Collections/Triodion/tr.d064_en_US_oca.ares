@@ -161,26 +161,31 @@ trVE.Apolytikion2.incipit = "…"
 trVE.Apolytikion2.text = ""
 
 trMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Kathisma11.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 trMA.Kathisma11.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 trMA.Kathisma11.incipit = "…"
 trMA.Kathisma11.text = ""
 
 trMA.Kathisma12.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Kathisma12.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 trMA.Kathisma12.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 trMA.Kathisma12.incipit = "…"
 trMA.Kathisma12.text = ""
 
 trMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Kathisma21.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 trMA.Kathisma21.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 trMA.Kathisma21.incipit = "…"
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma22.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Kathisma22.greekmelody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma22.melody = he.a.m1_en_US_oca.heAU.TouLithouSfragisthentos.notmetered
 trMA.Kathisma22.incipit = "…"
 trMA.Kathisma22.text = ""
 
 trMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Kathisma31.greekmelody = he.a.m8_en_US_oca.heAU.ToProstachthen.greekname
 trMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.ToProstachthen.notmetered
 trMA.Kathisma31.incipit = "…"
 trMA.Kathisma31.text = ""
@@ -209,12 +214,14 @@ trMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 trMA.Ode1C1H.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C1H.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode1C1H.greekmelody = he.h.m4_en_US_oca.heHE.OfthisanAiPigai.greekname
 trMA.Ode1C1H.melody = he.h.m4_en_US_oca.heHE.OfthisanAiPigai.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_US_oca.heHE.OfthisanAiPigai.incipit
 trMA.Ode1C1H.text = he.h.m4_en_US_oca.heHE.OfthisanAiPigai.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode1C11.greekmelody = he.h.m4_en_US_oca.heHE.OfthisanAiPigai.greekname
 trMA.Ode1C11.melody = he.h.m4_en_US_oca.heHE.OfthisanAiPigai.notmetered
 trMA.Ode1C11.incipit = "Out of the mouths…"
 trMA.Ode1C11.text = "Out of the mouths of the spotless babes and infants, ⁄ You have brought forth perfect praise. ⁄ By Your Cross and Passion destroy the enemy. ⁄ Avenge the fall of old Adam. ⁄ By the tree raise him up to his first splendor, ⁄ That he may sing You a song of victory!"
@@ -227,12 +234,14 @@ trMA.Ode1C12.text = "The holy Church offers her praise to You, O Christ, ⁄ Who
 
 trMA.Ode3C1H.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3C1H.greekmelody = he.h.m4_en_US_oca.heHE.NaousanAkrotomon.greekname
 trMA.Ode3C1H.melody = he.h.m4_en_US_oca.heHE.NaousanAkrotomon.melody
 trMA.Ode3C1H.incipit = he.h.m4_en_US_oca.heHE.NaousanAkrotomon.incipit
 trMA.Ode3C1H.text = he.h.m4_en_US_oca.heHE.NaousanAkrotomon.text
 
 trMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3C11.greekmelody = he.h.m4_en_US_oca.heHE.NaousanAkrotomon.greekname
 trMA.Ode3C11.melody = he.h.m4_en_US_oca.heHE.NaousanAkrotomon.notmetered
 trMA.Ode3C11.incipit = "Lazarus had been dead…"
 trMA.Ode3C11.text = "Lazarus had been dead four days, ⁄ but hell trembled at Your command, and released him, ⁄ For You, O Christ, are the Resurrection and the Life. ⁄ Upon You the Church is established, crying out: ⁄ Hosanna! Blessed is He that comes in the Name of the Lord!"
@@ -250,12 +259,14 @@ trMA.Hypakoe.text = ""
 
 trMA.Ode4C1H.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode4C1H.greekmelody = he.h.m4_en_US_oca.heHE.ChristosOErchomenos.greekname
 trMA.Ode4C1H.melody = he.h.m4_en_US_oca.heHE.ChristosOErchomenos.melody
 trMA.Ode4C1H.incipit = he.h.m4_en_US_oca.heHE.ChristosOErchomenos.incipit
 trMA.Ode4C1H.text = he.h.m4_en_US_oca.heHE.ChristosOErchomenos.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode4C11.greekmelody = he.h.m4_en_US_oca.heHE.ChristosOErchomenos.greekname
 trMA.Ode4C11.melody = he.h.m4_en_US_oca.heHE.ChristosOErchomenos.notmetered
 trMA.Ode4C11.incipit = "Break forth in mighty gladness…"
 trMA.Ode4C11.text = "Break forth in mighty gladness, O mountains and all-hills! ⁄ Let the trees of the forest clap their hands for joy! ⁄ Praise Christ, all you nations! ⁄ Glorify Him, all you peoples, crying: ⁄ Glory, O Lord, to Your power!"
@@ -274,12 +285,14 @@ trMA.Ode4C13.text = "The Lord comes! He holds the earth in His grasp. ⁄ He mea
 
 trMA.Ode5C1H.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode5C1H.greekmelody = he.h.m4_en_US_oca.heHE.TinSionEpOrous.greekname
 trMA.Ode5C1H.melody = he.h.m4_en_US_oca.heHE.TinSionEpOrous.melody
 trMA.Ode5C1H.incipit = he.h.m4_en_US_oca.heHE.TinSionEpOrous.incipit
 trMA.Ode5C1H.text = he.h.m4_en_US_oca.heHE.TinSionEpOrous.text
 
 trMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode5C11.greekmelody = he.h.m4_en_US_oca.heHE.TinSionEpOrous.greekname
 trMA.Ode5C11.melody = he.h.m4_en_US_oca.heHE.TinSionEpOrous.notmetered
 trMA.Ode5C11.incipit = "God Almighty…"
 trMA.Ode5C11.text = "God Almighty, enthroned upon the cherubim, ⁄ Has given heed to the lowly. ⁄ He has come in great glory and power. ⁄ The whole earth is filled with His praise. ⁄ Peace be to Israel and salvation to the gentiles!"
@@ -292,12 +305,14 @@ trMA.Ode5C12.text = "Jerusalem and holy Zion, mountain of God, ⁄ Lift your eye
 
 trMA.Ode6C1H.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode6C1H.greekmelody = he.h.m4_en_US_oca.heHE.EvoisanEnEffrosyni.greekname
 trMA.Ode6C1H.melody = he.h.m4_en_US_oca.heHE.EvoisanEnEffrosyni.melody
 trMA.Ode6C1H.incipit = he.h.m4_en_US_oca.heHE.EvoisanEnEffrosyni.incipit
 trMA.Ode6C1H.text = he.h.m4_en_US_oca.heHE.EvoisanEnEffrosyni.text
 
 trMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode6C11.greekmelody = he.h.m4_en_US_oca.heHE.EvoisanEnEffrosyni.greekname
 trMA.Ode6C11.melody = he.h.m4_en_US_oca.heHE.EvoisanEnEffrosyni.notmetered
 trMA.Ode6C11.incipit = "Israel, receive God's Kingdom…"
 trMA.Ode6C11.text = "Israel, receive God's Kingdom! ⁄ Behold, a great light is rising on those who dwell in the shadow of death. ⁄ Let the peoples be renewed through sprinkling with blood divine!"
@@ -330,12 +345,14 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C1H.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode7C1H.greekmelody = he.h.m4_en_US_oca.heHE.ODiasosasEnPyri.greekname
 trMA.Ode7C1H.melody = he.h.m4_en_US_oca.heHE.ODiasosasEnPyri.melody
 trMA.Ode7C1H.incipit = he.h.m4_en_US_oca.heHE.ODiasosasEnPyri.incipit
 trMA.Ode7C1H.text = he.h.m4_en_US_oca.heHE.ODiasosasEnPyri.text
 
 trMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode7C11.greekmelody = he.h.m4_en_US_oca.heHE.ODiasosasEnPyri.greekname
 trMA.Ode7C11.melody = he.h.m4_en_US_oca.heHE.ODiasosasEnPyri.notmetered
 trMA.Ode7C11.incipit = "The people knelt…"
 trMA.Ode7C11.text = "The people knelt before You with palms in their hands. ⁄ They rejoiced with the disciples, ⁄ rying: Hosanna to the Son of David! ⁄ Blessed are You, most praised Lord, ⁄ The God of our fathers!"
@@ -354,12 +371,14 @@ trMA.Ode7C13.text = "Bearing palms and branches, ⁄ The crowd hailed You, Son o
 
 trMA.Ode8C1H.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode8C1H.greekmelody = he.h.m4_en_US_oca.heHE.EffranthitiIerousalim.greekname
 trMA.Ode8C1H.melody = he.h.m4_en_US_oca.heHE.EffranthitiIerousalim.melody
 trMA.Ode8C1H.incipit = he.h.m4_en_US_oca.heHE.EffranthitiIerousalim.incipit
 trMA.Ode8C1H.text = he.h.m4_en_US_oca.heHE.EffranthitiIerousalim.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode8C11.greekmelody = he.h.m4_en_US_oca.heHE.EffranthitiIerousalim.greekname
 trMA.Ode8C11.melody = he.h.m4_en_US_oca.heHE.EffranthitiIerousalim.notmetered
 trMA.Ode8C11.incipit = "Christ your King…"
 trMA.Ode8C11.text = "Christ your King is here, O Zion. ⁄ He has come to destroy the senselessness of idolatry, ⁄ And to restrain the untamed willfullness of the gentiles, ⁄ Teaching them to sing: ⁄ Bless the Lord, all you works of the Lord!"
@@ -378,12 +397,14 @@ trMA.Ode8C13.text = "The band of lawless extortioners was driven out of the temp
 
 trMA.Ode9C1H.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode9C1H.greekmelody = he.h.m4_en_US_oca.heHE.TheosKyriosKaiEpefanenImin.greekname
 trMA.Ode9C1H.melody = he.h.m4_en_US_oca.heHE.TheosKyriosKaiEpefanenImin.melody
 trMA.Ode9C1H.incipit = he.h.m4_en_US_oca.heHE.TheosKyriosKaiEpefanenImin.incipit
 trMA.Ode9C1H.text = he.h.m4_en_US_oca.heHE.TheosKyriosKaiEpefanenImin.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode9C11.greekmelody = he.h.m4_en_US_oca.heHE.TheosKyriosKaiEpefanenImin.greekname
 trMA.Ode9C11.melody = he.h.m4_en_US_oca.heHE.TheosKyriosKaiEpefanenImin.notmetered
 trMA.Ode9C11.incipit = "…"
 trMA.Ode9C11.text = ""

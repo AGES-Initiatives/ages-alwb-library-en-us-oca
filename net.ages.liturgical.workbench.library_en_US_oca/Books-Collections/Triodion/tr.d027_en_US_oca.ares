@@ -42,6 +42,7 @@ trVE.AposMartyric.incipit = "You are glorified in the…"
 trVE.AposMartyric.text = "You are glorified in the memory of your martyrs, O Christ. ⁄ They entreat you on our behalf, O God, ⁄⁄ to send down on us great mercy!"
 
 trVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode4
+trVE.AposTheotokion.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 trVE.AposTheotokion.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.notmetered
 trVE.AposTheotokion.incipit = me.m02.d27_en_US_oca.meVE.SticStavrotheotokion.incipit
 trVE.AposTheotokion.text = me.m02.d27_en_US_oca.meVE.SticStavrotheotokion.text
@@ -68,6 +69,7 @@ trMA.Kathisma32.text = "Beholding you, Christ, stretched dead upon the tree, ⁄
 
 trMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode5C11.greekmelody = he.h.m2_en_US_oca.heHE.OFotismos.greekname
 trMA.Ode5C11.melody = he.h.m2_en_US_oca.heHE.OFotismos.notmetered
 trMA.Ode5C11.incipit = "Seeing the sinfulness that is…"
 trMA.Ode5C11.text = "Seeing the sinfulness that is in me, ⁄ the deceitful enemy urges me on to sin and works with me: ⁄ for he truly rejoices over my perdition. ⁄ But I entreat you, Savior, ⁄ grant me amendment of life that I may destroy him!"
@@ -92,6 +94,7 @@ trMA.Ode5C1T.text = "Pure Maiden, you are a light to me in my infirmity ⁄ and 
 
 trMA.Ode5C21.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C21.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode5C21.greekmelody = he.h.m2_en_US_oca.heHE.TisNyktosDielthousis.greekname
 trMA.Ode5C21.melody = he.h.m2_en_US_oca.heHE.TisNyktosDielthousis.notmetered
 trMA.Ode5C21.incipit = "You only are immortal, ⁄…"
 trMA.Ode5C21.text = "You only are immortal, ⁄ yet accepted to be crucified in the flesh ⁄ at the place of the skull, O Lord, ⁄ giving men immortality and fashioning them anew."
@@ -122,12 +125,14 @@ trMA.Ode5C2A1.text = "Saying farewell to the world and all that is in it, ⁄ le
 
 trMA.Ode5C2H.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C2H.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode5C2H.greekmelody = he.h.m2_en_US_oca.heHE.TisNyktosDielthousis.greekname
 trMA.Ode5C2H.melody = he.h.m2_en_US_oca.heHE.TisNyktosDielthousis.melody
 trMA.Ode5C2H.incipit = he.h.m2_en_US_oca.heHE.TisNyktosDielthousis.incipit
 trMA.Ode5C2H.text = he.h.m2_en_US_oca.heHE.TisNyktosDielthousis.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode8C11.greekmelody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.greekname
 trMA.Ode8C11.melody = he.h.m2_en_US_oca.heHE.TonEnKaminoTouPyros.notmetered
 trMA.Ode8C11.incipit = "In your compassion you humbled…"
 trMA.Ode8C11.text = "In your compassion you humbled yourself, and were lifted on the cross, ⁄ raising up with yourself ⁄ the one who had fallen of old through eating from the tree. ⁄ Therefore you are glorified, Lord, alone greatest in love, ⁄ and we sing your praises for ever!"
@@ -152,6 +157,7 @@ trMA.Ode8C1T.text = "I have wasted my life in carelessness, ⁄ and my soul is h
 
 trMA.Ode8C21.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode8C21.greekmelody = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.greekname
 trMA.Ode8C21.melody = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.notmetered
 trMA.Ode8C21.incipit = "Crowned with thorns, O Christ…"
 trMA.Ode8C21.text = "Crowned with thorns, O Christ, and clothed in a scarlet robe, ⁄ you shone with glory, ⁄ surpassing in beauty ail the sons of men."
@@ -182,12 +188,14 @@ trMA.Ode8C2A1.text = "Cross, the sceptre of Christ and strength of the church, �
 
 trMA.Ode8C2H.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode8C2H.greekmelody = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.greekname
 trMA.Ode8C2H.melody = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.melody
 trMA.Ode8C2H.incipit = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.incipit
 trMA.Ode8C2H.text = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode9C11.greekmelody = he.h.m2_en_US_oca.heHE.ITonProIliouFostira.greekname
 trMA.Ode9C11.melody = he.h.m2_en_US_oca.heHE.ITonProIliouFostira.notmetered
 trMA.Ode9C11.incipit = "Hateful thoughts have covered my…"
 trMA.Ode9C11.text = "Hateful thoughts have covered my soul with leprosy: ⁄ cleanse it, word of God, with the sprinkling of your blood. ⁄ Christ, for my sake you have suffered shameful crucifixion: ⁄ make me a partaker in your glory."
@@ -212,6 +220,7 @@ trMA.Ode9C1T.text = "You have destroyed the sentence of condemnation ⁄ passed 
 
 trMA.Ode9C21.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode9C21.greekmelody = he.h.m2_en_US_oca.heHE.TinAgninKaiAchranton.greekname
 trMA.Ode9C21.melody = he.h.m2_en_US_oca.heHE.TinAgninKaiAchranton.notmetered
 trMA.Ode9C21.incipit = "The creation quaked when you…"
 trMA.Ode9C21.text = "The creation quaked when you were crucified upon the tree! ⁄ As God, in your tender mercy ⁄ you have suffered in the flesh for our salvation."
@@ -242,6 +251,7 @@ trMA.Ode9C2A1.text = "By the divine power of your cross, Lord, ⁄ give me the s
 
 trMA.Ode9C2H.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode9C2H.greekmelody = he.h.m2_en_US_oca.heHE.TinAgninKaiAchranton.greekname
 trMA.Ode9C2H.melody = he.h.m2_en_US_oca.heHE.TinAgninKaiAchranton.melody
 trMA.Ode9C2H.incipit = he.h.m2_en_US_oca.heHE.TinAgninKaiAchranton.incipit
 trMA.Ode9C2H.text = he.h.m2_en_US_oca.heHE.TinAgninKaiAchranton.text
@@ -252,6 +262,7 @@ trMA.AposIdiomelon1.incipit = "Let us receive the proclamation…"
 trMA.AposIdiomelon1.text = "Let us receive the proclamation of lent with joy! ⁄ For if our forefather adam had kept the fast, ⁄ we would not have been deprived of paradise. ⁄ The fruit which killed us was beautiful to see and good to eat, ⁄ so let us not be fooled by our eyes, ⁄ for after food is eaten, it is worthless. ⁄ Let us flee from intemperance, ⁄ so that we may not be conquered by passions after having our fill. ⁄ Let us sign ourselves with the blood of the one ⁄ who, for our sake, was voluntarily led to death, ⁄ so that the destroyer might not touch us. ⁄ So we will partake of the sacred pascha of Christ ⁄⁄ for the salvation of our souls."
 
 trMA.AposMartyric.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.AposMartyric.greekmelody = he.a.m8_en_US_oca.heAU.TiYmasKalesomen.greekname
 trMA.AposMartyric.melody = he.a.m8_en_US_oca.heAU.TiYmasKalesomen.melody
 trMA.AposMartyric.incipit = he.a.m8_en_US_oca.heAU.TiYmasKalesomen.incipit
 trMA.AposMartyric.text = he.a.m8_en_US_oca.heAU.TiYmasKalesomen.text

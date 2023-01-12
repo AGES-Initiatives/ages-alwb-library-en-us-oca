@@ -68,6 +68,7 @@ trMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode1C11.greekmelody = he.h.m6_en_US_oca.heHE.OsEnIpeiroPezefsas.greekname
 trMA.Ode1C11.melody = he.h.m6_en_US_oca.heHE.OsEnIpeiroPezefsas.notmetered
 trMA.Ode1C11.incipit = "Through parables leading all mankind…"
 trMA.Ode1C11.text = "Through parables leading all mankind ⁄ to seek amendment of life, ⁄ Christ raises up the Publican from his abasement ⁄ and humbles the Pharisee in his pride."
@@ -104,6 +105,7 @@ trMA.Ode1C1T.text = "I dedicate my understanding and my counsel to you, Lady, �
 
 trMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode3C11.greekmelody = he.h.m6_en_US_oca.heHE.OukEstinAgios.greekname
 trMA.Ode3C11.melody = he.h.m6_en_US_oca.heHE.OukEstinAgios.notmetered
 trMA.Ode3C11.incipit = "The humble is lifted up…"
 trMA.Ode3C11.text = "The humble is lifted up on high ⁄ from the dung-hill of the passions, ⁄ while the proudhearted suffers a great: fall from the height of the virtues. ⁄ Let us flee from his evil ways."
@@ -139,22 +141,26 @@ trMA.Ode3C1T.incipit = "I have set my trust…"
 trMA.Ode3C1T.text = "I have set my trust in you, my only refuge: ⁄ Do not let me fall away from my good hope, ⁄ but grant me your protection, pure Virgin, ⁄ and deliver me from every assault by my enemies!"
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 trMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 trMA.Ode3Kathisma1.incipit = "Overcome with shame and sorrow…"
 trMA.Ode3Kathisma1.text = "Overcome with shame and sorrow at his evil deeds, ⁄ humility exalted the Publican: ⁄ he cried out to the Creator: Be merciful! ⁄ But the unhappy Pharisee who spoke in pride ⁄ was brought down from righteousness by his exaltation! ⁄ Therefore let us earnestly desire what is good, ⁄⁄ and avoid all that is evil."
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 trMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 trMA.Ode3Kathisma2.incipit = "In days of old, humility…"
 trMA.Ode3Kathisma2.text = "In days of old, humility exalted the Publican, ⁄ who cried out, lamenting: Be merciful! And was justified. ⁄ Let us all follow his example, ⁄ for we have fallen to the depths of evil. ⁄ Let us cry to the Savior from the depths of our hearts: ⁄ We have sinned; be merciful, ⁄⁄ as the only Lover of mankind!"
 
 trMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3Kathisma3.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 trMA.Ode3Kathisma3.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 trMA.Ode3Kathisma3.incipit = me.m12.d06_en_US_oca.meMA.Kathisma3T.incipit
 trMA.Ode3Kathisma3.text = me.m12.d06_en_US_oca.meMA.Kathisma3T.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode4C11.greekmelody = he.h.m6_en_US_oca.heHE.ChristosMouDynamis.greekname
 trMA.Ode4C11.melody = he.h.m6_en_US_oca.heHE.ChristosMouDynamis.notmetered
 trMA.Ode4C11.incipit = "The Word humbled Himself to…"
 trMA.Ode4C11.text = "The Word humbled Himself to the form of a servant, ⁄ showing that humility is the path to exaltation. ⁄ Every man, then, who humbles himself after the Lord's example, ⁄ is exalted on high."
@@ -191,6 +197,7 @@ trMA.Ode4C1T.text = "You have borne the Light unapproachable, Virgin; ⁄ disper
 
 trMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode5C11.greekmelody = he.h.m6_en_US_oca.heHE.ToTheioFengeiSou.greekname
 trMA.Ode5C11.melody = he.h.m6_en_US_oca.heHE.ToTheioFengeiSou.notmetered
 trMA.Ode5C11.incipit = "Let us hasten to follow…"
 trMA.Ode5C11.text = "Let us hasten to follow the Pharisee in his virtues ⁄ and to emulate the Publican in his humility. ⁄ Let us hate what is wrong in each of them: ⁄ foolish pride and the defilement of transgressions."
@@ -227,6 +234,7 @@ trMA.Ode5C1T.text = "Give a staff of strength, loving Virgin, ⁄ to all of us w
 
 trMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode6C11.greekmelody = he.h.m6_en_US_oca.heHE.TouViouTinThalassan.greekname
 trMA.Ode6C11.melody = he.h.m6_en_US_oca.heHE.TouViouTinThalassan.notmetered
 trMA.Ode6C11.incipit = "The Publican and Pharisee both…"
 trMA.Ode6C11.text = "The Publican and Pharisee both ran in the race of life, ⁄ but the one was overcome by foolish pride: ⁄ He was brought to a shameful shipwreck, ⁄ while the other was saved by humility."
@@ -292,6 +300,7 @@ trSY.lastline = ""
 
 trMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode7C11.greekmelody = he.h.m6_en_US_oca.heHE.DrosovolonMenTinKaminon.greekname
 trMA.Ode7C11.melody = he.h.m6_en_US_oca.heHE.DrosovolonMenTinKaminon.notmetered
 trMA.Ode7C11.incipit = "Exalted by the works of…"
 trMA.Ode7C11.text = "Exalted by the works of justification and great boasting, ⁄ the Pharisee was deeply entangled in the nets of pride; ⁄ but the Publican was lifted on the rising wing of humility ⁄ and thus he drew near to God."
@@ -328,6 +337,7 @@ trMA.Ode7C1T.text = "You are the beauty of Jacob, holy Virgin; ⁄ the divine la
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode8C11.greekmelody = he.h.m6_en_US_oca.heHE.EkFlogosToisOsiois.greekname
 trMA.Ode8C11.melody = he.h.m6_en_US_oca.heHE.EkFlogosToisOsiois.notmetered
 trMA.Ode8C11.incipit = "The Publican groaned aloud, and…"
 trMA.Ode8C11.text = "The Publican groaned aloud, and was saved, ⁄ for he found the Lord merciful to him in his humility, ⁄ but the Pharisee fell from righteousness ⁄ by his evil boasting."
@@ -364,6 +374,7 @@ trMA.Ode8C1T.text = "I offer you, pure and blameless Virgin, ⁄ as my intercess
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode9C11.greekmelody = he.h.m6_en_US_oca.heHE.TheonAnthropois.greekname
 trMA.Ode9C11.melody = he.h.m6_en_US_oca.heHE.TheonAnthropois.notmetered
 trMA.Ode9C11.incipit = "Christ has set before us…"
 trMA.Ode9C11.text = "Christ has set before us the abasement of the Publican ⁄ as a path to exaltation and a pattern of salvation: ⁄ Let us follow his example and reject disdainful pride, ⁄ and gain God's mercy through our humility."
@@ -405,11 +416,13 @@ trMA.Ode9C1T.incipit = "We honor you, all-pure Virgin…"
 trMA.Ode9C1T.text = "We honor you, all-pure Virgin, and magnify your child-bearing! ⁄ Grant us to praise, bless, and glorify you worthily, ⁄ for you alone are blessed. ⁄ You are the boast of Christians, and an acceptable intercessor before God!"
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 trMA.Exaposteilarion1.incipit = "…"
 trMA.Exaposteilarion1.text = ""
 
 trMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.ExapTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 trMA.ExapTheotokion.incipit = "…"
 trMA.ExapTheotokion.text = ""

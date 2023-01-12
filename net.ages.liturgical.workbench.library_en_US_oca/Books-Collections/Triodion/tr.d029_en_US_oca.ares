@@ -63,21 +63,25 @@ trSV.AposGlory.incipit = "…"
 trSV.AposGlory.text = ""
 
 trVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera01.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera01.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera02.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera02.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera03.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera03.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
 
 trVE.Stichera04.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera04.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera04.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera04.incipit = "…"
 trVE.Stichera04.text = ""
@@ -141,6 +145,7 @@ trMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode1C11.greekmelody = he.h.m4_en_US_oca.heHE.ThalassisToErythraion.greekname
 trMA.Ode1C11.melody = he.h.m4_en_US_oca.heHE.ThalassisToErythraion.notmetered
 trMA.Ode1C11.incipit = "Let us and all the…"
 trMA.Ode1C11.text = "Let us and all the faithful cry aloud and leap with joy today: ⁄ How marvelous are Your works, O Christ! ⁄ How great is Your might! ⁄ For You have made us of one mind ⁄ and brought about our agreement!"
@@ -171,6 +176,7 @@ trMA.Ode1C1T.text = "The swords of impious heresies have failed: ⁄ for in deep
 
 trMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3C11.greekmelody = he.h.m4_en_US_oca.heHE.EffrainetaiEpiSoi.greekname
 trMA.Ode3C11.melody = he.h.m4_en_US_oca.heHE.EffrainetaiEpiSoi.notmetered
 trMA.Ode3C11.incipit = "The impious heretics ⁄ are…"
 trMA.Ode3C11.text = "The impious heretics ⁄ are no longer exalted in their pride, ⁄ for the power of God has firmly established Orthodoxy!"
@@ -200,22 +206,26 @@ trMA.Ode3C1T.incipit = "We pray you, most pure…"
 trMA.Ode3C1T.text = "We pray you, most pure Lady, ⁄ shine now with the light of grace upon the faithful ⁄ who have gathered in your holy house."
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.greekname
 trMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.notmetered
 trMA.Ode3Kathisma1.incipit = "Depicting your divine form in…"
 trMA.Ode3Kathisma1.text = "Depicting your divine form in icons, O Christ, ⁄ we openly proclaim your nativity, ⁄ your ineffable miracles, and your voluntary crucifixion! ⁄ So the devils are driven out in fear, ⁄ and the heretics, their fellow-workers, ⁄⁄ lament in shame and sorrow!"
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.greekname
 trMA.Ode3Kathisma2.melody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.notmetered
 trMA.Ode3Kathisma2.incipit = "The heavenly Zion, our mother…"
 trMA.Ode3Kathisma2.text = "The heavenly Zion, our mother, is made beautiful ⁄ with the holy icons of the prophets and apostles, ⁄ of the martyrs and all the saints, ⁄⁄ brightly adorned with the glory of the spiritual bridegroom and bride!"
 
 trMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode3Kathisma3.greekmelody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.greekname
 trMA.Ode3Kathisma3.melody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.notmetered
 trMA.Ode3Kathisma3.incipit = "We venerate your holy icon…"
 trMA.Ode3Kathisma3.text = "We venerate your holy icon with love, honored Virgin, ⁄ proclaiming you with one accord as the true Theotokos! ⁄ In faith, we bow before you: ⁄ Since you have power to do all things, ⁄ be our guardian and our strong protection, ⁄⁄ driving far from us every tribulation!"
 
 trMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode4C11.greekmelody = he.h.m4_en_US_oca.heHE.EparthentaSeIdousa.greekname
 trMA.Ode4C11.melody = he.h.m4_en_US_oca.heHE.EparthentaSeIdousa.notmetered
 trMA.Ode4C11.incipit = "Sanctify Your temple, most merciful…"
 trMA.Ode4C11.text = "Sanctify Your temple, most merciful Word of God ⁄ through the divine descent of the Comforter, ⁄ and by His coming banish the error of heresy!"
@@ -246,6 +256,7 @@ trMA.Ode4C1T.text = "You were sanctified as the holy temple of God, ⁄ full of 
 
 trMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode5C11.greekmelody = he.h.m4_en_US_oca.heHE.SyKyrieMouFos.greekname
 trMA.Ode5C11.melody = he.h.m4_en_US_oca.heHE.SyKyrieMouFos.notmetered
 trMA.Ode5C11.incipit = "Firmly establish Your Church, Lord…"
 trMA.Ode5C11.text = "Firmly establish Your Church, Lord, ⁄ that she may stand unshaken by the storm of heresy ⁄ unto ages of ages!"
@@ -276,6 +287,7 @@ trMA.Ode5C1T.text = "Renew the ancient splendors for us, ⁄ most pure Mother of
 
 trMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode6C11.greekmelody = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.greekname
 trMA.Ode6C11.melody = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.notmetered
 trMA.Ode6C11.incipit = "Once more the Master's countenance…"
 trMA.Ode6C11.text = "Once more the Master's countenance is depicted, ⁄ venerated and honored with faith; ⁄ once more the Church regains ⁄ her boldness of approach to God, ⁄ reverently glorifying the Savior!"
@@ -320,6 +332,7 @@ trSY.lastline = ""
 
 trMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode7C11.greekmelody = he.h.m4_en_US_oca.heHE.EnTiKaminoAvramiaioi.greekname
 trMA.Ode7C11.melody = he.h.m4_en_US_oca.heHE.EnTiKaminoAvramiaioi.notmetered
 trMA.Ode7C11.incipit = "Let the hosts of angels…"
 trMA.Ode7C11.text = "Let the hosts of angels share in the joy of the Church, ⁄ and filled with the love of God, let them cry aloud: ⁄ Blessed are You, Lord, in the temple of Your glory!"
@@ -344,6 +357,7 @@ trMA.Ode7C1T.text = "Most pure Virgin, you are exalted above the choirs on high,
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode8C11.greekmelody = he.h.m4_en_US_oca.heHE.CheirasEkpetasasDaniil.greekname
 trMA.Ode8C11.melody = he.h.m4_en_US_oca.heHE.CheirasEkpetasasDaniil.notmetered
 trMA.Ode8C11.incipit = "Keeping the laws of the…"
 trMA.Ode8C11.text = "Keeping the laws of the Church we received from the Fathers, ⁄ we paint icons of Christ and His saints, ⁄ and with our lips and heart and will ⁄ we venerate them as we cry aloud: ⁄ All works of the Lord, bless the Lord!"
@@ -368,6 +382,7 @@ trMA.Ode8C1T.text = "Illumined by rays of spiritual light, ⁄ your holy house o
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode9C11.greekmelody = he.h.m4_en_US_oca.heHE.LithosAcheirotmitos.greekname
 trMA.Ode9C11.melody = he.h.m4_en_US_oca.heHE.LithosAcheirotmitos.notmetered
 trMA.Ode9C11.incipit = "Seeing the Holy Church adorned…"
 trMA.Ode9C11.text = "Seeing the Holy Church adorned with icons once more, ⁄ let us make haste and cry aloud to Christ with reverence: ⁄ We magnify You, Thrice Holy One!"
@@ -391,16 +406,19 @@ trMA.Ode9C1T.incipit = "Since you, pure Theotokos, ineffably…"
 trMA.Ode9C1T.text = "Since you, pure Theotokos, ineffably gave birth to the Master of all, ⁄ the condemnation of our first mother Eve has been abolished, ⁄ and now we kiss His likeness in icons!"
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 trMA.Exaposteilarion1.incipit = "…"
 trMA.Exaposteilarion1.text = ""
 
 trMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.ExapTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 trMA.ExapTheotokion.incipit = "…"
 trMA.ExapTheotokion.text = ""
 
 trMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Lauds1.greekmelody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.greekname
 trMA.Lauds1.melody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.notmetered
 trMA.Lauds1.incipit = "…"
 trMA.Lauds1.text = ""

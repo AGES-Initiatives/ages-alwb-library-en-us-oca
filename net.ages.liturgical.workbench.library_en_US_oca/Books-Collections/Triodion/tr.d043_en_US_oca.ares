@@ -56,21 +56,25 @@ trSV.AposGlory.incipit = "…"
 trSV.AposGlory.text = ""
 
 trVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode5
+trVE.Stichera01.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
 trVE.Stichera01.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.name
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_US_oca.misc.Mode5
+trVE.Stichera02.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
 trVE.Stichera02.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.name
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = miscellanea_en_US_oca.misc.Mode5
+trVE.Stichera03.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
 trVE.Stichera03.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.name
 trVE.Stichera03.incipit = me.m09.d13_en_US_oca.meVE.Aposticha1.incipit
 trVE.Stichera03.text = me.m09.d13_en_US_oca.meVE.Aposticha1.text
 
 trVE.Stichera04.mode = miscellanea_en_US_oca.misc.Mode5
+trVE.Stichera04.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
 trVE.Stichera04.melody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.name
 trVE.Stichera04.incipit = "…"
 trVE.Stichera04.text = ""
@@ -101,6 +105,7 @@ trVE.ApolTheotokion.incipit = oc.m1.d1_en_US_oca.ocVE.ApolTheotokionVM.incipit
 trVE.ApolTheotokion.text = oc.m1.d1_en_US_oca.ocVE.ApolTheotokionVM.text
 
 trMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode8
+trMA.Kathisma31.greekmelody = he.a.m8_en_US_oca.heAU.ToProstachthen.greekname
 trMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.ToProstachthen.name
 trMA.Kathisma31.incipit = "…"
 trMA.Kathisma31.text = ""
@@ -127,6 +132,7 @@ trMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode1C11.greekmelody = he.h.m1_en_US_oca.heHE.AnastaseosImera.greekname
 trMA.Ode1C11.melody = he.h.m1_en_US_oca.heHE.AnastaseosImera.name
 trMA.Ode1C11.incipit = "This is a festival day…"
 trMA.Ode1C11.text = "This is a festival day: ⁄ at the awakening of Christ, death has fled away; ⁄ The light of life has dawned; ⁄ Adam has risen and dances for joy! ⁄ Therefore let us cry aloud and sing a song of victory!"
@@ -163,6 +169,7 @@ trMA.Ode1C1T.text = "You conceived without seed, unwedded Virgin: ⁄ the birth 
 
 trMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode3C11.greekmelody = he.h.m1_en_US_oca.heHE.DeftePomaPiomen.greekname
 trMA.Ode3C11.melody = he.h.m1_en_US_oca.heHE.DeftePomaPiomen.name
 trMA.Ode3C11.incipit = "Come, let us sing…"
 trMA.Ode3C11.text = "Come, let us sing a new song ⁄ to celebrate the conquering of hell, ⁄ for Christ is risen from the tomb; ⁄ He has taken death captive, saving the whole world!"
@@ -219,6 +226,7 @@ trMA.Ode3Kathisma4.text = oc.m6.d1_en_US_oca.ocMA.Kathisma23.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode4C11.greekmelody = he.h.m1_en_US_oca.heHE.EpiTisTheiasFylakis.greekname
 trMA.Ode4C11.melody = he.h.m1_en_US_oca.heHE.EpiTisTheiasFylakis.name
 trMA.Ode4C11.incipit = "Behold, Christ is risen…"
 trMA.Ode4C11.text = "Behold, Christ is risen! said the angel to the Myrrh-bearing women! ⁄ Do not lament, but go and say to the apostles: ⁄ Rejoice, for today is the world's salvation! ⁄ The tyranny of the enemy has been destroyed ⁄ through the death of Christ!"
@@ -255,6 +263,7 @@ trMA.Ode4C1T.text = "In you alone among women, pure Lady, ⁄ a fearful and wond
 
 trMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode5C11.greekmelody = he.h.m1_en_US_oca.heHE.OrthrisomenOrthrouVatheos.greekname
 trMA.Ode5C11.melody = he.h.m1_en_US_oca.heHE.OrthrisomenOrthrouVatheos.name
 trMA.Ode5C11.incipit = "You have risen…"
 trMA.Ode5C11.text = "You have risen from the tomb, never-setting Light, ⁄ shining upon the world with the bright dawn of incorruption! ⁄ In Your compassion You have driven out the dark sorrow of death ⁄ from the farthest corners of the earth!"
@@ -291,6 +300,7 @@ trMA.Ode5C1T.text = "You conceived by the law of nature, ⁄ yet above that law;
 
 trMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode6C11.greekmelody = he.h.m1_en_US_oca.heHE.KatilthesEnToisKatotatois.greekname
 trMA.Ode6C11.melody = he.h.m1_en_US_oca.heHE.KatilthesEnToisKatotatois.name
 trMA.Ode6C11.incipit = "You crushed death…"
 trMA.Ode6C11.text = "You crushed death, O Christ, and rose as a mighty King, ⁄ recalling us from the depths of hell! ⁄ You brought us to the land of immortality, ⁄ granting us the joy of the Kingdom of Heaven!"
@@ -353,6 +363,7 @@ trSY.lastline = ""
 
 trMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode7C11.greekmelody = he.h.m1_en_US_oca.heHE.OPaidasEkKaminou.greekname
 trMA.Ode7C11.melody = he.h.m1_en_US_oca.heHE.OPaidasEkKaminou.name
 trMA.Ode7C11.incipit = "You arose on the third day…"
 trMA.Ode7C11.text = "You arose on the third day from the tomb, ⁄ as one waking from sleep, O Lord. ⁄ By Your divine power, You struck down the keepers of hell, ⁄ raising up all our ancestors from the beginning of time, ⁄ for You alone are blessed and greatly glorified: ⁄ the God of our Fathers!"
@@ -389,6 +400,7 @@ trMA.Ode7C1T.text = "You were proclaimed by all the prophets under many differen
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode8C11.greekmelody = he.h.m1_en_US_oca.heHE.AftiIKliti.greekname
 trMA.Ode8C11.melody = he.h.m1_en_US_oca.heHE.AftiIKliti.name
 trMA.Ode8C11.incipit = "Why do you hold…"
 trMA.Ode8C11.text = "Why do you hold fragrant spices in your hands? ⁄ Whom do you seek? cries the young man at the tomb. ⁄ Christ our God is risen, ⁄ raising up the nature of mortal men from the hidden depths of hell!"
@@ -431,6 +443,7 @@ trMA.Ode8C1T.text = "You alone among mothers, Mary, Bride of God, remained a vir
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode9C11.greekmelody = he.h.m1_en_US_oca.heHE.FotizouFotizou.greekname
 trMA.Ode9C11.melody = he.h.m1_en_US_oca.heHE.FotizouFotizou.name
 trMA.Ode9C11.incipit = "You went down into the tomb…"
 trMA.Ode9C11.text = "You went down into the tomb, O God the Giver of Life, ⁄ breaking its bars and chains, ⁄ raising up the dead who cry aloud: ⁄ Glory to Your resurrection, Christ, the all-powerful Savior!"
@@ -472,16 +485,19 @@ trMA.Ode9C1T.incipit = "…"
 trMA.Ode9C1T.text = "You are the great mountain, Virgin, ⁄ in which Christ dwelt, as holy David says. ⁄ We are raised up to heaven by you, all-blessed Lady, ⁄ through the Spirit, regaining the adoption of sons."
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.name
 trMA.Exaposteilarion1.incipit = "…"
 trMA.Exaposteilarion1.text = ""
 
 trMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.ExapTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.name
 trMA.ExapTheotokion.incipit = "…"
 trMA.ExapTheotokion.text = ""
 
 trMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Lauds1.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname
 trMA.Lauds1.melody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.name
 trMA.Lauds1.incipit = "…"
 trMA.Lauds1.text = ""

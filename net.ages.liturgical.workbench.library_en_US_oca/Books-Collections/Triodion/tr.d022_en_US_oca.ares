@@ -16,21 +16,25 @@ trCO.header = ""
 trDA.dismissal = dismissals_en_US_oca.dis00.resurrection
 
 trVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera01.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera01.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera02.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera02.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera03.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera03.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
 
 trVE.Stichera04.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera04.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera04.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera04.incipit = "…"
 trVE.Stichera04.text = ""
@@ -84,6 +88,7 @@ trMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode1C11.greekmelody = he.h.m6_en_US_oca.heHE.OsEnIpeiroPezefsas.greekname
 trMA.Ode1C11.melody = he.h.m6_en_US_oca.heHE.OsEnIpeiroPezefsas.notmetered
 trMA.Ode1C11.incipit = "Come today, my wretched soul…"
 trMA.Ode1C11.text = "Come today, my wretched soul; weep over your deeds, ⁄ remembering how once you were stripped naked in Eden ⁄ and cast out from delight and unending joy."
@@ -114,6 +119,7 @@ trMA.Ode1C1T.text = "You are a daughter of Adam by descent, Virgin Theotokos, �
 
 trMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode3C11.greekmelody = he.h.m6_en_US_oca.heHE.OukEstinAgios.greekname
 trMA.Ode3C11.melody = he.h.m6_en_US_oca.heHE.OukEstinAgios.notmetered
 trMA.Ode3C11.incipit = "Long ago the crafty serpent…"
 trMA.Ode3C11.text = "Long ago the crafty serpent envied my honor ⁄ and whispered deceit in the ear of Eve. ⁄ Woe is me! I was led astray ⁄ and banished by her from the dance of life."
@@ -137,22 +143,26 @@ trMA.Ode3C1T.incipit = "You are my hope and…"
 trMA.Ode3C1T.text = "You are my hope and protection, holy Virgin, ⁄ for you alone have covered fallen Adam's nakedness: ⁄ By your childbearing, Lady, ⁄ clothe me once more with incorruption!"
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 trMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 trMA.Ode3Kathisma1.incipit = "Adam was cast out from…"
 trMA.Ode3Kathisma1.text = "Adam was cast out from the delight of Paradise: ⁄ when he broke the commandment of the Master in uncontrolled desire, ⁄ his taking of food became bitter, ⁄ and he was condemned to work the earth ⁄ from which he himself was taken. ⁄ He ate his bread in toil and sweat: ⁄ therefore let us love abstinence, ⁄ that we may enter through the gate, ⁄⁄ and not weep as he did outside of Paradise."
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 trMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 trMA.Ode3Kathisma2.incipit = "Now the season of virtues…"
 trMA.Ode3Kathisma2.text = "Now the season of virtues has come, ⁄ and the Judge is at the door. ⁄ Let us not hold back with a darkened face, ⁄ but offering tears, contrition and giving of alms ⁄ let us keep the fast, and let us cry: ⁄ Our sins are more in number than the sands of the sea, ⁄⁄ but forgive each of us, that we may receive an incorruptible crown, Savior of all!"
 
 trMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode4
+trMA.Ode3Kathisma3.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 trMA.Ode3Kathisma3.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 trMA.Ode3Kathisma3.incipit = ho.s23_en_US_oca.hoCA.Apolytikion2.incipit
 trMA.Ode3Kathisma3.text = ho.s23_en_US_oca.hoCA.Apolytikion2.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode4C11.greekmelody = he.h.m6_en_US_oca.heHE.ChristosMouDynamis.greekname
 trMA.Ode4C11.melody = he.h.m6_en_US_oca.heHE.ChristosMouDynamis.notmetered
 trMA.Ode4C11.incipit = "Master, You counted me worthy…"
 trMA.Ode4C11.text = "Master, You counted me worthy of honor in Eden, ⁄ but alas, in my wretchedness, ⁄ I was deceived by the envy of the devil ⁄ and cast out from before Your face."
@@ -183,6 +193,7 @@ trMA.Ode4C1T.text = "Holy Lady, ⁄ you opened to all the faithful the gates of 
 
 trMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode5C11.greekmelody = he.h.m6_en_US_oca.heHE.ToTheioFengeiSou.greekname
 trMA.Ode5C11.melody = he.h.m6_en_US_oca.heHE.ToTheioFengeiSou.notmetered
 trMA.Ode5C11.incipit = "Of old, the enemy who…"
 trMA.Ode5C11.text = "Of old, the enemy who hates mankind ⁄ envied me the life of happiness I had in Paradise. ⁄ Taking the form of a serpent, he caused me to stumble ⁄ and made me a stranger to eternal glory."
@@ -207,6 +218,7 @@ trMA.Ode5C1T.text = "Undefiled Mother of God, ⁄ we all proclaim you in faith a
 
 trMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode6C11.greekmelody = he.h.m6_en_US_oca.heHE.TouViouTinThalassan.greekname
 trMA.Ode6C11.melody = he.h.m6_en_US_oca.heHE.TouViouTinThalassan.notmetered
 trMA.Ode6C11.incipit = "In Your compassion, Savior, ⁄…"
 trMA.Ode6C11.text = "In Your compassion, Savior, ⁄ You clothed me in Eden with a divinely woven garment; ⁄ but persuaded by the devil, I neglected Your commandment ⁄ and was stripped naked in my wretchedness."
@@ -254,6 +266,7 @@ trSY.lastline = ""
 
 trMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode7C11.greekmelody = he.h.m6_en_US_oca.heHE.DrosovolonMenTinKaminon.greekname
 trMA.Ode7C11.melody = he.h.m6_en_US_oca.heHE.DrosovolonMenTinKaminon.notmetered
 trMA.Ode7C11.incipit = "Lord, Ruler over all the…"
 trMA.Ode7C11.text = "Lord, Ruler over all the ages, ⁄ by Your will You created me: ⁄ I was beguiled of old ⁄ through the envy of the crafty serpent and angered You: ⁄ Do not despise me, O God my Savior, but call me back."
@@ -278,6 +291,7 @@ trMA.Ode7C1T.text = "Accept my entreaty in your loving compassion, ⁄ pure and 
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode8C11.greekmelody = he.h.m6_en_US_oca.heHE.EkFlogosToisOsiois.greekname
 trMA.Ode8C11.melody = he.h.m6_en_US_oca.heHE.EkFlogosToisOsiois.notmetered
 trMA.Ode8C11.incipit = "Lord, the only Lover of…"
 trMA.Ode8C11.text = "Lord, the only Lover of mankind, ⁄ At the beginning You honored the work of Your hands ⁄ with every kind of gift: ⁄ But alas! With his hissing the hateful serpent deceived us, ⁄ and stripped us of the blessings we had received."
@@ -302,6 +316,7 @@ trMA.Ode8C1T.text = "We sing your praises, Mary, full of divine grace, ⁄ taber
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode9C11.greekmelody = he.h.m6_en_US_oca.heHE.TheonAnthropois.greekname
 trMA.Ode9C11.melody = he.h.m6_en_US_oca.heHE.TheonAnthropois.notmetered
 trMA.Ode9C11.incipit = "When I took my fill…"
 trMA.Ode9C11.text = "When I took my fill of eating, ⁄ the taste of the fruit of knowledge in Eden seemed sweet, ⁄ but its end was gall. ⁄ Woe to you, wretched soul! ⁄ See how uncontrolled desire has made you an exile from Paradise!"
@@ -331,11 +346,13 @@ trMA.Ode9C1T.incipit = "Virgin Theotokos, you did not…"
 trMA.Ode9C1T.text = "Virgin Theotokos, you did not know man. ⁄ You are the spiritual gate of life through which none may pass: ⁄ By your prayers, open to me the gates of Paradise that were closed long ago ⁄ that I may glorify you, ⁄ for after God, you are my helper and strong refuge!"
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 trMA.Exaposteilarion1.incipit = "…"
 trMA.Exaposteilarion1.text = ""
 
 trMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 trMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 trMA.Exaposteilarion2.incipit = "…"
 trMA.Exaposteilarion2.text = ""

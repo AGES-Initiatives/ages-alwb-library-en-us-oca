@@ -16,21 +16,25 @@ trCO.header = ""
 trDA.dismissal = dismissals_en_US_oca.dis00.resurrection
 
 trVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera01.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera01.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera02.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera02.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera03.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera03.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = ""
 
 trVE.Stichera04.mode = miscellanea_en_US_oca.misc.Mode6
+trVE.Stichera04.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 trVE.Stichera04.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 trVE.Stichera04.incipit = "…"
 trVE.Stichera04.text = ""
@@ -83,6 +87,7 @@ trMA.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode1C11.greekmelody = he.h.m6_en_US_oca.heHE.VoithosKaiSkepastis.greekname
 trMA.Ode1C11.melody = he.h.m6_en_US_oca.heHE.VoithosKaiSkepastis.notmetered
 trMA.Ode1C11.incipit = "As I ponder and look…"
 trMA.Ode1C11.text = "As I ponder and look towards the dread day of Your ineffable coming, ⁄ I tremble with fear. ⁄ Then You will sit and judge the living and the dead, ⁄ my all-powerful God."
@@ -131,6 +136,7 @@ trMA.Ode1C1T.text = "Who has ever begotten a son ⁄ not sown by a father accord
 
 trMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode3C11.greekmelody = he.h.m6_en_US_oca.heHE.StereosonKyrie.greekname
 trMA.Ode3C11.melody = he.h.m6_en_US_oca.heHE.StereosonKyrie.notmetered
 trMA.Ode3C11.incipit = "Behold the coming of the…"
 trMA.Ode3C11.text = "Behold the coming of the Lord, ⁄ and who shall endure the fear when He comes? ⁄ Who shall dare to appear before His face? ⁄ But prepare yourself to meet Him, my soul."
@@ -178,16 +184,19 @@ trMA.Ode3C1T.incipit = "Undefiled Virgin, ⁄ you gave…"
 trMA.Ode3C1T.text = "Undefiled Virgin, ⁄ you gave birth without seed to the living Word, ⁄ Who took flesh in your womb yet was not changed. ⁄ Glory to your child-bearing, Mother of God!"
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 trMA.Ode3Kathisma1.incipit = "…"
 trMA.Ode3Kathisma1.text = ""
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode1
+trMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma2.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 trMA.Ode3Kathisma2.incipit = "…"
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode3Kathisma3.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma3.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 trMA.Ode3Kathisma3.incipit = "I think upon the fearful…"
 trMA.Ode3Kathisma3.text = "I think upon the fearful day and lament my evil acts. ⁄ What answer shall I give to the immortal King? ⁄ And what boldness could I have as prodigal to gaze upon the Judge? ⁄⁄ Compassionate Father, only-begotten Son and Holy Spirit, have mercy on me!"
@@ -198,12 +207,14 @@ trMA.Ode3Kathisma4.incipit = "In the valley of lamentation…"
 trMA.Ode3Kathisma4.text = "In the valley of lamentation, the place you have appointed, ⁄ when you shall sit, merciful Lord, to execute just judgement, ⁄ do not publish my secret sins, or put me to shame before the angels, ⁄⁄ but spare me, O God, and have mercy on me."
 
 trMA.Ode3Kathisma5.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode3Kathisma5.greekmelody = he.a.m6_en_US_oca.heAU.ElpisTouKosmouAgathi.greekname
 trMA.Ode3Kathisma5.melody = he.a.m6_en_US_oca.heAU.ElpisTouKosmouAgathi.melody
 trMA.Ode3Kathisma5.incipit = he.a.m6_en_US_oca.heAU.ElpisTouKosmouAgathi.incipit
 trMA.Ode3Kathisma5.text = he.a.m6_en_US_oca.heAU.ElpisTouKosmouAgathi.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode4C11.greekmelody = he.h.m6_en_US_oca.heHE.AkikoenOProfitis.greekname
 trMA.Ode4C11.melody = he.h.m6_en_US_oca.heHE.AkikoenOProfitis.notmetered
 trMA.Ode4C11.incipit = "The day is upon us…"
 trMA.Ode4C11.text = "The day is upon us; the judgement is now at the door. ⁄ Be vigilant, my soul. ⁄ Kings and princes, the rich and poor are gathering, ⁄ and each shall receive the due reward for what he has done."
@@ -258,6 +269,7 @@ trMA.Ode4C1T.text = "Every ear and mind are filled with wonder, Virgin Mother �
 
 trMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode5C11.greekmelody = he.h.m6_en_US_oca.heHE.EkNyktosOrthrizonta.greekname
 trMA.Ode5C11.melody = he.h.m6_en_US_oca.heHE.EkNyktosOrthrizonta.notmetered
 trMA.Ode5C11.incipit = "Indescribable fear and trembling are…"
 trMA.Ode5C11.text = "Indescribable fear and trembling are there, ⁄ for the Lord will come trying the work of every man, ⁄ and who will not mourn for himself?"
@@ -306,6 +318,7 @@ trMA.Ode5C1T.text = "The laws of nature, holy Virgin, ⁄ are clearly voided by 
 
 trMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode6C11.greekmelody = he.h.m6_en_US_oca.heHE.EvoisaEnOliKardiaMou.greekname
 trMA.Ode6C11.melody = he.h.m6_en_US_oca.heHE.EvoisaEnOliKardiaMou.notmetered
 trMA.Ode6C11.incipit = "At Your fearful coming, O…"
 trMA.Ode6C11.text = "At Your fearful coming, O Christ, ⁄ when You appear from heaven, ⁄ when the thrones are set up and the books are opened, ⁄ then spare, Savior, spare Your creature."
@@ -374,6 +387,7 @@ trSY.lastline = ""
 
 trMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode7C11.greekmelody = he.h.m6_en_US_oca.heHE.ImartomenInomisamen.greekname
 trMA.Ode7C11.melody = he.h.m6_en_US_oca.heHE.ImartomenInomisamen.notmetered
 trMA.Ode7C11.incipit = "Let us, faithful, fall down…"
 trMA.Ode7C11.text = "Let us, faithful, fall down and lament ⁄ before that day of judgment comes, ⁄ when the heavens shall be destroyed, ⁄ the stars fall and all the earth shall be shaken, ⁄ that at the end we may receive mercy from the God of our fathers."
@@ -422,6 +436,7 @@ trMA.Ode7C1T.text = "Virgin, God comes forth in beauty from the chamber of your 
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode8C11.greekmelody = he.h.m6_en_US_oca.heHE.OnStratiaiOuranon.greekname
 trMA.Ode8C11.melody = he.h.m6_en_US_oca.heHE.OnStratiaiOuranon.notmetered
 trMA.Ode8C11.incipit = "Lord, when I think how…"
 trMA.Ode8C11.text = "Lord, when I think how I must meet You at Your fearful second coming, ⁄ I tremble at Your menace, I fear Your wrath. ⁄ In that hour deliver me, I Cry, ⁄ and save me forever."
@@ -470,6 +485,7 @@ trMA.Ode8C1T.text = "Christ has come forth from your radiant womb ⁄ as a bride
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode6
+trMA.Ode9C11.greekmelody = he.h.m6_en_US_oca.heHE.AsporouSyllipseos.greekname
 trMA.Ode9C11.melody = he.h.m6_en_US_oca.heHE.AsporouSyllipseos.notmetered
 trMA.Ode9C11.incipit = "The Lord comes to punish…"
 trMA.Ode9C11.text = "The Lord comes to punish sinners and to save the righteous. ⁄ Let us tremble and lament, ⁄ and call to mind that day when our hidden secrets will be disclosed ⁄ and He will pay us what is due."
@@ -517,16 +533,19 @@ trMA.Ode9C1T.incipit = "The marvel of your childbearing…"
 trMA.Ode9C1T.text = "The marvel of your childbearing fills me with wonder, ⁄ all blameless Lady. ⁄ How did you conceive without seed Him whom none can comprehend? ⁄ How did you remain a Virgin and yet become a Mother? ⁄ \"Accept the miracle with faith! ⁄ Worship the Child that is born: ⁄ For all that He wills, He has the power to do!\""
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.ToisMathitaisSynelthomen.notmetered
 trMA.Exaposteilarion1.incipit = "…"
 trMA.Exaposteilarion1.text = ""
 
 trMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 trMA.Exaposteilarion2.incipit = "…"
 trMA.Exaposteilarion2.text = ""
 
 trMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.ExapTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 trMA.ExapTheotokion.incipit = "…"
 trMA.ExapTheotokion.text = ""

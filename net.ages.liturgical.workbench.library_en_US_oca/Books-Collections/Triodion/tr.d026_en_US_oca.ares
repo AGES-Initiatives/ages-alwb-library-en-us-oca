@@ -66,6 +66,7 @@ trMA.C2.poet = poets_en_US_oca.po.KyriouTheodorou
 
 trMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode4C11.greekmelody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.greekname
 trMA.Ode4C11.melody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.notmetered
 trMA.Ode4C11.incipit = "Become as lightning, my soul…"
 trMA.Ode4C11.text = "Become as lightning, my soul, ⁄ receiving the flashing rays of abstinence, ⁄ and flee from the obscurity of sin: ⁄ that through the divine spirit ⁄ the light of forgiveness may enlighten you as the rising sun."
@@ -90,6 +91,7 @@ trMA.Ode4C1T.text = "I cry out to you day and night in my affliction. ⁄ Encirc
 
 trMA.Ode4C21.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C21.mode = miscellanea_en_US_oca.misc.Mode5
+trMA.Ode4C21.greekmelody = he.h.m5_en_US_oca.heHE.TaErgaTisOikonomias.greekname
 trMA.Ode4C21.melody = he.h.m5_en_US_oca.heHE.TaErgaTisOikonomias.notmetered
 trMA.Ode4C21.incipit = "Shining with the radiance of…"
 trMA.Ode4C21.text = "Shining with the radiance of the Sun of Righteousness, Apostles, ⁄ you give light to this earthly world, ⁄ driving away the gloom of error."
@@ -120,12 +122,14 @@ trMA.Ode4C2A1.text = "Divine and honored company of the twelve Apostles, ⁄ we 
 
 trMA.Ode4C2H.ode = miscellanea_en_US_oca.misc.Ode4
 trMA.Ode4C2H.mode = miscellanea_en_US_oca.misc.Mode5
+trMA.Ode4C2H.greekmelody = he.h.m5_en_US_oca.heHE.TaErgaTisOikonomias.greekname
 trMA.Ode4C2H.melody = he.h.m5_en_US_oca.heHE.TaErgaTisOikonomias.melody
 trMA.Ode4C2H.incipit = he.h.m5_en_US_oca.heHE.TaErgaTisOikonomias.incipit
 trMA.Ode4C2H.text = he.h.m5_en_US_oca.heHE.TaErgaTisOikonomias.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode8C11.greekmelody = he.h.m2_en_US_oca.heHE.ToDogmatiToTyranniko.greekname
 trMA.Ode8C11.melody = he.h.m2_en_US_oca.heHE.ToDogmatiToTyranniko.notmetered
 trMA.Ode8C11.incipit = "Let us abstain from every…"
 trMA.Ode8C11.text = "Let us abstain from every pleasure; ⁄ let us enrich our powers of perception through fasting, ⁄ and let us drink gladly the cup of compunction, as we sing: ⁄ All works of the Lord, bless the Lord!"
@@ -150,6 +154,7 @@ trMA.Ode8C1T.text = "Virgin, you bore the fire of the Godhead, yet remained unco
 
 trMA.Ode8C21.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_US_oca.misc.Mode5
+trMA.Ode8C21.greekmelody = he.h.m5_en_US_oca.heHE.OiOsioiSouPaides.greekname
 trMA.Ode8C21.melody = he.h.m5_en_US_oca.heHE.OiOsioiSouPaides.notmetered
 trMA.Ode8C21.incipit = "We praise the trumpets of…"
 trMA.Ode8C21.text = "We praise the trumpets of the Spirit, the disciples of Christ, ⁄ and we cry aloud: ⁄ All works of the Lord, bless the Lord!"
@@ -180,12 +185,14 @@ trMA.Ode8C2A1.text = "Pray for us, Apostles, ⁄ that we may complete these days
 
 trMA.Ode8C2H.ode = miscellanea_en_US_oca.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_US_oca.misc.Mode5
+trMA.Ode8C2H.greekmelody = he.h.m5_en_US_oca.heHE.OiOsioiSouPaides.greekname
 trMA.Ode8C2H.melody = he.h.m5_en_US_oca.heHE.OiOsioiSouPaides.melody
 trMA.Ode8C2H.incipit = he.h.m5_en_US_oca.heHE.OiOsioiSouPaides.incipit
 trMA.Ode8C2H.text = he.h.m5_en_US_oca.heHE.OiOsioiSouPaides.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode2
+trMA.Ode9C11.greekmelody = he.h.m2_en_US_oca.heHE.ITonAchoritonTheon.greekname
 trMA.Ode9C11.melody = he.h.m2_en_US_oca.heHE.ITonAchoritonTheon.notmetered
 trMA.Ode9C11.incipit = "Cast into the yawning deep…"
 trMA.Ode9C11.text = "Cast into the yawning deep of sensual pleasure, ⁄ I call upon the abyss of your tender mercies: ⁄ O Helmsman, save me!"
@@ -210,6 +217,7 @@ trMA.Ode9C1T.text = "You made our earthly nature heavenly, undefiled Virgin, ⁄
 
 trMA.Ode9C21.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_US_oca.misc.Mode5
+trMA.Ode9C21.greekmelody = he.h.m5_en_US_oca.heHE.MegalynomenChriste.greekname
 trMA.Ode9C21.melody = he.h.m5_en_US_oca.heHE.MegalynomenChriste.notmetered
 trMA.Ode9C21.incipit = "The Apostles prophetically drew the…"
 trMA.Ode9C21.text = "The Apostles prophetically drew the water of immortality ⁄ from the fountain of the Savior, ⁄ ever giving the thirsty drink from the teachings of life."
@@ -240,6 +248,7 @@ trMA.Ode9C2A1.text = "Choir of the Apostles, ⁄ keep safe those who praise you,
 
 trMA.Ode9C2H.ode = miscellanea_en_US_oca.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_US_oca.misc.Mode5
+trMA.Ode9C2H.greekmelody = he.h.m5_en_US_oca.heHE.MegalynomenChriste.greekname
 trMA.Ode9C2H.melody = he.h.m5_en_US_oca.heHE.MegalynomenChriste.melody
 trMA.Ode9C2H.incipit = he.h.m5_en_US_oca.heHE.MegalynomenChriste.incipit
 trMA.Ode9C2H.text = he.h.m5_en_US_oca.heHE.MegalynomenChriste.text

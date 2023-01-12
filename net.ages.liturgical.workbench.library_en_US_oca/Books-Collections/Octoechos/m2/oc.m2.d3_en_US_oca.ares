@@ -3,6 +3,7 @@ A_Resource_Whose_Name = oc.m2.d3_en_US_oca
 ocBK.ModeNaked = miscellanea_en_US_oca.misc.Mode2.naked
 
 ocVE.Stichera1.mode = miscellanea_en_US_oca.misc.Mode2
+ocVE.Stichera1.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 ocVE.Stichera1.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 ocVE.Stichera1.incipit = "…"
 ocVE.Stichera1.text = ""
@@ -18,6 +19,7 @@ ocVE.Stichera3.incipit = "…"
 ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = miscellanea_en_US_oca.misc.Mode2
+ocVE.Stichera4.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 ocVE.Stichera4.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 ocVE.Stichera4.incipit = "…"
 ocVE.Stichera4.text = ""
@@ -33,6 +35,7 @@ ocVE.Stichera6.incipit = "…"
 ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
+ocVE.SticTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 ocVE.SticTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 ocVE.SticTheotokion.incipit = "…"
 ocVE.SticTheotokion.text = ""
@@ -93,6 +96,7 @@ ocMA.Kathisma23.incipit = "…"
 ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode2
+ocMA.Kathisma31.greekmelody = he.a.m2_en_US_oca.heAU.EfsplagchniasYparchousa.greekname
 ocMA.Kathisma31.melody = he.a.m2_en_US_oca.heAU.EfsplagchniasYparchousa.notmetered
 ocMA.Kathisma31.incipit = "You plunged the bountiful Source…"
 ocMA.Kathisma31.text = "You plunged the bountiful Source of compassion ⁄ into the waters of the Jordan, O John; ⁄ therefore I fervently cry out to you: ⁄ Guide me towards the safe harbor of life by your prayers, ⁄⁄ for through my many passions, I sink daily in the sea of this world."
@@ -117,6 +121,7 @@ ocMA.C2.acrostic.text = ""
 
 ocMA.OdeW1C1H.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW1C1H.ode = miscellanea_en_US_oca.misc.Ode1
+ocMA.OdeW1C1H.greekmelody = he.h.m2_en_US_oca.heHE.TinMoseosOdin.greekname
 ocMA.OdeW1C1H.melody = he.h.m2_en_US_oca.heHE.TinMoseosOdin.melody
 ocMA.OdeW1C1H.incipit = he.h.m2_en_US_oca.heHE.TinMoseosOdin.incipit
 ocMA.OdeW1C1H.text = he.h.m2_en_US_oca.heHE.TinMoseosOdin.text
@@ -153,6 +158,7 @@ ocMA.OdeW1C1T.text = ""
 
 ocMA.OdeW1C21.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW1C21.ode = miscellanea_en_US_oca.misc.Ode1
+ocMA.OdeW1C21.greekmelody = he.h.m2_en_US_oca.heHE.EnVythoKatestrose.greekname
 ocMA.OdeW1C21.melody = he.h.m2_en_US_oca.heHE.EnVythoKatestrose.name
 ocMA.OdeW1C21.incipit = "…"
 ocMA.OdeW1C21.text = ""
@@ -177,6 +183,7 @@ ocMA.OdeW1C2T.text = ""
 
 ocMA.OdeW3C1H.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW3C1H.ode = miscellanea_en_US_oca.misc.Ode3
+ocMA.OdeW3C1H.greekmelody = he.h.m2_en_US_oca.heHE.SteirothentaMouTonNoun.greekname
 ocMA.OdeW3C1H.melody = he.h.m2_en_US_oca.heHE.SteirothentaMouTonNoun.melody
 ocMA.OdeW3C1H.incipit = he.h.m2_en_US_oca.heHE.SteirothentaMouTonNoun.incipit
 ocMA.OdeW3C1H.text = he.h.m2_en_US_oca.heHE.SteirothentaMouTonNoun.text
@@ -213,6 +220,7 @@ ocMA.OdeW3C1T.text = ""
 
 ocMA.OdeW3C21.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW3C21.ode = miscellanea_en_US_oca.misc.Ode3
+ocMA.OdeW3C21.greekmelody = he.h.m2_en_US_oca.heHE.EnPetraMeTisPisteos.greekname
 ocMA.OdeW3C21.melody = he.h.m2_en_US_oca.heHE.EnPetraMeTisPisteos.name
 ocMA.OdeW3C21.incipit = "…"
 ocMA.OdeW3C21.text = ""
@@ -237,6 +245,7 @@ ocMA.OdeW3C2T.text = ""
 
 ocMA.OdeW4C1H.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW4C1H.ode = miscellanea_en_US_oca.misc.Ode4
+ocMA.OdeW4C1H.greekmelody = he.h.m2_en_US_oca.heHE.TinEkParthenou.greekname
 ocMA.OdeW4C1H.melody = he.h.m2_en_US_oca.heHE.TinEkParthenou.melody
 ocMA.OdeW4C1H.incipit = he.h.m2_en_US_oca.heHE.TinEkParthenou.incipit
 ocMA.OdeW4C1H.text = he.h.m2_en_US_oca.heHE.TinEkParthenou.text
@@ -273,6 +282,7 @@ ocMA.OdeW4C1T.text = ""
 
 ocMA.OdeW4C21.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW4C21.ode = miscellanea_en_US_oca.misc.Ode4
+ocMA.OdeW4C21.greekmelody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.greekname
 ocMA.OdeW4C21.melody = he.h.m2_en_US_oca.heHE.ElilythasEkParthenou.name
 ocMA.OdeW4C21.incipit = "…"
 ocMA.OdeW4C21.text = ""
@@ -303,6 +313,7 @@ ocMA.OdeW4C2T.text = ""
 
 ocMA.OdeW5C1H.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW5C1H.ode = miscellanea_en_US_oca.misc.Ode5
+ocMA.OdeW5C1H.greekmelody = he.h.m2_en_US_oca.heHE.TinAchlynTisPsychisMou.greekname
 ocMA.OdeW5C1H.melody = he.h.m2_en_US_oca.heHE.TinAchlynTisPsychisMou.melody
 ocMA.OdeW5C1H.incipit = he.h.m2_en_US_oca.heHE.TinAchlynTisPsychisMou.incipit
 ocMA.OdeW5C1H.text = he.h.m2_en_US_oca.heHE.TinAchlynTisPsychisMou.text
@@ -339,6 +350,7 @@ ocMA.OdeW5C1T.text = ""
 
 ocMA.OdeW5C21.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW5C21.ode = miscellanea_en_US_oca.misc.Ode5
+ocMA.OdeW5C21.greekmelody = he.h.m2_en_US_oca.heHE.OFotismos.greekname
 ocMA.OdeW5C21.melody = he.h.m2_en_US_oca.heHE.OFotismos.name
 ocMA.OdeW5C21.incipit = "…"
 ocMA.OdeW5C21.text = ""
@@ -369,6 +381,7 @@ ocMA.OdeW5C2T.text = ""
 
 ocMA.OdeW6C1H.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW6C1H.ode = miscellanea_en_US_oca.misc.Ode6
+ocMA.OdeW6C1H.greekmelody = he.h.m2_en_US_oca.heHE.VythoAmartimaton.greekname
 ocMA.OdeW6C1H.melody = he.h.m2_en_US_oca.heHE.VythoAmartimaton.melody
 ocMA.OdeW6C1H.incipit = he.h.m2_en_US_oca.heHE.VythoAmartimaton.incipit
 ocMA.OdeW6C1H.text = he.h.m2_en_US_oca.heHE.VythoAmartimaton.text
@@ -405,6 +418,7 @@ ocMA.OdeW6C1T.text = ""
 
 ocMA.OdeW6C21.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW6C21.ode = miscellanea_en_US_oca.misc.Ode6
+ocMA.OdeW6C21.greekmelody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.greekname
 ocMA.OdeW6C21.melody = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.name
 ocMA.OdeW6C21.incipit = "…"
 ocMA.OdeW6C21.text = ""
@@ -429,6 +443,7 @@ ocMA.OdeW6C2T.text = ""
 
 ocMA.OdeW7C1H.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW7C1H.ode = miscellanea_en_US_oca.misc.Ode7
+ocMA.OdeW7C1H.greekmelody = he.h.m2_en_US_oca.heHE.TaCherouvimMimoumenoi.greekname
 ocMA.OdeW7C1H.melody = he.h.m2_en_US_oca.heHE.TaCherouvimMimoumenoi.melody
 ocMA.OdeW7C1H.incipit = he.h.m2_en_US_oca.heHE.TaCherouvimMimoumenoi.incipit
 ocMA.OdeW7C1H.text = he.h.m2_en_US_oca.heHE.TaCherouvimMimoumenoi.text
@@ -465,6 +480,7 @@ ocMA.OdeW7C1T.text = ""
 
 ocMA.OdeW7C21.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW7C21.ode = miscellanea_en_US_oca.misc.Ode7
+ocMA.OdeW7C21.greekmelody = he.h.m2_en_US_oca.heHE.AntitheonProstagma.greekname
 ocMA.OdeW7C21.melody = he.h.m2_en_US_oca.heHE.AntitheonProstagma.name
 ocMA.OdeW7C21.incipit = "…"
 ocMA.OdeW7C21.text = ""
@@ -489,6 +505,7 @@ ocMA.OdeW7C2T.text = ""
 
 ocMA.OdeW8C1H.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW8C1H.ode = miscellanea_en_US_oca.misc.Ode8
+ocMA.OdeW8C1H.greekmelody = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.greekname
 ocMA.OdeW8C1H.melody = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.melody
 ocMA.OdeW8C1H.incipit = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.incipit
 ocMA.OdeW8C1H.text = he.h.m2_en_US_oca.heHE.TonEnTiVatoMosi.text
@@ -525,6 +542,7 @@ ocMA.OdeW8C1T.text = ""
 
 ocMA.OdeW8C21.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW8C21.ode = miscellanea_en_US_oca.misc.Ode8
+ocMA.OdeW8C21.greekmelody = he.h.m2_en_US_oca.heHE.KaminosPote.greekname
 ocMA.OdeW8C21.melody = he.h.m2_en_US_oca.heHE.KaminosPote.name
 ocMA.OdeW8C21.incipit = "…"
 ocMA.OdeW8C21.text = ""
@@ -555,6 +573,7 @@ ocMA.OdeW8C2T.text = ""
 
 ocMA.OdeW9C1H.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW9C1H.ode = miscellanea_en_US_oca.misc.Ode9
+ocMA.OdeW9C1H.greekmelody = he.h.m2_en_US_oca.heHE.TonGigenonTisIkouse.greekname
 ocMA.OdeW9C1H.melody = he.h.m2_en_US_oca.heHE.TonGigenonTisIkouse.melody
 ocMA.OdeW9C1H.incipit = he.h.m2_en_US_oca.heHE.TonGigenonTisIkouse.incipit
 ocMA.OdeW9C1H.text = he.h.m2_en_US_oca.heHE.TonGigenonTisIkouse.text
@@ -591,6 +610,7 @@ ocMA.OdeW9C1T.text = ""
 
 ocMA.OdeW9C21.mode = miscellanea_en_US_oca.misc.Mode2
 ocMA.OdeW9C21.ode = miscellanea_en_US_oca.misc.Ode9
+ocMA.OdeW9C21.greekmelody = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.greekname
 ocMA.OdeW9C21.melody = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.name
 ocMA.OdeW9C21.incipit = "…"
 ocMA.OdeW9C21.text = ""

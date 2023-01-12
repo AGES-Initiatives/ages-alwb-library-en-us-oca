@@ -82,7 +82,8 @@ ocVE.SticTheotokion.incipit = "…"
 ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode4
-ocVE.Aposticha1.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+ocVE.Aposticha1.greekmelody = he.a.m4_en_US_oca.heAU.KyrieAnelthonEnToStavro.greekname
+ocVE.Aposticha1.melody = he.a.m4_en_US_oca.heAU.KyrieAnelthonEnToStavro.melody
 ocVE.Aposticha1.incipit = he.a.m4_en_US_oca.heAU.KyrieAnelthonEnToStavro.incipit
 ocVE.Aposticha1.text = he.a.m4_en_US_oca.heAU.KyrieAnelthonEnToStavro.text
 
@@ -123,6 +124,7 @@ ocMO.acrostic.text = ""
 
 ocMO.Ode11.mode = miscellanea_en_US_oca.misc.Mode4
 ocMO.Ode11.ode = miscellanea_en_US_oca.misc.Ode1
+ocMO.Ode11.greekmelody = he.h.m4_en_US_oca.heHE.ThalassisToErythraion.greekname
 ocMO.Ode11.melody = he.h.m4_en_US_oca.heHE.ThalassisToErythraion.notmetered
 ocMO.Ode11.incipit = "…"
 ocMO.Ode11.text = ""
@@ -147,6 +149,7 @@ ocMO.Ode1T.text = ""
 
 ocMO.Ode31.mode = miscellanea_en_US_oca.misc.Mode4
 ocMO.Ode31.ode = miscellanea_en_US_oca.misc.Ode3
+ocMO.Ode31.greekmelody = he.h.m4_en_US_oca.heHE.OukEnSofia.greekname
 ocMO.Ode31.melody = he.h.m4_en_US_oca.heHE.OukEnSofia.notmetered
 ocMO.Ode31.incipit = "…"
 ocMO.Ode31.text = ""
@@ -170,6 +173,7 @@ ocMO.Ode3T.incipit = "…"
 ocMO.Ode3T.text = ""
 
 ocMO.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode4
+ocMO.Kathisma11.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 ocMO.Kathisma11.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 ocMO.Kathisma11.incipit = "…"
 ocMO.Kathisma11.text = ""
@@ -181,6 +185,7 @@ ocMO.Kathisma12.text = ""
 
 ocMO.Ode41.mode = miscellanea_en_US_oca.misc.Mode4
 ocMO.Ode41.ode = miscellanea_en_US_oca.misc.Ode4
+ocMO.Ode41.greekmelody = he.h.m4_en_US_oca.heHE.OKathimenosEnDoxi.greekname
 ocMO.Ode41.melody = he.h.m4_en_US_oca.heHE.OKathimenosEnDoxi.notmetered
 ocMO.Ode41.incipit = "…"
 ocMO.Ode41.text = ""
@@ -205,6 +210,7 @@ ocMO.Ode4T.text = ""
 
 ocMO.Ode51.mode = miscellanea_en_US_oca.misc.Mode4
 ocMO.Ode51.ode = miscellanea_en_US_oca.misc.Ode5
+ocMO.Ode51.greekmelody = he.h.m4_en_US_oca.heHE.ExestiTaSympanta.greekname
 ocMO.Ode51.melody = he.h.m4_en_US_oca.heHE.ExestiTaSympanta.notmetered
 ocMO.Ode51.incipit = "…"
 ocMO.Ode51.text = ""
@@ -229,6 +235,7 @@ ocMO.Ode5T.text = ""
 
 ocMO.Ode61.mode = miscellanea_en_US_oca.misc.Mode4
 ocMO.Ode61.ode = miscellanea_en_US_oca.misc.Ode6
+ocMO.Ode61.greekmelody = he.h.m4_en_US_oca.heHE.EvoiseProtypon.greekname
 ocMO.Ode61.melody = he.h.m4_en_US_oca.heHE.EvoiseProtypon.notmetered
 ocMO.Ode61.incipit = "…"
 ocMO.Ode61.text = ""
@@ -252,6 +259,7 @@ ocMO.Ode6T.incipit = "…"
 ocMO.Ode6T.text = ""
 
 ocMO.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode4
+ocMO.Kathisma21.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 ocMO.Kathisma21.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 ocMO.Kathisma21.incipit = "…"
 ocMO.Kathisma21.text = ""
@@ -263,6 +271,7 @@ ocMO.Kathisma22.text = ""
 
 ocMO.Ode71.mode = miscellanea_en_US_oca.misc.Mode4
 ocMO.Ode71.ode = miscellanea_en_US_oca.misc.Ode7
+ocMO.Ode71.greekmelody = he.h.m2_en_US_oca.heHE.EnTiKamino.greekname
 ocMO.Ode71.melody = he.h.m2_en_US_oca.heHE.EnTiKamino.notmetered
 ocMO.Ode71.incipit = "…"
 ocMO.Ode71.text = ""
@@ -281,6 +290,7 @@ ocMO.Ode7T.text = ""
 
 ocMO.Ode81.mode = miscellanea_en_US_oca.misc.Mode4
 ocMO.Ode81.ode = miscellanea_en_US_oca.misc.Ode8
+ocMO.Ode81.greekmelody = he.h.m4_en_US_oca.heHE.CheirasEkpetasasDaniil.greekname
 ocMO.Ode81.melody = he.h.m4_en_US_oca.heHE.CheirasEkpetasasDaniil.notmetered
 ocMO.Ode81.incipit = "…"
 ocMO.Ode81.text = ""
@@ -299,6 +309,7 @@ ocMO.Ode8T.text = ""
 
 ocMO.Ode91.mode = miscellanea_en_US_oca.misc.Mode4
 ocMO.Ode91.ode = miscellanea_en_US_oca.misc.Ode9
+ocMO.Ode91.greekmelody = he.h.m4_en_US_oca.heHE.ApasGigenis.greekname
 ocMO.Ode91.melody = he.h.m4_en_US_oca.heHE.ApasGigenis.notmetered
 ocMO.Ode91.incipit = "…"
 ocMO.Ode91.text = ""
@@ -323,6 +334,7 @@ ocMA.Kathisma11.incipit = "…"
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = miscellanea_en_US_oca.misc.Mode4
+ocMA.Kathisma12.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 ocMA.Kathisma12.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 ocMA.Kathisma12.incipit = "…"
 ocMA.Kathisma12.text = ""
@@ -333,16 +345,19 @@ ocMA.Kathisma13.incipit = he.a.m4_en_US_oca.heAU.KateplagiIosif.incipit
 ocMA.Kathisma13.text = he.a.m4_en_US_oca.heAU.KateplagiIosif.text
 
 ocMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode4
+ocMA.Kathisma21.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
 ocMA.Kathisma21.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
 ocMA.Kathisma21.incipit = "…"
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = miscellanea_en_US_oca.misc.Mode4
+ocMA.Kathisma22.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 ocMA.Kathisma22.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 ocMA.Kathisma22.incipit = "…"
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = miscellanea_en_US_oca.misc.Mode4
+ocMA.Kathisma23.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 ocMA.Kathisma23.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 ocMA.Kathisma23.incipit = "…"
 ocMA.Kathisma23.text = ""
@@ -411,6 +426,7 @@ ocMA.C3.acrostic.text = ""
 
 ocMA.OdeS1C1H.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS1C1H.ode = miscellanea_en_US_oca.misc.Ode1
+ocMA.OdeS1C1H.greekmelody = he.h.m4_en_US_oca.heHE.ThalassisToErythraion.greekname
 ocMA.OdeS1C1H.melody = he.h.m4_en_US_oca.heHE.ThalassisToErythraion.melody
 ocMA.OdeS1C1H.incipit = he.h.m4_en_US_oca.heHE.ThalassisToErythraion.incipit
 ocMA.OdeS1C1H.text = he.h.m4_en_US_oca.heHE.ThalassisToErythraion.text
@@ -441,6 +457,7 @@ ocMA.OdeS1C2H.text = "As you were born of a Virgin, drown, I pray you, the might
 
 ocMA.OdeS1C21.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS1C21.ode = miscellanea_en_US_oca.misc.Ode1
+ocMA.OdeS1C21.greekmelody = he.h.m4_en_US_oca.heHE.AnoixoToStomaMou.greekname
 ocMA.OdeS1C21.melody = he.h.m4_en_US_oca.heHE.AnoixoToStomaMou.notmetered
 ocMA.OdeS1C21.incipit = "You have cured the affliction…"
 ocMA.OdeS1C21.text = "You have cured the affliction of mankind, O Lord, and renewed it by Your divine blood.  In power, You broke in pieces the might that in ancient times broke the work of Your hands."
@@ -459,6 +476,7 @@ ocMA.OdeS1C2T.text = "Your holy and living dwelling-place was more beautiful tha
 
 ocMA.OdeS1C31.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS1C31.ode = miscellanea_en_US_oca.misc.Ode1
+ocMA.OdeS1C31.greekmelody = he.h.m4_en_US_oca.heHE.TristatasKrataious.greekname
 ocMA.OdeS1C31.melody = he.h.m4_en_US_oca.heHE.TristatasKrataious.notmetered
 ocMA.OdeS1C31.incipit = "…"
 ocMA.OdeS1C31.text = ""
@@ -471,6 +489,7 @@ ocMA.OdeS1C32.text = ""
 
 ocMA.OdeS3C1H.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS3C1H.ode = miscellanea_en_US_oca.misc.Ode3
+ocMA.OdeS3C1H.greekmelody = he.h.m4_en_US_oca.heHE.EffrainetaiEpiSoi.greekname
 ocMA.OdeS3C1H.melody = he.h.m4_en_US_oca.heHE.EffrainetaiEpiSoi.melody
 ocMA.OdeS3C1H.incipit = he.h.m4_en_US_oca.heHE.EffrainetaiEpiSoi.incipit
 ocMA.OdeS3C1H.text = he.h.m4_en_US_oca.heHE.EffrainetaiEpiSoi.text
@@ -501,6 +520,7 @@ ocMA.OdeS3C2H.text = "You freely came down from on high to earth, O sovereign Lo
 
 ocMA.OdeS3C21.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS3C21.ode = miscellanea_en_US_oca.misc.Ode3
+ocMA.OdeS3C21.greekmelody = he.h.m4_en_US_oca.heHE.TousSousYmnologous.greekname
 ocMA.OdeS3C21.melody = he.h.m4_en_US_oca.heHE.TousSousYmnologous.notmetered
 ocMA.OdeS3C21.incipit = "You broke the venomous teeth…"
 ocMA.OdeS3C21.text = "You broke the venomous teeth of the serpent that had pierced me, O Saviour, by the nails that pierced Your hands, O Almighty Master, for none is holy but You, O Lover of mankind."
@@ -519,6 +539,7 @@ ocMA.OdeS3C2T.text = "You are the untilled earth that brought forth the living e
 
 ocMA.OdeS3C31.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS3C31.ode = miscellanea_en_US_oca.misc.Ode3
+ocMA.OdeS3C31.greekmelody = he.h.m4_en_US_oca.heHE.AfYpsousKatilthes.greekname
 ocMA.OdeS3C31.melody = he.h.m4_en_US_oca.heHE.AfYpsousKatilthes.notmetered
 ocMA.OdeS3C31.incipit = "…"
 ocMA.OdeS3C31.text = ""
@@ -531,6 +552,7 @@ ocMA.OdeS3C32.text = ""
 
 ocMA.OdeS4C1H.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS4C1H.ode = miscellanea_en_US_oca.misc.Ode4
+ocMA.OdeS4C1H.greekmelody = he.h.m4_en_US_oca.heHE.EparthentaSeIdousa.greekname
 ocMA.OdeS4C1H.melody = he.h.m4_en_US_oca.heHE.EparthentaSeIdousa.melody
 ocMA.OdeS4C1H.incipit = he.h.m4_en_US_oca.heHE.EparthentaSeIdousa.incipit
 ocMA.OdeS4C1H.text = he.h.m4_en_US_oca.heHE.EparthentaSeIdousa.text
@@ -561,6 +583,7 @@ ocMA.OdeS4C2H.text = "He who sits in glory on the throne of divinity, Jesus, the
 
 ocMA.OdeS4C21.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS4C21.ode = miscellanea_en_US_oca.misc.Ode4
+ocMA.OdeS4C21.greekmelody = he.h.m4_en_US_oca.heHE.TinAnexichniaston.greekname
 ocMA.OdeS4C21.melody = he.h.m4_en_US_oca.heHE.TinAnexichniaston.notmetered
 ocMA.OdeS4C21.incipit = "Israel, set under the law…"
 ocMA.OdeS4C21.text = "Israel, set under the law, did not know You, O Christ, as the God who gave the law, but transgressing the law, nailed You as a transgressor to the Cross, thus becoming unworthy of the law."
@@ -579,6 +602,7 @@ ocMA.OdeS4C2T.text = "The burning bush unconsumed by fire prefigured you to the 
 
 ocMA.OdeS4C31.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS4C31.ode = miscellanea_en_US_oca.misc.Ode4
+ocMA.OdeS4C31.greekmelody = he.h.m4_en_US_oca.heHE.OKathimenosEnDoxi.greekname
 ocMA.OdeS4C31.melody = he.h.m4_en_US_oca.heHE.OKathimenosEnDoxi.notmetered
 ocMA.OdeS4C31.incipit = "…"
 ocMA.OdeS4C31.text = ""
@@ -597,6 +621,7 @@ ocMA.OdeS4C33.text = ""
 
 ocMA.OdeS5C1H.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS5C1H.ode = miscellanea_en_US_oca.misc.Ode5
+ocMA.OdeS5C1H.greekmelody = he.h.m4_en_US_oca.heHE.SyKyrieMouFos.greekname
 ocMA.OdeS5C1H.melody = he.h.m4_en_US_oca.heHE.SyKyrieMouFos.melody
 ocMA.OdeS5C1H.incipit = he.h.m4_en_US_oca.heHE.SyKyrieMouFos.incipit
 ocMA.OdeS5C1H.text = he.h.m4_en_US_oca.heHE.SyKyrieMouFos.text
@@ -627,6 +652,7 @@ ocMA.OdeS5C2H.text = ""
 
 ocMA.OdeS5C21.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS5C21.ode = miscellanea_en_US_oca.misc.Ode5
+ocMA.OdeS5C21.greekmelody = he.h.m4_en_US_oca.heHE.ExestiTaSympanta.greekname
 ocMA.OdeS5C21.melody = he.h.m4_en_US_oca.heHE.ExestiTaSympanta.notmetered
 ocMA.OdeS5C21.incipit = "Foolish and senseless Hades…"
 ocMA.OdeS5C21.text = "Foolish and senseless Hades took You whole in its jaws. It saw You nailed to the Tree and pierced by a spear. As it beheld You breathless it counted You, the Living God to be merely mortal man. But when it was challenged it knew the strength of Your divinity."
@@ -645,6 +671,7 @@ ocMA.OdeS5C2T.text = "Behold, now the words of the prophet are fulfilled, for yo
 
 ocMA.OdeS5C31.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS5C31.ode = miscellanea_en_US_oca.misc.Ode5
+ocMA.OdeS5C31.greekmelody = he.h.m4_en_US_oca.heHE.NynAnastisomai.greekname
 ocMA.OdeS5C31.melody = he.h.m4_en_US_oca.heHE.NynAnastisomai.notmetered
 ocMA.OdeS5C31.incipit = "…"
 ocMA.OdeS5C31.text = ""
@@ -663,6 +690,7 @@ ocMA.OdeS5C33.text = ""
 
 ocMA.OdeS6C1H.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS6C1H.ode = miscellanea_en_US_oca.misc.Ode6
+ocMA.OdeS6C1H.greekmelody = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.greekname
 ocMA.OdeS6C1H.melody = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.melody
 ocMA.OdeS6C1H.incipit = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.incipit
 ocMA.OdeS6C1H.text = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.text
@@ -693,6 +721,7 @@ ocMA.OdeS6C2H.text = "I have come to the depths of the sea, and a storm of many 
 
 ocMA.OdeS6C21.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS6C21.ode = miscellanea_en_US_oca.misc.Ode6
+ocMA.OdeS6C21.greekmelody = he.h.m4_en_US_oca.heHE.IlthonEisTaVathi.greekname
 ocMA.OdeS6C21.melody = he.h.m4_en_US_oca.heHE.IlthonEisTaVathi.notmetered
 ocMA.OdeS6C21.incipit = "Hades opened his mouth…"
 ocMA.OdeS6C21.text = "Hades opened his mouth and swallowed me, and the fool puffed up his soul; but Christ descended and led me up again, as the Lover of mankind."
@@ -711,6 +740,7 @@ ocMA.OdeS6C2T.text = "O Theotokos: your pure womb has been proclaimed to be the 
 
 ocMA.OdeS6C31.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS6C31.ode = miscellanea_en_US_oca.misc.Ode6
+ocMA.OdeS6C31.greekmelody = he.h.m4_en_US_oca.heHE.IlthonEisTaVathi.greekname
 ocMA.OdeS6C31.melody = he.h.m4_en_US_oca.heHE.IlthonEisTaVathi.notmetered
 ocMA.OdeS6C31.incipit = "…"
 ocMA.OdeS6C31.text = ""
@@ -732,6 +762,7 @@ ocMA.Oikos.text = ""
 
 ocMA.OdeS7C1H.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS7C1H.ode = miscellanea_en_US_oca.misc.Ode7
+ocMA.OdeS7C1H.greekmelody = he.h.m4_en_US_oca.heHE.EnTiKaminoAvramiaioi.greekname
 ocMA.OdeS7C1H.melody = he.h.m4_en_US_oca.heHE.EnTiKaminoAvramiaioi.melody
 ocMA.OdeS7C1H.incipit = he.h.m4_en_US_oca.heHE.EnTiKaminoAvramiaioi.incipit
 ocMA.OdeS7C1H.text = he.h.m4_en_US_oca.heHE.EnTiKaminoAvramiaioi.text
@@ -762,6 +793,7 @@ ocMA.OdeS7C2H.text = "Three young men in Babylon, counting a tyrant’s command 
 
 ocMA.OdeS7C21.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS7C21.ode = miscellanea_en_US_oca.misc.Ode7
+ocMA.OdeS7C21.greekmelody = he.h.m4_en_US_oca.heHE.OukElatrefsan.greekname
 ocMA.OdeS7C21.melody = he.h.m4_en_US_oca.heHE.OukElatrefsan.notmetered
 ocMA.OdeS7C21.incipit = "When You were lifted up…"
 ocMA.OdeS7C21.text = "When You were lifted up on the Tree, You cast down the proud look and haughty eye. You saved mankind, O all-praised One: Blessed are You, O Lord, God of our fathers."
@@ -780,6 +812,7 @@ ocMA.OdeS7C2Tr.text = "In accord with divine teachings, we glorify the One Godhe
 
 ocMA.OdeS7C31.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS7C31.ode = miscellanea_en_US_oca.misc.Ode7
+ocMA.OdeS7C31.greekmelody = he.h.m4_en_US_oca.heHE.NeoiTreisEnVavyloni.greekname
 ocMA.OdeS7C31.melody = he.h.m4_en_US_oca.heHE.NeoiTreisEnVavyloni.notmetered
 ocMA.OdeS7C31.incipit = "…"
 ocMA.OdeS7C31.text = ""
@@ -798,6 +831,7 @@ ocMA.OdeS7C3Tr.text = ""
 
 ocMA.OdeS8C1H.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS8C1H.ode = miscellanea_en_US_oca.misc.Ode8
+ocMA.OdeS8C1H.greekmelody = he.h.m4_en_US_oca.heHE.CheirasEkpetasasDaniil.greekname
 ocMA.OdeS8C1H.melody = he.h.m4_en_US_oca.heHE.CheirasEkpetasasDaniil.melody
 ocMA.OdeS8C1H.incipit = he.h.m4_en_US_oca.heHE.CheirasEkpetasasDaniil.incipit
 ocMA.OdeS8C1H.text = he.h.m4_en_US_oca.heHE.CheirasEkpetasasDaniil.text
@@ -828,6 +862,7 @@ ocMA.OdeS8C2H.text = "O almighty Redeemer of all: you descended to the godly you
 
 ocMA.OdeS8C21.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS8C21.ode = miscellanea_en_US_oca.misc.Ode8
+ocMA.OdeS8C21.greekmelody = he.h.m4_en_US_oca.heHE.PaidasEvageis.greekname
 ocMA.OdeS8C21.melody = he.h.m4_en_US_oca.heHE.PaidasEvageis.notmetered
 ocMA.OdeS8C21.incipit = "As it beheld You unjustly led…"
 ocMA.OdeS8C21.text = "As it beheld You unjustly led to the slaughter, creation trembled and lamented: the earth shook, and the sun wrapped itself in darkness, as in a garment. But we sing Your praises without ceasing, O Christ, and we highly exalt You throughout all ages."
@@ -846,6 +881,7 @@ ocMA.OdeS8C2Tr.text = "We glorify the primal Reason and Cause of all: the only u
 
 ocMA.OdeS8C31.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS8C31.ode = miscellanea_en_US_oca.misc.Ode8
+ocMA.OdeS8C31.greekmelody = he.h.m4_en_US_oca.heHE.LytrotaTouPantos.greekname
 ocMA.OdeS8C31.melody = he.h.m4_en_US_oca.heHE.LytrotaTouPantos.notmetered
 ocMA.OdeS8C31.incipit = "…"
 ocMA.OdeS8C31.text = ""
@@ -864,6 +900,7 @@ ocMA.OdeS8C33.text = ""
 
 ocMA.OdeS9C1H.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS9C1H.ode = miscellanea_en_US_oca.misc.Ode9
+ocMA.OdeS9C1H.greekmelody = he.h.m4_en_US_oca.heHE.LithosAcheirotmitos.greekname
 ocMA.OdeS9C1H.melody = he.h.m4_en_US_oca.heHE.LithosAcheirotmitos.melody
 ocMA.OdeS9C1H.incipit = he.h.m4_en_US_oca.heHE.LithosAcheirotmitos.incipit
 ocMA.OdeS9C1H.text = he.h.m4_en_US_oca.heHE.LithosAcheirotmitos.text
@@ -888,6 +925,7 @@ ocMA.OdeS9C1Tr.text = "All we the faithful worship the one divine Nature that is
 
 ocMA.OdeS9C21.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS9C21.ode = miscellanea_en_US_oca.misc.Ode9
+ocMA.OdeS9C21.greekmelody = he.h.m4_en_US_oca.heHE.ApasGigenis.greekname
 ocMA.OdeS9C21.melody = he.h.m4_en_US_oca.heHE.ApasGigenis.notmetered
 ocMA.OdeS9C21.incipit = "The serpent stealthily…"
 ocMA.OdeS9C21.text = "The serpent stealthily took me captive in Eden, but You, O almighty Lord, dashed him to pieces like a child upon the strong rock of Golgotha. And by the Wood of the Cross You opened for me again the entrance to delight."
@@ -906,6 +944,7 @@ ocMA.OdeS9C23.text = "Come, and visit the affliction of Your poor through Your c
 
 ocMA.OdeS9C31.mode = miscellanea_en_US_oca.misc.Mode4
 ocMA.OdeS9C31.ode = miscellanea_en_US_oca.misc.Ode9
+ocMA.OdeS9C31.greekmelody = he.h.m4_en_US_oca.heHE.KryptonTheionAchranton.greekname
 ocMA.OdeS9C31.melody = he.h.m4_en_US_oca.heHE.KryptonTheionAchranton.notmetered
 ocMA.OdeS9C31.incipit = "…"
 ocMA.OdeS9C31.text = ""
