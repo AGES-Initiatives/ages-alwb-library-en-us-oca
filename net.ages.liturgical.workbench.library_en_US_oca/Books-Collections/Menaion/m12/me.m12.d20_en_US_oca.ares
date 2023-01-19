@@ -81,7 +81,7 @@ meVE.Aposticha2.text = "Come, all you faithful, ⁄ begin the celebration: ⁄ S
 
 meVE.Aposticha3.poet = poets_en_US_oca.po.Kyprianou
 meVE.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2
-meVE.Aposticha3.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+meVE.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.melody
 meVE.Aposticha3.incipit = he.a.m2_en_US_oca.heAU.OikosTouEfratha.incipit
 meVE.Aposticha3.text = he.a.m2_en_US_oca.heAU.OikosTouEfratha.text
 
@@ -116,7 +116,7 @@ meCO.C1.verse = prayers_en_US_oca.pr.verse_God.text
 
 meCO.Ode1C1H.ode = miscellanea_en_US_oca.misc.Ode1
 meCO.Ode1C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meCO.Ode1C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+meCO.Ode1C1H.melody = he.h.m2_en_US_oca.heHE.ToTinAvaton.melody
 meCO.Ode1C1H.incipit = he.h.m2_en_US_oca.heHE.ToTinAvaton.incipit
 meCO.Ode1C1H.text = he.h.m2_en_US_oca.heHE.ToTinAvaton.text
 
@@ -134,7 +134,7 @@ meCO.Ode1C12.text = "Christ comes willingly to serve us; ⁄ the Creator puts on
 
 meCO.Ode8C1H.ode = miscellanea_en_US_oca.misc.Ode8
 meCO.Ode8C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meCO.Ode8C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+meCO.Ode8C1H.melody = he.h.m2_en_US_oca.heHE.EfrixePaidonEvagon.melody
 meCO.Ode8C1H.incipit = he.h.m2_en_US_oca.heHE.EfrixePaidonEvagon.incipit
 meCO.Ode8C1H.text = he.h.m2_en_US_oca.heHE.EfrixePaidonEvagon.text
 
@@ -152,7 +152,7 @@ meCO.Ode8C12.text = "Word, made flesh contrary to Your nature, ⁄ Your holy Mot
 
 meCO.Ode9C1H.ode = miscellanea_en_US_oca.misc.Ode9
 meCO.Ode9C1H.mode = miscellanea_en_US_oca.misc.Mode2
-meCO.Ode9C1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+meCO.Ode9C1H.melody = he.h.m2_en_US_oca.heHE.EmegalynasChriste.melody
 meCO.Ode9C1H.incipit = he.h.m2_en_US_oca.heHE.EmegalynasChriste.incipit
 meCO.Ode9C1H.text = he.h.m2_en_US_oca.heHE.EmegalynasChriste.text
 
@@ -793,7 +793,7 @@ meMA.Exaposteilarion4.text = ""
 
 meMA.Lauds1.poet = poets_en_US_oca.po.RomanouTouMelodou
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.Lauds1.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+meMA.Lauds1.melody = he.a.m6_en_US_oca.heAU.AiAngelikai.melody
 meMA.Lauds1.incipit = he.a.m6_en_US_oca.heAU.AiAngelikai.incipit
 meMA.Lauds1.text = he.a.m6_en_US_oca.heAU.AiAngelikai.text
 

@@ -68,7 +68,7 @@ meSV.AposGlory.text = ""
 
 meVE.Stichera01.poet = poets_en_US_oca.po.AndreouPyrou
 meVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode2
-meVE.Stichera01.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+meVE.Stichera01.melody = he.a.m2_en_US_oca.heAU.PoioisEffimionStemmasin.melody
 meVE.Stichera01.incipit = he.a.m2_en_US_oca.heAU.PoioisEffimionStemmasin.incipit
 meVE.Stichera01.text = he.a.m2_en_US_oca.heAU.PoioisEffimionStemmasin.text
 
@@ -194,7 +194,7 @@ meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = miscellanea_en_US_oca.misc.Mode8
-meMA.Kathisma3T.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+meMA.Kathisma3T.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.melody
 meMA.Kathisma3T.incipit = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.incipit
 meMA.Kathisma3T.text = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.text
 
@@ -514,7 +514,7 @@ meMA.Ode6C2T.incipit = "The Almighty Lord looked down…"
 meMA.Ode6C2T.text = "The Almighty Lord looked down on you.  ⁄ He renewed my being as He did great things for you  ⁄ as He foretold, all-blameless Mother of God.  ⁄ Through you, He saved me from corruption  ⁄ as the compassionate One, Theotokos."
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Kontakion1.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TousAsfaleis.melody
 meMA.Kontakion1.incipit = he.a.m2_en_US_oca.heAU.TousAsfaleis.incipit
 meMA.Kontakion1.text = he.a.m2_en_US_oca.heAU.TousAsfaleis.text
 
@@ -716,7 +716,7 @@ meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Lauds1.greekmelody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.greekname
-meMA.Lauds1.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+meMA.Lauds1.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.melody
 meMA.Lauds1.incipit = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.incipit
 meMA.Lauds1.text = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.text
 

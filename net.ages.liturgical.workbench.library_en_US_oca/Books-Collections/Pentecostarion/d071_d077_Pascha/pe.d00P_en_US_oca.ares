@@ -58,7 +58,7 @@ pePA.CTh.title = ""
 
 pePA.Ode1H.ode = miscellanea_en_US_oca.misc.Ode1
 pePA.Ode1H.mode = miscellanea_en_US_oca.misc.Mode1
-pePA.Ode1H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+pePA.Ode1H.melody = he.h.m1_en_US_oca.heHE.AnastaseosImera.melody
 pePA.Ode1H.incipit = he.h.m1_en_US_oca.heHE.AnastaseosImera.incipit
 pePA.Ode1H.text = he.h.m1_en_US_oca.heHE.AnastaseosImera.text
 
@@ -89,7 +89,7 @@ pePA.Ode1T2.text = ""
 
 pePA.Ode3H.ode = miscellanea_en_US_oca.misc.Ode3
 pePA.Ode3H.mode = miscellanea_en_US_oca.misc.Mode1
-pePA.Ode3H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+pePA.Ode3H.melody = he.h.m1_en_US_oca.heHE.DeftePomaPiomen.melody
 pePA.Ode3H.incipit = he.h.m1_en_US_oca.heHE.DeftePomaPiomen.incipit
 pePA.Ode3H.text = he.h.m1_en_US_oca.heHE.DeftePomaPiomen.text
 
@@ -124,7 +124,7 @@ pePA.Hypakoe.text = ""
 
 pePA.Ode4H.ode = miscellanea_en_US_oca.misc.Ode4
 pePA.Ode4H.mode = miscellanea_en_US_oca.misc.Mode1
-pePA.Ode4H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+pePA.Ode4H.melody = he.h.m1_en_US_oca.heHE.EpiTisTheiasFylakis.melody
 pePA.Ode4H.incipit = he.h.m1_en_US_oca.heHE.EpiTisTheiasFylakis.incipit
 pePA.Ode4H.text = he.h.m1_en_US_oca.heHE.EpiTisTheiasFylakis.text
 
@@ -161,7 +161,7 @@ pePA.Ode4T2.text = ""
 
 pePA.Ode5H.ode = miscellanea_en_US_oca.misc.Ode5
 pePA.Ode5H.mode = miscellanea_en_US_oca.misc.Mode1
-pePA.Ode5H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+pePA.Ode5H.melody = he.h.m1_en_US_oca.heHE.OrthrisomenOrthrouVatheos.melody
 pePA.Ode5H.incipit = he.h.m1_en_US_oca.heHE.OrthrisomenOrthrouVatheos.incipit
 pePA.Ode5H.text = he.h.m1_en_US_oca.heHE.OrthrisomenOrthrouVatheos.text
 
@@ -192,7 +192,7 @@ pePA.Ode5T2.text = ""
 
 pePA.Ode6H.ode = miscellanea_en_US_oca.misc.Ode6
 pePA.Ode6H.mode = miscellanea_en_US_oca.misc.Mode1
-pePA.Ode6H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+pePA.Ode6H.melody = he.h.m1_en_US_oca.heHE.KatilthesEnToisKatotatois.melody
 pePA.Ode6H.incipit = he.h.m1_en_US_oca.heHE.KatilthesEnToisKatotatois.incipit
 pePA.Ode6H.text = he.h.m1_en_US_oca.heHE.KatilthesEnToisKatotatois.text
 
@@ -230,7 +230,7 @@ pePA.Oikos.text = ""
 
 pePA.Ode7H.ode = miscellanea_en_US_oca.misc.Ode7
 pePA.Ode7H.mode = miscellanea_en_US_oca.misc.Mode1
-pePA.Ode7H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+pePA.Ode7H.melody = he.h.m1_en_US_oca.heHE.OPaidasEkKaminou.melody
 pePA.Ode7H.incipit = he.h.m1_en_US_oca.heHE.OPaidasEkKaminou.incipit
 pePA.Ode7H.text = he.h.m1_en_US_oca.heHE.OPaidasEkKaminou.text
 
@@ -267,7 +267,7 @@ pePA.Ode7T2.text = ""
 
 pePA.Ode8H.ode = miscellanea_en_US_oca.misc.Ode8
 pePA.Ode8H.mode = miscellanea_en_US_oca.misc.Mode1
-pePA.Ode8H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+pePA.Ode8H.melody = he.h.m1_en_US_oca.heHE.AftiIKliti.melody
 pePA.Ode8H.incipit = he.h.m1_en_US_oca.heHE.AftiIKliti.incipit
 pePA.Ode8H.text = he.h.m1_en_US_oca.heHE.AftiIKliti.text
 
@@ -340,7 +340,7 @@ pePA.Ode9MKa.text = ""
 
 pePA.Ode9H.ode = miscellanea_en_US_oca.misc.Ode9
 pePA.Ode9H.mode = miscellanea_en_US_oca.misc.Mode1
-pePA.Ode9H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
+pePA.Ode9H.melody = he.h.m1_en_US_oca.heHE.FotizouFotizou.melody
 pePA.Ode9H.incipit = he.h.m1_en_US_oca.heHE.FotizouFotizou.incipit
 pePA.Ode9H.text = he.h.m1_en_US_oca.heHE.FotizouFotizou.text
 
@@ -371,12 +371,12 @@ pePA.Ode9T2.text = ""
 
 pePA.Ode9K.ode = miscellanea_en_US_oca.misc.Ode9
 pePA.Ode9K.mode = miscellanea_en_US_oca.misc.Mode1
-pePA.Ode9K.melody = miscellanea_en_US_oca.misc.Heirmos
+pePA.Ode9K.melody = he.h.m1_en_US_oca.heHE.FotizouFotizou.melody
 pePA.Ode9K.incipit = he.h.m1_en_US_oca.heHE.FotizouFotizou.incipit
 pePA.Ode9K.text = he.h.m1_en_US_oca.heHE.FotizouFotizou.text
 
 pePA.Exaposteilarion.mode = miscellanea_en_US_oca.misc.Mode2
-pePA.Exaposteilarion.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
+pePA.Exaposteilarion.melody = he.a.m2_en_US_oca.heAU.SarkiYpnosas.melody
 pePA.Exaposteilarion.incipit = he.a.m2_en_US_oca.heAU.SarkiYpnosas.incipit
 pePA.Exaposteilarion.text = he.a.m2_en_US_oca.heAU.SarkiYpnosas.text
 
