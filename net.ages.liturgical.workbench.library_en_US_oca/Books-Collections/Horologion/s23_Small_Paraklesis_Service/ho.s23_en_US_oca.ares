@@ -13,6 +13,7 @@ R02 = ""
 R03 = ""
 
 hoCA.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode4
+hoCA.Apolytikion1.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 hoCA.Apolytikion1.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 hoCA.Apolytikion1.incipit = oc.m4.d3_en_US_oca.ocVE.ApolTheotokionVM.incipit
 hoCA.Apolytikion1.text = oc.m4.d3_en_US_oca.ocVE.ApolTheotokionVM.text
@@ -108,6 +109,7 @@ hoCA.Troparion32.text = ""
 //R07
 
 hoCA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode2
+hoCA.Kathisma11.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 hoCA.Kathisma11.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 hoCA.Kathisma11.incipit = "…"
 hoCA.Kathisma11.text = ""
@@ -242,6 +244,7 @@ hoCA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
 hoCA.PostGospelVerse.text = ""
 
 hoCA.PostGospelHymn1.mode = miscellanea_en_US_oca.misc.Mode6
+hoCA.PostGospelHymn1.greekmelody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.greekname
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_oca.heAU.OlinApothemenoi.notmetered
 hoCA.PostGospelHymn1.incipit = "…"
 hoCA.PostGospelHymn1.text = ""
@@ -412,6 +415,7 @@ hoCA.Troparion3.incipit = oc.m6.d5_en_US_oca.ocMA.Kathisma13.incipit
 hoCA.Troparion3.text = oc.m6.d5_en_US_oca.ocMA.Kathisma13.text
 
 hoCA.Troparion4.mode = miscellanea_en_US_oca.misc.Mode2
+hoCA.Troparion4.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 hoCA.Troparion4.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 hoCA.Troparion4.incipit = oc.m2.d5_en_US_oca.ocVE.AposTheotokion.incipit
 hoCA.Troparion4.text = oc.m2.d5_en_US_oca.ocVE.AposTheotokion.text
