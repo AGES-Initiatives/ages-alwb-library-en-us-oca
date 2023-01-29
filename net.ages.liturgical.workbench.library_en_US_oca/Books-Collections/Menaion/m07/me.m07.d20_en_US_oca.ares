@@ -631,12 +631,14 @@ meMegalynarion.text = ""
 
 alt1.meVE.Stichera04.poet = poets_en_US_oca.po.NikodimouAgioreitou
 alt1.meVE.Stichera04.mode = miscellanea_en_US_oca.misc.Mode1
+alt1.meVE.Stichera04.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Stichera04.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.name
 alt1.meVE.Stichera04.incipit = "…"
 alt1.meVE.Stichera04.text = ""
 
 alt1.meVE.Stichera05.poet = poets_en_US_oca.po.NikodimouAgioreitou
 alt1.meVE.Stichera05.mode = miscellanea_en_US_oca.misc.Mode2
+alt1.meVE.Stichera05.greekmelody = he.a.m2_en_US_oca.heAU.PoioisEffimionStemmasin.greekname
 alt1.meVE.Stichera05.melody = he.a.m2_en_US_oca.heAU.PoioisEffimionStemmasin.name
 alt1.meVE.Stichera05.incipit = "…"
 alt1.meVE.Stichera05.text = ""
@@ -661,29 +663,34 @@ alt1.meVE.Stichera08.text = ""
 
 alt1.meMA.Kathisma22.poet = poets_en_US_oca.po.NikodimouAgioreitou
 alt1.meMA.Kathisma22.mode = miscellanea_en_US_oca.misc.Mode4
+alt1.meMA.Kathisma22.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 alt1.meMA.Kathisma22.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
 alt1.meMA.Kathisma22.incipit = "…"
 alt1.meMA.Kathisma22.text = ""
 
 alt1.meMA.Kathisma2T.mode = miscellanea_en_US_oca.misc.Mode4
+alt1.meMA.Kathisma2T.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
 alt1.meMA.Kathisma2T.incipit = me.m06.d14_en_US_oca.meMA.Ode3KathismaT.incipit
 alt1.meMA.Kathisma2T.text = me.m06.d14_en_US_oca.meMA.Ode3KathismaT.text
 
 alt1.meMA.Kathisma31.poet = poets_en_US_oca.po.NikodimouAgioreitou
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode8
+alt1.meMA.Kathisma31.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma31.incipit = "…"
 alt1.meMA.Kathisma31.text = ""
 
 alt1.meMA.Kathisma32.poet = poets_en_US_oca.po.NikodimouAgioreitou
 alt1.meMA.Kathisma32.mode = miscellanea_en_US_oca.misc.Mode3
+alt1.meMA.Kathisma32.greekmelody = he.a.m3_en_US_oca.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma32.melody = he.a.m3_en_US_oca.heAU.TinOraiotita.name
 alt1.meMA.Kathisma32.incipit = "…"
 alt1.meMA.Kathisma32.text = ""
 
 alt1.meMA.Kathisma3T.poet = poets_en_US_oca.po.NikodimouAgioreitou
 alt1.meMA.Kathisma3T.mode = miscellanea_en_US_oca.misc.Mode3
+alt1.meMA.Kathisma3T.greekmelody = he.a.m3_en_US_oca.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_oca.heAU.TinOraiotita.name
 alt1.meMA.Kathisma3T.incipit = "…"
 alt1.meMA.Kathisma3T.text = ""

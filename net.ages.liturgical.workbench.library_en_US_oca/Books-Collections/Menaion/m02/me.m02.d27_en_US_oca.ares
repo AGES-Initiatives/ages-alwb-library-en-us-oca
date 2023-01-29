@@ -375,6 +375,7 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_oca.misc.Mode2
+alt1.meVE.Stichera01.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 alt1.meVE.Stichera01.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 alt1.meVE.Stichera01.incipit = "Let all the choirs of…"
 alt1.meVE.Stichera01.text = "Let all the choirs of Orthodox Christians in America ⁄ sing hymns in honor of the holy bishop Raphael! ⁄ By birth an Arab, fed by streams of Greek theology, ⁄ he was consecrated by the Church of Russia, which had adopted us all. ⁄ True to his name, he brings God’s healing to us ⁄⁄ as we celebrate his holy memory."
@@ -390,11 +391,13 @@ alt1.meVE.Stichera03.incipit = "Let us sing hymns of…"
 alt1.meVE.Stichera03.text = "Let us sing hymns of praise to the holy bishop Raphael, ⁄ who shone forth from Brooklyn and enlightened those in darkness. ⁄ To those who were wounded by sin, h4e brought healing in Christ; ⁄ to those who were deceived, he brought the truth of the Orthodox Faith; ⁄ he gathered his scattered sheep safely into the fold of the Church. ⁄⁄ Therefore we praise him as a worthy bishop and citizen of Heaven."
 
 alt1.meVE.Stichera04.mode = miscellanea_en_US_oca.misc.Mode1
+alt1.meVE.Stichera04.greekmelody = he.a.m1_en_US_oca.heAU.OTouParadoxouThavmatos.greekname
 alt1.meVE.Stichera04.melody = he.a.m1_en_US_oca.heAU.OTouParadoxouThavmatos.notmetered
 alt1.meVE.Stichera04.incipit = "Holy father Raphael, ⁄ you…"
 alt1.meVE.Stichera04.text = "Holy father Raphael, ⁄ you embodied the love of Christ from your youth. ⁄ You were sent to America, son of Antioch, as an apostle to the lost sheep of Syria. ⁄ Without concern for your own comfort, you labored night and day, ⁄ traversing the continent, never pausing to rest. ⁄⁄ As you have boldness before Christ our God, entreat Him to save our souls."
 
 alt1.meVE.Stichera05.mode = miscellanea_en_US_oca.misc.Mode1
+alt1.meVE.Stichera05.greekmelody = he.a.m1_en_US_oca.heAU.OTouParadoxouThavmatos.greekname
 alt1.meVE.Stichera05.melody = he.a.m1_en_US_oca.heAU.OTouParadoxouThavmatos.notmetered
 alt1.meVE.Stichera05.incipit = "Holy father Raphael, ⁄ You…"
 alt1.meVE.Stichera05.text = "Holy father Raphael, ⁄ You worked as a good shepherd, ⁄ searching far and near for your lost sheep. ⁄ Binding their wounds in love as their father in the Spirit, ⁄ you carried them to Christ on your own shoulders. ⁄⁄ As you have boldness before Christ our God, entreat Him to save our souls."
@@ -420,16 +423,19 @@ alt1.meVE.LityGlory.incipit = "Enlightened by the memory of…"
 alt1.meVE.LityGlory.text = "Enlightened by the memory of the holy Raphael, ⁄ we celebrate his sacred feast! ⁄ Since he was made divinely wise, ⁄ he draws us all into the net of Christ ⁄⁄ and entreats great mercy for our souls!"
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
+alt1.meVE.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 alt1.meVE.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 alt1.meVE.Aposticha1.incipit = "Holy hierarch Raphael, ⁄ who…"
 alt1.meVE.Aposticha1.text = "Holy hierarch Raphael, ⁄ who can describe your many toils? ⁄ Who can count the hardships you endured? ⁄ As a shepherd of Christ’s rational flock ⁄⁄ pray that He may preserve His Church in peace!"
 
 alt1.meVE.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode2
+alt1.meVE.Aposticha2.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 alt1.meVE.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 alt1.meVE.Aposticha2.incipit = "Holy Father Raphael, ⁄ who…"
 alt1.meVE.Aposticha2.text = "Holy Father Raphael, ⁄ who can describe your sorrows? ⁄ Who can recount your noble deeds? ⁄ Friend of the needy and protector of orphans, ⁄⁄ intercede with Christ for our salvation!"
 
 alt1.meVE.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2
+alt1.meVE.Aposticha3.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
 alt1.meVE.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 alt1.meVE.Aposticha3.incipit = "Glorious Raphael, ⁄ you are…"
 alt1.meVE.Aposticha3.text = "Glorious Raphael, ⁄ you are a great light from Antioch, ⁄ a seeker of the lost children of the Church, ⁄ a model for bishops of North America! ⁄⁄ Entreat Christ to have great mercy on us all!"
@@ -445,6 +451,7 @@ alt1.meVE.Apolytikion1.incipit = "Your proclamation has gone out…"
 alt1.meVE.Apolytikion1.text = "Your proclamation has gone out through North America, ⁄ calling the scattered sheep into the unity of the Church! ⁄ As they hear your voice, they respond to your teaching; ⁄ through your writings you instruct them in piety! ⁄ Guided now by your example, Father Raphael, we sing hymns of praise to Christ our God: ⁄ Glory to Him Who gave you strength! ⁄ Glory to Him Who granted you a crown! ⁄⁄ Glory to Him Who, through you, grants healing to all!"
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode1
+alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.notmetered
 alt1.meMA.Kathisma11.incipit = "Father Raphael, worthy of all…"
 alt1.meMA.Kathisma11.text = "Father Raphael, worthy of all praise, ⁄ you showed yourself to be a faithful servant of the Master ⁄ when you answered His call to preach in foreign lands. ⁄ You tended the flock which Christ had entrusted to you, ⁄ and while living in this world you became a citizen of Heaven! ⁄⁄ Therefore we honor you as a shepherd of souls and a teacher of righteousness!"
@@ -455,11 +462,13 @@ alt1.meMA.Kathisma1T.incipit = "Pure unwedded Virgin Theotokos, ⁄…"
 alt1.meMA.Kathisma1T.text = "Pure unwedded Virgin Theotokos, ⁄ the only intercessor and protection of the faithful: ⁄ Deliver those who trust in you from affliction and calamity ⁄⁄ and through your holy intercessions, save our souls!"
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode3
+alt1.meMA.Kathisma21.greekmelody = he.a.m3_en_US_oca.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma21.melody = he.a.m3_en_US_oca.heAU.TinOraiotita.notmetered
 alt1.meMA.Kathisma21.incipit = "From your youth you denied…"
 alt1.meMA.Kathisma21.text = "From your youth you denied yourself and took up your cross; ⁄ ever following our Savior: ⁄ Nothing could separate you from the love of Christ! ⁄ Having died to the world, you found a new life of grace with the Lord. ⁄ Since you have found favor with God, ⁄ we entreat you to intercede with Him ⁄⁄ for the salvation of our souls."
 
 alt1.meMA.Kathisma2T.mode = miscellanea_en_US_oca.misc.Mode3
+alt1.meMA.Kathisma2T.greekmelody = he.a.m3_en_US_oca.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma2T.melody = he.a.m3_en_US_oca.heAU.TinOraiotita.melody
 alt1.meMA.Kathisma2T.incipit = he.a.m3_en_US_oca.heAU.TinOraiotita.incipit
 alt1.meMA.Kathisma2T.text = he.a.m3_en_US_oca.heAU.TinOraiotita.text
@@ -484,6 +493,7 @@ alt1.meMA.C1.verse = prayers_en_US_oca.pr.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_oca.misc.Mode6
+alt1.meMA.Ode1C11.greekmelody = he.h.m6_en_US_oca.heHE.OsEnIpeiroPezefsas.greekname
 alt1.meMA.Ode1C11.melody = he.h.m6_en_US_oca.heHE.OsEnIpeiroPezefsas.notmetered
 alt1.meMA.Ode1C11.incipit = "…"
 alt1.meMA.Ode1C11.text = ""
@@ -514,6 +524,7 @@ alt1.meMA.Ode1C1T.text = ""
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_oca.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_oca.misc.Mode6
+alt1.meMA.Ode3C11.greekmelody = he.h.m6_en_US_oca.heHE.OukEstinAgios.greekname
 alt1.meMA.Ode3C11.melody = he.h.m6_en_US_oca.heHE.OukEstinAgios.notmetered
 alt1.meMA.Ode3C11.incipit = "…"
 alt1.meMA.Ode3C11.text = ""
@@ -543,6 +554,7 @@ alt1.meMA.Ode3C1T.incipit = "…"
 alt1.meMA.Ode3C1T.text = ""
 
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode4
+alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
 alt1.meMA.Ode3Kathisma1.incipit = "…"
 alt1.meMA.Ode3Kathisma1.text = ""
@@ -554,6 +566,7 @@ alt1.meMA.Ode3KathismaT.text = ""
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_oca.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_oca.misc.Mode6
+alt1.meMA.Ode4C11.greekmelody = he.h.m6_en_US_oca.heHE.ChristosMouDynamis.greekname
 alt1.meMA.Ode4C11.melody = he.h.m6_en_US_oca.heHE.ChristosMouDynamis.notmetered
 alt1.meMA.Ode4C11.incipit = "…"
 alt1.meMA.Ode4C11.text = ""
@@ -584,6 +597,7 @@ alt1.meMA.Ode4C1T.text = ""
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_oca.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_oca.misc.Mode6
+alt1.meMA.Ode5C11.greekmelody = he.h.m6_en_US_oca.heHE.ToTheioFengeiSou.greekname
 alt1.meMA.Ode5C11.melody = he.h.m6_en_US_oca.heHE.ToTheioFengeiSou.notmetered
 alt1.meMA.Ode5C11.incipit = "…"
 alt1.meMA.Ode5C11.text = ""
@@ -614,6 +628,7 @@ alt1.meMA.Ode5C1T.text = ""
 
 alt1.meMA.Ode6C11.ode = miscellanea_en_US_oca.misc.Ode6
 alt1.meMA.Ode6C11.mode = miscellanea_en_US_oca.misc.Mode6
+alt1.meMA.Ode6C11.greekmelody = he.h.m6_en_US_oca.heHE.TouViouTinThalassan.greekname
 alt1.meMA.Ode6C11.melody = he.h.m6_en_US_oca.heHE.TouViouTinThalassan.notmetered
 alt1.meMA.Ode6C11.incipit = "…"
 alt1.meMA.Ode6C11.text = ""
@@ -651,6 +666,7 @@ alt1.meMA.Oikos1.text = ""
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode6
+alt1.meMA.Ode7C11.greekmelody = he.h.m6_en_US_oca.heHE.DrosovolonMenTinKaminon.greekname
 alt1.meMA.Ode7C11.melody = he.h.m6_en_US_oca.heHE.DrosovolonMenTinKaminon.notmetered
 alt1.meMA.Ode7C11.incipit = "…"
 alt1.meMA.Ode7C11.text = ""
@@ -681,6 +697,7 @@ alt1.meMA.Ode7C1T.text = ""
 
 alt1.meMA.Ode8C11.ode = miscellanea_en_US_oca.misc.Ode8
 alt1.meMA.Ode8C11.mode = miscellanea_en_US_oca.misc.Mode6
+alt1.meMA.Ode8C11.greekmelody = he.h.m6_en_US_oca.heHE.EkFlogosToisOsiois.greekname
 alt1.meMA.Ode8C11.melody = he.h.m6_en_US_oca.heHE.EkFlogosToisOsiois.notmetered
 alt1.meMA.Ode8C11.incipit = "…"
 alt1.meMA.Ode8C11.text = ""
@@ -711,6 +728,7 @@ alt1.meMA.Ode8C1T.text = ""
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_oca.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_oca.misc.Mode6
+alt1.meMA.Ode9C11.greekmelody = he.h.m6_en_US_oca.heHE.TheonAnthropois.greekname
 alt1.meMA.Ode9C11.melody = he.h.m6_en_US_oca.heHE.TheonAnthropois.notmetered
 alt1.meMA.Ode9C11.incipit = "…"
 alt1.meMA.Ode9C11.text = ""
@@ -740,6 +758,7 @@ alt1.meMA.Ode9C1T.incipit = "…"
 alt1.meMA.Ode9C1T.text = ""
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode2
+alt1.meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
 alt1.meMA.Exaposteilarion1.incipit = "…"
 alt1.meMA.Exaposteilarion1.text = ""
@@ -750,21 +769,25 @@ alt1.meMA.ExapTheotokion.incipit = "…"
 alt1.meMA.ExapTheotokion.text = ""
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode4
+alt1.meMA.Lauds1.greekmelody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.greekname
 alt1.meMA.Lauds1.melody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.notmetered
 alt1.meMA.Lauds1.incipit = "…"
 alt1.meMA.Lauds1.text = ""
 
 alt1.meMA.Lauds2.mode = miscellanea_en_US_oca.misc.Mode4
+alt1.meMA.Lauds2.greekmelody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.greekname
 alt1.meMA.Lauds2.melody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.notmetered
 alt1.meMA.Lauds2.incipit = "…"
 alt1.meMA.Lauds2.text = ""
 
 alt1.meMA.Lauds3.mode = miscellanea_en_US_oca.misc.Mode4
+alt1.meMA.Lauds3.greekmelody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.greekname
 alt1.meMA.Lauds3.melody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.notmetered
 alt1.meMA.Lauds3.incipit = "…"
 alt1.meMA.Lauds3.text = ""
 
 alt1.meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode4
+alt1.meMA.Lauds4.greekmelody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.greekname
 alt1.meMA.Lauds4.melody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.notmetered
 alt1.meMA.Lauds4.incipit = "…"
 alt1.meMA.Lauds4.text = ""
