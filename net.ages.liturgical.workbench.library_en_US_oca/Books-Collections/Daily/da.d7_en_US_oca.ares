@@ -3,8 +3,8 @@ A_Resource_Whose_Name = da.d7_en_US_oca
 daDay.text = ""
 daCommemoration.text = ""
 
-daVE.OnTheAfternoonBefore = template.titles_en_US_oca.d.onFridayAfternoon
-daVE.OnTheEveningBefore = template.titles_en_US_oca.d.onFridayEvening
+daVE.OnTheAfternoonBefore.text = template.titles_en_US_oca.d.onFridayAfternoon
+daVE.OnTheEveningBefore.text = template.titles_en_US_oca.d.onFridayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode2
 daVE.Apolytikion1.melody = ""
@@ -51,6 +51,6 @@ daMA.ExapTheotokion2.melody = he.a.m2_en_US_oca.heAU.TonMathitonOrontonSe.notmet
 daMA.ExapTheotokion2.incipit = "…"
 daMA.ExapTheotokion2.text = ""
 
-daLI.CommunionHymn.text = "" //for media
+daLI.MM.CommunionHymn.text = "" //for media
 
-daLI.CommunionHymnAlt.text = ""
+daLI.MM.CommunionHymnAlt.text = ""
