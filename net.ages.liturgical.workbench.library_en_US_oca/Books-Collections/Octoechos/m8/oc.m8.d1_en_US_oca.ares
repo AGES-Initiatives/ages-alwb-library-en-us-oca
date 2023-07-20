@@ -356,7 +356,8 @@ ocMA.Kathisma21.incipit = "…"
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = miscellanea_en_US_oca.misc.Mode8
-ocMA.Kathisma22.melody = ""
+ocMA.Kathisma22.greekmelody = he.a.m8_en_US_oca.heAU.AnestisEkNekron.greekname
+ocMA.Kathisma22.melody = he.a.m8_en_US_oca.heAU.AnestisEkNekron.melody
 ocMA.Kathisma22.incipit = "…"
 ocMA.Kathisma22.text = ""
 
@@ -968,7 +969,7 @@ ocMA.Lauds2.incipit = "…"
 ocMA.Lauds2.text = ""
 
 ocMA.Lauds3.mode = miscellanea_en_US_oca.misc.Mode8
-ocMA.Lauds3.melody = ""
+ocMA.Lauds3.melody = he.a.m8_en_US_oca.heAU.KyrieEiKaiKritirio.notmetered
 ocMA.Lauds3.incipit = "…"
 ocMA.Lauds3.text = ""
 
