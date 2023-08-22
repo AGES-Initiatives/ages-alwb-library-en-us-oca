@@ -41,8 +41,8 @@ meSV.SticGlory.text = meVE.Lity3.text
 
 meSV.SticBoth.mode = miscellanea_en_US_oca.misc.Mode2
 meSV.SticBoth.melody = ""
-meSV.SticBoth.incipit = ho.s23_en_US_oca.hoCA.Troparion7.incipit
-meSV.SticBoth.text = ho.s23_en_US_oca.hoCA.Troparion7.text
+meSV.SticBoth.incipit = ho.ho23_en_US_oca.hoCA.Troparion7.incipit
+meSV.SticBoth.text = ho.ho23_en_US_oca.hoCA.Troparion7.text
 
 meSV.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
@@ -113,8 +113,8 @@ meVE.LityGlory.text = "You received a desire for the good things past understand
 
 meVE.LityBoth.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.LityBoth.melody = ""
-meVE.LityBoth.incipit = ho.s23_en_US_oca.hoCA.Troparion7.incipit
-meVE.LityBoth.text = ho.s23_en_US_oca.hoCA.Troparion7.text
+meVE.LityBoth.incipit = ho.ho23_en_US_oca.hoCA.Troparion7.incipit
+meVE.LityBoth.text = ho.ho23_en_US_oca.hoCA.Troparion7.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_en_US_oca.heAU.ChairoisAskitikon.greekname
@@ -189,13 +189,13 @@ meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_oca.hoMA.PostGospelMonastic.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelMonastic.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_oca.hoMA.PostGospelMonastic.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_oca.hoMA.PostGospelMonastic.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
@@ -477,8 +477,8 @@ meMA.Exaposteilarion2.text = "You made the desert a city, divinely-wise Father S
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.heAU.FosAnalloioton.notmetered
-meMA.ExapTheotokion.incipit = ho.s23_en_US_oca.hoCA.Exaposteilarion4.incipit
-meMA.ExapTheotokion.text = ho.s23_en_US_oca.hoCA.Exaposteilarion4.text
+meMA.ExapTheotokion.incipit = ho.ho23_en_US_oca.hoCA.Exaposteilarion4.incipit
+meMA.ExapTheotokion.text = ho.ho23_en_US_oca.hoCA.Exaposteilarion4.text
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode1
 meMA.Lauds1.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname

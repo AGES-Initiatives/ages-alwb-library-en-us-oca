@@ -148,13 +148,13 @@ meMA.MM.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_oca.hoMA.PostGospelWomanMartyr.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelWomanMartyr.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_oca.hoMA.PostGospelWomanMartyr.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_oca.hoMA.PostGospelWomanMartyr.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
@@ -706,8 +706,8 @@ meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered
-meMA.ExapTheotokion.incipit = ho.s23_en_US_oca.hoCA.Exaposteilarion4.incipit
-meMA.ExapTheotokion.text = ho.s23_en_US_oca.hoCA.Exaposteilarion4.text
+meMA.ExapTheotokion.incipit = ho.ho23_en_US_oca.hoCA.Exaposteilarion4.incipit
+meMA.ExapTheotokion.text = ho.ho23_en_US_oca.hoCA.Exaposteilarion4.text
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Lauds1.greekmelody = he.a.m4_en_US_oca.heAU.OsGennaionEnMartysi.greekname

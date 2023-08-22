@@ -69,7 +69,7 @@ meVE.LityGlory.text = ""
 meVE.LityBoth.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.LityBoth.melody = ""
 meVE.LityBoth.incipit = "…"
-meVE.LityBoth.text = //ho.s23_en_US_oca.hoCA.Troparion7.text
+meVE.LityBoth.text = //ho.ho23_en_US_oca.hoCA.Troparion7.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode8
 meVE.Aposticha1.greekmelody = he.a.m8_en_US_oca.heAU.OTouParadoxou.greekname
@@ -163,13 +163,13 @@ meMA.MM.Prokeimenon.text = properties_en_US_oca.media.key
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_oca.hoMA.PostGospelWomanMartyr.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelWomanMartyr.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_oca.hoMA.PostGospelWomanMartyr.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_oca.hoMA.PostGospelWomanMartyr.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.poet = poets_en_US_oca.po.IoannouMonachou
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode6

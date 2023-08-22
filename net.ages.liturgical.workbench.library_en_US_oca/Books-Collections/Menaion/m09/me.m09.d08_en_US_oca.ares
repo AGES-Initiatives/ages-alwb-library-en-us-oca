@@ -180,13 +180,13 @@ meMA.MM.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.incipit = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
+meMA.PostGospelGlory.incipit = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelGlory.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.incipit = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.poet = poets_en_US_oca.po.GermanouPatriarchou
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode4
@@ -786,7 +786,7 @@ meMA.LaudsGlory.text = meVE.Stichera02.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 
-meLI.MM.EntranceHymn.text = ho.s07_en_US_oca.hoLI.EntranceHymn.text
+meLI.MM.EntranceHymn.text = ho.ho07_en_US_oca.hoLI.EntranceHymn.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

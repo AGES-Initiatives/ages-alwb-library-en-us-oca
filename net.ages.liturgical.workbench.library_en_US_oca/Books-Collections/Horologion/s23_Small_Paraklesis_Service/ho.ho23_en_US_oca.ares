@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = ho.s23_en_US_oca
+A_Resource_Whose_Name = ho.ho23_en_US_oca
 
 //Small Paraklesis
 hoCA.title = ""
@@ -222,8 +222,8 @@ hoCA.Troparion62.text = ""
 
 hoCA.Kontakion.mode = miscellanea_en_US_oca.misc.Mode2
 hoCA.Kontakion.melody = ""
-hoCA.Kontakion.incipit = ho.s07_en_US_oca.hoTY.Key0408.incipit
-hoCA.Kontakion.text = ho.s07_en_US_oca.hoTY.Key0408.text
+hoCA.Kontakion.incipit = ho.ho07_en_US_oca.hoTY.Key0408.incipit
+hoCA.Kontakion.text = ho.ho07_en_US_oca.hoTY.Key0408.text
 
 //R10
 //First Antiphon Mode 4
@@ -234,12 +234,12 @@ hoCA.Kontakion.text = ho.s07_en_US_oca.hoTY.Key0408.text
 hoCA.PostGospelGlory.mode = miscellanea_en_US_oca.misc.Mode2
 hoCA.PostGospelGlory.melody = ""
 hoCA.PostGospelGlory.incipit = "…"
-hoCA.PostGospelGlory.text = ho.s03_en_US_oca.hoMA.PostGospelTrinity.text
+hoCA.PostGospelGlory.text = ho.ho03_en_US_oca.hoMA.PostGospelTrinity.text
 
 hoCA.PostGospelBoth.mode = miscellanea_en_US_oca.misc.Mode2
 hoCA.PostGospelBoth.melody = ""
 hoCA.PostGospelBoth.incipit = "…"
-hoCA.PostGospelBoth.text = ho.s03_en_US_oca.hoMA.PostGospelTheotokos.text
+hoCA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelVerse.text = ""
 
@@ -366,7 +366,7 @@ hoCA.Ode95.text = ""
 //R14
 
 hoCA.Meg00.incipit = "…"
-hoCA.Meg00.text = ho.s03_en_US_oca.hoMA.Ode9.Meg00.text
+hoCA.Meg00.text = ho.ho03_en_US_oca.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = he.h.m6_en_US_oca.heHE.TinTimioteran.melody
 hoCA.Meg01.incipit = he.h.m6_en_US_oca.heHE.TinTimioteran.incipit
 hoCA.Meg01.text = he.h.m6_en_US_oca.heHE.TinTimioteran.text
