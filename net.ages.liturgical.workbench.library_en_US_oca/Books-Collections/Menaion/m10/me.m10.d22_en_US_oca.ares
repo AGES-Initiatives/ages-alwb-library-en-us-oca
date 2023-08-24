@@ -391,6 +391,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_oca.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_oca.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "The whole Church of the…"
 meMA.Kontakion1.text = "The whole Church of the faithful counts you as a worthy priest ⁄ and a companion of the apostles, Abercius! ⁄ By your supplications an ever-memorable hierarch ⁄⁄ preserve it invincible, unassailed and undefiled from heresy!"
@@ -619,6 +620,7 @@ meMA.LaudsStavrotheotokion.incipit = oc.m3.d6_en_US_oca.ocVE.SticTheotokion.inci
 meMA.LaudsStavrotheotokion.text = oc.m3.d6_en_US_oca.ocVE.SticTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

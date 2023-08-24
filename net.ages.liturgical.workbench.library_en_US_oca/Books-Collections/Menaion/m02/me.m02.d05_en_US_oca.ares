@@ -289,6 +289,7 @@ meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "May the Church cry out…"
 meMA.Kontakion1.text = "May the Church cry out, robed today in a garment of precious porphyry, ⁄ made of the blood of the pure martyr Agatha: ⁄⁄ Rejoice, Agatha, pride of Sicily!"
@@ -426,6 +427,7 @@ meMA.AposGlory.text = "Rejoice, O Virgin! ⁄ You have brought joy to the world:
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -333,6 +333,7 @@ meMA.Ode6H.incipit = he.h.m1_en_US_oca.heHE.SplanchnonIonan.incipit
 meMA.Ode6H.text = he.h.m1_en_US_oca.heHE.SplanchnonIonan.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Kontakion1.greekmelody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.greekname
 meMA.Kontakion1.melody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.notmetered
 meMA.Kontakion1.incipit = "Let us the faithful praise…"
 meMA.Kontakion1.text = "Let us the faithful praise the holy apostle Timothy, ⁄ the companion of Paul in his travels ⁄ and together with him let us honor the wise Anastasius, ⁄⁄ who came as a star from Persia for the healing of our souls' passions and our bodies' disease!"
@@ -505,6 +506,7 @@ meMA.AposStavrotheotokion.incipit = oc.m5.d4_en_US_oca.ocVE.AposTheotokion.incip
 meMA.AposStavrotheotokion.text = oc.m5.d4_en_US_oca.ocVE.AposTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

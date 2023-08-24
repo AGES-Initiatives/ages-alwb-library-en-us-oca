@@ -255,6 +255,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Holy Eustathius, ⁄ you were…"
 meMA.Kontakion1.text = "Holy Eustathius, ⁄ you were a manifest imitator of Christ in His Passion! ⁄ You drank of His cup with courage, ⁄ becoming a partaker and fellow-heir of His glory! ⁄⁄ The God of all gave you divine salvation from on high!"
@@ -410,6 +411,7 @@ meMA.AposBoth.text = me.m09.d14_en_US_oca.meMA.AdditionalIdiomelonGlory.text
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

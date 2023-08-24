@@ -524,6 +524,7 @@ meMA.Ode6C2T.incipit = "The mystery of your ineffable…"
 meMA.Ode6C2T.text = "The mystery of your ineffable and strange childbearing ⁄ is beyond human thought, Virgin Mother of God, ⁄ for while giving birth to the Creator of all, ⁄ you have remained Virgin."
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "Glorious Father Gregory, ⁄ your…"
 meMA.Kontakion1.text = "Glorious Father Gregory, ⁄ your knowledge has overcome the pride of false wisdom. ⁄ The Church is clothed with your teaching as a robe of righteousness. ⁄ We your children celebrate your memory crying out: ⁄⁄ Rejoice, Father of insurpassable wisdom!"
@@ -748,6 +749,7 @@ meMA.LaudsTheotokion.text = oc.m1.d3_en_US_oca.ocVE.AposTheotokion.text
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

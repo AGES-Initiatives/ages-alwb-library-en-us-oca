@@ -363,6 +363,7 @@ meMA.Ode6C1T.incipit = "Virgin, you gave birth without…"
 meMA.Ode6C1T.text = "Virgin, you gave birth without knowing a man ⁄ and you remain ever Virgin, ⁄ revealing images of your Son and God, the true Deity!"
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_oca.heAU.TinYperImon.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_oca.heAU.TinYperImon.notmetered
 meMA.Kontakion1.incipit = "Holy and triumphant forty martyrs…"
 meMA.Kontakion1.text = "Holy and triumphant forty martyrs, ⁄ you renounced every honor of military life to follow the Lord of heaven. ⁄ blessed ones, you suffered by both fire and water, ⁄⁄ therefore you received justly from heaven your crowns of eternal glory."
@@ -565,6 +566,7 @@ mePL.Theotokion.incipit = "All my hope I set…"
 mePL.Theotokion.text = "All my hope I set on you, Mother of God! ⁄⁄ Shelter me beneath your veil."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

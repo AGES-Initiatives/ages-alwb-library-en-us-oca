@@ -660,6 +660,7 @@ meMA.Ode6H.incipit = he.h.m3_en_US_oca.heHE.TousEisTaTeli.incipit
 meMA.Ode6H.text = he.h.m3_en_US_oca.heHE.TousEisTaTeli.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "The noble struggle of the…"
 meMA.Kontakion1.text = "The noble struggle of the martyrs ⁄ shines forth as the morning star, ⁄ shedding brilliant light for us ⁄ on the One Who was born in the cave ⁄⁄ to Whom the Virgin gave birth without human seed."
@@ -1011,6 +1012,7 @@ meMA.AposBoth.incipit = "The Creator of all comes…"
 meMA.AposBoth.text = "The Creator of all comes to be born in Bethlehem; ⁄ the King of all ages opens the gates of Eden; ⁄ the wall of partition shall be destroyed; ⁄ the fiery sword shall turn back! ⁄ The powers of heaven join with the dwellers of earth; ⁄ angels with men shout for joy and clap their hands. ⁄ Let us in purity conduct ourselves with upright hearts! ⁄ Let us behold the Virgin as the glorious throne of the cherubim! ⁄ She holds in her arms the immortal God, ⁄⁄ Who comes to bestow great mercy to the world!"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

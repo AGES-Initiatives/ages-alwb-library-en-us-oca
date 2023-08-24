@@ -514,6 +514,7 @@ meMA.Ode6C2T.incipit = "The Almighty Lord looked down…"
 meMA.Ode6C2T.text = "The Almighty Lord looked down on you.  ⁄ He renewed my being as He did great things for you  ⁄ as He foretold, all-blameless Mother of God.  ⁄ Through you, He saved me from corruption  ⁄ as the compassionate One, Theotokos."
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TousAsfaleis.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TousAsfaleis.melody
 meMA.Kontakion1.incipit = he.a.m2_en_US_oca.heAU.TousAsfaleis.incipit
 meMA.Kontakion1.text = he.a.m2_en_US_oca.heAU.TousAsfaleis.text
@@ -752,6 +753,7 @@ meMA.LaudsTheotokion.text = ""
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

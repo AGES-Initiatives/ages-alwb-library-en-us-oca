@@ -524,6 +524,7 @@ meMA.Ode6C2T.incipit = "The Divine Forerunner recognized you…"
 meMA.Ode6C2T.text = "The Divine Forerunner recognized you as the Mother of God! ⁄ He leaped beforehand in his mother's womb,  ⁄ proclaiming your great things, pure Lady!"
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "The woman who had been…"
 meMA.Kontakion1.text = "The woman who had been barren has become fruitful, ⁄ and today gives birth to the Forerunner of Christ. ⁄ He is the greatest and last of the prophets, ⁄ for standing in the waters of the Jordan ⁄ he placed his hands on Christ Whom all the prophets had announced. ⁄ By so doing he became a prophet himself: ⁄⁄ A preacher and Forerunner of the Word of God!"
@@ -742,6 +743,7 @@ meMA.LaudsTheotokion.text = "Theotokos, ⁄ you are the true vine who blossomed 
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

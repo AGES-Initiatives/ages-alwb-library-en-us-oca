@@ -241,6 +241,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You longed for the things…"
 meMA.Kontakion1.text = "You longed for the things of the Spirit, holy one, ⁄ turning away from those of the world. ⁄ You built a tower in which you lived as in another heaven, ⁄ shining with the splendor of miracles, Simeon. ⁄⁄ Now you ever pray to Christ God for the salvation of our souls!"
@@ -353,6 +354,7 @@ meMA.Exaposteilarion1.incipit = "You shone forth from the…"
 meMA.Exaposteilarion1.text = "You shone forth from the desert, ⁄ enlightening the whole world! ⁄ The multitudes of monastics rejoice in your memory! ⁄⁄ God-bearing Simeon, never cease to intercede for the world!"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

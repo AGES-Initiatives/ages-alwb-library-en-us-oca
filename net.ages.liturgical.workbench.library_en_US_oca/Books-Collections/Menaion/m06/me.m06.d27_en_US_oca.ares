@@ -240,6 +240,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_oca.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_oca.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "You are an effective physician…"
 meMA.Kontakion1.text = "You are an effective physician and a powerful intercessor, holy Samson, ⁄ Therefore we gather to sing hymns and songs to your praise. ⁄ We honor your relics with joy, giving glory to Christ ⁄⁄ Who granted you the wondrous grace of healing!"
@@ -340,6 +341,7 @@ meMA.Ode9H.incipit = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.incipit
 meMA.Ode9H.text = he.h.m2_en_US_oca.heHE.TonEkTheouTheonLogon.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

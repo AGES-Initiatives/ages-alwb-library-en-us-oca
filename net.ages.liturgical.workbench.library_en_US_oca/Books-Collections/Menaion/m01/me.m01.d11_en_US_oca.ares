@@ -288,6 +288,7 @@ meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_oca.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_oca.heAU.TiYpermacho.notmetered
 meMA.Kontakion1.incipit = "You were planted in the…"
 meMA.Kontakion1.text = "You were planted in the courts of the Lord, and blossomed there, ⁄ bringing forth praiseworthy virtues, master of God's holy sheepfold! ⁄ You multiplied your children in the wilderness, ⁄ giving them to drink from the abundance of your tears. ⁄⁄ Therefore we cry out to you: Rejoice, Father Theodosius!"
@@ -466,6 +467,7 @@ meMA.LaudsBoth.text = me.m01.d06_en_US_oca.meMA.LaudsBoth.text
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

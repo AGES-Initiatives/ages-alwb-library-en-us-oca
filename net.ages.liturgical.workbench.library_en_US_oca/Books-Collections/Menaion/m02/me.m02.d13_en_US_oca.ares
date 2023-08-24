@@ -278,6 +278,7 @@ meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TousAsfaleis.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TousAsfaleis.notmetered
 meMA.Kontakion1.incipit = "Let us praise the ever-blessed…"
 meMA.Kontakion1.text = "Let us praise the ever-blessed Martinian with hymns: ⁄ The holy and practiced ascetic! ⁄ He trod on the serpent and was the earnest defender of truth, ⁄⁄ the courageous dweller of the desert!"
@@ -404,6 +405,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -292,6 +292,7 @@ meMA.Ode6H.incipit = he.h.m1_en_US_oca.heHE.EkyklosenImas.incipit
 meMA.Ode6H.text = he.h.m1_en_US_oca.heHE.EkyklosenImas.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Kontakion1.greekmelody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.greekname
 meMA.Kontakion1.melody = he.a.m1_en_US_oca.heAU.ChorosAngelikos.notmetered
 meMA.Kontakion1.incipit = "The children, Faith, Hope and…"
 meMA.Kontakion1.text = "The children, Faith, Hope and Love, ⁄ were three young buds of holiness to the venerable Sophia. ⁄ Through divine grace, they confounded Greek philosophy: ⁄⁄ They fought and obtained an incorruptible crown from Christ the Master of all!"
@@ -421,6 +422,7 @@ meMA.AposGlory.text = "Rejoice, divine salvation ⁄ for the faithful! ⁄ O Cro
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

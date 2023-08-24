@@ -253,6 +253,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You listened to your faithful…"
 meMA.Kontakion1.text = "You listened to your faithful wife ⁄ and contemplated the judgment of God, holy James; ⁄ you despised the threats and commands of the Persians, ⁄ accepting the cutting of your body as though you were a vine: ⁄⁄ Therefore you are a martyr worthy of all veneration!"
@@ -392,6 +393,7 @@ meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

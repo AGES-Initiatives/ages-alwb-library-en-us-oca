@@ -244,6 +244,7 @@ meMA.Ode3H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
 meMA.Ode3H.text = "" // he.h.m8_en_US_oca.heHE.OStereosasKatArchas.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You girded yourself with every…"
 meMA.Kontakion1.text = "You girded yourself with every ascetic practice ⁄ to protect your angelic life, ⁄ with the grace of God you conquered, ⁄ becoming like the angels. ⁄ Never cease to intercede with them, Theodore, before Christ our God,⁄⁄ that He may have mercy on us all!"
@@ -419,6 +420,7 @@ meMA.Ode6H.melody = miscellanea_en_US_oca.misc.HeirmosNotMetered
 meMA.Ode6H.text = "" // he.h.m8_en_US_oca.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion2.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 meMA.Kontakion2.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -640,6 +642,7 @@ meMA.AposStavrotheotokion.text = ""
 meMA.MM.VeApos1123as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

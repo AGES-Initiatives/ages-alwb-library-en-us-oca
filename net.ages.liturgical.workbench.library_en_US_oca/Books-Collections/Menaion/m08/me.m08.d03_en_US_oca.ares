@@ -222,6 +222,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_oca.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_oca.heAU.TinEnPresveiais.notmetered
 meMA.Kontakion1.incipit = "Let us praise Isaac, Dalmatus…"
 meMA.Kontakion1.text = "Let us praise Isaac, Dalmatus and Faustus with hymns: ⁄ They shone like beacons through fasting ⁄ and turned away heresies with faith. ⁄⁄ They are saints of God who entreat Him on our behalf!"
@@ -339,6 +340,7 @@ meMA.ExapStavrotheotokion.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.n
 meMA.ExapStavrotheotokion.text = "" //similar to da.d4.daMA.ExapTheotokion1
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

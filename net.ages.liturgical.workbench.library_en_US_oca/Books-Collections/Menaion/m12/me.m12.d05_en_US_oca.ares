@@ -370,6 +370,7 @@ meMA.Ode6C1T.incipit = "Pure Lady, you gave birth…"
 meMA.Ode6C1T.text = "Pure Lady, you gave birth to God, ⁄ the Savior and Deliverer of all Who took our flesh upon Himself. ⁄ Save those who call upon you from misfortune."
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_oca.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_oca.heAU.TiYpermacho.notmetered
 meMA.Kontakion1.incipit = "In your strength, blessed Sabbas…"
 meMA.Kontakion1.text = "In your strength, blessed Sabbas, you offered yourself to God ⁄ as an unblemished sacrifice from your youth! ⁄ You became a gardener in the garden of true worship: ⁄ Therefore you were an adornment for venerable and God-fearing hermits. ⁄⁄ We cry out to you: Rejoice, most wealthy Sabbas!"
@@ -509,6 +510,7 @@ meMA.LaudsTheotokion.text = he.o_en_US_oca.heOT.TheotokeSyEiOsiou.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -524,6 +524,7 @@ meMA.Ode6C2T.incipit = "I run to you now…"
 meMA.Ode6C2T.text = "I run to you now, all-pure one. ⁄ Save and keep me by your prayers, ⁄ for you can do whatever you desire ⁄ for you are the Mother of the Almighty!"
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -752,6 +753,7 @@ meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -492,6 +492,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You put on the whole…"
 meMA.Kontakion1.text = "You put on the whole armor of faith with courage ⁄ and took the Word of God as a spear in your hand. ⁄ You conquered the enemy, Theodore, great among martyrs! ⁄⁄ Together with them, never cease to pray to Christ God for the sake of us all!"
@@ -751,6 +752,7 @@ meMA.AposBoth.text = ""
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

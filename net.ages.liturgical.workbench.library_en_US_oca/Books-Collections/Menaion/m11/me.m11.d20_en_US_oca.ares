@@ -557,6 +557,7 @@ meMA.Ode6H.incipit = he.h.m1_en_US_oca.heHE.EkyklosenImas.incipit
 meMA.Ode6H.text = he.h.m1_en_US_oca.heHE.EkyklosenImas.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -890,6 +891,7 @@ meMA.AposGlory.incipit = "Today let heaven greatly rejoice…"
 meMA.AposGlory.text = "Today let heaven greatly rejoice ⁄ and let the clouds pour down gladness ⁄ at the great and mighty acts of our God! ⁄ For behold, the gate that faces the east, ⁄ born according to the promise from a barren and fruitless womb, ⁄ and dedicated to God as His dwelling, ⁄ is led today into the Temple as an unblemished sacrifice. ⁄ Let David greatly rejoice, striking upon his harp. ⁄ She is led to the King, with her Virgin companions, ⁄ her escort, in her train! ⁄ Within the tabernacle of God, His place of atonement, shall she be raised ⁄ to become the dwelling of Him Who was begotten of the Father ⁄ without change before all ages ⁄⁄ for the salvation of our souls!"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

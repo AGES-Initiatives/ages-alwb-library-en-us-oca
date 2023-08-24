@@ -273,6 +273,7 @@ meMA.Ode6C1T.incipit = "Your womb was more spacious…"
 meMA.Ode6C1T.text = "Your womb was more spacious than the heavens, ⁄ for it contained the God Who cannot be contained, ⁄ all-hymned Virgin Bride of God who did not know man!"
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Inspired by the love of…"
 meMA.Kontakion1.text = "Inspired by the love of Christ, all-holy Spiridon, ⁄ You flew on wings of the spirit to pure contemplation! ⁄ Thus you became an altar of sacrifice in your apostolic life, ⁄⁄ Beseeching the Lord that He may enlighten us all!"
@@ -398,6 +399,7 @@ meMA.LaudsTheotokion.incipit = oc.m4.d2_en_US_oca.ocMA.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m4.d2_en_US_oca.ocMA.AposTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

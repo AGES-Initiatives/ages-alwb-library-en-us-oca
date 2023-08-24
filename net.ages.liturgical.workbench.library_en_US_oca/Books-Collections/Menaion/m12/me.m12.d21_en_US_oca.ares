@@ -456,6 +456,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = "As we contemplate the One Who is Master of creation ⁄ now wrapped in swaddling clothes in Bethlehem, ⁄ let us sing hymns to His mother in advance of the feast: ⁄ As every mother, she is enlivened with joy, ⁄⁄ for she has held the Son of God in her womb."
@@ -701,6 +702,7 @@ meMA.AposGlory.incipit = "Come, O mortals…"
 meMA.AposGlory.text = "Come, O mortals, ⁄ let us in unison ⁄ offer unceasing song ⁄ to the Virgin Mary ⁄⁄ from whom Christ is being born."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

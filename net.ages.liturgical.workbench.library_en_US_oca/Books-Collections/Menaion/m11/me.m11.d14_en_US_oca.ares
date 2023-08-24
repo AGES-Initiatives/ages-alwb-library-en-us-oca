@@ -256,6 +256,7 @@ meMA.Ode6H.incipit = he.h.m6_en_US_oca.heHE.SyneschethiAllOuKateschethi.incipit
 meMA.Ode6H.text = he.h.m6_en_US_oca.heHE.SyneschethiAllOuKateschethi.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_oca.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_oca.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "Your disciple, friend and imitator…"
 meMA.Kontakion1.text = "Your disciple, friend and imitator of Your passion, ⁄ the God-preaching Philip proclaimed You to the universe! ⁄ By his prayers, deliver Your Church from her enemies; ⁄⁄ through the Theotokos protect every city, most merciful Christ!"
@@ -397,6 +398,7 @@ meMA.LaudsTheotokion.text = ""
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

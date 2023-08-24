@@ -237,6 +237,7 @@ meMA.Ode3H.incipit = "…"
 meMA.Ode3H.text = //he.h.m8_en_US_oca.heHE.SyEiToStereoma.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_oca.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_oca.heAU.TiYpermacho.notmetered
 meMA.Kontakion1.incipit = "Your vigilant prayer was like…"
 meMA.Kontakion1.text = "Your vigilant prayer was like a scythe cutting the weeds of bodily passions! ⁄ Since you have boldness before the Lord, free me from every misfortune, ⁄⁄ that I may cry to you: Rejoice, universal father!"
@@ -429,6 +430,7 @@ meMA.Ode6H.incipit = "…"
 meMA.Ode6H.text = //he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion2.incipit = "By distributing your wealth to…"
 meMA.Kontakion2.text = "By distributing your wealth to the poor, John most wise, ⁄ you gained the wealth of heaven and were called the merciful one: ⁄⁄ Therefore we honor you and celebrate your holy memory!"
@@ -634,6 +636,7 @@ meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

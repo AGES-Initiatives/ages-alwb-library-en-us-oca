@@ -244,6 +244,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TousAsfaleis.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TousAsfaleis.notmetered
 meMA.Kontakion1.incipit = "Let us gather to sing…"
 meMA.Kontakion1.text = "Let us gather to sing worthy hymns in honor of Artemius, ⁄ the pious and victorious martyr who defeated his enemies: ⁄ He is great among martyrs and generous in performing miracles, ⁄⁄ and he intercedes with the Lord on behalf of us all!"
@@ -363,6 +364,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

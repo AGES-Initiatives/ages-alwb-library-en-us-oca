@@ -254,6 +254,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_oca.heHE.ProsKyrionEkKitous.incipit
 meMA.Ode6H.text = he.h.m2_en_US_oca.heHE.ProsKyrionEkKitous.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -390,6 +391,7 @@ meMA.AposGlory.incipit = "Jesus, your Son and our…"
 meMA.AposGlory.text = "Jesus, your Son and our God, Theotokos, ⁄ confirming His two natures, ⁄ dies as a Man and arises as God! ⁄ It was His good pleasure, Mother of God, ⁄ that you also die lest unbelievers consider His dispensation a fantasy! ⁄ You were translated to the Kingdom of heaven, celestial Bride ⁄ taken up from the earth as from your dwelling chamber. ⁄ The air was sanctified by your passage ⁄ as the earth was illumined by your giving of birth. ⁄ The apostles send you forth and the angels bear you up. ⁄ As they buried your all-pure body, singing funeral hymns for you ⁄ they gazed in awe and spoke with fear: ⁄ This change is from the right hand of the Most High, ⁄ for He dwelt within you, ⁄ and you shall never be shaken! ⁄ All-hymned Mother, do not cease to watch over us, ⁄ for we are your people and the sheep of your pasture: ⁄ We call on your name, ⁄⁄ asking salvation and great mercy for your sake."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

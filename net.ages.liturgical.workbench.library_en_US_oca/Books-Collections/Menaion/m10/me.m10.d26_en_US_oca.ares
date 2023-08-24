@@ -634,6 +634,7 @@ meMA.Ode6C3T.incipit = "…"
 meMA.Ode6C3T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.ToisTonAimatonSou.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.ToisTonAimatonSou.melody
 meMA.Kontakion1.incipit = he.a.m2_en_US_oca.heAU.ToisTonAimatonSou.incipit
 meMA.Kontakion1.text = he.a.m2_en_US_oca.heAU.ToisTonAimatonSou.text
@@ -939,6 +940,7 @@ meMA.LaudsTheotokion.text = oc.m4.d5_en_US_oca.ocVE.AposTheotokion.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

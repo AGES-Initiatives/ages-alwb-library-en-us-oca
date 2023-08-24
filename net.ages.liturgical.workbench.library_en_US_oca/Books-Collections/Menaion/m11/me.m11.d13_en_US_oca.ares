@@ -557,6 +557,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = "The Lover of mankind, Who bears all things by His great power, ⁄ arrayed Himself in the weak flesh He received from you, ⁄ for the benefit of mankind, immaculate Virgin."
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_oca.heAU.TinYperImon.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_oca.heAU.TinYperImon.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = "Having received divine grace from heaven, ⁄ you teach all men to adore the one God in three Persons. ⁄ All-blessed John Chrysostom, we rightly praise you, ⁄⁄ for you are our teacher, revealing things divine!"
@@ -793,6 +794,7 @@ meMA.LaudsTheotokion.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

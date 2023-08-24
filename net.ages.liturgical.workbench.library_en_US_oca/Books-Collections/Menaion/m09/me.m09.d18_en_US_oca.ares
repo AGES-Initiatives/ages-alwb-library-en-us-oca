@@ -267,6 +267,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Illumined with divine light, ⁄…"
 meMA.Kontakion1.text = "Illumined with divine light, ⁄ most blessed and holy hierarch, father Eumenes, ⁄ you enlighten us who hymn with love ⁄ your honored, glorious and holy repose. ⁄⁄ Now you unceasingly pray for us all!"
@@ -397,6 +398,7 @@ meMA.AposGlory.text = me.m09.d14_en_US_oca.meSV.AposGlory.text
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

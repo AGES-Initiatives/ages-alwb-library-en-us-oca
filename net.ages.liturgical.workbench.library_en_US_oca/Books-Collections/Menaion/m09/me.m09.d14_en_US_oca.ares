@@ -333,6 +333,7 @@ meMA.Ode6C12.incipit = "By laying his hands crosswise…"
 meMA.Ode6C12.text = "By laying his hands crosswise on the heads of the young ⁄ holy Israel signified that the people serving under the law ⁄ should for a time have the honor due to the first born. ⁄ When suspected of error in this, he did not change the life-giving figure: ⁄ For, he cried, the newly-planted people of Christ our God ⁄ shall take the higher place, strengthened by the Cross!"
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.melody
 meMA.Kontakion1.incipit = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.incipit
 meMA.Kontakion1.text = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.text
@@ -511,6 +512,7 @@ meMA.AdditionalIdiomelonGlory.text = "The words of Moses the prophet have been f
 meLI.MM.EntranceHymn.text = "" // for media
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

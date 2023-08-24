@@ -171,6 +171,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_oca.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You flourished like a palm…"
 meMA.Kontakion1.text = "You flourished like a palm tree in the house of God; ⁄ through great ascetic effort you brought forth the fruit of virtues for the Lord. ⁄ Therefore, you are called blessed, venerable Father, ⁄⁄ as you stand with the bodiless hosts!"
@@ -247,6 +248,7 @@ meMA.Ode9H.incipit = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.incipit
 meMA.Ode9H.text = he.h.m2_en_US_oca.heHE.AnarchouGennitoros.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

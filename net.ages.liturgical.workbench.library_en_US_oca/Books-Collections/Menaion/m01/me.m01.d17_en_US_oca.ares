@@ -351,6 +351,7 @@ meMA.Ode6C1T.incipit = "You have truly raised the…"
 meMA.Ode6C1T.text = "You have truly raised the fallen nature of mankind, Theotokos, ⁄ for without seed, you bore the changeless Son, ⁄ seen in divine form, and equal to the Father!"
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You rejected the cares of…"
 meMA.Kontakion1.text = "You rejected the cares of this world ⁄ fulfilling your life in meekness, ⁄ imitating the Forerunner in righteousness: ⁄ Together with him we honor you, ⁄⁄ Father of fathers, Anthony."
@@ -485,6 +486,7 @@ meMA.LaudsTheotokion.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

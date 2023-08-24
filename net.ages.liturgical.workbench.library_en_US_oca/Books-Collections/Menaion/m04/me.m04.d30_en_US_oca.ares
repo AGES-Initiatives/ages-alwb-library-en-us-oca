@@ -238,6 +238,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_oca.heHE.AvyssosAmartion.incipit
 meMA.Ode6H.text = he.h.m8_en_US_oca.heHE.AvyssosAmartion.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You heard the voice of…"
 meMA.Kontakion1.text = "You heard the voice of God calling you ⁄ and turned away from the love of your father. ⁄ With your kinsman you hastened after Christ, glorious James. ⁄⁄ with him, you were counted worthy to behold the Lord's divine Transfiguration!"
@@ -379,6 +380,7 @@ meMA.LaudsGlory.incipit = "Come, let us praise James…"
 meMA.LaudsGlory.text = "Come, let us praise James with hymns of psalms: ⁄ The preacher of heavenly mysteries and expounder of the Gospel; ⁄ for he was revealed as a river of the mystical paradise, ⁄ watering spiritual furrows with heavenly streams, ⁄ revealing them to bear fruit to Christ God, ⁄⁄ Who, by his prayers, grants cleansing, enlightenment and great mercy!"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

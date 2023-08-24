@@ -683,6 +683,7 @@ meMA.Ode6C3T.incipit = "The Son was without a…"
 meMA.Ode6C3T.text = "The Son was without a Mother before assuming the flesh ⁄ and was without a Father in His incarnation. ⁄ We speak of these things which are beyond all understanding, ⁄ for all-glorious wonders are fitting to God!"
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TousAsfaleis.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TousAsfaleis.notmetered
 meMA.Kontakion1.incipit = "Lord, You have taken up…"
 meMA.Kontakion1.text = "Lord, You have taken up the holy preachers of divine truths ⁄ to their eternal rest and the enjoyment of your good things. ⁄ You have accepted their struggles and deaths, ⁄⁄ for You alone are glorified in Your saints!"
@@ -998,6 +999,7 @@ meMA.LaudsBoth.text = ""
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

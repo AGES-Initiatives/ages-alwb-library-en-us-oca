@@ -233,6 +233,7 @@ meMA.Ode6C1T.incipit = "Through the Virgin Mother of…"
 meMA.Ode6C1T.text = "Through the Virgin Mother of God You enlightened Egypt which had been in darkness. You entered it as an infant, O Lord, and reproved its vanity, Lover of mankind, through the teachings of the divinely-spoken Mark."
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You received the grace of…"
 meMA.Kontakion1.text = "You received the grace of the spirit from on high, ⁄ destroying the snares of the orators. ⁄ You hunted all the nations, Apostle, ⁄ and led them to your Master, ⁄⁄ glorious Mark, the preacher of the Gospel of God!"
@@ -347,6 +348,7 @@ meMA.LaudsGlory.text = meVE.SticGlory.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

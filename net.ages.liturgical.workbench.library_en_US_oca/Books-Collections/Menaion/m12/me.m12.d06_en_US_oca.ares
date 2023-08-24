@@ -629,6 +629,7 @@ meMA.Ode6C3T.incipit = "Christ bowed the heavens by…"
 meMA.Ode6C3T.text = "Christ bowed the heavens by His Own will, ⁄ and came to dwell entirely in your womb, all-holy Virgin! ⁄ For He could not bear to look upon the work of His Own hands ⁄ held under the rule of the deceiver. ⁄⁄ Therefore He came in the form of a Servant to save mankind."
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "You revealed yourself, Saint, in…"
 meMA.Kontakion1.text = "You revealed yourself, Saint, in Myra as a priest, ⁄ for you fulfilled the gospel of Christ ⁄ by giving up your soul for your people, ⁄ and saving the innocent from death. ⁄⁄ ⁄⁄ therefore you are blest as one become wise in the grace of God."
@@ -921,6 +922,7 @@ meMA.FestalMagnification.incipit = "…"
 meMA.FestalMagnification.text = "We magnify, ⁄ we magnify you, ⁄ holy Hierarch Father Nicholas! ⁄ And we honor your holy memory, ⁄ for you pray to Christ our God for us!"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

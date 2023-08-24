@@ -210,6 +210,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_oca.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_oca.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.ToisTonAimatonSou.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.ToisTonAimatonSou.notmetered
 meMA.Kontakion1.incipit = "We celebrate your unusual memory…"
 meMA.Kontakion1.text = "We celebrate your unusual memory, Xenia, ⁄ and as we honor you with love ⁄ we sing hymns to Christ Who gives you the power of healing in all things. ⁄⁄ Ever pray to Him on our behalf."
@@ -323,6 +324,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -249,6 +249,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_oca.heHE.IlthonEisTaVathi.incipit
 meMA.Ode6H.text = he.h.m4_en_US_oca.heHE.IlthonEisTaVathi.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.incipit = "From your youth you were…"
 meMA.Kontakion1.text = "From your youth you were good athletes, wise Marcian and Martyrius, ⁄ vanquishing the Arian heretics; ⁄ you kept the faith perfect by following in the footsteps of your bishop and teacher Paul, ⁄ therefore, you are worthy to be with him in eternal life, ⁄ as respected defenders of the Holy Trinity."
@@ -374,6 +375,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

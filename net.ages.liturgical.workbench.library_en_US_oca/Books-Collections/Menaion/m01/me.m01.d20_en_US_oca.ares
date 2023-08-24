@@ -502,6 +502,7 @@ meMA.Ode6C2T.incipit = "We call you the Lady…"
 meMA.Ode6C2T.text = "We call you the Lady and Mistress of all, ⁄ for indeed you ineffably gave birth to God ⁄ Who created, sustains and embraces all, most pure one."
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_oca.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_oca.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "The wilderness rejoiced at your…"
 meMA.Kontakion1.text = "The wilderness rejoiced at your birth, holy Father Euthymius. ⁄ In your memory, it brings a harvest of joy through your many miracles! ⁄ Pour the wonders on our souls as well and cleanse us from our sins, ⁄⁄ that we may sing: Alleluia!"
@@ -708,6 +709,7 @@ meMA.LaudsTheotokion.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

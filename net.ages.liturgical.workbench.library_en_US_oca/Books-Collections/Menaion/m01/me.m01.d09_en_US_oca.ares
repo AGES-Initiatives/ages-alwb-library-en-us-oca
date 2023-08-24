@@ -276,6 +276,7 @@ meMA.Ode6H.text = he.h.m8_en_US_oca.heHE.AvyssosAmartion.text
 
 meMA.Kontakion1.poet = poets_en_US_oca.po.RomanouTouMelodou
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "Our Savior bowed His head…"
 meMA.Kontakion1.text = "Our Savior bowed His head in the Jordan, ⁄ crushing the heads of the dragons, ⁄⁄ while Polyeuctus was beheaded, and the demons crushed."
@@ -406,6 +407,7 @@ meMA.AposGlory.text = "Life-giving riches spring up for us from Jordan's stream:
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

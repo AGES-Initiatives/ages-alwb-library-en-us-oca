@@ -253,6 +253,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.incipit = "Invincible in your struggles for…"
 meMA.Kontakion1.text = "Invincible in your struggles for the holy Trinity, ⁄ and through your love for each other as sisters, ⁄ you defeated the foe of your spiritual life, ⁄ and with the five virgins, entered victoriously into the heavenly mansions ⁄⁄ where you ever rejoice with the angels in the presence of the King of all!"
@@ -393,6 +394,7 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

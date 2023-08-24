@@ -618,6 +618,7 @@ meMA.Ode6C2T.incipit = "He whom nothing can contain…"
 meMA.Ode6C2T.text = "He whom nothing can contain was contained in your womb, ⁄ undefiled Theotokos, ⁄ and He has come forth from you in two natures, ⁄ both God and man."
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.incipit = "The most pure Temple of…"
 meMA.Kontakion1.text = "The most pure Temple of the Savior ⁄ the precious chamber and Virgin ⁄ the sacred treasure of the glory of God ⁄ is presented today to the house of the Lord. ⁄ She brings with her the grace of the Spirit, ⁄ which the angels of God do praise. ⁄⁄ Truly this woman is the abode of heaven!"
@@ -953,6 +954,7 @@ meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 meLI.MM.EntranceHymn.text = "" // for media
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

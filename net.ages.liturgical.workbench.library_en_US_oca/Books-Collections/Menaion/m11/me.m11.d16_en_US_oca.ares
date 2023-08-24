@@ -272,6 +272,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_oca.heHE.IlthonEisTaVathi.incipit
 meMA.Ode6H.text = he.h.m4_en_US_oca.heHE.IlthonEisTaVathi.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.incipit = "You renounced the occupation of…"
 meMA.Kontakion1.text = "You renounced the occupation of a publican, ⁄ becoming a merchant rich in divine wisdom. ⁄ Preaching the word of truth as a teacher of righteousness, ⁄ you exhort us to await the King of glory in vigilance, ⁄⁄ and have given us a faithful account of the final judgment!"
@@ -407,6 +408,7 @@ meMA.LaudsTheotokion.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

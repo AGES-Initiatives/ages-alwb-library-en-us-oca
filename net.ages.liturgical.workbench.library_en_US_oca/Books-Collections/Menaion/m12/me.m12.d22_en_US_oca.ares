@@ -591,6 +591,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_oca.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_oca.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_oca.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Those beset by trouble…"
 meMA.Kontakion1.text = "Those beset by trouble and temptations ⁄ hasten to your memorial as a great source of grace, Anastasia! ⁄⁄ You ever grant abundant healing to the world."
@@ -917,6 +918,7 @@ meMA.AposBoth.incipit = "Joseph, do not be sad…"
 meMA.AposBoth.text = "Joseph, do not be sad, beholding me with child: ⁄ you will soon see Him Who is to be born of me; ⁄ you will rejoice and adore Him as your God. ⁄ Thus spoke the Mother of God to her spouse ⁄ when the birth of Christ drew near. ⁄ Let us greet her, crying: rejoice, full of grace,  ⁄⁄ the Lord is with you, and with us through you."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

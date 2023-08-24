@@ -251,6 +251,7 @@ meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "You received divine grace to…"
 meMA.Kontakion1.text = "You received divine grace to work miracles, / wise and holy God-bearing wonderworker Parthenius. / You cleansed the passions of all the faithful / and drove out evil spirits. / Therefore, we praise you as a great initiate of the grace of God."
@@ -468,6 +469,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion2.mode = miscellanea_en_US_oca.misc.Mode8
+meMA.Kontakion2.greekmelody = he.a.m8_en_US_oca.heAU.TiYpermacho.greekname
 meMA.Kontakion2.melody = he.a.m8_en_US_oca.heAU.TiYpermacho.notmetered
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -726,6 +728,7 @@ meMA.AposGlory.text = me.m02.d05_en_US_oca.meMA.AposGlory.text
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

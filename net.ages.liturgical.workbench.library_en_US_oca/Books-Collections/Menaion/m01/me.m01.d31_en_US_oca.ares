@@ -241,6 +241,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_oca.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "Holy ones, you received as…"
 meMA.Kontakion1.text = "Holy ones, you received as a grace the power of miracles: ⁄ Do not cease to pour out your wonders on us. ⁄ By spiritual skill, cut out our passions, two great physicians, ⁄⁄ divinely inspired Cyrus and holy John!"
@@ -389,6 +390,7 @@ meMA.LaudsStavrotheotokion.text = ""
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

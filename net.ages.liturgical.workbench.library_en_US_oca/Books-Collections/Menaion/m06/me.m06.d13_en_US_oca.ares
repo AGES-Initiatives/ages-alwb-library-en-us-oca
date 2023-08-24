@@ -223,6 +223,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_oca.heHE.TonIonanEnToKitei.incipit
 meMA.Ode6H.text = he.h.m8_en_US_oca.heHE.TonIonanEnToKitei.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_oca.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "Christ, the Fountain…"
 meMA.Kontakion1.text = "Christ, the Fountain of life, and your Bridegroom, Virgin Aquilina, ⁄ gave you power to heal and save from suffering and grave disease, ⁄ for you have been purified by the shedding of your blood ⁄⁄ and have received the crown of martyrdom!"
@@ -323,6 +324,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_oca.heHE.KyriosTheotokon.incipit
 meMA.Ode9H.text = he.h.m8_en_US_oca.heHE.KyriosTheotokon.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
