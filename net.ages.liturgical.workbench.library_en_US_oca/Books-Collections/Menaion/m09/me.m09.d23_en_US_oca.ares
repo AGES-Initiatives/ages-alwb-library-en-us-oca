@@ -81,8 +81,8 @@ meVE.Apolytikion1.text = ""
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.Kathisma11.greekmelody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma11.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
-meMA.Kathisma11.incipit = "Elizabeth has been freed…"
-meMA.Kathisma11.text = "Elizabeth has been freed from barrenness; ⁄ the Virgin remains a Virgin ⁄ though conceiving in her womb at the cry of Gabriel! ⁄ John the Forerunner leaps in his mother's womb, ⁄ foreknowing his God and Master ⁄ become incarnate within the Virgin's womb ⁄⁄ for our salvation!"
+meMA.Kathisma11.incipit = oc.m5.d3_en_US_oca.ocMA.Kathisma31.incipit
+meMA.Kathisma11.text = oc.m5.d3_en_US_oca.ocMA.Kathisma31.text
 
 meMA.Kathisma1T.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.Kathisma1T.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
@@ -365,5 +365,5 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
 
-meMegalynarion.text = ""
+meLI.Megalynarion.text = ""
 

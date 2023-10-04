@@ -625,7 +625,7 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = "" // for media
 
-meMegalynarion.text = ""
+meLI.Megalynarion.text = ""
 
 //supplemental hymns
 
@@ -714,5 +714,5 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "…"
 alt1.meMA.PostGospelIdiomelon.text = ""
 
-alt1.meMegalynarion.poet = poets_en_US_oca.po.NikodimouAgioreitou
-alt1.meMegalynarion.text = ""
+alt1.meLI.Megalynarion.poet = poets_en_US_oca.po.NikodimouAgioreitou
+alt1.meLI.Megalynarion.text = ""
