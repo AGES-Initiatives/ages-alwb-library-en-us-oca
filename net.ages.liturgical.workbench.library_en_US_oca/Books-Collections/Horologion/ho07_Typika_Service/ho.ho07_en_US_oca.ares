@@ -30,18 +30,12 @@ hoTY.Key0501.text = ""
 hoLI.Antiphon1.text = ""
 
 hoLI.Antiphon21.text = ""
-hoLI.Antiphon2s.incipit = ""
-hoLI.Antiphon2s.text = ""
-hoLI.Antiphon2w.incipit = ""
-hoLI.Antiphon2w.text = ""
 hoLI.Antiphon22.text = ""
 
 hoLI.EntranceHymn.incipit = ""
 hoLI.EntranceHymn.text = "" //in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
-hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
-hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
-hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
+hoLI.MM.EntranceHymn2s.text = ""
+hoLI.MM.EntranceHymn2w.text = ""
 
 hoLI.TrisagiosHymn.title = ""
 hoLI.TrisagiosHymn.incipit = "…"
