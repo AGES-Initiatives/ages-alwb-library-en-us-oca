@@ -650,11 +650,11 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "Today the Creator of heaven…"
 meMA.AposGlory.text = "Today the Creator of heaven and earth ⁄ has been carried in the arms of holy Simeon. ⁄ By the Holy Spirit he said: ⁄⁄ Now I have been released, for I have seen my Savior!"
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m02.d01_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m02.d01_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m02.d01_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m02.d01_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m02.d01_en_US_oca.meMA.Kontakion1.text
 
 meLI.Kontakion2.mode = miscellanea_en_US_oca.misc.Mode4
 meLI.Kontakion2.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname

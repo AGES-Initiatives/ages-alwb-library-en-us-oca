@@ -57,8 +57,8 @@ meVE.SticGlory.text = "You became a Lover of wisdom, righteous Father! ⁄ You p
 meVE.SticBoth.poet = poets_en_US_oca.po.Anatoliou
 meVE.SticBoth.mode = miscellanea_en_US_oca.misc.Mode8
 meVE.SticBoth.melody = ""
-meVE.SticBoth.incipit = meVE.Stichera01.incipit
-meVE.SticBoth.text = meVE.Stichera01.text
+meVE.SticBoth.incipit = me.m01.d01_en_US_oca.meVE.Stichera01.incipit
+meVE.SticBoth.text = me.m01.d01_en_US_oca.meVE.Stichera01.text
 
 meVE.Lity1.poet = poets_en_US_oca.po.Germanou
 meVE.Lity1.mode = miscellanea_en_US_oca.misc.Mode3
@@ -190,8 +190,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 meMA.PostGospelIdiomelon.poet = poets_en_US_oca.po.Vyzantiou
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.LityGlory.incipit
-meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
+meMA.PostGospelIdiomelon.incipit = me.m01.d01_en_US_oca.meVE.LityGlory.incipit
+meMA.PostGospelIdiomelon.text = me.m01.d01_en_US_oca.meVE.LityGlory.text
 
 meMA.C1.poet = poets_en_US_oca.po.Stefanou
 meMA.C1.title = titles_en_US_oca.ti.CanonFeast
@@ -709,13 +709,13 @@ meMA.Lauds4.text = ""
 meMA.LaudsGlory.poet = poets_en_US_oca.po.Vyzantiou
 meMA.LaudsGlory.mode = miscellanea_en_US_oca.misc.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = meVE.LityGlory.incipit
-meMA.LaudsGlory.text = meVE.LityGlory.text
+meMA.LaudsGlory.incipit = me.m01.d01_en_US_oca.meVE.LityGlory.incipit
+meMA.LaudsGlory.text = me.m01.d01_en_US_oca.meVE.LityGlory.text
 
 meMA.LaudsBoth.poet = poets_en_US_oca.po.Anatoliou
 meMA.LaudsBoth.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.incipit = meVE.Stichera01.incipit
-meMA.LaudsBoth.text = meVE.Stichera01.text
+meMA.LaudsBoth.incipit = me.m01.d01_en_US_oca.meVE.Stichera01.incipit
+meMA.LaudsBoth.text = me.m01.d01_en_US_oca.meVE.Stichera01.text
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key

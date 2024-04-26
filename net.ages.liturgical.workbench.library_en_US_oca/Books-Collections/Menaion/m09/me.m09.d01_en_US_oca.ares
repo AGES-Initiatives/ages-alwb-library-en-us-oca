@@ -187,8 +187,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Aposticha4.incipit
-meMA.PostGospelIdiomelon.text = meVE.Aposticha4.text
+meMA.PostGospelIdiomelon.incipit = me.m09.d01_en_US_oca.meVE.Aposticha4.incipit
+meMA.PostGospelIdiomelon.text = me.m09.d01_en_US_oca.meVE.Aposticha4.text
 
 meMA.C1.poet = poets_en_US_oca.po.IoannouMonachou
 meMA.C1.title = ""
@@ -960,8 +960,8 @@ meMA.Lauds4.text = ""
 
 meMA.LaudsGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.LaudsGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
-meMA.LaudsGlory.incipit = meVE.Stichera07.incipit
-meMA.LaudsGlory.text = meVE.Stichera07.text
+meMA.LaudsGlory.incipit = me.m09.d01_en_US_oca.meVE.Stichera07.incipit
+meMA.LaudsGlory.text = me.m09.d01_en_US_oca.meVE.Stichera07.text
 
 meMA.LaudsBoth.poet = poets_en_US_oca.po.Germanou
 meMA.LaudsBoth.mode = miscellanea_en_US_oca.misc.Mode8
@@ -973,23 +973,23 @@ meMA.MM.Ve1123as5678.text = properties_en_US_oca.media.key
 
 meLI.MM.EntranceHymn.text = properties_en_US_oca.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d01_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m09.d01_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m09.d01_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d01_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d01_en_US_oca.meMA.Kontakion1.text
 
-meLI.Kontakion2.mode = meMA.Kontakion2.mode
-meLI.Kontakion2.greekmelody= meMA.Kontakion2.greekmelody
-meLI.Kontakion2.melody = meMA.Kontakion2.melody
-meLI.Kontakion2.incipit = meMA.Kontakion2.incipit
-meLI.Kontakion2.text = meMA.Kontakion2.text
+meLI.Kontakion2.mode = me.m09.d01_en_US_oca.meMA.Kontakion2.mode
+meLI.Kontakion2.greekmelody = me.m09.d01_en_US_oca.meMA.Kontakion2.greekmelody
+meLI.Kontakion2.melody = me.m09.d01_en_US_oca.meMA.Kontakion2.melody
+meLI.Kontakion2.incipit = me.m09.d01_en_US_oca.meMA.Kontakion2.incipit
+meLI.Kontakion2.text = me.m09.d01_en_US_oca.meMA.Kontakion2.text
 
-meLI.Kontakion3.mode = meMA.Kontakion3.mode
-meLI.Kontakion3.greekmelody= meMA.Kontakion3.greekmelody
-meLI.Kontakion3.melody = meMA.Kontakion3.melody
-meLI.Kontakion3.incipit = meMA.Kontakion3.incipit
-meLI.Kontakion3.text = meMA.Kontakion3.text
+meLI.Kontakion3.mode = me.m09.d01_en_US_oca.meMA.Kontakion3.mode
+meLI.Kontakion3.greekmelody = me.m09.d01_en_US_oca.meMA.Kontakion3.greekmelody
+meLI.Kontakion3.melody = me.m09.d01_en_US_oca.meMA.Kontakion3.melody
+meLI.Kontakion3.incipit = me.m09.d01_en_US_oca.meMA.Kontakion3.incipit
+meLI.Kontakion3.text = me.m09.d01_en_US_oca.meMA.Kontakion3.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
 

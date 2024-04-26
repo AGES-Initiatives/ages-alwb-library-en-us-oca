@@ -837,11 +837,11 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "John the Baptist…"
 meMA.AposGlory.text = "John the Baptist, ⁄ you have known Me as the lamb from your Mother’s womb. ⁄ Minister to Me in the river! ⁄ Serve Me with the angels. ⁄ Stretch out your hand and touch My sinless head. ⁄ When you see the mountains tremble and the Jordan turn back, ⁄ join them in crying aloud ⁄ to Him who took flesh from a Virgin for your salvation: ⁄⁄ O Lord, glory to You!"
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m01.d02_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m01.d02_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m01.d02_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m01.d02_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m01.d02_en_US_oca.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
