@@ -828,22 +828,22 @@ meMA.LaudsGlory.text = ""
 
 meMA.LaudsBoth.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.incipit = meVE.AposBoth.incipit
-meMA.LaudsBoth.text = meVE.AposBoth.text
+meMA.LaudsBoth.incipit = me.m12.d09_en_US_oca.meVE.AposBoth.incipit
+meMA.LaudsBoth.text = me.m12.d09_en_US_oca.meVE.AposBoth.text
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m12.d09_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m12.d09_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m12.d09_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m12.d09_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m12.d09_en_US_oca.meMA.Kontakion1.text
 
-meLI.Kontakion2.mode = meMA.Kontakion2.mode
-meLI.Kontakion2.greekmelody = meMA.Kontakion2.greekmelody
-meLI.Kontakion2.melody = meMA.Kontakion2.melody
-meLI.Kontakion2.incipit = meMA.Kontakion2.incipit
-meLI.Kontakion2.text = meMA.Kontakion2.text
+meLI.Kontakion2.mode = me.m12.d09_en_US_oca.meMA.Kontakion2.mode
+meLI.Kontakion2.greekmelody = me.m12.d09_en_US_oca.meMA.Kontakion2.greekmelody
+meLI.Kontakion2.melody = me.m12.d09_en_US_oca.meMA.Kontakion2.melody
+meLI.Kontakion2.incipit = me.m12.d09_en_US_oca.meMA.Kontakion2.incipit
+meLI.Kontakion2.text = me.m12.d09_en_US_oca.meMA.Kontakion2.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
 

@@ -616,11 +616,11 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "Today the most immaculate and…"
 meMA.AposGlory.text = "Today the most immaculate and pure one ⁄ has come forth from the barren woman! ⁄ Today all things rejoice in her nativity! ⁄ The bonds of Adam have been broken ⁄ and Eve has been freed from the curse! ⁄ All those in heaven rejoice and peace is given to men! ⁄ Glorifying her, we cry aloud: ⁄ Glory to God in the highest, ⁄⁄ and on earth peace, good will towards men!"
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d09_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m09.d09_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m09.d09_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d09_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d09_en_US_oca.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_oca.media.key
 

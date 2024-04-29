@@ -1011,11 +1011,11 @@ meMA.AposBoth.melody = ""
 meMA.AposBoth.incipit = "The Creator of all comes…"
 meMA.AposBoth.text = "The Creator of all comes to be born in Bethlehem; ⁄ the King of all ages opens the gates of Eden; ⁄ the wall of partition shall be destroyed; ⁄ the fiery sword shall turn back! ⁄ The powers of heaven join with the dwellers of earth; ⁄ angels with men shout for joy and clap their hands. ⁄ Let us in purity conduct ourselves with upright hearts! ⁄ Let us behold the Virgin as the glorious throne of the cherubim! ⁄ She holds in her arms the immortal God, ⁄⁄ Who comes to bestow great mercy to the world!"
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m12.d23_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m12.d23_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m12.d23_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m12.d23_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m12.d23_en_US_oca.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

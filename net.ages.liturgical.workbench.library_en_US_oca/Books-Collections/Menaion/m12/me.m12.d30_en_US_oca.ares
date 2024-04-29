@@ -639,11 +639,11 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "Seeing Your birth in the…"
 meMA.AposGlory.text = "Seeing Your birth in the flesh in Bethlehem, ⁄ all creation is created and fashioned anew, ⁄ Creator and Fashioner of all. ⁄ The sun increases his light, and the earth rejoices! ⁄ The Magi from Persia offer their gifts to the king! ⁄ The shepherds worship in trembling. ⁄ They marvel before God, newborn in the flesh. ⁄ Wonder! He Who nourishes all creation is fed by His Mother! ⁄⁄ Through her, salvation and renewal has come to the world!"
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m12.d30_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m12.d30_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m12.d30_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m12.d30_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m12.d30_en_US_oca.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

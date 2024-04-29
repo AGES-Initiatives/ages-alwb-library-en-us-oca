@@ -99,8 +99,8 @@ meVE.Stichera06.text = "Today the barren Anna ⁄ gives birth to the holy handma
 meVE.SticGlory.poet = poets_en_US_oca.po.Sergiou
 meVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
-meVE.SticGlory.incipit = meVE.Stichera01.incipit
-meVE.SticGlory.text = meVE.Stichera01.text
+meVE.SticGlory.incipit = me.m09.d08_en_US_oca.meVE.Stichera01.incipit
+meVE.SticGlory.text = me.m09.d08_en_US_oca.meVE.Stichera01.text
 
 meVE.Lity1.poet = poets_en_US_oca.po.StefanouAgiopolitou
 meVE.Lity1.mode = miscellanea_en_US_oca.misc.Mode1
@@ -190,8 +190,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 meMA.PostGospelIdiomelon.poet = poets_en_US_oca.po.GermanouPatriarchou
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Aposticha1.incipit
-meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
+meMA.PostGospelIdiomelon.incipit = me.m09.d08_en_US_oca.meVE.Aposticha1.incipit
+meMA.PostGospelIdiomelon.text = me.m09.d08_en_US_oca.meVE.Aposticha1.text
 
 meMA.C1.title = titles_en_US_oca.ti.Canon1Feast
 meMA.C1.verse = prayers_en_US_oca.pr.verse_Theotokos.text
@@ -779,17 +779,17 @@ meMA.Lauds3.text = "Since Anna was overjoyed with grace ⁄ a living tower of ch
 
 meMA.LaudsGlory.mode = miscellanea_en_US_oca.misc.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = meVE.Stichera02.incipit
-meMA.LaudsGlory.text = meVE.Stichera02.text
+meMA.LaudsGlory.incipit = me.m09.d08_en_US_oca.meVE.Stichera02.incipit
+meMA.LaudsGlory.text = me.m09.d08_en_US_oca.meVE.Stichera02.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meLI.MM.EntranceHymn.text = ho.ho07_en_US_oca.hoLI.EntranceHymn.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d08_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m09.d08_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d08_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d08_en_US_oca.meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = miscellanea_en_US_oca.misc.Mode8
 meLI.TheotokosHymn.incipit = he.h.m8_en_US_oca.heHE.AllotrionTonMiteron.incipit

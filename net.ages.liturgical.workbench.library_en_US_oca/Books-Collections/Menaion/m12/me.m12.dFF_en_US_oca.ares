@@ -547,9 +547,9 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "Come, let us all faithfully…"
 meMA.LaudsGlory.text = "Come, let us all faithfully celebrate ⁄ the fathers before the law: ⁄ our yearly commemoration of Abraham and those with him: ⁄ Let us rightly honor the tribe of Judah, ⁄ and praise the Youths in Babylon ⁄ who quenched the flames of the furnace, ⁄ for they were an image of the Trinity! ⁄ With them, let us praise Daniel, ⁄ and holding fast to the predictions of the prophets, ⁄ with Isaiah let us cry aloud: ⁄ Behold, a Virgin shall conceive in her womb ⁄ and bear a Son, Emmanuel, ⁄⁄ Who is God with us!"
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m12.dFF_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m12.dFF_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m12.dFF_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m12.dFF_en_US_oca.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""

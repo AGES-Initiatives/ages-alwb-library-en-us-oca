@@ -1023,19 +1023,19 @@ meMA.Aposticha2.text = "John the prophet, ⁄ receive the world’s Redeemer! �
 
 meMA.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
-meMA.Aposticha3.incipit = meVE.Aposticha2.incipit
-meMA.Aposticha3.text = meVE.Aposticha2.text
+meMA.Aposticha3.incipit = me.m01.d04_en_US_oca.meVE.Aposticha2.incipit
+meMA.Aposticha3.text = me.m01.d04_en_US_oca.meVE.Aposticha2.text
 
 meMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meMA.AposGlory.incipit = "Today the Lord’s Anointed…"
 meMA.AposGlory.text = "Today the Lord’s Anointed ⁄ grants to men salvation ⁄ and remission of sins: ⁄ souls are cleansed of filth, ⁄⁄ by the fire of baptism."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m01.d04_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m01.d04_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m01.d04_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m01.d04_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m01.d04_en_US_oca.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

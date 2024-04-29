@@ -173,8 +173,8 @@ meMA.PostGospelGlory.text = ""
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = meMA.PostGospelGlory.incipit
-meMA.PostGospelBoth.text = meMA.PostGospelGlory.text
+meMA.PostGospelBoth.incipit = me.m11.d21_en_US_oca.meMA.PostGospelGlory.incipit
+meMA.PostGospelBoth.text = me.m11.d21_en_US_oca.meMA.PostGospelGlory.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.PostGospelIdiomelon.melody = ""
@@ -950,11 +950,11 @@ meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 
 meLI.MM.EntranceHymn.text = "" // for media
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m11.d21_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m11.d21_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m11.d21_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m11.d21_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m11.d21_en_US_oca.meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = miscellanea_en_US_oca.misc.Mode4
 meLI.TheotokosHymn.incipit = he.h.m4_en_US_oca.heHE.OsEmpsychoTheouKivoto.incipit

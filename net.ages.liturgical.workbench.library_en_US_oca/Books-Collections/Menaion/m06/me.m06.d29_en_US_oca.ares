@@ -210,8 +210,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelIdiomelon.melody = miscellanea_en_US_oca.misc.Idiomelon
-meMA.PostGospelIdiomelon.incipit = meVE.Lity3.incipit
-meMA.PostGospelIdiomelon.text = meVE.Lity3.text
+meMA.PostGospelIdiomelon.incipit = me.m06.d29_en_US_oca.meVE.Lity3.incipit
+meMA.PostGospelIdiomelon.text = me.m06.d29_en_US_oca.meVE.Lity3.text
 
 meMA.C1.poet = poets_en_US_oca.po.IoannouMonachou
 meMA.C1.title = "Canon for St. Peter."
@@ -750,11 +750,11 @@ meMA.LaudsTheotokion.text = ""
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_oca.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m06.d29_en_US_oca.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m06.d29_en_US_oca.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m06.d29_en_US_oca.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m06.d29_en_US_oca.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m06.d29_en_US_oca.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = da.d5_en_US_oca.daLI.MM.CommunionHymn.text
 
