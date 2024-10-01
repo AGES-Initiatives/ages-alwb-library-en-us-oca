@@ -55,10 +55,10 @@ peVE.AposGlory.incipit = pe.d096_en_US_oca.peMA.AposGlory.incipit
 peVE.AposGlory.text = pe.d096_en_US_oca.peMA.AposGlory.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode3
-peMA.Kathisma11.greekmelody = oc.m3.d6_en_US_oca.ocMA.Kathisma22.greekmelody
-peMA.Kathisma11.melody = oc.m3.d6_en_US_oca.ocMA.Kathisma22.melody
-peMA.Kathisma11.incipit = oc.m3.d6_en_US_oca.ocMA.Kathisma22.incipit
-peMA.Kathisma11.text = oc.m3.d6_en_US_oca.ocMA.Kathisma22.text
+peMA.Kathisma11.greekmelody = he.a.m3_en_US_oca.heAU.TinOraiotita.greekname
+peMA.Kathisma11.melody = he.a.m3_en_US_oca.heAU.TinOraiotita.name
+peMA.Kathisma11.incipit = "…"
+peMA.Kathisma11.text = ""
 
 peMA.Kathisma12.mode = miscellanea_en_US_oca.misc.Mode3
 peMA.Kathisma12.greekmelody = oc.m3.d1_en_US_oca.ocMA.Kathisma22.greekmelody
