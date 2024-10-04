@@ -605,9 +605,10 @@ ocMA.AposTheotokion.incipit = "…"
 ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = "…"
-ocMA.ApolTheotokion.text = ""
+ocMA.ApolTheotokion.greekmelody = he.a.m6_en_US_oca.heAU.ElpisTouKosmouAgathi.greekname
+ocMA.ApolTheotokion.melody = he.a.m6_en_US_oca.heAU.ElpisTouKosmouAgathi.name
+ocMA.ApolTheotokion.incipit = oc.m6.d3_en_US_oca.ocMA.Kathisma13.incipit
+ocMA.ApolTheotokion.text = oc.m6.d3_en_US_oca.ocMA.Kathisma13.text
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_oca.misc.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_en_US_oca.heHE.IToChaireDiAngelou.name
