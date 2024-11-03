@@ -28,7 +28,7 @@ meSV.Stichera1.incipit = "Joachim and Anna celebrate the…"
 meSV.Stichera1.text = "Joachim and Anna celebrate the feast, ⁄ for they gave birth to the only Theotokos, ⁄ the beginning of our salvation! ⁄ Together with them we also celebrate today: ⁄⁄ We bless the pure Virgin who sprang from the root of Jesse!"
 
 meSV.Stichera2.mode = miscellanea_en_US_oca.misc.Mode1
-meSV.Stichera2.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
+meSV.Stichera2.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.name
 meSV.Stichera2.incipit = "…"
 meSV.Stichera2.text = ""
 
@@ -48,22 +48,22 @@ meSV.SticGlory.incipit = "Come, all who love virginity…"
 meSV.SticGlory.text = "Come, all who love virginity, ⁄ who are friends of purity; ⁄ come, and welcome with love the boast of virgins. ⁄ She is the fountain of life that flows from the rock; ⁄ she is the bush that springs from barren ground ⁄⁄ and burns with the spiritual fire that cleanses and enlightens our souls."
 
 meSV.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha1.incipit = "…"
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha2.incipit = "…"
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha3.incipit = "…"
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.AposGlory.incipit = "…"
 meSV.AposGlory.text = ""
 
@@ -162,7 +162,7 @@ meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Kathisma11.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
-meMA.Kathisma11.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
@@ -174,7 +174,7 @@ meMA.Kathisma21.text = me.m09.d07_en_US_oca.meVE.Apolytikion1.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Kathisma31.greekmelody = he.a.m8_en_US_oca.heAU.ToProstachthen.greekname
-meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.ToProstachthen.notmetered
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.ToProstachthen.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 

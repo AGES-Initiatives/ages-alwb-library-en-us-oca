@@ -23,17 +23,17 @@ meHO.note1 = rubrical_en_US_oca.ru.HolidayWineOil
 meHO.note2 = ""
 
 meSV.Stichera1.mode = miscellanea_en_US_oca.misc.Mode1
-meSV.Stichera1.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
+meSV.Stichera1.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.name
 meSV.Stichera1.incipit = "…"
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = miscellanea_en_US_oca.misc.Mode1
-meSV.Stichera2.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
+meSV.Stichera2.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.name
 meSV.Stichera2.incipit = "…"
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = miscellanea_en_US_oca.misc.Mode1
-meSV.Stichera3.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.notmetered
+meSV.Stichera3.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.name
 meSV.Stichera3.incipit = "…"
 meSV.Stichera3.text = ""
 
@@ -48,22 +48,22 @@ meSV.SticBoth.incipit = "…"
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha1.incipit = "…"
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha2.incipit = "…"
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha3.incipit = "…"
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.AposGlory.incipit = "…"
 meSV.AposGlory.text = ""
 
@@ -176,7 +176,7 @@ meMA.Kathisma11.text = "Shining with unapproachable light, ⁄ you are radiant l
 
 meMA.Kathisma12.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Kathisma12.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
-meMA.Kathisma12.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
+meMA.Kathisma12.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
 meMA.Kathisma12.incipit = "…"
 meMA.Kathisma12.text = ""
 
@@ -198,12 +198,12 @@ meMA.Kathisma2T.text = "Have mercy, most holy Virgin, ⁄ on us who turn to you 
 
 meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Kathisma31.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
-meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = miscellanea_en_US_oca.misc.Mode8
-meMA.Kathisma3T.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
+meMA.Kathisma3T.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.name
 meMA.Kathisma3T.incipit = "…"
 meMA.Kathisma3T.text = ""
 
@@ -671,12 +671,12 @@ meMA.Exaposteilarion1.text = "God sanctified you from your mother’s womb, ⁄ 
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.greekname
-meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
 meMA.ExapTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.notmetered
+meMA.ExapTheotokion.melody = he.a.m2_en_US_oca.heAU.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 

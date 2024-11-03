@@ -23,17 +23,17 @@ meHO.note1 = rubrical_en_US_oca.ru.HolidayWineOil
 meHO.note2 = ""
 
 meSV.Stichera1.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Stichera1.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
+meSV.Stichera1.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.name
 meSV.Stichera1.incipit = "…"
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Stichera2.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
+meSV.Stichera2.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.name
 meSV.Stichera2.incipit = "…"
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Stichera3.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
+meSV.Stichera3.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.name
 meSV.Stichera3.incipit = "…"
 meSV.Stichera3.text = ""
 
@@ -48,22 +48,22 @@ meSV.SticBoth.incipit = "…"
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha1.incipit = "…"
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha2.incipit = "…"
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha3.incipit = "…"
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.AposGlory.incipit = "…"
 meSV.AposGlory.text = ""
 
@@ -85,7 +85,7 @@ meVE.Stichera03.text = "Anthony, pure in heart and soul; ⁄ an earthly angel, a
 
 meVE.Stichera04.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Stichera04.greekmelody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.greekname
-meVE.Stichera04.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.notmetered
+meVE.Stichera04.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.name
 meVE.Stichera04.incipit = "…"
 meVE.Stichera04.text = ""
 
@@ -169,7 +169,7 @@ meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Kathisma11.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
-meMA.Kathisma11.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
+meMA.Kathisma11.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
@@ -180,7 +180,7 @@ meMA.Kathisma1T.text = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.Kathisma21.greekmelody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.greekname
-meMA.Kathisma21.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered
+meMA.Kathisma21.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
@@ -191,18 +191,18 @@ meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Kathisma31.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
-meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma32.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Kathisma32.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
-meMA.Kathisma32.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
+meMA.Kathisma32.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
 meMA.Kathisma32.incipit = "…"
 meMA.Kathisma32.text = ""
 
 meMA.Kathisma3T.mode = miscellanea_en_US_oca.misc.Mode4
-meMA.Kathisma3T.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
+meMA.Kathisma3T.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
 meMA.Kathisma3T.incipit = "…"
 meMA.Kathisma3T.text = ""
 
@@ -453,23 +453,23 @@ meMA.ExapTheotokion.text = "Virgin Theotokos, good hope of the world, ⁄ we ask
 
 meMA.Lauds1.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Lauds1.greekmelody = he.a.m8_en_US_oca.heAU.OTouParadoxou.greekname
-meMA.Lauds1.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.notmetered
+meMA.Lauds1.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = miscellanea_en_US_oca.misc.Mode8
-meMA.Lauds2.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.notmetered
+meMA.Lauds2.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.name
 meMA.Lauds2.incipit = "…"
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = miscellanea_en_US_oca.misc.Mode8
-meMA.Lauds3.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.notmetered
+meMA.Lauds3.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.name
 meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Lauds4.greekmelody = he.a.m8_en_US_oca.heAU.OTouParadoxou.greekname
-meMA.Lauds4.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.notmetered
+meMA.Lauds4.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.name
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""
 

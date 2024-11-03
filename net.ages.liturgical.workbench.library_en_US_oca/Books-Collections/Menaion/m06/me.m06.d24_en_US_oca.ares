@@ -24,17 +24,17 @@ meHO.note2 = ""
 meDA.dismissal = ""
 
 meSV.Stichera1.mode = miscellanea_en_US_oca.misc.Mode4
-meSV.Stichera1.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.notmetered
+meSV.Stichera1.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.name
 meSV.Stichera1.incipit = "…"
 meSV.Stichera1.text = ""
 
 meSV.Stichera2.mode = miscellanea_en_US_oca.misc.Mode4
-meSV.Stichera2.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.notmetered
+meSV.Stichera2.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.name
 meSV.Stichera2.incipit = "…"
 meSV.Stichera2.text = ""
 
 meSV.Stichera3.mode = miscellanea_en_US_oca.misc.Mode4
-meSV.Stichera3.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.notmetered
+meSV.Stichera3.melody = he.a.m4_en_US_oca.heAU.OExYpsistouKlitheis.name
 meSV.Stichera3.incipit = "…"
 meSV.Stichera3.text = ""
 
@@ -49,22 +49,22 @@ meSV.SticBoth.incipit = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.incipit
 meSV.SticBoth.text = oc.m8.d5_en_US_oca.ocMA.AposTheotokion.text
 
 meSV.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha1.incipit = "…"
 meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha2.incipit = "…"
 meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.Aposticha3.incipit = "…"
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
-meSV.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
+meSV.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
 meSV.AposGlory.incipit = "…"
 meSV.AposGlory.text = ""
 
@@ -174,13 +174,13 @@ meVE.AposBoth.text = "Elizabeth greeted the Virgin Mary: ⁄ Why is it that the 
 
 meVE.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Apolytikion1.greekmelody = he.a.m4_en_US_oca.heAU.TachyProkatalave.greekname
-meVE.Apolytikion1.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
+meVE.Apolytikion1.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Kathisma11.greekmelody = he.a.m4_en_US_oca.heAU.KateplagiIosif.greekname
-meMA.Kathisma11.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.notmetered
+meMA.Kathisma11.melody = he.a.m4_en_US_oca.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
@@ -191,18 +191,18 @@ meMA.Kathisma1T.text = he.a.m4_en_US_oca.heAU.KateplagiIosif.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Kathisma21.greekmelody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.greekname
-meMA.Kathisma21.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
+meMA.Kathisma21.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = miscellanea_en_US_oca.misc.Mode8
-meMA.Kathisma2T.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.notmetered
+meMA.Kathisma2T.melody = he.a.m8_en_US_oca.heAU.TinSofianKaiLogon.name
 meMA.Kathisma2T.incipit = "…"
 meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode8
 meMA.Kathisma31.greekmelody = he.a.m8_en_US_oca.heAU.ToProstachthen.greekname
-meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.ToProstachthen.notmetered
+meMA.Kathisma31.melody = he.a.m8_en_US_oca.heAU.ToProstachthen.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
