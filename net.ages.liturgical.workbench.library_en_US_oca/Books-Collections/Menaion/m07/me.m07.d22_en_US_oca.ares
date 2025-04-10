@@ -79,10 +79,9 @@ meVE.AposGlory.incipit = "As a disciple faithfully…"
 meVE.AposGlory.text = "As a disciple faithfully ministering to Christ God ⁄ Who in His great compassion willingly assumed my poverty, ⁄ Mary Magdalene beheld Him stretched upon the Tree ⁄ and enclosed within a tomb. ⁄ She cried aloud with flowing tears: ⁄ What strange sight do I see? ⁄ You give life to the dead, yet You are counted among the dead! ⁄ How shall I bring myrrh to You ⁄ when You have removed from me the stench of demons? ⁄ How shall I shed tears for You, ⁄ for You wiped away the tears of Eve? ⁄ Yet, King of all, you appeared as a Gardener, ⁄ taking away the burning heat with the dew of your words. ⁄ You said to her: Go to My brethren! ⁄ Declare to them the joy of the Gospel! ⁄ For I shall ascend to the Father, ⁄ to My God and your God, ⁄⁄ that I may grant great mercy to the world!"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode8
-meVE.AposTheotokion.greekmelody = he.a.m8_en_US_oca.heAU.OTouParadoxou.greekname
-meVE.AposTheotokion.melody = he.a.m8_en_US_oca.heAU.OTouParadoxou.name
-meVE.AposTheotokion.incipit = oc.m8.d2_en_US_oca.ocVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = oc.m8.d2_en_US_oca.ocVE.AposTheotokion.text
+meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.incipit = oc.m8.d2_en_US_oca.ocMA.AposTheotokion.incipit
+meVE.AposTheotokion.text = oc.m8.d2_en_US_oca.ocMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode8
 meVE.AposStavrotheotokion.greekmelody = he.a.m8_en_US_oca.heAU.TiYmasKalesomen.greekname
