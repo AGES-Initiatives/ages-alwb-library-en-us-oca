@@ -110,8 +110,8 @@ meMA.Kathisma11.text = "Rejoicing in you, thrice-blessed and life-giving Cross, 
 meMA.Kathisma21.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.notmetered
-meMA.Kathisma21.incipit = "Your Cross, Lord, ⁄ shines…"
-meMA.Kathisma21.text = "Your Cross, Lord, ⁄ shines forth like a light! ⁄ It drives away the legions of demons, ⁄ enlightening the faithful who sing: ⁄⁄ The Cross is the boast of the world!"
+meMA.Kathisma21.incipit = me.m09.d13_en_US_oca.meMA.Ode3Kathisma2.incipit
+meMA.Kathisma21.text = me.m09.d13_en_US_oca.meMA.Ode3Kathisma2.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -421,8 +421,8 @@ meMA.Aposticha3.text = "The Church is adorned ⁄ in splendor as a bride ⁄ wit
 
 meMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
-meMA.AposGlory.incipit = "Rejoice, divine salvation ⁄ for…"
-meMA.AposGlory.text = "Rejoice, divine salvation ⁄ for the faithful! ⁄ O Cross of the Lord, ⁄ you are the unassailable rampart, ⁄⁄ exalting us above the earth!"
+meMA.AposGlory.incipit = me.m09.d14_en_US_oca.meSV.Aposticha3.incipit
+meMA.AposGlory.text = me.m09.d14_en_US_oca.meSV.Aposticha3.text
 
 meLI.Kontakion1.mode = me.m09.d17_en_US_oca.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m09.d17_en_US_oca.meMA.Kontakion1.greekmelody
