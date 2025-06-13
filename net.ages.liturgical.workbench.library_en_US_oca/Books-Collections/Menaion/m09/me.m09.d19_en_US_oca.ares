@@ -380,13 +380,13 @@ meMA.Aposticha1.text = me.m09.d17_en_US_oca.meMA.Aposticha2.text
 
 meMA.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
-meMA.Aposticha2.incipit = "…"
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.incipit = me.m09.d17_en_US_oca.meVE.Aposticha2.incipit
+meMA.Aposticha2.text = me.m09.d17_en_US_oca.meVE.Aposticha2.text
 
 meMA.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
-meMA.Aposticha3.incipit = "When Moses raised his arms…"
-meMA.Aposticha3.text = "When Moses raised his arms on high ⁄ conquering Amalek, ⁄ he prefigured ⁄ Christ’s all-pure suffering ⁄⁄ in the form of the Cross"
+meMA.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.name
+meMA.Aposticha3.incipit = me.m09.d17_en_US_oca.meVE.Aposticha3.incipit
+meMA.Aposticha3.text = me.m09.d17_en_US_oca.meVE.Aposticha3.text
 
 meMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
