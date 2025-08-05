@@ -61,10 +61,9 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.SticTheotokion.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
-meVE.SticTheotokion.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered
-meVE.SticTheotokion.incipit = oc.m6.d5_en_US_oca.ocMA.AposTheotokion.incipit
-meVE.SticTheotokion.text = oc.m6.d5_en_US_oca.ocMA.AposTheotokion.text
+meVE.SticTheotokion.melody = he.o_en_US_oca.heOT.TheotokeSyEi.name
+meVE.SticTheotokion.incipit = he.o_en_US_oca.heOT.TheotokeSyEi.incipit
+meVE.SticTheotokion.text = he.o_en_US_oca.heOT.TheotokeSyEiAthloforou.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.Aposticha1.greekmelody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.greekname
