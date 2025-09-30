@@ -136,8 +136,8 @@ meMA.Ode3Kathisma1.text = ""
 //Find in back of Menaion
 meMA.Ode3KathismaT.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.name
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.incipit = me.m01.d22_en_US_oca.meMA.Ode3KathismaT.incipit
+meMA.Ode3KathismaT.text = me.m01.d22_en_US_oca.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_oca.heAU.TachyProkatalave.notmetered
