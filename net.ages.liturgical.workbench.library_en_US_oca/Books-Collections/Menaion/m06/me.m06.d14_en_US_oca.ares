@@ -119,7 +119,7 @@ meMA.C1.verse = prayers_en_US_oca.pr.verse_Prophet.text
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_oca.ti.CanonSaintM
+meMA.C2.title = titles_en_US_oca.ti.CanonHierarch
 meMA.C2.verse = prayers_en_US_oca.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_oca.misc.Ode1
@@ -223,23 +223,23 @@ meMA.Ode3H.melody = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.melody
 meMA.Ode3H.incipit = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3H.text = he.h.m2_en_US_oca.heHE.StereosonImasEnSoiKyrie.text
 
-meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode4
-meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
+meMA.Kontakion2.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Kontakion2.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
+meMA.Kontakion2.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
+meMA.Kontakion2.incipit = "…"
+meMA.Kontakion2.text = ""
+
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_oca.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
-meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode1
-meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.greekname
-meMA.Ode3Kathisma2.melody = he.a.m1_en_US_oca.heAU.TonTafonSouSotir.name
+meMA.Ode3Kathisma2.mode = miscellanea_en_US_oca.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
+meMA.Ode3Kathisma2.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
-
-meMA.Ode3Kathisma3.mode = miscellanea_en_US_oca.misc.Mode4
-meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.greekname
-meMA.Ode3Kathisma3.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
-meMA.Ode3Kathisma3.incipit = "…"
-meMA.Ode3Kathisma3.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_oca.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_oca.heAU.EpefanisSimeron.name
