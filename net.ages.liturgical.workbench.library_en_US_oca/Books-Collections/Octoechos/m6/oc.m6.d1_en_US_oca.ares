@@ -107,9 +107,10 @@ ocVE.AposTheotokion.incipit = "…"
 ocVE.AposTheotokion.text = ""
 
 ocVE.Apolytikion.mode = miscellanea_en_US_oca.misc.Mode6
-ocVE.Apolytikion.melody = ""
-ocVE.Apolytikion.incipit = "…"
-ocVE.Apolytikion.text = ""
+ocVE.Apolytikion.greekmelody = he.a.m6_en_US_oca.heAU.AngelikaiDynameis.greekname
+ocVE.Apolytikion.melody = he.a.m6_en_US_oca.heAU.AngelikaiDynameis.melody
+ocVE.Apolytikion.incipit = he.a.m6_en_US_oca.heAU.AngelikaiDynameis.incipit
+ocVE.Apolytikion.text = he.a.m6_en_US_oca.heAU.AngelikaiDynameis.text
 
 ocVE.ApolTheotokionVM.mode = miscellanea_en_US_oca.misc.Mode6
 ocVE.ApolTheotokionVM.melody = ""
